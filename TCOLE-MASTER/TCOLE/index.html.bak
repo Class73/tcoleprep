@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TCOLE Practice Exam</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #0b3c75;
+            margin: 0;
+            padding: 20px;
+        }
+
+		.correct {
+			background-color: #d4edda;
+			border-left: 6px solid green;
+		}
+
+		.incorrect {
+			background-color: #f8d7da;
+			border-left: 6px solid red;
+		}
+		
+        .container {
+            max-width: 1000px;
+            margin: auto;
+            background: white;
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0 2px 10px rgba(0,0,0,.25);
+        }
+
+        h1 {
+            margin-top: 0;
+        }
+
+        button {
+            padding: 10px 20px;
+            margin: 5px;
+            cursor: pointer;
+        }
+
+        .question {
+            margin-bottom: 20px;
+            padding: 15px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        label {
+            display: block;
+            margin: 5px 0;
+        }
+
+        #score {
+            font-size: 20px;
+            font-weight: bold;
+            margin-top: 20px;
+        }
+		
+    </style>
+</head>
+<body>
+
+<div class="container">
+
+    <h1>TCOLE Practice Exam</h1>
+
+<button onclick="startExam(25)">Random 25 Questions</button>
+<button onclick="startExam(50)">Random 50 Questions</button>
+<button onclick="startExam(100)">Random 100 Questions</button>
+<button onclick="gradeQuiz()">Grade Me</button>
+
+<div id="score"></div>
+
+<hr>
+
+<div id="quizContainer"></div>
+
+<div id="score"></div>
+
+<div class="disclaimer">
+    <strong>Disclaimer:</strong>
+    Questions in this study bank were compiled from multiple educational and public sources,
+    including Texas statutes, TCOLE curriculum topics, training materials, study guides,
+    and user-created study resources. Question origins and categorization are provided on a
+    best-effort basis. This site is not affiliated with, endorsed by, or maintained by TCOLE.
+    Users should verify information against current Texas law, official TCOLE materials,
+    and agency policy before relying on it for certification or professional purposes.
+</div>
+
+<button onclick="gradeQuiz()">Grade Me</button>
+
+<script src="master-bank.js"></script>
+<script src="quiz-engine.js"></script>
+
+
+</body>
+</html>
