@@ -1664,18 +1664,6 @@ window.masterBank = [
   answer: ["A"],
   explain: "PC 1.07 #17(A) & (B); PC Section 8.2"
 },
-{
-  id: "TCOLE_q130",
-  prompt: "What effect does an affirmative defense to prosecution have on a criminal case?",
-  options: [
-    { id: "A", text: "Excuses criminal responsibility if the defense is proven to exist beyond a reasonable doubt" },
-    { id: "B", text: "Excuses criminal responsibility if the defense raises a reasonable doubt about any element of the crime" },
-    { id: "C", text: "Is only good if it is voluntary" },
-    { id: "D", text: "Excuses criminal responsibility" }
-  ],
-  answer: ["A"],
-  explain: "PC 2.04(d); PC Section 8.3"
-},
 
 {
   id: "TCOLE_q131",
@@ -9721,19 +9709,6 @@ window.masterBank = [
   ],
   answer: ["D"],
   explain: "PC 43.01 #4; PC Section 8.28"
-},
-
-{
-  id: "TCOLE_q774",
-  prompt: "What effect does an affirmative defense to prosecution have in a criminal case?",
-  options: [
-    { id: "A", text: "Excuses criminal responsibility if the affirmative defense is proven to exist beyond a reasonable doubt" },
-    { id: "B", text: "Establishes no defense for the accused in a criminal action" },
-    { id: "C", text: "Creates a doubt about criminal intent" },
-    { id: "D", text: "Excuses criminal responsibility if the affirmative defense is proven by a preponderance of the evidence" }
-  ],
-  answer: ["D"],
-  explain: "PC 2.04(d); PC Section 8.3"
 },
 
 {
@@ -18643,16 +18618,16 @@ window.masterBank = [
 
 {
   id: "TCOLE_q1304",
-  prompt: "What effect does an affirmative defense to prosecution have in a criminal case?",
+  prompt: "What effect does an affirmative defense to prosecution have on a criminal case?",
   options: [
-    { id: "A", text: "Excuses criminal responsibility if the affirmative defense is proven to exist beyond a reasonable doubt" },
-    { id: "B", text: "Establishes no defense for the accused in a criminal action" },
-    { id: "C", text: "Creates a doubt about criminal intent" },
-    { id: "D", text: "Excuses criminal responsibility if the affirmative defense is proven by a preponderance of the evidence" }
+    { id: "A", text: "Excuses criminal responsibility if the defense is proven to exist beyond a reasonable doubt" },
+    { id: "B", text: "Excuses criminal responsibility if the defense raises a reasonable doubt about any element of the crime" },
+    { id: "C", text: "Is only good if it is voluntary" },
+    { id: "D", text: "Excuses criminal responsibility if the defense is proven by evidence" }
   ],
   answer: ["D"],
-  explain: "PC 2.04(d); PC Section 8.2, page 1 of 32"
-},
+  explain: "Texas Penal Code §2.04 provides that the defendant bears the burden of proving an affirmative defense by a preponderance of the evidence. If established, the affirmative defense excuses criminal responsibility."
+}
 
 {
   id: "TCOLE_q1305",
@@ -18837,28 +18812,6 @@ window.masterBank = [
 },
 
 {
-  id: "TCOLE_q1319",
-  prompt: "A man is walking down the street with his wife asking her if their children have been doing well. A valid protective order exists that states the man cannot go within 100 feet of his wife due to past family violence. What offense has occurred?",
-  options: [
-    {
-      id: "A",
-      text: "Violation of Certain Court Orders or Conditions of Bond in a Family Violence, Child Abuse or Neglect, Sexual Assault or Abuse, Indecent Assault, Stalking or Trafficking Case"
-    },
-    {
-      id: "B",
-      text: "Repeated Violation of Certain Court Orders or Conditions of Bond in a Family Violence, Sexual Assault or Abuse, Stalking, or Trafficking Case"
-    },
-    { id: "C", text: "Tampering with Witness" },
-    {
-      id: "D",
-      text: "Requirements of Order Applying to Person Who Committed Family Violence"
-    }
-  ],
-  answer: ["A"],
-  explain: "PC 25.07(a)(3), (d); Family Violence and Related Assaultive Offenses, Section 17.6, page 8 of 14"
-},
-
-{
   id: "TCOLE_q1320",
   prompt: "Which of the following rights is not included in the First Amendment to the U.S. Constitution?",
   options: [
@@ -18999,19 +18952,6 @@ window.masterBank = [
   ],
   answer: ["B"],
   explain: "Identity Crimes, Section 12.2, page 3 of 16"
-},
-
-{
-  id: "TCOLE_q1331",
-  prompt: "What effect does an affirmative defense to prosecution have on a criminal case?",
-  options: [
-    { id: "A", text: "Excuses criminal responsibility if the defense is proven to exist beyond a reasonable doubt" },
-    { id: "B", text: "Excuses criminal responsibility if the defense raises a reasonable doubt about any element of the crime" },
-    { id: "C", text: "Is only good if it is voluntary" },
-    { id: "D", text: "Excuses criminal responsibility if the defense is proven by evidence" }
-  ],
-  answer: ["A"],
-  explain: "PC 2.01; Civil Process and Liability, Section 14.2, page 4 of 8"
 },
 
 {
@@ -24171,21 +24111,6 @@ options: [
 { id: "E", text: "All of the above" }
 ],
 answer: "E"
-},
-
-{
-id: "TCOLE_q19",
-type: "multiple-choice",
-points: 1,
-prompt: "A man is walking down the street with his wife. A valid protective order prohibits him from coming within 100 feet of her. What offense has occurred?",
-options: [
-{ id: "A", text: "Assault - Contact" },
-{ id: "B", text: "Interference with Child Custody" },
-{ id: "C", text: "Violation of Protective Order" },
-{ id: "D", text: "Stalking" },
-{ id: "E", text: "None of the above" }
-],
-answer: "C"
 },
 
 {
