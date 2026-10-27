@@ -1,0 +1,133 @@
+let currentQuiz = [];
+
+console.log("quiz-engine loaded");
+function shuffle(array) {
+    const arr = [...array];
+
+    for (let i = arr.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [arr[i], arr[j]] = [arr[j], arr[i]];
+    }
+
+    return arr;
+}
+
+function startExam(count) {
+
+    currentQuiz =
+        shuffle(window.masterBank)
+        .slice(0, count);
+
+    const container =
+        document.getElementById("quizContainer");
+
+    const score =
+        document.getElementById("score");
+
+    container.innerHTML = "";
+    score.innerHTML = "";
+
+    currentQuiz.forEach((q, index) => {
+
+        const div =
+            document.createElement("div");
+
+        div.className = "question";
+		div.id = "question-" + q.id;
+
+        div.innerHTML = `
+            <h3>${index + 1}. ${q.prompt}</h3>
+
+            ${q.options.map(opt => `
+                <label>
+                    <input
+                        type="radio"
+                        name="${q.id}"
+                        value="${opt.id}">
+                    ${opt.id}. ${opt.text}
+                </label>
+            `).join("")}
+        `;
+
+        container.appendChild(div);
+
+    });
+}
+
+function gradeQuiz() {
+console.log("gradeQuiz fired");
+    if (!currentQuiz.length) {
+
+        alert("Start an exam first.");
+
+        return;
+    }
+
+    let correct = 0;
+
+    currentQuiz.forEach(q => {
+
+        const selected =
+            document.querySelector(
+                `input[name="${q.id}"]:checked`
+            );
+
+		const questionDiv =
+			document.getElementById(
+				"question-" + q.id
+			);
+
+		questionDiv.classList.remove(
+			"correct",
+			"incorrect"
+		);
+
+		if (
+			selected &&
+			selected.value === q.answer
+		) {
+
+			correct++;
+
+			questionDiv.classList.add(
+				"correct"
+			);
+
+		} else {
+
+			questionDiv.classList.add(
+				"incorrect"
+			);
+		}
+
+    });
+
+    const total =
+        currentQuiz.length;
+
+    const missed =
+        total - correct;
+
+    const percent =
+        Math.round(
+            (correct / total) * 100
+        );
+
+    document.getElementById("score").innerHTML = `
+        <h2>Results</h2>
+
+        <p><strong>Score:</strong>
+        ${correct}/${total}
+        (${percent}%)</p>
+
+        <p><strong>Correct:</strong>
+        ${correct}</p>
+
+        <p><strong>Missed:</strong>
+        ${missed}</p>
+
+        <h3 style="color:${percent >= 70 ? "green" : "red"}">
+            ${percent >= 70 ? "PASS ✅" : "FAIL ❌"}
+        </h3>
+    `;
+}

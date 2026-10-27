@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TCOLE Exam Simulator</title>
+
+<style>
+body{
+    margin:0;
+    font-family:Segoe UI, Arial, sans-serif;
+    background:#0f172a;
+    color:#fff;
+    min-height:100vh;
+}
+
+.wrapper{
+    max-width:1200px;
+    margin:0 auto;
+    padding:40px 20px;
+}
+
+h1,h2,h3{
+    margin-top:0;
+}
+
+.header{
+    text-align:center;
+    margin-bottom:40px;
+}
+
+.header p{
+    color:#cbd5e1;
+}
+
+.recommended{
+    color:#fbbf24 !important;
+    font-weight:bold;
+    margin-top:10px;
+}
+
+.cards{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    gap:30px;
+}
+
+.card{
+    background:#1e293b;
+    padding:30px;
+    border-radius:15px;
+    width:320px;
+    box-shadow:0 10px 30px rgba(0,0,0,.3);
+}
+
+.card h2{
+    margin-bottom:10px;
+}
+
+.card p{
+    color:#cbd5e1;
+    line-height:1.6;
+}
+
+button{
+    width:100%;
+    padding:14px;
+    margin-top:15px;
+    border:none;
+    border-radius:10px;
+    background:#2563eb;
+    color:white;
+    cursor:pointer;
+    font-size:16px;
+    font-weight:bold;
+}
+
+button:hover{
+    background:#1d4ed8;
+}
+
+.disclaimer{
+    margin-top:40px;
+    background:#1e293b;
+    padding:30px;
+    border-radius:15px;
+    line-height:1.7;
+}
+
+.disclaimer h2{
+    border-bottom:1px solid #334155;
+    padding-bottom:10px;
+    margin-bottom:20px;
+}
+
+.disclaimer h3{
+    margin-top:25px;
+    color:#93c5fd;
+}
+
+.footer{
+    text-align:center;
+    margin-top:30px;
+    color:#94a3b8;
+}
+
+@media(max-width:768px){
+    .cards{
+        flex-direction:column;
+        align-items:center;
+    }
+
+    .card{
+        width:100%;
+        max-width:450px;
+    }
+}
+</style>
+</head>
+
+<body>
+
+<div class="wrapper">
+
+    <div class="header">
+        <h1>🚔 TCOLE Exam Simulator</h1>
+        <p>Select a study bank below.</p>
+        <p class="recommended">
+            Recommended: TCOLE 2 includes enhanced study features,
+            expanded answer explanations, and additional reference information.
+        </p>
+    </div>
+
+    <div class="cards">
+
+        <div class="card">
+            <h2>TCOLE 1</h2>
+
+            <p>
+                Original study bank compiled from shared study guides,
+                classroom resources, and exam preparation materials.
+            </p>
+
+            <p>
+                Best suited for quick review and general practice testing.
+            </p>
+
+            <button onclick="location.href='TCOLE/index.html'">
+                Launch TCOLE 1
+            </button>
+        </div>
+
+        <div class="card">
+            <h2>TCOLE 2 ⭐</h2>
+
+            <p>
+                Expanded community study bank compiled from previous
+                students and trainees.
+            </p>
+
+            <p>
+                Includes more detailed answer explanations, additional
+                learning references, improved review functionality,
+                and enhanced study features.
+            </p>
+
+            <button onclick="location.href='TCOLE.2/index.html'">
+                Launch TCOLE 2
+            </button>
+        </div>
+
+    </div>
+
+    <div class="disclaimer">
+
+        <h2>Study Guide Disclaimer</h2>
+
+        <p>
+            This application was created solely as a study aid for individuals
+            preparing for TCOLE examinations. Questions and answers are
+            provided on a best-effort basis and may contain inaccuracies,
+            omissions, or outdated information.
+        </p>
+
+        <p>
+            Users should always verify answers using official TCOLE
+            publications, current Texas law, approved training materials,
+            departmental policies, and classroom instruction.
+        </p>
+
+        <p>
+            This application is not affiliated with, endorsed by, or sponsored
+            by TCOLE. Content is provided for educational and study purposes
+            only and should not be considered official testing material.
+        </p>
+
+        <h3>TCOLE 1</h3>
+
+        <p>
+            The TCOLE 1 question bank originated from shared study materials,
+            exam preparation resources, and educational content compiled for
+            practice and review purposes.
+        </p>
+
+        <h3>TCOLE 2</h3>
+
+        <p>
+            The TCOLE 2 question bank is an accumulation of questions,
+            notes, and study information contributed by previous students
+            and trainees over time.
+        </p>
+
+        <p>
+            In addition to a larger collection of study material, TCOLE 2
+            contains more detailed answer explanations, expanded reference
+            information, enhanced review tools, and additional learning
+            features intended to improve knowledge retention and exam
+            preparation.
+        </p>
+
+        <p>
+            By using this application, you acknowledge that all materials are
+            provided for study purposes only and should be used as a supplement
+            to official training resources.
+        </p>
+
+    </div>
+
+    <div class="footer">
+        TCOLE Exam Simulator • For Educational Use Only
+    </div>
+
+</div>
+
+</body>
+</html>
