@@ -10788,8 +10788,8 @@ window.masterBank = [
     { id: "C", text: "Kidnapping" },
     { id: "D", text: "Tampering with child custody" }
   ],
-  answer: ["D"],
-  explain: "PC Section 8.14; PC 25.04"
+  answer: ["A"],
+  explain: "Texas Penal Code §25.04 is titled 'Enticing a Child.' The offense concerns persuading or taking a child from lawful custody with intent to interfere with that custody. 'Tampering with child custody' is not the title of a Texas Penal Code offense."
 },
 
 {
@@ -15713,16 +15713,16 @@ window.masterBank = [
 
 {
   id: "TCOLE_q1075",
-  prompt: "What effect does an affirmative defense to prosecution have on a criminal case?",
+  prompt: "Under Texas Penal Code § 2.04, what must a defendant do to establish an affirmative defense?",
   options: [
-    { id: "A", text: "Excuses criminal responsibility if the defense is proven to exist beyond a reasonable doubt" },
-    { id: "B", text: "Excuses criminal responsibility if the defense raises a reasonable doubt about any element of the crime" },
-    { id: "C", text: "Is only good if it is voluntary" },
-    { id: "D", text: "Excuses criminal responsibility if the defense is proven by evidence" }
+    { id: "A", text: "Prove the affirmative defense beyond a reasonable doubt" },
+    { id: "B", text: "Prove the affirmative defense by a preponderance of the evidence" },
+    { id: "C", text: "Raise a reasonable doubt as to any element of the offense" },
+    { id: "D", text: "Present some evidence and require the State to disprove the defense by clear and convincing evidence" }
   ],
-  answer: ["A"],
-  explain: "PC 2.01; Civil Process and Liability, Section 14.2, page 4 of 8"
-},
+  answer: ["B"],
+  explain: "Texas Penal Code § 2.04(d) provides that the defendant must prove an affirmative defense by a preponderance of the evidence."
+}
 
 {
   id: "TCOLE_q1076",
@@ -20011,7 +20011,7 @@ window.masterBank = [
     { id: "D", text: "A minor who consumes an alcoholic beverage in the visible presence of an adult parent, guardian, or spouse" },
     { id: "E", text: "A person knowingly selling an alcoholic beverage to a minor" }
   ],
-  answer: ["C"],
+  answer: ["D"],
   explain: "ABC 106.05(b)(2); TABC Section 16.4, page 2 of 5"
 },
 
