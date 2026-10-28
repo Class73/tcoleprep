@@ -1,23 +1,54 @@
 let currentQuiz = [];
+let timerInterval = null;
+let secondsElapsed = 0;
 
 console.log("quiz-engine loaded");
 
 function shuffle(array) {
     const arr = [...array];
-
     for (let i = arr.length - 1; i > 0; i--) {
         const j = Math.floor(
             Math.random() * (i + 1)
         );
-
         [arr[i], arr[j]] =
         [arr[j], arr[i]];
     }
-
     return arr;
 }
 
+function startTimer() {
+    clearInterval(timerInterval);
+    secondsElapsed = 0;
+
+    const timerDiv =
+        document.getElementById("timer");
+
+    if (timerDiv) {
+        timerDiv.textContent =
+            "Time: 00:00";
+    }
+
+    timerInterval = setInterval(() => {
+        secondsElapsed++;
+
+        const minutes =
+            Math.floor(secondsElapsed / 60);
+        const seconds =
+            secondsElapsed % 60;
+
+        if (timerDiv) {
+            timerDiv.textContent =
+                `Time: ${String(minutes).padStart(2, "0")}:${String(seconds).padStart(2, "0")}`;
+        }
+    }, 1000);
+}
+
+function stopTimer() {
+    clearInterval(timerInterval);
+}
+
 function startExam(count) {
+    startTimer();
 
     currentQuiz =
         shuffle(window.masterBank)
@@ -37,7 +68,6 @@ function startExam(count) {
     scoreDiv.innerHTML = "";
 
     currentQuiz.forEach((q, index) => {
-
         const questionDiv =
             document.createElement("div");
 
@@ -51,7 +81,6 @@ function startExam(count) {
             <h3>
                 ${index + 1}. ${q.prompt}
             </h3>
-
             ${q.options.map(opt => `
                 <label>
                     <input
@@ -78,6 +107,8 @@ function gradeQuiz() {
         );
         return;
     }
+
+    stopTimer();
 
     let correct = 0;
 
@@ -134,7 +165,6 @@ function gradeQuiz() {
             );
 
         if (isCorrect) {
-
             correct++;
 
             questionDiv.classList.add(
@@ -157,9 +187,7 @@ function gradeQuiz() {
             "answer-review";
 
         review.innerHTML = `
-
             <hr>
-
             <p>
                 <strong>
                     Your Answer:
@@ -207,10 +235,15 @@ function gradeQuiz() {
             (correct / total) * 100
         );
 
+    const minutes =
+        Math.floor(secondsElapsed / 60);
+
+    const seconds =
+        secondsElapsed % 60;
+
     document.getElementById(
         "score"
     ).innerHTML = `
-
         <h2>Results</h2>
 
         <p>
@@ -227,6 +260,11 @@ function gradeQuiz() {
         <p>
             <strong>Missed:</strong>
             ${missed}
+        </p>
+
+        <p>
+            <strong>Time:</strong>
+            ${minutes}m ${seconds}s
         </p>
 
         <h2 style="
