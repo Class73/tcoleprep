@@ -235,20 +235,6 @@ window.masterBank = [
 },
 
 {
-  id: "TCOLE_q019",
-  prompt: "Violators receiving citations for speeding must be given a court date at least __________ days from the date of the offense.",
-  options: [
-    { id: "A", text: "3" },
-    { id: "B", text: "5" },
-    { id: "C", text: "7" },
-    { id: "D", text: "10" },
-    { id: "E", text: "15" }
-  ],
-  answer: ["D"],
-  explain: "Older study guides and test banks that use 5 days, but the current Texas Transportation Code §543.006 requires at least 10 days after the date of arrest/citation, unless the person requests an earlier appearance"
-},
-
-{
   id: "TCOLE_q020",
   prompt: "Which culpable mental state refers to a person's awareness of but conscious disregard of a substantial and unjustifiable risk that the circumstances exist or the result will occur?",
   options: [
