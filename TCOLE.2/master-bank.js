@@ -111,7 +111,7 @@ window.masterBank = [
       { id: "E", text: "A and B are correct" }
     ],
     answer: "E",
-    explain: "According to the TCOLE test bank, citations and notices may be served by all of the listed categories of persons; therefore 'All of the above are correct' is the expected answer."
+    explain: "Texas Rule of Civil Procedure 103 provides that citations and other notices may be served anywhere by (1) any sheriff or constable or other person authorized by law, and (2) any person authorized by law or by written court order who is at least 18 years old. Therefore, A and B are correct. Choice C is overly broad because Rule 103 does not authorize service by 'any law enforcement officer."
   },
   {
     id: "TCOLE_q9",
@@ -242,7 +242,7 @@ window.masterBank = [
     { id: "D", text: "Rule" }
   ],
   answer: "D",
-  explain: "The TCOLE test bank identifies 'Rule' as the correct answer to this question. If your graded result marked 'Law' incorrect, update your answer key to 'Rule' for consistency with the source material."
+  explain: "Texas Penal Code Section 1.07(a)(44) and the Texas Government Code Chapter 311—the term "Rule" is explicitly defined to include a regulation"
 },
 
 {
@@ -436,21 +436,6 @@ window.masterBank = [
   ],
   answer: "C",
   explain: "Texas Penal Code §8.01 establishes the affirmative defense of insanity when, because of a severe mental disease or defect, the actor did not know that the conduct was wrong."
-},
-
-{
-  id: "TCOLE_q33",
-  type: "multiple-choice",
-  points: 1,
-  prompt: "Which of the following is a benefit of the CDM?",
-  options: [
-    { id: "A", text: "Obscures actions after the incident" },
-    { id: "B", text: "Organizes the decision-making process" },
-    { id: "C", text: "Allows administrators to make better decisions" },
-    { id: "D", text: "None of the above" }
-  ],
-  answer: "C",
-  explain: "Based on your graded results, 'Organizes the decision-making process' was marked incorrect. The TCOLE test bank answer is 'Allows administrators to make better decisions.'"
 },
 
 {
