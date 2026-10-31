@@ -2048,20 +2048,6 @@ window.masterBank = [
   explain: "TCOLE Community Policing, Police officers and citizens working together in creative ways is a characteristic of community policing rather than the traditional police service model."
 },
 {
-  id: "TCOLE_q6",
-  type: "multiple-choice",
-  points: 1,
-  prompt: "What is a HIPS situation?",
-  options: [
-    { id: "A", text: "High impact polystyrene" },
-    { id: "B", text: "High integrity protection system" },
-    { id: "C", text: "Hidden in plain sight" },
-    { id: "D", text: "Homicide in progress school" }
-  ],
-  answer: "C",
-  explain: "TCOLE Patrol Procedures, HIPS stands for Hidden In Plain Sight and refers to persons, threats, or suspicious activity that may not be immediately obvious to officers."
-},
-{
   id: "TCOLE_q7",
   type: "multiple-choice",
   points: 1,
@@ -8595,7 +8581,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "The permittee allowed a person to open a container of alcoholic beverage on an off-premises licensed establishment" }
   ],
   answer: ["A"],
-  explain: "Quizlet Yesenia1800"
+  explain: "Alcoholic Beverage Code Chapter 11 (Permits), §11.61 Suspension or Cancellation of Original or Renewal Permit, §11.64 Grounds for Suspension or Cancellation"
 },
 
 {
@@ -16839,8 +16825,8 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "60" },
     { id: "D", text: "120" }
   ],
-  answer: ["B"],
-  explain: "TCOLE Rules Overview, Section 4.8"
+  answer: ["C"],
+  explain: "37 Tex. Admin. Code § 223.15 - License Suspension "
 },
 
 {
@@ -16893,19 +16879,6 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
   ],
   answer: ["C"],
   explain: "CCP 14.06(a); Arrest, Search, and Seizure, Section 10.4"
-},
-
-{
-  id: "TCOLE_q695",
-  prompt: "__________ means the kind of control which one person exercises over another, not to confine him within certain limits, but to subject him to the general authority and power of the person claiming such right.",
-  options: [
-    { id: "A", text: "Detention" },
-    { id: "B", text: "Arrested" },
-    { id: "C", text: "Restraint" },
-    { id: "D", text: "Constructive custody" }
-  ],
-  answer: ["D"],
-  explain: "Missing and Exploited Children, page 113; PC 20.01; PC Section 8.10"
 },
 
 {
@@ -17167,7 +17140,6 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
   answer: ["D"],
   explain: "Victims of Crime, Section 20.1"
 },
-
 {
   id: "TCOLE_q716",
   prompt: "The 9th Amendment to the United States Constitution is concerned with:",
@@ -17180,32 +17152,18 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
   answer: ["C"],
   explain: "US & TX Constitution, Section 7.1"
 },
-
 {
   id: "TCOLE_q717",
   prompt: "An operator emerging from an alley, driveway, or building in a business or residence district shall:",
   options: [
-    {
-      id: "A",
-      text: "Stop the vehicle before moving on a sidewalk or sidewalk area extending across an alley or driveway; and yield the right-of-way to a pedestrian or an approaching vehicle to avoid collision"
-    },
-    {
-      id: "B",
-      text: "Blow the horn and move quickly into on-going traffic"
-    },
-    {
-      id: "C",
-      text: "Flash the lights, blow the horn, and move quickly into the flow of traffic"
-    },
-    {
-      id: "D",
-      text: "None of the above is required"
-    }
+    { id: "A", text: "Stop the vehicle before moving on a sidewalk or sidewalk area extending across an alley or driveway; and yield the right-of-way to a pedestrian or an approaching vehicle to avoid collision" },
+    { id: "B", text: "Blow the horn and move quickly into on-going traffic" },
+    { id: "C", text: "Flash the lights, blow the horn, and move quickly into the flow of traffic" },
+    { id: "D", text: "None of the above is required" }
   ],
   answer: ["A"],
   explain: "TC 545.256(1), (2), and (3); Traffic Section 22.12"
 },
-
 {
   id: "TCOLE_q718",
   prompt: "A person is observed in a crowded parking lot masturbating. What offense has occurred?",
@@ -19184,19 +19142,6 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
   ],
   answer: ["D"],
   explain: "TC 544.010(c). A driver must stop at a clearly marked stop line, before the crosswalk if no stop line exists, or at the nearest point with a view of approaching traffic if neither exists."
-},
-
-{
-  id: "TCOLE_q822",
-  prompt: "For operational purposes, an electric personal assistance mobility device is treated like a/an ___________?",
-  options: [
-    { id: "A", text: "Motorized mobility device" },
-    { id: "B", text: "Pedestrian" },
-    { id: "C", text: "Neighborhood electric vehicle" },
-    { id: "D", text: "Bicycle" }
-  ],
-  answer: ["B"],
-  explain: "An operator of an electric personal assistance mobility device (EPAMD) is granted the rights and duties applicable to a pedestrian. Therefore, for operational purposes, an EPAMD operator is treated as a pedestrian. TC § 551.201(a)"
 },
 
 {
@@ -28852,19 +28797,6 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
   ],
   answer: ["A"],
   explain: "PC 37.03(a)(2); PC Section 8.24"
-},
-
-{
-  id: "TCOLE_q1472",
-  prompt: "A TCOLE license suspension based on a Class B misdemeanor shall be at least _____ days.",
-  options: [
-    { id: "A", text: "10" },
-    { id: "B", text: "30" },
-    { id: "C", text: "60" },
-    { id: "D", text: "120" }
-  ],
-  answer: ["B"],
-  explain: "TCOLE Handbook 223.15(e); TCOLE Rules Overview, Section 4.8"
 },
 
 {
