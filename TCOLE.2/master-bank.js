@@ -881,12 +881,12 @@
   prompt: "A person commits an offense if the person possesses an open container or consumes an alcoholic beverage on a public street, public alley, or public sidewalk within __________ feet of the property line of a facility that the person knows is a public or private school that provides all or any part of kindergarten through twelfth grade.",
   options: [
     { id: "A", text: "100" },
-    { id: "B", text: "200" },
+    { id: "B", text: "300" },
     { id: "C", text: "500" },
     { id: "D", text: "1000" }
   ],
-  answer: "C",
-  explain: "Texas Alcoholic Beverage Code establishes a 500-foot zone around Kâ€“12 schools for this offense."
+  answer: "B",
+  explain: "Consumption of alcoholic beverages near schools – Alcoholic Beverage Code §101.75"
 },
 {
   id: "TCOLE_q63",
@@ -2797,18 +2797,17 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 {
 	id: "TCOLE_q197",
-	type: "multiple-choice",
-	points: 1,
-	prompt: "A kid on a skateboard rides by and steals a radio from a bench where a lady is sitting. What offense has the kid committed?",
-	options: [
-	{ id: "A", text: "Robbery" },
-	{ id: "B", text: "Theft" },
-	{ id: "C", text: "Aggravated Robbery" },
-	{ id: "D", text: "Theft of Service" },
-	{ id: "E", text: "Theft from a Person" }
-	],
-	answer: "E",
-	explain: "Property taken directly from a person's possession constitutes Theft from a Person."
+  "type": "multiple-choice",
+  "points": 1,
+  "prompt": "A customer places a wallet on a checkout counter while paying for groceries. After the customer leaves, another person picks up the wallet and keeps it instead of attempting to return it. What offense has occurred?",
+  "options": [
+    { "id": "A", "text": "Theft" },
+    { "id": "B", "text": "Robbery" },
+    { "id": "C", "text": "Theft of Service" },
+    { "id": "D", "text": "Criminal Mischief" }
+  ],
+  "answer": "A",
+  "explain": "A person commits Theft if they unlawfully appropriate property with intent to deprive the owner of the property. Because the person knowingly kept the wallet and did not use force, threats, or a service agreement, the offense is Theft under PC 31.03."
 },
 
 {
@@ -5523,7 +5522,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 	  id: "TCOLE_q390",
 	  type: "multiple-choice",
 	  points: 1,
-	  prompt: "Street Thieves are the most dangerous type of __________.",
+	  prompt: "Street thieves are the most dangerous __________.",
 	  options: [
 		{ id: "A", text: "forgery criminals" },
 		{ id: "B", text: "auto thieves" },
@@ -6235,7 +6234,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 	  id: "TCOLE_q440",
 	  type: "multiple-choice",
 	  points: 1,
-	  prompt: "Who has authority to release a person arrested for Public Intoxication?",
+	  prompt: "A person arrested for Public Intoxication may be released to whom under CCP Art. 14.031?",
 	  options: [
 		{ id: "A", text: "Sheriff" },
 		{ id: "B", text: "Transporting Officer" },
@@ -14140,15 +14139,15 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q1043",
-  prompt: "To knowingly sell an alcoholic beverage to a minor is:",
-  options: [
-    { id: "A", text: "A felony" },
-    { id: "B", text: "A misdemeanor" },
-    { id: "C", text: "No offense" },
-    { id: "D", text: "An infraction" }
+  "prompt": "What is the punishment classification for Sale to Minors under Alcoholic Beverage Code §106.03?",
+  "options": [
+    { "id": "A", "text": "Class C Misdemeanor" },
+    { "id": "B", "text": "Class B Misdemeanor" },
+    { "id": "C", "text": "Class A Misdemeanor" },
+    { "id": "D", "text": "State Jail Felony" }
   ],
-  answer: ["B"],
-  explain: "ABC 106.03(c); TABC Section 16.4"
+  "answer": "C",
+  "explain": "ABC 106.03(c) provides that the offense of Sale to Minors is a Class A misdemeanor."
 },
 
 {
@@ -15395,7 +15394,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "An infraction" }
   ],
   answer: ["B"],
-  explain: "ABC 106.03(c); TABC Section 16.4"
+  explain: "ABC 106.03(c) provides that the offense of Sale to Minors is a Class A misdemeanor."
 },
 
 {
@@ -18547,15 +18546,17 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q1382",
-  prompt: "A kid on a skateboard rides by and steals a radio from a bench where an elderly lady is sitting. What offense has the kid committed?",
-  options: [
-    { id: "A", text: "Robbery" },
-    { id: "B", text: "Theft" },
-    { id: "C", text: "Theft from a person" },
-    { id: "D", text: "Aggravated robbery" }
+  "type": "multiple-choice",
+  "points": 1,
+  "prompt": "A suspect enters a convenience store, grabs a case of beer, and walks out without paying. What offense has occurred?",
+  "options": [
+    { "id": "A", "text": "Theft" },
+    { "id": "B", "text": "Robbery" },
+    { "id": "C", "text": "Burglary" },
+    { "id": "D", "text": "Theft of Service" }
   ],
-  answer: ["B"],
-  explain: "PC 31.03; PC Section 8.18"
+  "answer": "A",
+  "explain": "The suspect unlawfully appropriated property without the owner's effective consent. No force or threats were used, so the offense is Theft, not Robbery. PC 31.03."
 },
 
 {
@@ -19132,16 +19133,16 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q1427",
-  prompt: "Of the following, which is an example of a Component of Defensive Driving?",
-  options: [
-    { id: "A", text: "Driver capability" },
-    { id: "B", text: "Vehicle Dynamics" },
-    { id: "C", text: "Driving conditions" },
-    { id: "D", text: "Vehicle conditions" }
+  "prompt": "Which of the following is NOT a driver factor that may contribute to a traffic crash?",
+  "options": [
+    { "id": "A", "text": "Distracted driving" },
+    { "id": "B", "text": "Driver impairment" },
+    { "id": "C", "text": "Aggressive driving" },
+    { "id": "D", "text": "Weather conditions" }
   ],
-  answer: ["C"],
-  explain: "Professional Police Driving, Section 34.11"
-},
+  "answer": ["D"],
+  "explain": "Professional Police Driving 34.11 Weather conditions are an environmental factor. Driver inattention, distracted driving, impaired driving, and aggressive driving are driver-related contributing factors."
+}
 
 {
   id: "TCOLE_q1428",
@@ -23335,17 +23336,17 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1749",
-  prompt: "Of the following, which is an example of a Component of Defensive Driving?",
-  options: [
-    { id: "A", text: "Driver capability" },
-    { id: "B", text: "Vehicle Dynamics" },
-    { id: "C", text: "Driving conditions" },
-    { id: "D", text: "Vehicle conditions" }
+  "id": "TCOLE_q1749_revised",
+  "prompt": "Which of the following is considered an environmental factor that may contribute to a traffic crash?",
+  "options": [
+    { "id": "A", "text": "Distracted driving" },
+    { "id": "B", "text": "Physical conditions of the roadway" },
+    { "id": "C", "text": "Driver impairment" },
+    { "id": "D", "text": "Aggressive driving" }
   ],
-  answer: ["C"],
-  explain: "Professional Police Driving, Section 34.11, page 5 of 10"
-},
+  "answer": ["B"],
+  "explain": "Physical conditions of the roadway are environmental factors that may contribute to a crash. The Traffic Code and Crash Investigations chapter lists physical roadway conditions, debris on roadway, weather, and nighttime as environmental factors. Distracted driving, impaired driving, and aggressive driving are driver factors."
+}
 
 {
   id: "TCOLE_q1750",
@@ -24357,8 +24358,8 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "18" },
     { id: "D", text: "21" }
   ],
-  answer: ["D"],
-  explain: "Missing and Exploited Children, Section 18.1, Page 4"
+  answer: ["C"],
+  explain: "In accordance with 42 USC 5779(a), a point of confusion, 'Other' includes a person 'under age 21 and declared emancipated.' "
 },
 
 {
@@ -25342,15 +25343,15 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q1903",
-  prompt: "A kid on a skateboard rides by and steals a radio from a bench where an elderly lady is sitting. What offense has the kid committed?",
-  options: [
-    { id: "A", text: "Robbery" },
-    { id: "B", text: "Theft" },
-    { id: "C", text: "Theft from a person" },
-    { id: "D", text: "Aggravated robbery" }
+  "prompt": "A suspect picks up a customer's unattended cellphone from a restaurant table and leaves without permission. No force or threats are used. What offense has occurred?",
+  "options": [
+    { "id": "A", "text": "Theft" },
+    { "id": "B", "text": "Robbery" },
+    { "id": "C", "text": "Theft of Service" },
+    { "id": "D", "text": "Criminal Mischief" }
   ],
-  answer: ["B"],
-  explain: "PC 31.03(a)(1) & (2); PC Section 8.18, page 13 of 32"
+  "answer": ["A"],
+  "explain": "The offense is Theft because the suspect unlawfully appropriated property without the owner's effective consent. Robbery requires bodily injury or threats of imminent bodily injury or death."
 },
 
 {
@@ -27709,16 +27710,18 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q2084",
-  prompt: "A kid on a skateboard rides by and steals a radio from a bench where an elderly lady is sitting. What offense has the kid committed?",
-  options: [
-    { id: "A", text: "Robbery" },
-    { id: "B", text: "Theft" },
-    { id: "C", text: "Theft from a person" },
-    { id: "D", text: "Aggravated robbery" }
+  "type": "multiple-choice",
+  "points": 1,
+  "prompt": "While the homeowner is away for the weekend, a suspect pries open a back window, enters the residence without consent, and steals a television and laptop computer. What offense has occurred?",
+  "options": [
+    { "id": "A", "text": "Theft" },
+    { "id": "B", "text": "Criminal Trespass" },
+    { "id": "C", "text": "Burglary of a Habitation" },
+    { "id": "D", "text": "Theft of Service" }
   ],
-  answer: ["B"],
-  explain: "PC 31.03(a)(b)(1); PC Section 8.18"
-},
+  "answer": "C",
+  "explain": "A person commits Burglary when, without the effective consent of the owner, the person enters a habitation or building and commits or intends to commit theft, assault, or a felony. Because the suspect unlawfully entered a residence and stole property, the offense is Burglary of a Habitation under PC 30.02."
+}
 
 {
   id: "TCOLE_q2085",
@@ -29827,15 +29830,17 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q2245",
-  prompt: "A kid on a skateboard rides by and steals a radio from a bench where a lady is sitting waiting for a bus. What offense has the kid committed?",
-  options: [
-    { id: "A", text: "Robbery" },
-    { id: "B", text: "Theft" },
-    { id: "C", text: "Aggravated robbery" },
-    { id: "D", text: "Theft from person" }
+  "type": "multiple-choice",
+  "points": 1,
+  "prompt": "A person rents a chainsaw for one weekend and intentionally keeps it beyond the rental agreement. What offense has occurred?",
+  "options": [
+    { "id": "A", "text": "Theft" },
+    { "id": "B", "text": "Burglary" },
+    { "id": "C", "text": "Theft of Service" },
+    { "id": "D", "text": "Unauthorized Use of a Vehicle" }
   ],
-  answer: ["B"],
-  explain: "PC 31.03(a)(b)(1); PC Section 8.18, page 13 of 32"
+  "answer": "C",
+  "explain": "The person initially obtained possession lawfully through a rental agreement. Intentionally failing to return the property as agreed constitutes Theft of Service under PC 31.04."
 },
 
 {
@@ -31331,16 +31336,17 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q2360",
-  prompt: "A kid on a skateboard rides by and steals a radio from a bench where a lady is sitting. What offense has the kid committed?",
-  options: [
-    { id: "A", text: "Robbery" },
-    { id: "B", text: "Theft" },
-    { id: "C", text: "Aggravated Robbery" },
-    { id: "D", text: "Theft of Service" },
-    { id: "E", text: "Theft from a Person" }
+  "type": "multiple-choice",
+  "points": 1,
+  "prompt": "A suspect enters an unlocked storage building without the owner's consent and removes a lawn mower valued at $500. What is the most serious offense committed?",
+  "options": [
+    { "id": "A", "text": "Theft" },
+    { "id": "B", "text": "Burglary of a Building" },
+    { "id": "C", "text": "Criminal Trespass" },
+    { "id": "D", "text": "Theft of Service" }
   ],
-  answer: ["E"],
-  explain: "Penal Code Â§31.03. Theft is elevated when property is stolen from another person's body or immediate possession, commonly referred to as Theft from a Person."
+  "answer": "B",
+  "explain": "Although a theft occurred, the suspect first entered a building without effective consent and then committed theft. The unlawful entry elevates the offense to Burglary of a Building under PC 30.02."
 },
 
 {
@@ -31611,15 +31617,15 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q2381",
-  prompt: "Who has authority to release a person arrested for Public Intoxication?",
+  prompt: "Who may authorize the release of a person arrested for Public Intoxication?",
   options: [
-    { id: "A", text: "Sheriff" },
-    { id: "B", text: "Transporting Officer" },
-    { id: "C", text: "Director of a Licensed Dependency Program Facility" },
+    { id: "A", text: "Peace Officer" },
+    { id: "B", text: "Both A and D" },
+    { id: "C", text: "Director of a treatment facility" },
     { id: "D", text: "Magistrate" }
   ],
-  answer: ["C"],
-  explain: "CCP Art. 14.031. A public intoxication arrestee may be released to the director of an approved alcohol or chemical dependency treatment facility."
+  answer: ["B"],
+  explain: "CCP Art. 14.031 gives release authority to both the peace officer and the magistrate. The individual may be released to a responsible adult, treatment program, or sobering facility. The director of the facility receives the person but does not authorize the release."
 },
 
 {
