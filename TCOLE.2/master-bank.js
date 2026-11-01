@@ -19142,7 +19142,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
   ],
   "answer": ["D"],
   "explain": "Professional Police Driving 34.11 Weather conditions are an environmental factor. Driver inattention, distracted driving, impaired driving, and aggressive driving are driver-related contributing factors."
-}
+},
 
 {
   id: "TCOLE_q1428",
@@ -23346,7 +23346,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
   ],
   "answer": ["B"],
   "explain": "Physical conditions of the roadway are environmental factors that may contribute to a crash. The Traffic Code and Crash Investigations chapter lists physical roadway conditions, debris on roadway, weather, and nighttime as environmental factors. Distracted driving, impaired driving, and aggressive driving are driver factors."
-}
+},
 
 {
   id: "TCOLE_q1750",
@@ -27721,7 +27721,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
   ],
   "answer": "C",
   "explain": "A person commits Burglary when, without the effective consent of the owner, the person enters a habitation or building and commits or intends to commit theft, assault, or a felony. Because the suspect unlawfully entered a residence and stole property, the offense is Burglary of a Habitation under PC 30.02."
-}
+},
 
 {
   id: "TCOLE_q2085",
