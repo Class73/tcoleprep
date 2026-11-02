@@ -40,7 +40,7 @@
       { id: "D", text: "Apprehend" }
     ],
     answer: "B",
-    explain: "Texas Penal Code Â§20.01 defines 'abduct' as restraining a person with intent to prevent liberation by secreting or holding the victim in a place where they are not likely to be found or by using or threatening deadly force."
+    explain: "Texas Penal Code §20.01 defines 'abduct' as restraining a person with intent to prevent liberation by secreting or holding the victim in a place where they are not likely to be found or by using or threatening deadly force."
   },
   {
     id: "TCOLE_q4",
@@ -95,7 +95,7 @@
       { id: "D", text: "Penal Code" }
     ],
     answer: "D",
-   explain: "TCOLE Use of Force Theory identifies Texas Penal Code Chapter 9 as the legal authority and justification for an officers use of force, including Penal Code Â§9.51 (Arrest and Search)."
+   explain: "TCOLE Use of Force Theory identifies Texas Penal Code Chapter 9 as the legal authority and justification for an officers use of force, including Penal Code §9.51 (Arrest and Search)."
   },
   {
     id: "TCOLE_q8",
@@ -177,7 +177,7 @@
     { id: "D", text: "Tampering with child custody" }
   ],
   answer: "A",
-  explain: "Â§ 25.04. Enticing a Child (a) A person commits an offense if, with the intent to interfere with the lawful custody of a child younger than 18 years, he knowingly entices, persuades, or takes the child from the custody of the parent or guardian or person standing in the stead of the parent or guardian of such child"
+  explain: "§ 25.04. Enticing a Child (a) A person commits an offense if, with the intent to interfere with the lawful custody of a child younger than 18 years, he knowingly entices, persuades, or takes the child from the custody of the parent or guardian or person standing in the stead of the parent or guardian of such child"
 },
 {
   id: "TCOLE_q14",
@@ -287,7 +287,7 @@
     { id: "D", text: "Compelling prostitution" }
   ],
   answer: "B",
-  explain: "Texas Penal Code Â§43.04 defines Aggravated Promotion of Prostitution as knowingly owning, investing in, financing, controlling, supervising, or managing a prostitution enterprise that uses two or more prostitutes."
+  explain: "Texas Penal Code §43.04 defines Aggravated Promotion of Prostitution as knowingly owning, investing in, financing, controlling, supervising, or managing a prostitution enterprise that uses two or more prostitutes."
 },
 {
   id: "TCOLE_q22",
@@ -371,7 +371,7 @@
     { id: "D", text: "Mistake of fact" }
   ],
   answer: "C",
-  explain: "Texas Penal Code Â§8.01 establishes the affirmative defense of insanity when, because of a severe mental disease or defect, the actor did not know that the conduct was wrong."
+  explain: "Texas Penal Code §8.01 establishes the affirmative defense of insanity when, because of a severe mental disease or defect, the actor did not know that the conduct was wrong."
 },
 {
   id: "TCOLE_q28",
@@ -429,7 +429,7 @@
     { id: "D", text: "Apprehend" }
   ],
   answer: "A",
-  explain: "Texas Penal Code Â§20.01 defines restrain as restricting a person's movements without consent so as to interfere substantially with the person's liberty by moving or confining the person."
+  explain: "Texas Penal Code §20.01 defines restrain as restricting a person's movements without consent so as to interfere substantially with the person's liberty by moving or confining the person."
 },
 {
   id: "TCOLE_q32",
@@ -564,7 +564,7 @@
   id: "TCOLE_q40",
   type: "multiple-choice",
   points: 1,
-  prompt: "According to Transportation Code Â§545.413, a passenger commits a safety belt offense if the passenger is at least what age and is not secured by a safety belt while occupying a seat equipped with one?",
+  prompt: "According to Transportation Code §545.413, a passenger commits a safety belt offense if the passenger is at least what age and is not secured by a safety belt while occupying a seat equipped with one?",
   options: [
     { id: "A", text: "13 years of age" },
     { id: "B", text: "15 years of age" },
@@ -572,7 +572,7 @@
     { id: "D", text: "18 years of age" }
   ],
   answer: "B",
-  explain: "Transportation Code Â§545.413 provides that a person commits an offense if the person is at least 15 years of age, is riding in a passenger vehicle, occupies a seat equipped with a safety belt, and is not secured by the safety belt. Therefore, passengers age 15 or older may be cited directly for violating the safety belt law. ã€1-15a4aaã€‘ã€2-8d0d7bã€‘"
+  explain: "Transportation Code §545.413 provides that a person commits an offense if the person is at least 15 years of age, is riding in a passenger vehicle, occupies a seat equipped with a safety belt, and is not secured by the safety belt. Therefore, passengers age 15 or older may be cited directly for violating the safety belt law. ã€1-15a4aaã€‘ã€2-8d0d7bã€‘"
 },
 {
   id: "TCOLE_q41",
@@ -586,7 +586,7 @@
     { id: "D", text: "None of the above" }
   ],
   answer: "B",
-  explain: "Texas Penal Code Â§1.07 defines a person as an individual, corporation, association, limited liability company, or other legal entity."
+  explain: "Texas Penal Code §1.07 defines a person as an individual, corporation, association, limited liability company, or other legal entity."
 },
 {
   id: "TCOLE_q42",
@@ -787,7 +787,7 @@
     { id: "E", text: "stop within a safe distance from the train" }
   ],
   answer: "A",
-  explain: "Texas Transportation Code Â§545.251 requires a driver to stop within 50 feet but not less than 15 feet from the nearest rail when warning signals indicate an approaching train."
+  explain: "Texas Transportation Code §545.251 requires a driver to stop within 50 feet but not less than 15 feet from the nearest rail when warning signals indicate an approaching train."
 },
 {
   id: "TCOLE_q56",
@@ -858,7 +858,7 @@
     { id: "D", text: "Official proceeding" }
   ],
   answer: "D",
-  explain: "Texas Penal Code Â§1.07(a)(33), 'Official proceeding' means any type of administrative, executive, legislative, or judicial proceeding that may be conducted before a public servant."
+  explain: "Texas Penal Code §1.07(a)(33), 'Official proceeding' means any type of administrative, executive, legislative, or judicial proceeding that may be conducted before a public servant."
 },
 {
   id: "TCOLE_q61",
@@ -900,7 +900,7 @@
     { id: "D", text: "Trash Dumping" }
   ],
   answer: "B",
-  explain: "Texas Health and Safety Code Â§365.012 defines Illegal Dumping as disposing of litter or solid waste at an unapproved location."
+  explain: "Texas Health and Safety Code §365.012 defines Illegal Dumping as disposing of litter or solid waste at an unapproved location."
 },
 {
   id: "TCOLE_q64",
@@ -1026,7 +1026,7 @@
     { id: "D", text: "Lawyer" }
   ],
   answer: "C",
-  explain: "Texas Family Code Â§ 51.02 definitions identify a custodian as the adult with whom the child resides."
+  explain: "Texas Family Code § 51.02 definitions identify a custodian as the adult with whom the child resides."
 },
 {
   id: "TCOLE_q73",
@@ -1084,7 +1084,7 @@
     { id: "D", text: "Traffic way" }
   ],
   answer: "A",
-  explain: "Texas Transportation Code Â§541.302 defines a roadway as the portion of a highway improved, designed, or ordinarily used for vehicular travel, excluding the berm or shoulder."
+  explain: "Texas Transportation Code §541.302 defines a roadway as the portion of a highway improved, designed, or ordinarily used for vehicular travel, excluding the berm or shoulder."
 },
 {
   id: "TCOLE_q77",
@@ -1110,7 +1110,7 @@
     { id: "D", text: "None of the above" }
   ],
   answer: "C",
-  explain: "TCOLE Identity Theft Investigation, victims should promptly contact their financial institutions so accounts can be reviewed for suspicious or unauthorized activity."
+  explain: "12. Identity Theft Crimes - specifically states that financial institutions can check for unusual account activity."
 },
 {
   id: "TCOLE_q79",
@@ -1152,7 +1152,7 @@
     { id: "D", text: "Business district" }
   ],
   answer: "A",
-  explain: "Texas Transportation Code Â§541.302 defines an Urban District as territory adjacent to and including a highway meeting these development requirements."
+  explain: "Texas Transportation Code §541.302 defines an Urban District as territory adjacent to and including a highway meeting these development requirements."
 },
 {
   id: "TCOLE_q82",
@@ -1194,7 +1194,7 @@
     { id: "D", text: "restraint" }
   ],
   answer: "B",
-  explain: "Texas Family Code Â§52.01 states that taking a child into custody is not considered an arrest except for purposes of determining the validity of a search."
+  explain: "Texas Family Code §52.01 states that taking a child into custody is not considered an arrest except for purposes of determining the validity of a search."
 },
 {
   id: "TCOLE_q85",
@@ -1300,15 +1300,15 @@
   id: "TCOLE_q92",
   type: "multiple-choice",
   points: 1,
-  prompt: "A __________ is a slow moving and methodical team whose mission is to search for and recover downed citizens or officers.",
+  prompt: "Members of _____________ should be aware of other members and their location.",
   options: [
     { id: "A", text: "Rescue team" },
     { id: "B", text: "Recovery team" },
     { id: "C", text: "Contact team" },
     { id: "D", text: "Search team" }
   ],
-  answer: "A",
-  explain: "TCOLE Active Shooter Response, A rescue team is a slow-moving and methodical team tasked with locating and recovering injured citizens or officers."
+  answer: "D",
+  explain: "35.21. Patrol Skills, List the procedures for safe building searches."
 },
 {
   id: "TCOLE_q93",
@@ -1349,7 +1349,7 @@
     { id: "D", text: "2000 ft" }
   ],
   answer: "B",
-  explain: "Texas Transportation Code Â§547.322, Tail lamps must emit a red light plainly visible from a distance of 1,000 feet from the rear."
+  explain: "Texas Transportation Code §547.322, Tail lamps must emit a red light plainly visible from a distance of 1,000 feet from the rear."
 },
 {
   id: "TCOLE_q96",
@@ -1377,7 +1377,7 @@
     { id: "D", text: "Right-of-way" }
   ],
   answer: "D",
-  explain: "Texas Transportation Code Â§541.201, Right-of-way is the preferential right of a vehicle or pedestrian to proceed lawfully ahead of another under circumstances that could otherwise result in a collision."
+  explain: "Texas Transportation Code §541.201, Right-of-way is the preferential right of a vehicle or pedestrian to proceed lawfully ahead of another under circumstances that could otherwise result in a collision."
 },
 {
   id: "TCOLE_q98",
@@ -1391,7 +1391,7 @@
     { id: "D", text: "none of the above" }
   ],
   answer: "C",
-  explain: "Texas Family Code Â§52.025, A juvenile may be detained in a juvenile processing office or other certified juvenile detention area meeting statutory requirements."
+  explain: "Texas Family Code §52.025, A juvenile may be detained in a juvenile processing office or other certified juvenile detention area meeting statutory requirements."
 },
 {
   id: "TCOLE_q99",
@@ -1421,7 +1421,7 @@
     { id: "D", text: "Person" }
   ],
   answer: "C",
-  explain: "Texas Transportation Code Â§541.201(11), An operator is a person who drives or has physical control of a vehicle."
+  explain: "Texas Transportation Code §541.201(11), An operator is a person who drives or has physical control of a vehicle."
 },
 {
   id: "TCOLE_q101",
@@ -1436,7 +1436,7 @@
     { id: "E", text: "None of the above" }
   ],
   answer: "D",
-  explain: "Texas Penal Code Â§38.04, A person commits Evading Arrest or Detention by intentionally fleeing from a peace officer attempting lawfully to arrest or detain the person."
+  explain: "Texas Penal Code §38.04, A person commits Evading Arrest or Detention by intentionally fleeing from a peace officer attempting lawfully to arrest or detain the person."
 },
 {
   id: "TCOLE_q102",
@@ -1450,7 +1450,7 @@
     { id: "D", text: "Association" }
   ],
   answer: "D",
-  explain: "Texas Penal Code Â§1.07(a)(6), An association means a government, governmental subdivision or agency, trust, partnership, or two or more persons having a joint or common economic interest."
+  explain: "Texas Penal Code §1.07(a)(6), An association means a government, governmental subdivision or agency, trust, partnership, or two or more persons having a joint or common economic interest."
 },
 {
   id: "TCOLE_q103",
@@ -1465,7 +1465,7 @@
     { id: "E", text: "None of the above" }
   ],
   answer: "D",
-  explain: "Texas Penal Code Â§30.02, Burglary of a Habitation occurs when a person enters a habitation without consent and with intent to commit theft, even if no property is actually taken."
+  explain: "Texas Penal Code §30.02, Burglary of a Habitation occurs when a person enters a habitation without consent and with intent to commit theft, even if no property is actually taken."
 },
 {
   id: "TCOLE_q104",
@@ -1479,7 +1479,7 @@
     { id: "D", text: "TABC code" }
   ],
   answer: "B",
-  explain: "Texas Penal Code Â§1.07(a)(30), Law includes the constitution, statutes, court opinions, municipal ordinances, commissioners court orders, and rules lawfully adopted under statute."
+  explain: "Texas Penal Code §1.07(a)(30), Law includes the constitution, statutes, court opinions, municipal ordinances, commissioners court orders, and rules lawfully adopted under statute."
 },
 {
   id: "TCOLE_q105",
@@ -1493,7 +1493,7 @@
     { id: "D", text: "Ask again, nicely" }
   ],
   answer: "C",
-  explain: "Texas Transportation Code Â§724.012 and Missouri v. McNeely, If a person refuses a specimen request, an officer may seek a search warrant authorizing the collection of the specimen."
+  explain: "Texas Transportation Code §724.012 and Missouri v. McNeely, If a person refuses a specimen request, an officer may seek a search warrant authorizing the collection of the specimen."
 },
 {
   id: "TCOLE_q106",
@@ -1507,7 +1507,7 @@
     { id: "D", text: "President of the institution of higher education" }
   ],
   answer: "D",
-  explain: "Texas Education Code Â§51.220, The president of an institution of higher education has authority to appoint adjunct peace officers for that institution."
+  explain: "Texas Education Code §51.220, The president of an institution of higher education has authority to appoint adjunct peace officers for that institution."
 },
 {
   id: "TCOLE_q107",
@@ -1521,7 +1521,7 @@
     { id: "D", text: "Electric utility substation" }
   ],
   answer: "D",
-  explain: "Texas Penal Code Â§28.22, An electric utility substation is a facility used to switch or change voltage in connection with the transmission and distribution of electric energy."
+  explain: "Texas Penal Code §28.22, An electric utility substation is a facility used to switch or change voltage in connection with the transmission and distribution of electric energy."
 },
 {
   id: "TCOLE_q108",
@@ -1593,7 +1593,7 @@
     { id: "D", text: "P/F only" }
   ],
   answer: "A",
-  explain: "37 Texas Administrative Code Â§218.9, The minimum passing score for TCOLE firearms qualification is 70 percent."
+  explain: "37 Texas Administrative Code §218.9, The minimum passing score for TCOLE firearms qualification is 70 percent."
 },
 {
   id: "TCOLE_q113",
@@ -1678,7 +1678,7 @@
     { id: "E", text: "1st degree felony" }
   ],
   answer: "B",
-  explain: "Texas Health and Safety Code Â§481.115, Possession of less than 4 grams but at least 1 gram of a Penalty Group 1 controlled substance is a Third Degree Felony."
+  explain: "Texas Health and Safety Code §481.115, Possession of less than 4 grams but at least 1 gram of a Penalty Group 1 controlled substance is a Third Degree Felony."
 },
 {
   id: "TCOLE_q119",
@@ -1707,7 +1707,7 @@
     { id: "D", text: "48 months" }
   ],
   answer: "D",
-  explain: "37 Texas Administrative Code Â§218.3, Peace officers must complete the legislatively required continuing education program during each 48-month training cycle."
+  explain: "37 Texas Administrative Code §218.3, Peace officers must complete the legislatively required continuing education program during each 48-month training cycle."
 },
 {
   id: "TCOLE_q121",
@@ -1721,7 +1721,7 @@
     { id: "D", text: "National parks" }
   ],
   answer: "A",
-  explain: "Texas Penal Code Â§1.07(a)(40), A public place is any place to which the public or a substantial group of the public has access."
+  explain: "Texas Penal Code §1.07(a)(40), A public place is any place to which the public or a substantial group of the public has access."
 },
 {
   id: "TCOLE_q122",
@@ -1735,7 +1735,7 @@
     { id: "D", text: "Trump" }
   ],
   answer: "C",
-  explain: "Texas Penal Code Â§1.07(a)(41), A public servant is a person elected, selected, appointed, employed, or otherwise designated to exercise a governmental function."
+  explain: "Texas Penal Code §1.07(a)(41), A public servant is a person elected, selected, appointed, employed, or otherwise designated to exercise a governmental function."
 },
 {
   id: "TCOLE_q123",
@@ -1750,7 +1750,7 @@
     { id: "E", text: "2nd degree felony" }
   ],
   answer: "A",
-  explain: "Texas Health and Safety Code Â§481.102, Heroin is classified as a Penalty Group 1 controlled substance."
+  explain: "Texas Health and Safety Code §481.102, Heroin is classified as a Penalty Group 1 controlled substance."
 },
 {
   id: "TCOLE_q124",
@@ -1793,7 +1793,7 @@
     { id: "D", text: "Robbery" }
   ],
   answer: "C",
-  explain: "Texas Penal Code Â§29.03, A person commits Aggravated Robbery when, in the course of committing theft and with intent to obtain or maintain control of the property, the person causes serious bodily injury or uses or exhibits a deadly weapon."
+  explain: "Texas Penal Code §29.03, A person commits Aggravated Robbery when, in the course of committing theft and with intent to obtain or maintain control of the property, the person causes serious bodily injury or uses or exhibits a deadly weapon."
 },
 {
   id: "TCOLE_q127",
@@ -1848,7 +1848,7 @@
     { id: "D", text: "Senate" }
   ],
   answer: "A",
-  explain: "Texas Penal Code Â§1.07(a)(24), 'Government' means the state; a county, municipality, or political subdivision of the state; or any branch or agency of those entities."
+  explain: "Texas Penal Code §1.07(a)(24), 'Government' means the state; a county, municipality, or political subdivision of the state; or any branch or agency of those entities."
 },
 {
   id: "TCOLE_q131",
@@ -1876,7 +1876,7 @@
     { id: "D", text: "The provisions of the Code do not protect the operator from the consequences of reckless disregard for the safety of others" }
   ],
   answer: "C",
-  explain: "Texas Transportation Code Â§Â§546.001 and 546.005, Emergency vehicle operators do not have unlimited authority and remain responsible for operating with due regard for the safety of others."
+  explain: "Texas Transportation Code §§546.001 and 546.005, Emergency vehicle operators do not have unlimited authority and remain responsible for operating with due regard for the safety of others."
 },
 
 {
@@ -1891,7 +1891,7 @@
     { id: "D", text: "Official oppression" }
   ],
   answer: "C",
-  explain: "Texas Penal Code Â§36.06, Obstruction or Retaliation occurs when a person harms or threatens to harm another in retaliation for service as a public servant, witness, informant, or prospective witness."
+  explain: "Texas Penal Code §36.06, Obstruction or Retaliation occurs when a person harms or threatens to harm another in retaliation for service as a public servant, witness, informant, or prospective witness."
 },
 {
   id: "TCOLE_q134",
@@ -1948,7 +1948,7 @@
     { id: "D", text: "Crime" }
   ],
   answer: "A",
-  explain: "Texas Penal Code Â§12.03, A misdemeanor is an offense punishable by fine, confinement in jail, or both."
+  explain: "Texas Penal Code §12.03, A misdemeanor is an offense punishable by fine, confinement in jail, or both."
 },
 {
   id: "TCOLE_q138",
@@ -1989,7 +1989,7 @@
     { id: "D", text: "Kidnapping" }
   ],
   answer: "A",
-  explain: "Texas Penal Code Â§20.02, A person commits Unlawful Restraint if the person intentionally or knowingly restrains another and exposes the victim to a substantial risk of serious bodily injury."
+  explain: "Texas Penal Code §20.02, A person commits Unlawful Restraint if the person intentionally or knowingly restrains another and exposes the victim to a substantial risk of serious bodily injury."
 },
 {
   id: "TCOLE_q141",
@@ -2017,7 +2017,7 @@
     { id: "D", text: "Aggravated arson" }
   ],
   answer: "B",
-  explain: "Texas Penal Code Â§28.03, A person commits Criminal Mischief by intentionally or knowingly damaging or destroying the tangible property of another without effective consent."
+  explain: "Texas Penal Code §28.03, A person commits Criminal Mischief by intentionally or knowingly damaging or destroying the tangible property of another without effective consent."
 },
 {
   id: "TCOLE_q143",
@@ -2031,7 +2031,7 @@
     { id: "D", text: "Criminal Mischief" }
   ],
   answer: "C",
-  explain: "Texas Penal Code Â§28.02, Arson includes intentionally starting a fire or causing an explosion with intent to damage a vehicle, building, or property."
+  explain: "Texas Penal Code §28.02, Arson includes intentionally starting a fire or causing an explosion with intent to damage a vehicle, building, or property."
 },
 {
   id: "TCOLE_q144",
@@ -2059,7 +2059,7 @@
     { id: "D", text: "necessary force" }
   ],
   answer: "B",
-  explain: "Texas Penal Code Â§9.01(3), Deadly force is force intended or known by the actor to cause, or capable of causing, death or serious bodily injury."
+  explain: "Texas Penal Code §9.01(3), Deadly force is force intended or known by the actor to cause, or capable of causing, death or serious bodily injury."
 },
 {
   id: "TCOLE_q146",
@@ -2073,7 +2073,7 @@
     { id: "D", text: "48" }
   ],
   answer: "D",
-  explain: "Texas Transportation Code Â§683.002, A vehicle may be considered abandoned if left unattended on a highway right-of-way for more than 48 hours."
+  explain: "Texas Transportation Code §683.002, A vehicle may be considered abandoned if left unattended on a highway right-of-way for more than 48 hours."
 },
 
 {
@@ -2118,7 +2118,7 @@
     { id: "D", text: "500" }
   ],
   answer: "D",
-  explain: "Texas Transportation Code Â§545.102, A driver may not make a U-turn on a curve or near the crest of a hill when the vehicle is not visible to other traffic within 500 feet."
+  explain: "Texas Transportation Code §545.102, A driver may not make a U-turn on a curve or near the crest of a hill when the vehicle is not visible to other traffic within 500 feet."
 },
 {
   id: "TCOLE_q150",
@@ -2132,7 +2132,7 @@
     { id: "D", text: "Caravan" }
   ],
   answer: "A",
-  explain: "Texas Transportation Code Â§541.201, A truck is a motor vehicle designed, used, or maintained primarily to transport property."
+  explain: "Texas Transportation Code §541.201, A truck is a motor vehicle designed, used, or maintained primarily to transport property."
 },
 {
   id: "TCOLE_q151",
@@ -2147,7 +2147,7 @@
     { id: "E", text: "middle of the pathway" }
   ],
   answer: "C",
-  explain: "Texas Transportation Code Â§541.302, Roadway means the portion of a highway improved, designed, or ordinarily used for vehicular travel, excluding the berm or shoulder."
+  explain: "Texas Transportation Code §541.302, Roadway means the portion of a highway improved, designed, or ordinarily used for vehicular travel, excluding the berm or shoulder."
 },
 {
   id: "TCOLE_q152",
@@ -2236,7 +2236,7 @@
     { id: "E", text: "there is no such requirement" }
   ],
   answer: "A",
-  explain: "Texas Transportation Code Â§545.412, Children younger than 8 years old must be secured in an appropriate child passenger safety seat unless they are taller than 4 feet 9 inches."
+  explain: "Texas Transportation Code §545.412, Children younger than 8 years old must be secured in an appropriate child passenger safety seat unless they are taller than 4 feet 9 inches."
 },
 {
   id: "TCOLE_q158",
@@ -2309,7 +2309,7 @@
     { id: "E", text: "injury to an elderly individual" }
   ],
   answer: "C",
-  explain: "Texas Penal Code Â§29.03, A robbery becomes Aggravated Robbery when committed against an elderly individual, including a person 65 years of age or older."
+  explain: "Texas Penal Code §29.03, A robbery becomes Aggravated Robbery when committed against an elderly individual, including a person 65 years of age or older."
 },
 {
   id: "TCOLE_q163",
@@ -2324,7 +2324,7 @@
     { id: "E", text: "Contraband" }
   ],
   answer: "B",
-  explain: "Texas Health and Safety Code Â§483.001, A dangerous drug is a device or drug unsafe for self-medication that is not classified as a controlled substance."
+  explain: "Texas Health and Safety Code §483.001, A dangerous drug is a device or drug unsafe for self-medication that is not classified as a controlled substance."
 },
 
 {
@@ -2441,7 +2441,7 @@
     { id: "D", text: "excessive" }
   ],
   answer: "C",
-  explain: "Texas Transportation Code Â§545.351, An operator may not drive at a speed greater than is reasonable and prudent under the circumstances then existing."
+  explain: "Texas Transportation Code §545.351, An operator may not drive at a speed greater than is reasonable and prudent under the circumstances then existing."
 },
 {
   id: "TCOLE_q172",
@@ -2455,7 +2455,7 @@
     { id: "D", text: "white" }
   ],
   answer: "B",
-  explain: "Texas Transportation Code Â§547.325, Rear reflectors required on motor vehicles, trailers, semitrailers, and pole trailers must be red in color."
+  explain: "Texas Transportation Code §547.325, Rear reflectors required on motor vehicles, trailers, semitrailers, and pole trailers must be red in color."
 },
 {
   id: "TCOLE_q173",
@@ -2481,7 +2481,7 @@
     { id: "B", text: "False" }
   ],
   answer: "A",
-  explain: "Texas Penal Code Â§20.01(1), A child under 14 years of age may be restrained despite apparent acquiescence if the parent, guardian, or person acting in loco parentis has not consented."
+  explain: "Texas Penal Code §20.01(1), A child under 14 years of age may be restrained despite apparent acquiescence if the parent, guardian, or person acting in loco parentis has not consented."
 },
 {
   id: "TCOLE_q175",
@@ -2551,7 +2551,7 @@
     { id: "D", text: "80" }
   ],
   answer: "40",
-  explain: "37 Texas Administrative Code Â§218.3, The legislatively required continuing education program for peace officers consists of 40 hours of training during the training cycle."
+  explain: "37 Texas Administrative Code §218.3, The legislatively required continuing education program for peace officers consists of 40 hours of training during the training cycle."
 },
 {
   id: "TCOLE_q180",
@@ -2578,7 +2578,7 @@
     { id: "E", text: "1,500 feet" }
   ],
   answer: "B",
-  explain: "Texas Transportation Code Â§547.322, Tail lamps on a motor vehicle must emit red light plainly visible from a distance of 1,000 feet to the rear."
+  explain: "Texas Transportation Code §547.322, Tail lamps on a motor vehicle must emit red light plainly visible from a distance of 1,000 feet to the rear."
 },
 {
   id: "TCOLE_q182",
@@ -2608,7 +2608,7 @@
     { id: "E", text: "None of the above" }
   ],
   answer: "B",
-  explain: "Texas Penal Code Â§22.01(b)(1), An assault causing bodily injury becomes Assault on a Public Servant when committed against a peace officer lawfully discharging an official duty."
+  explain: "Texas Penal Code §22.01(b)(1), An assault causing bodily injury becomes Assault on a Public Servant when committed against a peace officer lawfully discharging an official duty."
 },
 {
   id: "TCOLE_q184",
@@ -2622,7 +2622,7 @@
     { id: "D", text: "Business district" }
   ],
   answer: "C",
-  explain: "Texas Transportation Code Â§541.302, A residence district is territory adjacent to a highway where at least 300 feet of frontage is primarily improved with residences or a combination of residences and businesses."
+  explain: "Texas Transportation Code §541.302, A residence district is territory adjacent to a highway where at least 300 feet of frontage is primarily improved with residences or a combination of residences and businesses."
 },
 {
   id: "TCOLE_q185",
@@ -2667,7 +2667,7 @@
     { id: "E", text: "Criminal Negligent Homicide" }
   ],
   answer: "D",
-  explain: "Texas Penal Code Â§19.02(d), Sudden Passion arising from an Adequate Cause is a punishment-stage issue that applies to the offense of Murder."
+  explain: "Texas Penal Code §19.02(d), Sudden Passion arising from an Adequate Cause is a punishment-stage issue that applies to the offense of Murder."
 },
 {
 id: "TCOLE_q188",
@@ -3022,20 +3022,21 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 	{ id: "D", text: "A red reflector placed on the traffic side of the disabled vehicle not less than 10 feet in the rear and in the direction of traffic" }
 	],
 	answer: "B",
-	explain: "22. Traffic Code and Crash Investigations (Transportation Code Â§547.502 Visible Warning Devices Required)."
+	explain: "22. Traffic Code and Crash Investigations (Transportation Code §547.502 Visible Warning Devices Required)."
 },
 {
 	id: "TCOLE_q214",
 	type: "multiple-choice",
 	points: 1,
-	prompt: "A __________ is a slow moving and methodical team whose mission is to search for and recover downed citizens or officers.",
+	prompt: "Backup team covers ___________ as they enter the building, and then guards the place of entry/exits providing any help possible",
 	options: [
 	{ id: "A", text: "Rescue Team" },
 	{ id: "B", text: "Recovery Team" },
-	{ id: "C", text: "Contact Team" },
+	{ id: "C", text: "Search Team" },
 	{ id: "D", text: "Search Team" }
 	],
-	answer: "A"
+	answer: "A",
+	explain: "35.21. Patrol Skills. List the procedures for safe building searches. "
 },
 {
 	id: "TCOLE_q215",
@@ -3323,7 +3324,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
       { id: "D", text: "No Offense" }
     ],
     answer: "B",
-    explain: "A person commits Places Weapons Prohibited by possessing a firearm on the premises of a school without authorization. (PC Â§46.03)"
+    explain: "A person commits Places Weapons Prohibited by possessing a firearm on the premises of a school without authorization. (PC §46.03)"
   },
   {
     id: "TCOLE_q236",
@@ -3365,7 +3366,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
       { id: "D", text: "PC 35.2 and 32.3" }
     ],
     answer: "C",
-	explain: "Assault is defined in Penal Code Â§22.01"
+	explain: "Assault is defined in Penal Code §22.01"
   },
   {
     id: "TCOLE_q239",
@@ -3407,7 +3408,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
       { id: "D", text: "Business District" }
     ],
     answer: "D",
-	explain: "TRANSP Â§ 541.102.(1) Restricted Districts"
+	explain: "TRANSP § 541.102.(1) Restricted Districts"
   },
   {
     id: "TCOLE_q242",
@@ -3421,7 +3422,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
       { id: "D", text: "Weed" }
     ],
     answer: "B",
-	explain: "HEALTH & SAFETY Â§ 481.002. Definitions"
+	explain: "HEALTH & SAFETY § 481.002. Definitions"
   },
   {
     id: "TCOLE_q243",
@@ -3563,7 +3564,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
       { id: "D", text: "Potential for recovery of evidence" }
     ],
     answer: "D",
-    explain: "The potential for recovery of evidence is a desired outcome, not a problem encountered during a crime scene search."
+    explain: "Chapter 32.29, the course discusses potential problems in conducting a crime scene search."
   },
 
   {
@@ -3610,7 +3611,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
       { id: "D", text: "Escape" }
     ],
     answer: "D",
-    explain: "Texas Penal Code Â§ 38.06 defines Escape as an unauthorized departure from custody or failure to return."
+    explain: "Texas Penal Code § 38.06 defines Escape as an unauthorized departure from custody or failure to return."
   },
 
   {
@@ -3700,7 +3701,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
       { id: "E", text: "None of the Above" }
     ],
     answer: "A",
-    explain: "A child younger than 7 years old may not be left unattended in a vehicle for more than 5 minutes unless attended by someone at least 14 years old. Texas Penal Code Â§ 22.10."
+    explain: "A child younger than 7 years old may not be left unattended in a vehicle for more than 5 minutes unless attended by someone at least 14 years old. Texas Penal Code § 22.10."
   },
   {
     id: "TCOLE_q262",
@@ -4003,7 +4004,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "Throughway" }
 	  ],
 	  answer: "B",
-	  explain: "Texas Transportation Code Â§541.302, 'Street or Highway' means the width between the boundary lines of a publicly maintained way any part of which is open to the public for vehicular travel."
+	  explain: "Texas Transportation Code §541.302, 'Street or Highway' means the width between the boundary lines of a publicly maintained way any part of which is open to the public for vehicular travel."
 	},
 	{
 	  id: "TCOLE_q283",
@@ -4059,7 +4060,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "E", text: "More than Two" }
 	  ],
 	  answer: "B",
-	  explain: "Texas Transportation Code Â§547.321, A motor vehicle must be equipped with at least two headlamps that comply with statutory requirements."
+	  explain: "Texas Transportation Code §547.321, A motor vehicle must be equipped with at least two headlamps that comply with statutory requirements."
 	},
 	{
 	  id: "TCOLE_q287",
@@ -4116,7 +4117,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "Trump" }
 	  ],
 	  answer: "C",
-	  explain: "Texas Penal Code Â§1.07(a)(41), A public servant is a person elected, selected, appointed, employed, or otherwise designated to perform a governmental function, even if not yet qualified or serving."
+	  explain: "Texas Penal Code §1.07(a)(41), A public servant is a person elected, selected, appointed, employed, or otherwise designated to perform a governmental function, even if not yet qualified or serving."
 	},
 	{
 	  id: "TCOLE_q291",
@@ -4130,7 +4131,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "6 Years" }
 	  ],
 	  answer: "B",
-	  explain: "Texas Administrative Code Â§218.3, The TCOLE continuing education training cycle is four years in length."
+	  explain: "Texas Administrative Code §218.3, The TCOLE continuing education training cycle is four years in length."
 	},
 	{
 	  id: "TCOLE_q292",
@@ -4144,7 +4145,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "All the Above are Correct" }
 	  ],
 	  answer: "D",
-	  explain: "Texas Family Code Â§51.09, A child may waive certain rights only if the waiver is voluntary, made with the child's attorney, and the child understands the right and consequences of the waiver."
+	  explain: "Texas Family Code §51.09, A child may waive certain rights only if the waiver is voluntary, made with the child's attorney, and the child understands the right and consequences of the waiver."
 	},
 	{
 	  id: "TCOLE_q293",
@@ -4172,7 +4173,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "E", text: "None of the Above" }
 	  ],
 	  answer: "D",
-	  explain: "Texas Penal Code Â§29.03, A robbery becomes aggravated robbery when the victim is elderly or disabled, or when serious bodily injury, a deadly weapon, or certain threats are involved; a wheelchair-bound victim qualifies as a disabled individual."
+	  explain: "Texas Penal Code §29.03, A robbery becomes aggravated robbery when the victim is elderly or disabled, or when serious bodily injury, a deadly weapon, or certain threats are involved; a wheelchair-bound victim qualifies as a disabled individual."
 	},
 	{
 	  id: "TCOLE_q295",
@@ -4241,7 +4242,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "Crafter" }
 	  ],
 	  answer: "A",
-	  explain: "Texas Penal Code Â§1.07(a)(35), An owner is a person who has title to property, possession of property, a greater right to possession than the actor, or is a holder in due course of a negotiable instrument."
+	  explain: "Texas Penal Code §1.07(a)(35), An owner is a person who has title to property, possession of property, a greater right to possession than the actor, or is a holder in due course of a negotiable instrument."
 	},
 	{
 	  id: "TCOLE_q300",
@@ -4256,7 +4257,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "E", text: "None of the Above" }
 	  ],
 	  answer: "C",
-	  explain: "Texas Transportation Code Â§544.007, A driver facing a red traffic signal must stop unless otherwise directed by a police officer or traffic-control device."
+	  explain: "Texas Transportation Code §544.007, A driver facing a red traffic signal must stop unless otherwise directed by a police officer or traffic-control device."
 	},
 	{
 	  id: "TCOLE_q301",
@@ -4270,7 +4271,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "30" }
 	  ],
 	  answer: "D",
-	  explain: "Texas Administrative Code Â§217.1, A licensee must notify TCOLE of a legal name change within 30 days."
+	  explain: "Texas Administrative Code §217.1, A licensee must notify TCOLE of a legal name change within 30 days."
 	},
 	{
 	  id: "TCOLE_q302",
@@ -4296,7 +4297,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "Any of the Above" }
 	  ],
 	  answer: "A",
-	  explain: "Texas Penal Code Â§47.02, A person commits gambling if he makes a bet on the partial or final result of a game or contest or on the performance of a participant."
+	  explain: "Texas Penal Code §47.02, A person commits gambling if he makes a bet on the partial or final result of a game or contest or on the performance of a participant."
 	},
 	{
 	  id: "TCOLE_q304",
@@ -4310,7 +4311,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "Crosswalk" }
 	  ],
 	  answer: "D",
-	  explain: "Texas Transportation Code Â§541.302, A crosswalk is the portion of a roadway designated for pedestrian crossing by surface markings or other markings."
+	  explain: "Texas Transportation Code §541.302, A crosswalk is the portion of a roadway designated for pedestrian crossing by surface markings or other markings."
 	},
 	{
 	  id: "TCOLE_q305",
@@ -4424,7 +4425,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "Criminal Trespass" }
 	  ],
 	  answer: "A",
-	  explain: "Texas Penal Code Â§30.02, An attached garage is considered part of a habitation, making entry into the garage with intent to commit theft Burglary of a Habitation."
+	  explain: "Texas Penal Code §30.02, An attached garage is considered part of a habitation, making entry into the garage with intent to commit theft Burglary of a Habitation."
 	},
 	{
 	  id: "TCOLE_q313",
@@ -4466,7 +4467,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "Human Derivatives" }
 	  ],
 	  answer: "C",
-	  explain: "Texas Health and Safety Code Â§692A.002, 'Human organ' includes a kidney, liver, heart, lung, pancreas, eye, bone, skin, fetal tissue, or other human organ or tissue."
+	  explain: "Texas Health and Safety Code §692A.002, 'Human organ' includes a kidney, liver, heart, lung, pancreas, eye, bone, skin, fetal tissue, or other human organ or tissue."
 	},
 	{
 	  id: "TCOLE_q316",
@@ -4566,7 +4567,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "E", text: "None of the Above" }
 	  ],
 	  answer: "D",
-	  explain: "Texas Penal Code Â§6.03(d), Criminal negligence occurs when a person ought to be aware of a substantial and unjustifiable risk and fails to perceive it."
+	  explain: "Texas Penal Code §6.03(d), Criminal negligence occurs when a person ought to be aware of a substantial and unjustifiable risk and fails to perceive it."
 	},
 	{
 	  id: "TCOLE_q323",
@@ -4608,7 +4609,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "Laned roadway" }
 	  ],
 	  answer: "D",
-	  explain: "Texas Transportation Code Â§541.302, A laned roadway is a roadway divided into two or more clearly marked lanes for vehicular travel."
+	  explain: "Texas Transportation Code §541.302, A laned roadway is a roadway divided into two or more clearly marked lanes for vehicular travel."
 	},
 	{
 	  id: "TCOLE_q326",
@@ -4622,7 +4623,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "Monitored materials" }
 	  ],
 	  answer: "B",
-	  explain: "Texas Health and Safety Code Â§481.002(5), A controlled substance includes drugs listed in Schedules I-V and Penalty Groups 1, 1-A, 2, 2-A, 3, and 4, including mixtures containing those substances."
+	  explain: "Texas Health and Safety Code §481.002(5), A controlled substance includes drugs listed in Schedules I-V and Penalty Groups 1, 1-A, 2, 2-A, 3, and 4, including mixtures containing those substances."
 	},
 	{
 	  id: "TCOLE_q327",
@@ -4664,7 +4665,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "False; One needs a written statement from a physician (form DL-101)" }
 	  ],
 	  answer: "D",
-	  explain: "Texas Transportation Code Â§521.1211, A communication impediment designation requires submission of a written statement from a physician on the prescribed form."
+	  explain: "Texas Transportation Code §521.1211, A communication impediment designation requires submission of a written statement from a physician on the prescribed form."
 	},
 	{
 	  id: "TCOLE_q330",
@@ -4678,7 +4679,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "four" }
 	  ],
 	  answer: "A",
-	  explain: "37 Texas Administrative Code Â§218.9, Any agency employing at least one peace officer must ensure annual firearms proficiency qualification."
+	  explain: "37 Texas Administrative Code §218.9, Any agency employing at least one peace officer must ensure annual firearms proficiency qualification."
 	},
 	{
 	  id: "TCOLE_q331",
@@ -4762,7 +4763,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "unnecessary" }
 	  ],
 	  answer: "B",
-	  explain: "Texas Penal Code Â§9.05, A justification defense is unavailable in a prosecution for the reckless injury or killing of an innocent third person."
+	  explain: "Texas Penal Code §9.05, A justification defense is unavailable in a prosecution for the reckless injury or killing of an innocent third person."
 	},
 	{
 	  id: "TCOLE_q337",
@@ -4847,7 +4848,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "Any part of the body or anything attached to the body" }
 	  ],
 	  answer: "D",
-	  explain: "Texas Penal Code Â§30.04, Entry for burglary of a vehicle occurs when any part of the body or any physical object connected with the body enters the vehicle."
+	  explain: "Texas Penal Code §30.04, Entry for burglary of a vehicle occurs when any part of the body or any physical object connected with the body enters the vehicle."
 	},
 	{
 	  id: "TCOLE_q343",
@@ -4861,7 +4862,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "Youth court" }
 	  ],
 	  answer: "B",
-	  explain: "Texas Family Code Â§51.02(7), A juvenile court is a court designated under Section 51.04 to exercise jurisdiction over proceedings involving juveniles."
+	  explain: "Texas Family Code §51.02(7), A juvenile court is a court designated under Section 51.04 to exercise jurisdiction over proceedings involving juveniles."
 	},
 	{
 	  id: "TCOLE_q344",
@@ -4875,7 +4876,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "Electric generating plant" }
 	  ],
 	  answer: "D",
-	  explain: "Texas Penal Code Â§28.22, An electric generating plant is a facility that generates electric energy for distribution to the public."
+	  explain: "Texas Penal Code §28.22, An electric generating plant is a facility that generates electric energy for distribution to the public."
 	},
 	{
 	  id: "TCOLE_q345",
@@ -4889,7 +4890,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "Will be issued a warrant for arrest" }
 	  ],
 	  answer: "C",
-	  explain: "Texas Transportation Code Â§724.031, The refusal statement must indicate that the person was informed of the consequences of refusing to provide a specimen."
+	  explain: "Texas Transportation Code §724.031, The refusal statement must indicate that the person was informed of the consequences of refusing to provide a specimen."
 	},
 	{
 	  id: "TCOLE_q346",
@@ -4917,7 +4918,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "proceed past a stop sign" }
 	  ],
 	  answer: "A",
-	  explain: "Texas Transportation Code Â§546.001(3), An authorized emergency vehicle may exceed the speed limit as long as the operator does not endanger life or property."
+	  explain: "Texas Transportation Code §546.001(3), An authorized emergency vehicle may exceed the speed limit as long as the operator does not endanger life or property."
 	},
 	{
 	  id: "TCOLE_q348",
@@ -4931,7 +4932,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "Manslaughter" }
 	  ],
 	  answer: "B",
-	  explain: "Texas Penal Code Â§29.02, A person commits robbery if, in the course of committing theft, they cause bodily injury or intentionally or knowingly threaten or place another in fear of imminent bodily injury or death."
+	  explain: "Texas Penal Code §29.02, A person commits robbery if, in the course of committing theft, they cause bodily injury or intentionally or knowingly threaten or place another in fear of imminent bodily injury or death."
 	},
 
 	{
@@ -4975,7 +4976,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "E", text: "Class P CDL drivers license" }
 	  ],
 	  answer: "A",
-	  explain: "Texas Transportation Code Â§522.041, A Class A Commercial Driver License is required for combinations of vehicles with a GCWR of 26,001 pounds or more when the towed unit exceeds 10,000 pounds."
+	  explain: "Texas Transportation Code §522.041, A Class A Commercial Driver License is required for combinations of vehicles with a GCWR of 26,001 pounds or more when the towed unit exceeds 10,000 pounds."
 	},
 	{
 	  id: "TCOLE_q352",
@@ -5003,7 +5004,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "Laned roadway" }
 	  ],
 	  answer: "C",
-	  explain: "Texas Transportation Code Â§541.302, A private road or driveway is a privately owned way used for vehicular travel by the owner and persons with express or implied permission."
+	  explain: "Texas Transportation Code §541.302, A private road or driveway is a privately owned way used for vehicular travel by the owner and persons with express or implied permission."
 	},
 
 	{
@@ -5033,7 +5034,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "E", text: "None of the above" }
 	  ],
 	  answer: "D",
-	  explain: "Texas Penal Code Â§30.02, A person commits burglary by entering a building without effective consent and committing or attempting to commit theft."
+	  explain: "Texas Penal Code §30.02, A person commits burglary by entering a building without effective consent and committing or attempting to commit theft."
 	},
 	{
 	  id: "TCOLE_q356",
@@ -5047,7 +5048,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "Credit Card Laundering" }
 	  ],
 	  answer: "B",
-	  explain: "Texas Penal Code Â§32.31, A person commits Credit Card Abuse by using a credit card without the effective consent of the cardholder with intent to obtain a benefit fraudulently."
+	  explain: "Texas Penal Code §32.31, A person commits Credit Card Abuse by using a credit card without the effective consent of the cardholder with intent to obtain a benefit fraudulently."
 	},
 	{
 	  id: "TCOLE_q357",
@@ -5090,7 +5091,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "500" }
 	  ],
 	  answer: "D",
-	  explain: "Texas Transportation Code Â§545.408, A vehicle may not follow within 500 feet of a fire apparatus responding to a fire alarm."
+	  explain: "Texas Transportation Code §545.408, A vehicle may not follow within 500 feet of a fire apparatus responding to a fire alarm."
 	},
 	{
 	  id: "TCOLE_q360",
@@ -5132,7 +5133,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "Duress" }
 	  ],
 	  answer: "B",
-	  explain: "Texas Penal Code Â§1.07(a)(9), Coercion means a threat to commit an offense, inflict bodily injury, expose a person to ridicule, harm reputation, or influence official action."
+	  explain: "Texas Penal Code §1.07(a)(9), Coercion means a threat to commit an offense, inflict bodily injury, expose a person to ridicule, harm reputation, or influence official action."
 	},
 	{
 	  id: "TCOLE_q363",
@@ -5161,7 +5162,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "218 - Continuing Education" }
 	  ],
 	  answer: "D",
-	  explain: "Chapter 218 (Continuing Education), particularly Â§218.9, Definitions for firearms, patrol rifle, and precision rifle are located within the Continuing Education rules."
+	  explain: "Chapter 218 (Continuing Education), particularly §218.9, Definitions for firearms, patrol rifle, and precision rifle are located within the Continuing Education rules."
 	},
 	{
 	  id: "TCOLE_q365",
@@ -5260,7 +5261,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "53rd" }
 	  ],
 	  answer: "B",
-	  explain: "Texas Transportation Code Â§521.055, A temporary driving permit issued under this provision expires on the 41st day after the date of issuance."
+	  explain: "Texas Transportation Code §521.055, A temporary driving permit issued under this provision expires on the 41st day after the date of issuance."
 	},
 	{
 	  id: "TCOLE_q372",
@@ -5317,7 +5318,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "Assault" }
 	  ],
 	  answer: "C",
-	  explain: "Texas Penal Code Â§22.011, A person commits Sexual Assault by intentionally or knowingly engaging in specified sexual acts without the other person's consent."
+	  explain: "Texas Penal Code §22.011, A person commits Sexual Assault by intentionally or knowingly engaging in specified sexual acts without the other person's consent."
 	},
 	{
 	  id: "TCOLE_q376",
@@ -5360,7 +5361,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "E", text: "roadway" }
 	  ],
 	  answer: "D",
-	  explain: "Texas Transportation Code Â§541.302, A street or highway is the width between the boundary lines of a publicly maintained way any part of which is open to the public for vehicular travel."
+	  explain: "Texas Transportation Code §541.302, A street or highway is the width between the boundary lines of a publicly maintained way any part of which is open to the public for vehicular travel."
 	},
 
 	{
@@ -5417,7 +5418,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "Interest" }
 	  ],
 	  answer: "C",
-	  explain: "Texas Penal Code Â§1.07(a)(7), Benefit means anything reasonably regarded as economic gain or advantage, including gain or advantage to another person whose welfare is of interest to the actor."
+	  explain: "Texas Penal Code §1.07(a)(7), Benefit means anything reasonably regarded as economic gain or advantage, including gain or advantage to another person whose welfare is of interest to the actor."
 	},
 	{
 	  id: "TCOLE_q383",
@@ -5431,7 +5432,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "Criminal trespass" }
 	  ],
 	  answer: "D",
-	  explain: "Texas Penal Code Â§30.05, Entering or remaining on property without effective consent constitutes criminal trespass when there is no intent to commit a felony, theft, or assault."
+	  explain: "Texas Penal Code §30.05, Entering or remaining on property without effective consent constitutes criminal trespass when there is no intent to commit a felony, theft, or assault."
 	},
 
 	{
@@ -5446,7 +5447,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "any of the above are without consent" }
 	  ],
 	  answer: "D",
-	  explain: "Texas Penal Code Â§22.011(b), Sexual assault is without consent when the victim is unconscious, unaware the act is occurring, coerced by a public servant, or under any other statutory circumstance listed in the section."
+	  explain: "Texas Penal Code §22.011(b), Sexual assault is without consent when the victim is unconscious, unaware the act is occurring, coerced by a public servant, or under any other statutory circumstance listed in the section."
 	},
 	{
 	  id: "TCOLE_q385",
@@ -5474,7 +5475,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "100" }
 	  ],
 	  answer: "B",
-	  explain: "37 Texas Administrative Code Â§218.9, The TCOLE basic handgun qualification course requires a minimum of 50 rounds."
+	  explain: "37 Texas Administrative Code §218.9, The TCOLE basic handgun qualification course requires a minimum of 50 rounds."
 	},
 	{
 	  id: "TCOLE_q387",
@@ -5603,7 +5604,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "Attorney" }
 	  ],
 	  answer: "D",
-	  explain: "Texas Transportation Code Â§724.018, Upon request, full information concerning the analysis of a specimen must be made available to the person tested or the person's attorney."
+	  explain: "Texas Transportation Code §724.018, Upon request, full information concerning the analysis of a specimen must be made available to the person tested or the person's attorney."
 	},
 	{
 	  id: "TCOLE_q396",
@@ -5645,7 +5646,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "Zip gun" }
 	  ],
 	  answer: "A",
-	  explain: "Texas Penal Code Â§46.05 and Â§46.01, A pistol is not classified as a prohibited weapon, while machine guns, zip guns, and certain prohibited devices are specifically regulated."
+	  explain: "Texas Penal Code §46.05 and §46.01, A pistol is not classified as a prohibited weapon, while machine guns, zip guns, and certain prohibited devices are specifically regulated."
 	},
 
 	{
@@ -5660,7 +5661,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "Assault" }
 	  ],
 	  answer: "A",
-	  explain: "Texas Penal Code Â§22.02, A person commits Aggravated Assault by causing serious bodily injury to another or by using or exhibiting a deadly weapon during the assault."
+	  explain: "Texas Penal Code §22.02, A person commits Aggravated Assault by causing serious bodily injury to another or by using or exhibiting a deadly weapon during the assault."
 	},
 	{
 	  id: "TCOLE_q400",
@@ -5674,7 +5675,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "Assault" }
 	  ],
 	  answer: "B",
-	  explain: "Texas Penal Code Â§22.07, A person commits Terroristic Threat by threatening violence with intent to cause a reaction by an official or volunteer agency organized to deal with emergencies."
+	  explain: "Texas Penal Code §22.07, A person commits Terroristic Threat by threatening violence with intent to cause a reaction by an official or volunteer agency organized to deal with emergencies."
 	},
 	{
 	  id: "TCOLE_q401",
@@ -5702,7 +5703,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "Every device, with wheels, except those powered by human energy, operated upon the highway." }
 	  ],
 	  answer: "B",
-	  explain: "Texas Transportation Code Â§541.201(11), A motor vehicle is a self-propelled vehicle or a vehicle that is propelled by electric power obtained from overhead trolley wires."
+	  explain: "Texas Transportation Code §541.201(11), A motor vehicle is a self-propelled vehicle or a vehicle that is propelled by electric power obtained from overhead trolley wires."
 	},
 	{
 	  id: "TCOLE_q403",
@@ -5766,13 +5767,15 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 	  id: "TCOLE_q407",
 	  type: "true-false",
 	  points: 1,
-	  prompt: "Daytime means the period beginning one half hour before sunrise and ending one half hour after sunset.",
+	  prompt: "A peace officer who is arrested for DWI while on vacation must report the arrest to TCOLE within how many days?",
 	  options: [
-		{ id: "A", text: "True" },
-		{ id: "B", text: "False" }
+		{ id: "A", text: "10 days" },
+		{ id: "B", text: "15 days" },
+		{ id: "C", text: "30 days" },
+		{ id: "D", text: "60 days" }
 	  ],
-	  answer: "A",
-	  explain: "Texas Transportation Code Â§541.401, Daytime is defined as the period beginning one-half hour before sunrise and ending one-half hour after sunset."
+	  answer: "C",
+	  explain: "TCOLE Rules, Section 4.9. Under Reporting Responsibilities of Individuals (§211.27), Responsibility of a Law Enforcement Agency to Report an Arrest (§211.28), and Responsibility of Agency Chief Administrators (§211.29), an arrest must be reported to TCOLE within 30 days. The student should identify the three parties responsible for reporting the arrest: the arresting law enforcement agency, the officer's employer, and the officer who was arrested."
 	},
 	{
 	  id: "TCOLE_q408",
@@ -5828,7 +5831,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "Criminal trespass" }
 	  ],
 	  answer: "A",
-	  explain: "Texas Penal Code Â§30.02, An attached garage is considered part of a habitation, making the offense Burglary of a Habitation."
+	  explain: "Texas Penal Code §30.02, An attached garage is considered part of a habitation, making the offense Burglary of a Habitation."
 	},
 	{
 	  id: "TCOLE_q412",
@@ -5884,7 +5887,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "Marihuana" }
 	  ],
 	  answer: "B",
-	  explain: "Texas Health and Safety Code Â§481.002(17), A drug is a substance recognized in the official pharmacopoeias and formularies, excluding devices and their components."
+	  explain: "Texas Health and Safety Code §481.002(17), A drug is a substance recognized in the official pharmacopoeias and formularies, excluding devices and their components."
 	},
 	{
 	  id: "TCOLE_q416",
@@ -5898,7 +5901,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "Online Licensing Course" }
 	  ],
 	  answer: "B",
-	  explain: "37 Texas Administrative Code Â§211.1, A Basic Licensing Course is a commission-developed course required before an individual may be licensed by TCOLE."
+	  explain: "37 Texas Administrative Code §211.1, A Basic Licensing Course is a commission-developed course required before an individual may be licensed by TCOLE."
 	},
 	{
 	  id: "TCOLE_q417",
@@ -5913,7 +5916,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "E", text: "proceed with caution" }
 	  ],
 	  answer: "B",
-	  explain: "Texas Transportation Code Â§545.251, A bus carrying passengers for hire must stop between 15 and 50 feet from the nearest rail and may not proceed until it is safe."
+	  explain: "Texas Transportation Code §545.251, A bus carrying passengers for hire must stop between 15 and 50 feet from the nearest rail and may not proceed until it is safe."
 	},
 	{
 	  id: "TCOLE_q418",
@@ -5970,7 +5973,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "Abuse of Office" }
 	  ],
 	  answer: "C",
-	  explain: "Texas Penal Code Â§39.03, A public servant acting under color of office commits Official Oppression by intentionally subjecting another to sexual harassment."
+	  explain: "Texas Penal Code §39.03, A public servant acting under color of office commits Official Oppression by intentionally subjecting another to sexual harassment."
 	},
 	{
 	  id: "TCOLE_q422",
@@ -6055,7 +6058,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "Seven" }
 	  ],
 	  answer: "D",
-	  explain: "Texas Penal Code Â§42.02, A riot is the assemblage of seven or more persons resulting in specified unlawful conduct."
+	  explain: "Texas Penal Code §42.02, A riot is the assemblage of seven or more persons resulting in specified unlawful conduct."
 	},
 	{
 	  id: "TCOLE_q428",
@@ -6070,7 +6073,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "E", text: "None of the above" }
 	  ],
 	  answer: "B",
-	  explain: "Texas Penal Code Â§42.01(a)(11), A person commits Disorderly Conduct by exposing or observing another person's intimate areas in a restroom or private area for sexual gratification or arousal."
+	  explain: "Texas Penal Code §42.01(a)(11), A person commits Disorderly Conduct by exposing or observing another person's intimate areas in a restroom or private area for sexual gratification or arousal."
 	},
 
 	{
@@ -6085,7 +6088,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "PC 35.2, 32.3" }
 	  ],
 	  answer: "C",
-	  explain: "Texas Penal Code Â§Â§22.01 and 22.02, Assault and Aggravated Assault are defined in these sections of the Penal Code."
+	  explain: "Texas Penal Code §§22.01 and 22.02, Assault and Aggravated Assault are defined in these sections of the Penal Code."
 	},
 	{
 	  id: "TCOLE_q430",
@@ -6156,7 +6159,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "100" }
 	  ],
 	  answer: "D",
-	  explain: "Texas Transportation Code Â§545.056, A vehicle may not be driven on the left side of the roadway when approaching within 100 feet of an intersection."
+	  explain: "Texas Transportation Code §545.056, A vehicle may not be driven on the left side of the roadway when approaching within 100 feet of an intersection."
 	},
 	{
 	  id: "TCOLE_q435",
@@ -6170,7 +6173,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "Assault" }
 	  ],
 	  answer: "D",
-	  explain: "Texas Penal Code Â§22.01, Assault includes causing bodily injury, threatening imminent bodily injury, or making offensive or provocative physical contact."
+	  explain: "Texas Penal Code §22.01, Assault includes causing bodily injury, threatening imminent bodily injury, or making offensive or provocative physical contact."
 	},
 	{
 	  id: "TCOLE_q436",
@@ -6185,7 +6188,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "E", text: "None of the above" }
 	  ],
 	  answer: "A",
-	  explain: "Texas Penal Code Â§16.01, Possession of a criminal instrument occurs when a person possesses a device specially designed or adapted for criminal use with intent to use it in the commission of an offense."
+	  explain: "Texas Penal Code §16.01, Possession of a criminal instrument occurs when a person possesses a device specially designed or adapted for criminal use with intent to use it in the commission of an offense."
 	},
 	{
 	  id: "TCOLE_q437",
@@ -6199,7 +6202,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "a restraint" }
 	  ],
 	  answer: "C",
-	  explain: "Texas Transportation Code Â§681.001, A disability includes a mobility impairment that substantially limits a person's ability to ambulate."
+	  explain: "Texas Transportation Code §681.001, A disability includes a mobility impairment that substantially limits a person's ability to ambulate."
 	},
 	{
 	  id: "TCOLE_q438",
@@ -6213,7 +6216,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "Reason for imprisonment" }
 	  ],
 	  answer: "A",
-	  explain: "Texas Transportation Code Â§724.015, A person's refusal to provide a specimen may be admissible in a subsequent prosecution."
+	  explain: "Texas Transportation Code §724.015, A person's refusal to provide a specimen may be admissible in a subsequent prosecution."
 	},
 
 	{
@@ -6228,7 +6231,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "Circulate" }
 	  ],
 	  answer: "A",
-	  explain: "Texas Health and Safety Code Â§481.002(13), Dispense means the delivery of a controlled substance in the course of professional practice or research by a practitioner or authorized person to an ultimate user or research subject."
+	  explain: "Texas Health and Safety Code §481.002(13), Dispense means the delivery of a controlled substance in the course of professional practice or research by a practitioner or authorized person to an ultimate user or research subject."
 	},
 	{
 	  id: "TCOLE_q440",
@@ -6355,7 +6358,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 		{ id: "D", text: "a newspaper editor who covers the story for a news report" }
 	  ],
 	  answer: "C",
-	  explain: "Texas Penal Code Â§1.07(a)(42), Reasonable belief means a belief that would be held by an ordinary and prudent person in the same circumstances as the actor; for peace officers this is often expressed as another peace officer acting in the same circumstances."
+	  explain: "Texas Penal Code §1.07(a)(42), Reasonable belief means a belief that would be held by an ordinary and prudent person in the same circumstances as the actor; for peace officers this is often expressed as another peace officer acting in the same circumstances."
 	}, 
 {
   id: "TCOLE_q449",
@@ -6381,7 +6384,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "E", text: "Any of the above" }
   ],
   answer: ["E"],
-  explain: "Texas Family Code Â§Â§ 82.002, 82.004, 82.010"
+  explain: "Texas Family Code §§ 82.002, 82.004, 82.010"
 },
 
 {
@@ -6394,7 +6397,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Usable" }
   ],
   answer: ["D"],
-  explain: "Texas Health and Safety Code Â§ 481.121"
+  explain: "Texas Health and Safety Code § 481.121"
 },
 
 {
@@ -6408,7 +6411,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "E", text: "None of the above" }
   ],
   answer: ["C"],
-  explain: "Texas Penal Code Â§ 38.03 Resisting Arrest, Search, or Transportation"
+  explain: "Texas Penal Code § 38.03 Resisting Arrest, Search, or Transportation"
 },
 
 {
@@ -6459,7 +6462,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "recklessly" }
   ],
   answer: ["B"],
-  explain: "Texas Penal Code Â§ 6.03(a)"
+  explain: "Texas Penal Code § 6.03(a)"
 },
 
 {
@@ -6509,7 +6512,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Compelling prostitution" }
   ],
   answer: ["D"],
-  explain: "Texas Penal Code Â§ 43.05 Compelling Prostitution - child younger than 18"
+  explain: "Texas Penal Code § 43.05 Compelling Prostitution - child younger than 18"
 },
 
 {
@@ -6522,7 +6525,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Work zone" }
   ],
   answer: ["C"],
-  explain: "Texas Transportation Code Â§ 541.302(15) School Crossing Zone"
+  explain: "Texas Transportation Code § 541.302(15) School Crossing Zone"
 },
 
 {
@@ -6535,7 +6538,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Any" }
   ],
   answer: ["D"],
-  explain: "Texas Transportation Code Â§ 543.001 Arrest Without Warrant"
+  explain: "Texas Transportation Code § 543.001 Arrest Without Warrant"
 },
 
 {
@@ -6548,7 +6551,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "state jail felony" }
   ],
   answer: ["D"],
-  explain: "Texas Penal Code Â§ 32.51 c 1 Fraudulent Use or Possession of Identifying Information"
+  explain: "Texas Penal Code § 32.51 c 1 Fraudulent Use or Possession of Identifying Information"
 },
 
 {
@@ -6589,7 +6592,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "E", text: "None of the above" }
   ],
   answer: ["C"],
-  explain: "Texas Penal Code Â§ 6.03(c) Reckless"
+  explain: "Texas Penal Code § 6.03(c) Reckless"
 },
 
 {
@@ -6628,7 +6631,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Offense" }
   ],
   answer: ["B"],
-  explain: "Texas Penal Code Â§ 1.07(a)(11) Consent"
+  explain: "Texas Penal Code § 1.07(a)(11) Consent"
 },
 
 {
@@ -6783,7 +6786,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Health law" }
   ],
   answer: ["C"],
-  explain: "Texas Penal Code Â§ 1.02 Objectives of the Penal Code; TCOLE Criminal Law Curriculum"
+  explain: "Texas Penal Code § 1.02 Objectives of the Penal Code; TCOLE Criminal Law Curriculum"
 },
 
 {
@@ -6794,7 +6797,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "B", text: "False" }
   ],
   answer: ["A"],
-  explain: "Texas Family Code Â§Â§ 262.104, 262.110"
+  explain: "Texas Family Code §§ 262.104, 262.110"
 },
 
 {
@@ -6807,7 +6810,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Railroad sign or signal" }
   ],
   answer: ["A"],
-  explain: "Texas Transportation Code Â§ 541.304 Official Traffic-Control Device"
+  explain: "Texas Transportation Code § 541.304 Official Traffic-Control Device"
 },
 
 {
@@ -6821,7 +6824,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "E", text: "No Offense" }
   ],
   answer: ["B"],
-  explain: "Texas Penal Code Â§Â§ 9.05, 19.04. Justification is unavailable when force is recklessly used against an innocent third person; reckless killing constitutes Manslaughter."
+  explain: "Texas Penal Code §§ 9.05, 19.04. Justification is unavailable when force is recklessly used against an innocent third person; reckless killing constitutes Manslaughter."
 },
 
 {
@@ -6834,7 +6837,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "3x" }
   ],
   answer: ["C"],
-  explain: "Texas Transportation Code Â§ 542.404 Construction or Maintenance Work Zone"
+  explain: "Texas Transportation Code § 542.404 Construction or Maintenance Work Zone"
 },
 
 {
@@ -6847,7 +6850,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Indeed, in fact" }
   ],
   answer: ["B"],
-  explain: "Texas Transportation Code Â§ 724.017(c)"
+  explain: "Texas Transportation Code § 724.017(c)"
 },
 
 {
@@ -6861,7 +6864,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "E", text: "8" }
   ],
   answer: ["D"],
-  explain: "Texas Penal Code Â§ 42.02 Riot"
+  explain: "Texas Penal Code § 42.02 Riot"
 },
 
 {
@@ -6874,7 +6877,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "200" }
   ],
   answer: ["B"],
-  explain: "Texas Transportation Code Â§ 545.053(a)(2)"
+  explain: "Texas Transportation Code § 545.053(a)(2)"
 },
 
 {
@@ -6888,7 +6891,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "E", text: "both c & d" }
   ],
   answer: ["C"],
-  explain: "Texas Penal Code Â§ 29.03 Aggravated Robbery"
+  explain: "Texas Penal Code § 29.03 Aggravated Robbery"
 },
 
 {
@@ -6901,7 +6904,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "throughway" }
   ],
   answer: ["B"],
-  explain: "Texas Transportation Code Â§ 541.302(5) Highway or Street"
+  explain: "Texas Transportation Code § 541.302(5) Highway or Street"
 },
 
 {
@@ -6953,7 +6956,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "ambulance" }
   ],
   answer: ["C"],
-  explain: "Texas Transportation Code Â§ 541.201(3) Bus"
+  explain: "Texas Transportation Code § 541.201(3) Bus"
 },
 
 {
@@ -6966,7 +6969,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Farm tractor" }
   ],
   answer: ["A"],
-  explain: "Texas Transportation Code Â§ 541.201(9) Motorcycle"
+  explain: "Texas Transportation Code § 541.201(9) Motorcycle"
 },
 
 {
@@ -6979,7 +6982,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Only with permission of the police officer directing traffic at such a fire emergency" }
   ],
   answer: ["C"],
-  explain: "Texas Transportation Code Â§ 545.408 Driving Over Fire Hose"
+  explain: "Texas Transportation Code § 545.408 Driving Over Fire Hose"
 },
 
 {
@@ -6992,7 +6995,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Fraud" }
   ],
   answer: ["C"],
-  explain: "Texas Penal Code Â§ 32.21 Forgery"
+  explain: "Texas Penal Code § 32.21 Forgery"
 },
 
 {
@@ -7031,7 +7034,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Strength and cardiovascular endurance" }
   ],
   answer: ["A"],
-  explain: "TCOLE Professional Police Conduct / Stress Management Curriculum"
+  explain: "Chapter 3. The Wellness Pyramid is built on a foundation of self-responsibility and stress management."
 },
 
 {
@@ -7044,7 +7047,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Flail" }
   ],
   answer: ["C"],
-  explain: "Texas Penal Code Â§ 1.07(a)(17) Deadly Weapon"
+  explain: "Texas Penal Code § 1.07(a)(17) Deadly Weapon"
 },
 
 {
@@ -7071,7 +7074,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "E", text: "None of the above" }
   ],
   answer: ["C"],
-  explain: "Texas Penal Code Â§Â§ 22.01(a)(1), 22.01(b)"
+  explain: "Texas Penal Code §§ 22.01(a)(1), 22.01(b)"
 },
 
 {
@@ -7098,7 +7101,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Criminally negligent homicide" }
   ],
   answer: ["B"],
-  explain: "Texas Penal Code Â§ 19.03(a)(2), Â§ 19.03(a)(8) Capital Murder"
+  explain: "Texas Penal Code § 19.03(a)(2), § 19.03(a)(8) Capital Murder"
 },
 
 {
@@ -7203,7 +7206,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "E", text: "Disorderly Conduct" }
   ],
   answer: ["C"],
-  explain: "Texas Penal Code Â§ 31.04 Theft of Service"
+  explain: "Texas Penal Code § 31.04 Theft of Service"
 },
 
 {
@@ -7242,7 +7245,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Monitored materials" }
   ],
   answer: ["A"],
-  explain: "Texas Health and Safety Code Â§ 481.002(7) Counterfeit Substance"
+  explain: "Texas Health and Safety Code § 481.002(7) Counterfeit Substance"
 },
 
 {
@@ -7255,7 +7258,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "All the above" }
   ],
   answer: ["D"],
-  explain: "Texas Penal Code Â§ 22.021 Aggravated Sexual Assault"
+  explain: "Texas Penal Code § 22.021 Aggravated Sexual Assault"
 },
 
 {
@@ -7308,7 +7311,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "validation lock" }
   ],
   answer: ["C"],
-  explain: "Texas Business & Commerce Code Â§ 20.031 Security Freeze"
+  explain: "Texas Business & Commerce Code § 20.031 Security Freeze"
 },
 
 {
@@ -7360,7 +7363,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "A red reflector placed on the traffic side of the disabled vehicle not less than 10 feet in the rear and in the direction of traffic" }
   ],
   answer: ["B"],
-  explain: "Texas Transportation Code Â§Â§ 547.501-547.504; flares are not required and are generally prohibited around vehicles transporting flammable liquids."
+  explain: "Texas Transportation Code §§ 547.501-547.504; flares are not required and are generally prohibited around vehicles transporting flammable liquids."
 },
 
 {
@@ -7399,7 +7402,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Tools" }
   ],
   answer: ["B"],
-  explain: "TCOLE BPOC Chapter 32, Criminal Investigation, Â§32.2(B)(i) definition"
+  explain: "TCOLE BPOC Chapter 32, Criminal Investigation, §32.2(B)(i) definition"
 },
 
 {
@@ -7426,7 +7429,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Referral to juvenile court" }
   ],
   answer: ["D"],
-  explain: "Texas Family Code Â§ 51.02(12) Referral to Juvenile Court"
+  explain: "Texas Family Code § 51.02(12) Referral to Juvenile Court"
 },
 
 {
@@ -7453,7 +7456,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Robbery" }
   ],
   answer: ["D"],
-  explain: "Texas Penal Code Â§ 29.02(a)(2) Robbery"
+  explain: "Texas Penal Code § 29.02(a)(2) Robbery"
 },
 
 {
@@ -7466,7 +7469,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "blade over 5 1/2 inches" }
   ],
   answer: ["D"],
-  explain: "Texas Penal Code Â§ 46.01(6) Location-Restricted Knife"
+  explain: "Texas Penal Code § 46.01(6) Location-Restricted Knife"
 },
 
 {
@@ -7531,7 +7534,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Making" }
   ],
   answer: ["C"],
-  explain: "Texas Health and Safety Code Â§ 481.002(38) Production"
+  explain: "Texas Health and Safety Code § 481.002(38) Production"
 },
 
 {
@@ -7544,7 +7547,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "criminal" }
   ],
   answer: ["D"],
-  explain: "Texas Penal Code Â§Â§ 36.08, 36.09 Gift to Public Servant; TCOLE Ethics Curriculum"
+  explain: "Texas Penal Code §§ 36.08, 36.09 Gift to Public Servant; TCOLE Ethics Curriculum"
 },
 
 {
@@ -7570,7 +7573,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Parking" }
   ],
   answer: ["C"],
-  explain: "Texas Transportation Code Â§ 541.401(9) Standing"
+  explain: "Texas Transportation Code § 541.401(9) Standing"
 },
 
 {
@@ -7596,7 +7599,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Noon and midnight" }
   ],
   answer: ["A"],
-  explain: "Texas Alcoholic Beverage Code Â§ 105.03 Hours of Sale: Mixed Beverages"
+  explain: "Texas Alcoholic Beverage Code § 105.03 Hours of Sale: Mixed Beverages"
 },
 
 {
@@ -7653,7 +7656,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "200" }
   ],
   answer: "A",
-  explain: "Texas Transportation Code Â§547.302, Required vehicle lighting must be displayed when persons and vehicles are not clearly discernible at a distance of 1,000 feet."
+  explain: "Texas Transportation Code §547.302, Required vehicle lighting must be displayed when persons and vehicles are not clearly discernible at a distance of 1,000 feet."
 },
 {
   id: "TCOLE_q548",
@@ -7711,7 +7714,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "The Court of Criminal Appeals" }
   ],
   answer: "A",
-  explain: "Texas Constitution Art. V Â§6, The Courts of Appeals have appellate jurisdiction in criminal cases except those in which the death penalty has been assessed."
+  explain: "Texas Constitution Art. V §6, The Courts of Appeals have appellate jurisdiction in criminal cases except those in which the death penalty has been assessed."
 },
 {
   id: "TCOLE_q552",
@@ -7769,7 +7772,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Unlawful Solicitation" }
   ],
   answer: "C",
-  explain: "Texas Penal Code Â§15.03, Criminal Solicitation occurs when a person requests, commands, or attempts to induce another to commit a capital felony or felony of the first degree."
+  explain: "Texas Penal Code §15.03, Criminal Solicitation occurs when a person requests, commands, or attempts to induce another to commit a capital felony or felony of the first degree."
 },
 {
   id: "TCOLE_q556",
@@ -7797,7 +7800,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Element" }
   ],
   answer: "B",
-  explain: "Texas Penal Code Â§1.07(a)(38), A person includes an individual, corporation, or association."
+  explain: "Texas Penal Code §1.07(a)(38), A person includes an individual, corporation, or association."
 },
 {
   id: "TCOLE_q558",
@@ -7855,7 +7858,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "acknowledgement of culpability for the offense" }
   ],
   answer: "C",
-  explain: "Texas Transportation Code Â§543.005, A signature on a traffic citation is only a written promise to appear and is not an admission of guilt."
+  explain: "Texas Transportation Code §543.005, A signature on a traffic citation is only a written promise to appear and is not an admission of guilt."
 },
 {
   id: "TCOLE_q562",
@@ -7896,7 +7899,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Passenger car" }
   ],
   answer: "D",
-  explain: "Texas Transportation Code Â§541.201, A passenger car is a motor vehicle, other than a motorcycle, designed to transport 10 or fewer persons including the operator."
+  explain: "Texas Transportation Code §541.201, A passenger car is a motor vehicle, other than a motorcycle, designed to transport 10 or fewer persons including the operator."
 },
 
 {
@@ -7925,7 +7928,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "prevent someone from committing suicide" }
   ],
   answer: "D",
-  explain: "Texas Penal Code Â§Â§9.32, 9.42, Deadly force may be justified in certain circumstances such as preventing arson or protecting life, but the Penal Code does not authorize deadly force solely to prevent a suicide."
+  explain: "Texas Penal Code §§9.32, 9.42, Deadly force may be justified in certain circumstances such as preventing arson or protecting life, but the Penal Code does not authorize deadly force solely to prevent a suicide."
 },
 {
   id: "TCOLE_q567",
@@ -7940,7 +7943,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "E", text: "All of the above are permitted" }
   ],
   answer: "E",
-  explain: "Texas Transportation Code Â§544.007, A driver facing a green signal may proceed straight, turn right, turn left, or make a lawful U-turn unless specifically prohibited."
+  explain: "Texas Transportation Code §544.007, A driver facing a green signal may proceed straight, turn right, turn left, or make a lawful U-turn unless specifically prohibited."
 },
 {
   id: "TCOLE_q568",
@@ -7967,7 +7970,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "E", text: "Obstructing Justice" }
   ],
   answer: "C",
-  explain: "Texas Penal Code Â§38.03, A person commits Resisting Arrest, Search, or Transportation when using force to prevent or obstruct a peace officer from making an arrest or conducting a search."
+  explain: "Texas Penal Code §38.03, A person commits Resisting Arrest, Search, or Transportation when using force to prevent or obstruct a peace officer from making an arrest or conducting a search."
 },
 
 {
@@ -7982,7 +7985,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "elevated higher than the road surface" }
   ],
   answer: "C",
-  explain: "Texas Transportation Code Â§541.302, A shoulder is the portion of a highway that is contiguous to and adjacent to the roadway and intended for accommodation of stopped vehicles, emergency use, and lateral support."
+  explain: "Texas Transportation Code §541.302, A shoulder is the portion of a highway that is contiguous to and adjacent to the roadway and intended for accommodation of stopped vehicles, emergency use, and lateral support."
 },
 {
   id: "TCOLE_q571",
@@ -8080,7 +8083,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "chemical dispensing device" }
   ],
   answer: "C",
-  explain: "Texas Penal Code Â§46.01 and Â§46.05, A club is specifically identified as a prohibited weapon under the Penal Code."
+  explain: "Texas Penal Code §46.01 and §46.05, A club is specifically identified as a prohibited weapon under the Penal Code."
 },
 {
   id: "TCOLE_q578",
@@ -8137,7 +8140,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "none of the above" }
   ],
   answer: "A",
-  explain: "Texas Transportation Code Â§544.008, A flashing red signal requires a driver to stop and proceed subject to the rules applicable to a stop sign."
+  explain: "Texas Transportation Code §544.008, A flashing red signal requires a driver to stop and proceed subject to the rules applicable to a stop sign."
 },
 {
   id: "TCOLE_q582",
@@ -8151,7 +8154,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Status offense" }
   ],
   answer: "A",
-  explain: "Texas Family Code Â§51.03, Delinquent conduct includes conduct, other than a traffic offense, that violates a penal law punishable by imprisonment or confinement in jail."
+  explain: "Texas Family Code §51.03, Delinquent conduct includes conduct, other than a traffic offense, that violates a penal law punishable by imprisonment or confinement in jail."
 },
 {
   id: "TCOLE_q583",
@@ -8165,7 +8168,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Farm tractor" }
   ],
   answer: "D",
-  explain: "Texas Transportation Code Â§541.201, A farm tractor is a motor vehicle designed and used primarily as a farm implement to draw implements of husbandry."
+  explain: "Texas Transportation Code §541.201, A farm tractor is a motor vehicle designed and used primarily as a farm implement to draw implements of husbandry."
 },
 {
   id: "TCOLE_q584",
@@ -8237,7 +8240,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "E", text: "any elected official on official business" }
   ],
   answer: "C",
-  explain: "Texas Transportation Code Â§545.413, Certain persons performing official duties, including postal carriers while delivering mail, are exempt from seat belt requirements."
+  explain: "Texas Transportation Code §545.413, Certain persons performing official duties, including postal carriers while delivering mail, are exempt from seat belt requirements."
 },
 {
   id: "TCOLE_q589",
@@ -8267,7 +8270,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Guardian" }
   ],
   answer: "A",
-  explain: "Texas Family Code Â§51.02(10), Party means the state, a child who is the subject of proceedings, or the child's parent, spouse, guardian, or guardian ad litem."
+  explain: "Texas Family Code §51.02(10), Party means the state, a child who is the subject of proceedings, or the child's parent, spouse, guardian, or guardian ad litem."
 },
 {
   id: "TCOLE_q591",
@@ -8281,7 +8284,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Proper force" }
   ],
   answer: "A",
-  explain: "Texas Penal Code Â§9.01(3), Deadly force is force intended or known by the actor to cause, or capable of causing, death or serious bodily injury."
+  explain: "Texas Penal Code §9.01(3), Deadly force is force intended or known by the actor to cause, or capable of causing, death or serious bodily injury."
 },
 {
   id: "TCOLE_q592",
@@ -8567,7 +8570,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "The permittee allowed a person to open a container of alcoholic beverage on an off-premises licensed establishment" }
   ],
   answer: ["A"],
-  explain: "Alcoholic Beverage Code Chapter 11 (Permits), Â§11.61 Suspension or Cancellation of Original or Renewal Permit, Â§11.64 Grounds for Suspension or Cancellation"
+  explain: "Alcoholic Beverage Code Chapter 11 (Permits), §11.61 Suspension or Cancellation of Original or Renewal Permit, §11.64 Grounds for Suspension or Cancellation"
 },
 
 {
@@ -9409,16 +9412,16 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q679",
-  prompt: "Which of the following rights is not included in the First Amendment to the U.S. Constitution?",
+  id: "TCOLE_q680",
+  prompt: "Which of the following rights is not included in the Fourth Amendment to the U.S. Constitution?",
   options: [
-    { id: "A", text: "Freedom of speech and religion" },
-    { id: "B", text: "Right to peaceably assemble" },
-    { id: "C", text: "Freedom of press" },
-    { id: "D", text: "None of the above; each is a First Amendment right" }
+    { id: "A", text: "Protection against unreasonable searches and seizures" },
+    { id: "B", text: "Requirement that warrants be supported by probable cause" },
+    { id: "C", text: "Particular description of the place to be searched and things to be seized" },
+    { id: "D", text: "Right to a speedy and public trial" }
   ],
   answer: ["D"],
-  explain: "US & TX Constitution Section 7.1"
+  explain: "US & TX Constitution Section 7.1. The Fourth Amendment protects against unreasonable searches and seizures and requires warrants to be supported by probable cause and particularity. The right to a speedy and public trial is a Sixth Amendment right."
 },
 
 {
@@ -9848,16 +9851,16 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q713",
-  prompt: "Which of the following is NOT an element that encompasses a crisis reaction?",
+  id: "TCOLE_q1853",
+  prompt: "Which of the following is NOT one of the psychological response stages of a crisis reaction?",
   options: [
-    { id: "A", text: "Trauma" },
-    { id: "B", text: "Physical response" },
-    { id: "C", text: "\"Fight or Flight\" reaction" },
-    { id: "D", text: "Nail-biting" }
+    { id: "A", text: "Shock, Disbelief, and Denial" },
+    { id: "B", text: "Cataclysm of Emotions" },
+    { id: "C", text: "Reconstruction of Equilibrium" },
+    { id: "D", text: "Acceptance of Criminal Responsibility" }
   ],
   answer: ["D"],
-  explain: "Victims of Crime Section 20.1"
+  explain: "Victims of Crime, Section 20.1. The psychological response stages of a crisis reaction are: Shock, Disbelief, and Denial; Cataclysm of Emotions; and Reconstruction of Equilibrium."
 },
 
 {
@@ -11485,16 +11488,16 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q839",
-  prompt: "A peace officer who in the regular course of duties investigates a crash should submit a crash report to TXDOT when:",
+  id: "TCOLE_q1469",
+  prompt: "According to Transportation Code 550.024, what must the operator do after striking an unattended vehicle and causing damage?",
   options: [
-    { id: "A", text: "The officer deems it necessary" },
-    { id: "B", text: "In the officer's best judgment, more than $1,000 damage has been done to any one person's property in the crash" },
-    { id: "C", text: "The insurance company requires a report for claims settlement" },
-    { id: "D", text: "The crash occurred on private property" }
+    { id: "A", text: "Immediately leave the area and contact their insurance company" },
+    { id: "B", text: "Immediately locate the owner/operator or leave written notice with identifying information" },
+    { id: "C", text: "Report the collision only if the damage exceeds $1,000" },
+    { id: "D", text: "Remain at the scene until a peace officer arrives" }
   ],
   answer: ["B"],
-  explain: "Traffic Section 22.31; TC 550.062"
+  explain: "TC 550.024. The operator of a vehicle that damages an unattended vehicle shall immediately locate the owner/operator and provide identifying information, or leave a written notice in a conspicuous place. Traffic Section 22.30."
 },
 
 {
@@ -11979,16 +11982,16 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q877",
-  prompt: "The '3 Cs' or components of the criminal justice system are:",
+  id: "TCOLE_q878",
+  prompt: "Which of the following is NOT one of the three components of the criminal justice system?",
   options: [
-    { id: "A", text: "Cops, Courts, Corrections" },
-    { id: "B", text: "Criminals, Cops, Corrections" },
-    { id: "C", text: "Civil, Criminal, Courts" },
-    { id: "D", text: "Cash, Counsel, Courts" }
+    { id: "A", text: "Law Enforcement" },
+    { id: "B", text: "Courts" },
+    { id: "C", text: "Corrections" },
+    { id: "D", text: "Legislature" }
   ],
-  answer: ["A"],
-  explain: "US & TX Constitution Section 7.2"
+  answer: ["D"],
+  explain: "US & TX Constitution, Section 7.2. The three components of the criminal justice system are Law Enforcement, Courts, and Corrections. The Legislature creates laws but is not one of the three components of the criminal justice system. 【1-79a2d4】"
 },
 
 {
@@ -13457,7 +13460,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Have the person minimize exertion" }
   ],
   answer: ["A"],
-  explain: "EMS Training"
+  explain: "40. Emergency Medical Assistance. Appropriate actions include calling EMS, providing supportive care, and minimizing exertion. Laying the person down may worsen breathing difficulties."
 },
 
 {
@@ -13874,7 +13877,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
   ],
   answer: ["B"],
   explain: "A Class M license authorizes the operation of a motorcycle. A motorcycle is a motor vehicle, other than a tractor or moped, equipped with a rider's saddle and designed to travel on not more than three wheels.",
-  reference: "TC Â§Â§ 521.084, 541.201(9)"
+  reference: "TC §521.084, 541.201(9)"
 },
 
 {
@@ -14216,16 +14219,16 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1049",
-  prompt: "Which of the following is not an element that encompasses a crisis reaction?",
+  id: "TCOLE_q1854",
+  prompt: "Which of the following is NOT considered part of the range of the crisis reaction?",
   options: [
-    { id: "A", text: "Trauma" },
-    { id: "B", text: "Physical Response" },
-    { id: "C", text: "Fight or Flight reaction" },
-    { id: "D", text: "Nail-Biting" }
+    { id: "A", text: "Shock" },
+    { id: "B", text: "Panic" },
+    { id: "C", text: "Hostility and resentment" },
+    { id: "D", text: "Professional confidence" }
   ],
   answer: ["D"],
-  explain: "Victims of Crime, Section 20.1"
+  explain: "Victims of Crime, Section 20.1. The range of the crisis reaction includes shock, depression and loneliness, panic, hostility and resentment, hope, emotion, physical symptoms of distress, guilt, inability to resume normal activities, and affirming reality."
 },
 
 {
@@ -14450,16 +14453,16 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1067",
-  prompt: "Ethics is defined as:",
+  id: "TCOLE_q1068",
+  prompt: "Which of the following does NOT describe professionalism?",
   options: [
-    { id: "A", text: "A code of values which defines our choices and actions and determines the purpose and course of our lives" },
-    { id: "B", text: "Scripted orders that must be followed by every law enforcement officer" },
-    { id: "C", text: "The occupation that one professes to be skilled in and to follow" },
-    { id: "D", text: "None of the above defines ethics" }
+    { id: "A", text: "A commitment to ethical conduct and accountability" },
+    { id: "B", text: "Maintaining competence through training and education" },
+    { id: "C", text: "Conducting oneself in a manner that promotes public trust" },
+    { id: "D", text: "Using personal opinions or biases to influence official decisions" }
   ],
-  answer: ["A"],
-  explain: "Professionalism & Ethics, Section 1.3"
+  answer: ["D"],
+  explain: "Professionalism & Ethics, Section 1.3. Professionalism requires ethical conduct, competence, accountability, and maintaining public trust. Personal bias should not influence official actions."
 },
 
 {
@@ -15061,15 +15064,15 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q1114",
-  prompt: "According to the Wellness Pyramid, which of the following forms the foundation of long-term wellness?",
+  prompt: "According to the Color Codes of Awareness, which condition represents an officer who is alert to surroundings, paying attention to noises, movement, smells, and the actions of others?",
   options: [
-    { id: "A", text: "Exercise, Proper Nutrition" },
-    { id: "B", text: "Weight Control, Stress Management" },
-    { id: "C", text: "Self-Responsibility, Smoking Cessation" },
-    { id: "D", text: "Nutrition, Weight Control" }
+    { id: "A", text: "Condition White" },
+    { id: "B", text: "Condition Yellow" },
+    { id: "C", text: "Condition Orange" },
+    { id: "D", text: "Condition Red" }
   ],
-  answer: ["C"],
-  explain: "The Wellness Pyramid identifies self-responsibility and smoking cessation as the foundation upon which other wellness practices, such as exercise, nutrition, weight control, and stress management, are built. Fitness, Section 3.1"
+  answer: ["B"],
+  explain: "Patrol Skills, Section 35.3. Condition Yellow means an officer is alert to surroundings and paying attention to noises, movement, smells, and the actions of others. The course specifically states that Condition Yellow is a lifetime commitment for peace officers."
 },
 
 {
@@ -15463,16 +15466,16 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1145",
-  prompt: "Which of the following is not an element that encompasses a crisis reaction?",
+  id: "TCOLE_q1855",
+  prompt: "Which of the following is NOT considered an additional psychological response to trauma?",
   options: [
-    { id: "A", text: "Trauma" },
-    { id: "B", text: "Physical Response" },
-    { id: "C", text: "Fight or Flight reaction" },
-    { id: "D", text: "Nail-Biting" }
+    { id: "A", text: "Memory problems" },
+    { id: "B", text: "Intrusive thoughts" },
+    { id: "C", text: "Poor judgment" },
+    { id: "D", text: "Improved decision-making ability" }
   ],
   answer: ["D"],
-  explain: "Victims of Crime, Section 20.1"
+  explain: "Victims of Crime, Section 20.1. Additional psychological responses to trauma include memory problems, intrusive thoughts, flashbacks, poor judgment, and difficulty making decisions."
 },
 
 {
@@ -16594,16 +16597,16 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1232",
-  prompt: "During DWI Detection Phase 1 - Vehicle in Motion, the officer's principal decision is whether or not to:",
+  id: "TCOLE_q1518",
+  prompt: "During DWI Detection Phase 3 – Pre-Arrest Screening, the officer's primary purpose is to:",
   options: [
-    { id: "A", text: "Ask the operator to step out of the vehicle" },
-    { id: "B", text: "Arrest the operator" },
-    { id: "C", text: "Administer the field sobriety test" },
-    { id: "D", text: "Stop the vehicle" }
+    { id: "A", text: "Determine whether probable cause exists to arrest the driver for DWI" },
+    { id: "B", text: "Issue a traffic citation" },
+    { id: "C", text: "Request a blood specimen" },
+    { id: "D", text: "Verify vehicle registration and insurance" }
   ],
-  answer: ["D"],
-  explain: "SFST Manual, Session 5"
+  answer: ["A"],
+  explain: "SFST Training. Detection and apprehension of the intoxicated driver involves three phases: Vehicle in Motion, Personal Contact, and Pre-Arrest Screening. During Pre-Arrest Screening, the officer uses observations and standardized field sobriety testing to determine whether probable cause exists for a DWI arrest. 【1-ebb21c】"
 },
 
 {
@@ -16798,7 +16801,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "120" }
   ],
   answer: ["C"],
-  explain: "37 Tex. Admin. Code Â§ 223.15 - License Suspension "
+  explain: "37 Tex. Admin. Code 223.15 - License Suspension "
 },
 
 {
@@ -17294,7 +17297,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q1286",
-  prompt: "During DWI Detection Phase 2 â€“ Personal Contact, the officer's principal decision is whether or not to:",
+  prompt: "During DWI Detection Phase 2 Personal Contact, the officer's principal decision is whether or not to:",
   options: [
     { id: "A", text: "Administer the field sobriety test" },
     { id: "B", text: "Administer a chemical test" },
@@ -18359,7 +18362,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Nighttime" }
   ],
   answer: ["A"],
-  explain: "IRG22 Â§22.32, distracted driving is a driver factor/behavior"
+  explain: "IRG22 §22.32, distracted driving is a driver factor/behavior"
 },
 
 {
@@ -18894,7 +18897,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Tampering with child custody" }
   ],
   answer: ["A"],
-  explain: "Texas Penal Code Â§25.04 is titled 'Enticing a Child.' The offense concerns persuading or taking a child from lawful custody with intent to interfere with that custody. 'Tampering with child custody' is not the title of a Texas Penal Code offense."
+  explain: "Texas Penal Code §25.04 is titled 'Enticing a Child.' The offense concerns persuading or taking a child from lawful custody with intent to interfere with that custody. 'Tampering with child custody' is not the title of a Texas Penal Code offense."
 },
 
 {
@@ -19639,16 +19642,16 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1466",
-  prompt: "A peace officer who in the regular course of duties investigates a crash should submit a crash report to TXDOT when:",
+  id: "TCOLE_q1467",
+  prompt: "A peace officer who investigates a motor vehicle crash in the regular course of duty shall submit a written crash report to TXDOT if the crash results in:",
   options: [
-    { id: "A", text: "Any one person suffers injury or death related to a crash on a public roadway" },
-    { id: "B", text: "The damage to any one person's property is less than $1000" },
-    { id: "C", text: "The crash occurred on private property" },
-    { id: "D", text: "Both B and C" }
+    { id: "A", text: "Damage to property of any one person to the apparent extent of $1,000 or more" },
+    { id: "B", text: "Only minor vehicle damage with no injuries" },
+    { id: "C", text: "A vehicle becoming disabled on the roadway" },
+    { id: "D", text: "A traffic citation being issued" }
   ],
   answer: ["A"],
-  explain: "TC 550.062(a); Traffic Section 22.31"
+  explain: "TC 550.062(a). A peace officer shall make a written crash report if the accident resulted in injury or death of a person, or damage to property of any one person to the apparent extent of $1,000 or more. Traffic Section 22.30."
 },
 
 {
@@ -20303,15 +20306,15 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q1517",
-  prompt: "During DWI Detection Phase 2 â€“ Personal Contact, the officer's principal decision is whether or not to:",
+  prompt: "During DWI Detection Phase 1 – Vehicle in Motion, the officer's primary task is to:",
   options: [
-    { id: "A", text: "Administer the field sobriety test" },
-    { id: "B", text: "Administer a chemical test" },
-    { id: "C", text: "Ask the operator to step out of the vehicle" },
-    { id: "D", text: "Arrest the operator" }
+    { id: "A", text: "Determine whether to administer a chemical test" },
+    { id: "B", text: "Observe the vehicle in operation and look for indicators of impairment" },
+    { id: "C", text: "Decide whether to arrest the driver" },
+    { id: "D", text: "Administer standardized field sobriety tests" }
   ],
-  answer: ["C"],
-  explain: "SFST Manual"
+  answer: ["B"],
+  explain: "DWI Detection Phase 1 is 'Vehicle in Motion.' During this phase, the officer observes driving behavior and vehicle operation for cues of possible impairment before initiating contact with the driver. Detection consists of three phases: Vehicle in Motion, Personal Contact, and Pre-Arrest Screening."
 },
 
 {
@@ -20911,7 +20914,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "All of the above" }
   ],
   answer: ["D"],
-  explain: "Safety chains are required as a secondary means of attachment for trailers being towed. House trailers, farm trailers, and semitrailers are all trailer-type vehicles that must be securely connected while in tow. TC Â§ 545.410; Traffic Code and Crash Investigations, Section 22.18."
+  explain: "Safety chains are required as a secondary means of attachment for trailers being towed. House trailers, farm trailers, and semitrailers are all trailer-type vehicles that must be securely connected while in tow. TC § 545.410; Traffic Code and Crash Investigations, Section 22.18."
 },
 
 {
@@ -21709,16 +21712,16 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1624",
-  prompt: "During DWI Detection Phase 2 â€“ Personal Contact, the officer's principal decision is whether or not to:",
+  id: "TCOLE_q1625",
+  prompt: "According to the Standardized Field Sobriety Testing (SFST) system, DWI detection and apprehension is divided into how many phases?",
   options: [
-    { id: "A", text: "Administer the field sobriety test" },
-    { id: "B", text: "Administer a chemical test" },
-    { id: "C", text: "Ask the operator to step out of the vehicle" },
-    { id: "D", text: "Arrest the operator" }
+    { id: "A", text: "2 phases" },
+    { id: "B", text: "3 phases" },
+    { id: "C", text: "4 phases" },
+    { id: "D", text: "5 phases" }
   ],
-  answer: ["C"],
-  explain: "SFST Manual"
+  answer: ["B"],
+  explain: "SFST Training. The detection and apprehension process is divided into three phases: Phase One - Vehicle in Motion, Phase Two - Personal Contact, and Phase Three - Pre-Arrest Screening. During each phase, the officer gathers information to determine whether further investigation or enforcement action is appropriate."
 },
 
 {
@@ -22305,7 +22308,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
   ],
   answer: ["C"],
   explain: "A person commits Indecent Assault if, without the other person's consent and with intent to arouse or gratify the sexual desire of any person, the actor touches the breast of another person. The conduct described falls squarely within the elements of Indecent Assault.",
-  reference: "PC Â§ 22.012(a)(1)"
+  reference: "PC § 22.012(a)(1)"
 },
 
 {
@@ -23557,16 +23560,16 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1766",
-  prompt: "Which of the following rights is not included in the First Amendment to the U.S. Constitution?",
+  id: "TCOLE_q1767",
+  prompt: "Which of the following rights is not included in the Sixth Amendment to the U.S. Constitution?",
   options: [
-    { id: "A", text: "Freedom of speech and religion" },
-    { id: "B", text: "Right to peaceably assemble" },
-    { id: "C", text: "Freedom of press" },
-    { id: "D", text: "None of the above â€“ each is a First Amendment right" }
+    { id: "A", text: "Right to a speedy and public trial" },
+    { id: "B", text: "Right to assistance of counsel" },
+    { id: "C", text: "Right to confront witnesses" },
+    { id: "D", text: "Protection against unreasonable searches and seizures" }
   ],
   answer: ["D"],
-  explain: "US & TX Constitution, Section 7.1, page 1 of 8"
+  explain: "US & TX Constitution, Section 7.1. The Sixth Amendment includes the right to a speedy and public trial, impartial jury, confrontation of witnesses, compulsory process, and assistance of counsel. Protection against unreasonable searches and seizures is found in the Fourth Amendment."
 },
 
 {
@@ -23688,7 +23691,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q1776",
-  prompt: "Under Texas Penal Code Â§ 2.04, what must a defendant do to establish an affirmative defense?",
+  prompt: "Under Texas Penal Code § 2.04, what must a defendant do to establish an affirmative defense?",
   options: [
     { id: "A", text: "Prove the affirmative defense beyond a reasonable doubt" },
     { id: "B", text: "Prove the affirmative defense by a preponderance of the evidence" },
@@ -23696,7 +23699,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Present some evidence and require the State to disprove the defense by clear and convincing evidence" }
   ],
   answer: ["B"],
-  explain: "Texas Penal Code Â§ 2.04(d) provides that the defendant must prove an affirmative defense by a preponderance of the evidence."
+  explain: "Texas Penal Code § 2.04(d) provides that the defendant must prove an affirmative defense by a preponderance of the evidence."
 },
 
 {
@@ -24662,16 +24665,16 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1851",
-  prompt: "Which of the following is not an element that encompasses a crisis reaction?",
+  id: "TCOLE_q1852",
+  prompt: "Which of the following is NOT listed as an additional psychological response to trauma?",
   options: [
-    { id: "A", text: "Trauma" },
-    { id: "B", text: "Physical Response" },
-    { id: "C", text: "Fight or Flight reaction" },
-    { id: "D", text: "Nail-Biting" }
+    { id: "A", text: "Memory problems" },
+    { id: "B", text: "Flashbacks of a previous trauma" },
+    { id: "C", text: "Poor judgment" },
+    { id: "D", text: "Exceptional decision-making skills" }
   ],
   answer: ["D"],
-  explain: "Victims of Crime, Section 20.1, page 1 of 13"
+  explain: "Victims of Crime, Section 20.1. Additional psychological responses include memory problems, flashbacks of a previous trauma, intrusive thoughts, poor judgment, and difficulty making decisions."
 },
 
 {
@@ -25403,8 +25406,8 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Committed in the presence of a magistrate" }
   ],
   answer: ["A"],
-  explain: "A peace officer shall arrest, without a warrant, a person the officer has probable cause to believe committed an offense under PC Â§ 25.07 when the offense is committed in the officer's presence.",
-  reference: "CCP Art. 14.03(b); PC Â§ 25.07"
+  explain: "A peace officer shall arrest, without a warrant, a person the officer has probable cause to believe committed an offense under PC § 25.07 when the offense is committed in the officer's presence.",
+  reference: "CCP Art. 14.03(b); PC § 25.07"
 },
 
 {
@@ -26614,7 +26617,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Excuses criminal responsibility if the defense is proven by evidence" }
   ],
   answer: ["D"],
-  explain: "Texas Penal Code Â§2.04 provides that the defendant bears the burden of proving an affirmative defense by a preponderance of the evidence. If established, the affirmative defense excuses criminal responsibility."
+  explain: "Texas Penal Code §2.04 provides that the defendant bears the burden of proving an affirmative defense by a preponderance of the evidence. If established, the affirmative defense excuses criminal responsibility."
 },
 
 {
@@ -30606,7 +30609,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Trailer" }
   ],
   answer: ["B"],
-  explain: "Transportation Code Â§541.201. A bus is a motor vehicle designed to transport more than 10 persons, including the driver."
+  explain: "Transportation Code §541.201. A bus is a motor vehicle designed to transport more than 10 persons, including the driver."
 },
 
 {
@@ -30671,7 +30674,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Unlawful Restraint" }
   ],
   answer: ["B"],
-  explain: "Penal Code Â§31.03. Theft occurs when a person unlawfully appropriates property with intent to deprive the owner of the property."
+  explain: "Penal Code §31.03. Theft occurs when a person unlawfully appropriates property with intent to deprive the owner of the property."
 },
 
 {
@@ -30684,7 +30687,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Circulate" }
   ],
   answer: ["C"],
-  explain: "Health and Safety Code Â§481.002. 'Dispense' means to deliver a controlled substance in the course of professional practice to an ultimate user or research subject."
+  explain: "Health and Safety Code §481.002. 'Dispense' means to deliver a controlled substance in the course of professional practice to an ultimate user or research subject."
 },
 
 {
@@ -30697,7 +30700,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Unlawful Detention" }
   ],
   answer: ["C"],
-  explain: "Penal Code Â§20.03. A person commits kidnapping if the person intentionally or knowingly abducts another person."
+  explain: "Penal Code §20.03. A person commits kidnapping if the person intentionally or knowingly abducts another person."
 },
 
 {
@@ -30734,7 +30737,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "First Anniversary" }
   ],
   answer: ["D"],
-  explain: "Occupations Code Â§1701.357. A retired officer's firearms proficiency certificate expires on the first anniversary of the date it was issued."
+  explain: "Occupations Code §1701.357. A retired officer's firearms proficiency certificate expires on the first anniversary of the date it was issued."
 },
 
 {
@@ -30745,7 +30748,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "B", text: "False" }
   ],
   answer: ["A"],
-  explain: "Penal Code Â§30.02. For burglary offenses, daytime is defined as beginning 30 minutes before sunrise and ending 30 minutes after sunset."
+  explain: "Penal Code §30.02. For burglary offenses, daytime is defined as beginning 30 minutes before sunrise and ending 30 minutes after sunset."
 },
 
 {
@@ -30771,7 +30774,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Sexual Assault" }
   ],
   answer: ["D"],
-  explain: "Penal Code Â§22.011. Sexual assault occurs when a person intentionally or knowingly causes the penetration of another person's sexual organ, anus, or mouth without consent."
+  explain: "Penal Code §22.011. Sexual assault occurs when a person intentionally or knowingly causes the penetration of another person's sexual organ, anus, or mouth without consent."
 },
 
 {
@@ -30888,7 +30891,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Other than in a marked crosswalk" }
   ],
   answer: ["D"],
-  explain: "Transportation Code Â§552.005. A pedestrian crossing a roadway at any point other than a marked or unmarked crosswalk must yield the right-of-way to vehicles."
+  explain: "Transportation Code §552.005. A pedestrian crossing a roadway at any point other than a marked or unmarked crosswalk must yield the right-of-way to vehicles."
 },
 
 {
@@ -30901,7 +30904,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Horse and Buggy Cart" }
   ],
   answer: ["B"],
-  explain: "Transportation Code Â§541.201. A motor vehicle is a self-propelled vehicle or one propelled by electric power from overhead trolley wires."
+  explain: "Transportation Code §541.201. A motor vehicle is a self-propelled vehicle or one propelled by electric power from overhead trolley wires."
 },
 
 {
@@ -30927,7 +30930,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Not be, not be" }
   ],
   answer: ["D"],
-  explain: "Transportation Code Â§724.017. Taking a specimen from a resisting subject does not itself constitute negligence and may not be considered evidence of negligence."
+  explain: "Transportation Code §724.017. Taking a specimen from a resisting subject does not itself constitute negligence and may not be considered evidence of negligence."
 },
 
 {
@@ -30953,7 +30956,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Problematic" }
   ],
   answer: ["C"],
-  explain: "Problem area patrols are divided into Preventive Patrol and Apprehension Patrol. Apprehension patrols emphasize covert or low-visibility tactics, including surveillance, to locate and apprehend offenders. Patrol Skills Â§35.5"
+  explain: "Problem area patrols are divided into Preventive Patrol and Apprehension Patrol. Apprehension patrols emphasize covert or low-visibility tactics, including surveillance, to locate and apprehend offenders. Patrol Skills §35.5"
 },
 
 {
@@ -31004,7 +31007,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "The signal is malfunctioning" }
   ],
   answer: ["A"],
-  explain: "Transportation Code Â§544.007. A steady yellow signal warns that the related green movement is ending and a red signal will soon be displayed."
+  explain: "Transportation Code §544.007. A steady yellow signal warns that the related green movement is ending and a red signal will soon be displayed."
 },
 
 {
@@ -31030,7 +31033,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Voluntarily" }
   ],
   answer: ["D"],
-  explain: "Penal Code Â§6.01. A person commits an offense only if they voluntarily engage in conduct, including an act, omission, or possession."
+  explain: "Penal Code §6.01. A person commits an offense only if they voluntarily engage in conduct, including an act, omission, or possession."
 },
 
 {
@@ -31043,7 +31046,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Interference With Child Custody" }
   ],
   answer: ["C"],
-  explain: "Penal Code Â§20.04. Kidnapping becomes aggravated kidnapping when the offender abducts a person and holds them for ransom or reward."
+  explain: "Penal Code §20.04. Kidnapping becomes aggravated kidnapping when the offender abducts a person and holds them for ransom or reward."
 },
 
 {
@@ -31082,7 +31085,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Unlawful" }
   ],
   answer: ["D"],
-  explain: "Penal Code Â§9.01. 'Unlawful' means conduct that is criminal or tortious, including conduct that would be criminal or tortious but for a defense not amounting to justification or privilege."
+  explain: "Penal Code §9.01. 'Unlawful' means conduct that is criminal or tortious, including conduct that would be criminal or tortious but for a defense not amounting to justification or privilege."
 },
 
 {
@@ -31108,7 +31111,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Assault" }
   ],
   answer: ["D"],
-  explain: "Penal Code Â§22.01. Assault includes causing bodily injury, threatening imminent bodily injury, or making offensive or provocative physical contact."
+  explain: "Penal Code §22.01. Assault includes causing bodily injury, threatening imminent bodily injury, or making offensive or provocative physical contact."
 },
 
 {
@@ -31147,7 +31150,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Paved Road" }
   ],
   answer: ["A"],
-  explain: "Transportation Code Â§541.302. 'Roadway' means the portion of a highway improved, designed, or ordinarily used for vehicular travel, excluding the berm or shoulder."
+  explain: "Transportation Code §541.302. 'Roadway' means the portion of a highway improved, designed, or ordinarily used for vehicular travel, excluding the berm or shoulder."
 },
 
 {
@@ -31186,7 +31189,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Disorderly Conduct" }
   ],
   answer: ["B"],
-  explain: "Penal Code Â§31.04. A person commits Theft of Service if, with intent to avoid payment, the person secures performance of a service and intentionally leaves without paying."
+  explain: "Penal Code §31.04. A person commits Theft of Service if, with intent to avoid payment, the person secures performance of a service and intentionally leaves without paying."
 },
 
 {
@@ -31213,7 +31216,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "E", text: "None of the above" }
   ],
   answer: ["C"],
-  explain: "Penal Code Â§15.01(d). Criminal Attempt is generally punished one category lower than the offense attempted."
+  explain: "Penal Code §15.01(d). Criminal Attempt is generally punished one category lower than the offense attempted."
 },
 
 {
@@ -31226,7 +31229,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Both A and B" }
   ],
   answer: ["B"],
-  explain: "18 U.S.C. Â§241. Conspiracy Against Rights occurs when two or more persons conspire to interfere with rights secured by the Constitution or federal law."
+  explain: "18 U.S.C. §241. Conspiracy Against Rights occurs when two or more persons conspire to interfere with rights secured by the Constitution or federal law."
 },
 
 {
@@ -31265,7 +31268,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "180 days" }
   ],
   answer: ["A"],
-  explain: "TCOLE Rules Â§217.1. A license holder arrested for an offense above a Class C misdemeanor must report the arrest to TCOLE in writing within 30 days."
+  explain: "TCOLE Rules §217.1. A license holder arrested for an offense above a Class C misdemeanor must report the arrest to TCOLE in writing within 30 days."
 },
 
 {
@@ -31373,7 +31376,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Guardian" }
   ],
   answer: ["B"],
-  explain: "Family Code Â§51.02. 'Custodian' means a person, agency, or institution that has legal custody of a child under a court order."
+  explain: "Family Code §51.02. 'Custodian' means a person, agency, or institution that has legal custody of a child under a court order."
 },
 
 {
@@ -31386,7 +31389,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Aggravated Rape" }
   ],
   answer: ["C"],
-  explain: "Penal Code Â§22.011. A person commits Sexual Assault by intentionally or knowingly causing the penetration of another person's anus or sexual organ without that person's consent."
+  explain: "Penal Code §22.011. A person commits Sexual Assault by intentionally or knowingly causing the penetration of another person's anus or sexual organ without that person's consent."
 },
 
 {
@@ -31400,7 +31403,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "E", text: "All of the above" }
   ],
   answer: ["E"],
-  explain: "Transportation Code Â§545.256. A driver emerging from an alley, driveway, or building must stop before the sidewalk and yield the right-of-way to pedestrians and approaching vehicles."
+  explain: "Transportation Code §545.256. A driver emerging from an alley, driveway, or building must stop before the sidewalk and yield the right-of-way to pedestrians and approaching vehicles."
 },
 
 {
@@ -31414,7 +31417,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "E", text: "None of the above" }
   ],
   answer: ["C"],
-  explain: "Penal Code Â§25.07. A person commits Violation of Certain Court Orders or Conditions of Bond by knowingly going to or near a location prohibited by a valid protective order."
+  explain: "Penal Code §25.07. A person commits Violation of Certain Court Orders or Conditions of Bond by knowingly going to or near a location prohibited by a valid protective order."
 },
 
 {
@@ -31440,7 +31443,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Robbery" }
   ],
   answer: ["D"],
-  explain: "Penal Code Â§29.02. A person commits Robbery if, during the course of committing theft, the person intentionally or knowingly threatens or places another in fear of imminent bodily injury or death."
+  explain: "Penal Code §29.02. A person commits Robbery if, during the course of committing theft, the person intentionally or knowingly threatens or places another in fear of imminent bodily injury or death."
 },
 
 {
@@ -31453,7 +31456,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Verbal Consent" }
   ],
   answer: ["B"],
-  explain: "Penal Code Â§31.01. Effective consent includes consent by a person legally authorized to act for the owner."
+  explain: "Penal Code §31.01. Effective consent includes consent by a person legally authorized to act for the owner."
 },
 
 {
@@ -31466,7 +31469,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Raw Material" }
   ],
   answer: ["A"],
-  explain: "Health and Safety Code Â§481.002. An immediate precursor is a principal compound commonly used or produced primarily for use in manufacturing a controlled substance."
+  explain: "Health and Safety Code §481.002. An immediate precursor is a principal compound commonly used or produced primarily for use in manufacturing a controlled substance."
 },
 
 {
@@ -31492,7 +31495,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "When they can get to them" }
   ],
   answer: ["C"],
-  explain: "Professional Policing,Â§2.5 Traditional Police Service Model - Reactive, police respond to and investigate crimes after they have been committed."
+  explain: "Professional Policing,§2.5 Traditional Police Service Model - Reactive, police respond to and investigate crimes after they have been committed."
 },
 
 {
@@ -31506,7 +31509,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "E", text: "Laned Roadway" }
   ],
   answer: ["A"],
-  explain: "Transportation Code Â§541.302. A freeway is a divided, controlled-access highway designed for through traffic."
+  explain: "Transportation Code §541.302. A freeway is a divided, controlled-access highway designed for through traffic."
 },
 
 {
@@ -31559,7 +31562,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Guardian" }
   ],
   answer: ["A"],
-  explain: "Family Code Â§51.02. 'Party' means the state, the child who is the subject of proceedings, or the child's parent, spouse, guardian, or guardian ad litem."
+  explain: "Family Code §51.02. 'Party' means the state, the child who is the subject of proceedings, or the child's parent, spouse, guardian, or guardian ad litem."
 },
 
 {
@@ -31577,15 +31580,15 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q2378",
-  prompt: "A __________ is a slow moving and methodical team whose mission is to search for and recover downed citizens or officers.",
+  prompt: "A __________ team covers search team as they enter the building, and then guards the place of entry/exits providing any help possible.",
   options: [
     { id: "A", text: "Rescue Team" },
-    { id: "B", text: "Recovery Team" },
+    { id: "B", text: "Backup Team" },
     { id: "C", text: "Contact Team" },
     { id: "D", text: "Search Team" }
   ],
   answer: ["A"],
-  explain: "Active Shooter Response. A Rescue Team is a slow, methodical team tasked with locating and recovering injured citizens or officers from a dangerous area."
+  explain: "35.21 Patrol Skills, List the procedures for safe building searches."
 },
 
 {
@@ -31599,7 +31602,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "E", text: "None of the Above" }
   ],
   answer: ["C"],
-  explain: "Penal Code Â§22.01. Assault causing bodily injury is generally a Class A misdemeanor unless enhanced by specific circumstances."
+  explain: "Penal Code §22.01. Assault causing bodily injury is generally a Class A misdemeanor unless enhanced by specific circumstances."
 },
 
 {
@@ -31651,7 +31654,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Cross, Direct, Recross, Redirect" }
   ],
   answer: ["B"],
-  explain: "Explanation: Per 32. Criminal Investigations.md,Â§32.54 (Methods of Court Procedure), witnesses are questioned in the order of Direct Examination, Cross-Examination, Redirect Examination, and Recross-Examination. Therefore, the correct sequence is Direct, Cross, Redirect, Recross."
+  explain: "Explanation: Per 32. Criminal Investigations.md,§32.54 (Methods of Court Procedure), witnesses are questioned in the order of Direct Examination, Cross-Examination, Redirect Examination, and Recross-Examination. Therefore, the correct sequence is Direct, Cross, Redirect, Recross."
 },
 
 {
@@ -31755,7 +31758,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Unlawful Solicitation" }
   ],
   answer: ["C"],
-  explain: "Penal Code Â§15.03. Criminal Solicitation occurs when a person requests, commands, or attempts to induce another to commit a capital felony or felony of the first degree."
+  explain: "Penal Code §15.03. Criminal Solicitation occurs when a person requests, commands, or attempts to induce another to commit a capital felony or felony of the first degree."
 },
 
 {
