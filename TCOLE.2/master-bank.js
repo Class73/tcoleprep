@@ -9412,7 +9412,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q680",
+  id: "TCOLE_q679",
   prompt: "Which of the following rights is not included in the Fourth Amendment to the U.S. Constitution?",
   options: [
     { id: "A", text: "Protection against unreasonable searches and seizures" },
@@ -9851,7 +9851,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1853",
+  id: "TCOLE_q713",
   prompt: "Which of the following is NOT one of the psychological response stages of a crisis reaction?",
   options: [
     { id: "A", text: "Shock, Disbelief, and Denial" },
@@ -11488,7 +11488,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1469",
+  id: "TCOLE_q839",
   prompt: "According to Transportation Code 550.024, what must the operator do after striking an unattended vehicle and causing damage?",
   options: [
     { id: "A", text: "Immediately leave the area and contact their insurance company" },
@@ -11982,7 +11982,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q878",
+  id: "TCOLE_q877",
   prompt: "Which of the following is NOT one of the three components of the criminal justice system?",
   options: [
     { id: "A", text: "Law Enforcement" },
@@ -14219,7 +14219,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1854",
+  id: "TCOLE_q1049",
   prompt: "Which of the following is NOT considered part of the range of the crisis reaction?",
   options: [
     { id: "A", text: "Shock" },
@@ -14453,7 +14453,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1068",
+  id: "TCOLE_q1067",
   prompt: "Which of the following does NOT describe professionalism?",
   options: [
     { id: "A", text: "A commitment to ethical conduct and accountability" },
@@ -15466,7 +15466,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1855",
+  id: "TCOLE_q1145",
   prompt: "Which of the following is NOT considered an additional psychological response to trauma?",
   options: [
     { id: "A", text: "Memory problems" },
@@ -16597,7 +16597,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1518",
+  id: "TCOLE_q1232",
   prompt: "During DWI Detection Phase 3 – Pre-Arrest Screening, the officer's primary purpose is to:",
   options: [
     { id: "A", text: "Determine whether probable cause exists to arrest the driver for DWI" },
@@ -19642,7 +19642,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1467",
+  id: "TCOLE_q1466",
   prompt: "A peace officer who investigates a motor vehicle crash in the regular course of duty shall submit a written crash report to TXDOT if the crash results in:",
   options: [
     { id: "A", text: "Damage to property of any one person to the apparent extent of $1,000 or more" },
@@ -21712,7 +21712,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1625",
+  id: "TCOLE_q1624",
   prompt: "According to the Standardized Field Sobriety Testing (SFST) system, DWI detection and apprehension is divided into how many phases?",
   options: [
     { id: "A", text: "2 phases" },
@@ -23352,7 +23352,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1750",
+  id: "TCOLE_q1749",
   prompt: "What type of entry is necessary in the crime of burglary?",
   options: [
     { id: "A", text: "The full body of the actor must enter the building" },
@@ -23365,7 +23365,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1751",
+  id: "TCOLE_q1750",
   prompt: "A peace officer who seizes property under Chapter 59 of the CCP will place the property under seal in the property room no later than:",
   options: [
     { id: "A", text: "72 hours" },
@@ -23378,7 +23378,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1752",
+  id: "TCOLE_q1751",
   prompt: "A criminal offense against a person or property which is motivated, in whole or in part, by the offender's bias against race, religion, ethnic/national origin group, or sexual orientation group is a:",
   options: [
     { id: "A", text: "Prejudice" },
@@ -23391,7 +23391,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1753",
+  id: "TCOLE_q1752",
   prompt: "If you lose your duty weapon during an altercation:",
   options: [
     { id: "A", text: "Run away from the spot as quickly as possible" },
@@ -23404,7 +23404,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1754",
+  id: "TCOLE_q1753",
   prompt: "Under what circumstances can a magistrate verbally order a peace officer to arrest an offender without a warrant?",
   options: [
     { id: "A", text: "Felonies committed in the magistrate's presence or view" },
@@ -23417,7 +23417,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1755",
+  id: "TCOLE_q1754",
   prompt: "__________ can be both an emotional and physical problem for an officer and an arrestee.",
   options: [
     { id: "A", text: "Detention" },
@@ -23430,7 +23430,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1756",
+  id: "TCOLE_q1755",
   prompt: "An operator moving around a rotary traffic island shall:",
   options: [
     { id: "A", text: "Always drive to the left of the island" },
@@ -23443,7 +23443,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1757",
+  id: "TCOLE_q1756",
   prompt: "A conviction for a felony in Texas could be appealed to the:",
   options: [
     { id: "A", text: "U.S. District Court" },
@@ -23456,7 +23456,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1758",
+  id: "TCOLE_q1757",
   prompt: "People often speak in incomplete sentences. Written communication must state complete thoughts. When someone writes the same way he talks, two serious grammatical errors occur. These errors are best described as:",
   options: [
     { id: "A", text: "Sentence verb inconsistencies" },
@@ -23469,7 +23469,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1759",
+  id: "TCOLE_q1758",
   prompt: "________________ is a peace officer's purpose or intention to take a person into the custody of the law.",
   options: [
     { id: "A", text: "Authority" },
@@ -23482,7 +23482,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1760",
+  id: "TCOLE_q1759",
   prompt: "Under the community policing model, the most effective means of resolving incidents is to involve:",
   options: [
     { id: "A", text: "Agency non-sworn personnel" },
@@ -23495,7 +23495,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1761",
+  id: "TCOLE_q1760",
   prompt: "On searching the place ordered to be searched, the officer executing the warrant _________ present a copy of the warrant to the owner of the place if he is present.",
   options: [
     { id: "A", text: "Can" },
@@ -23508,7 +23508,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1762",
+  id: "TCOLE_q1761",
   prompt: "According to the Transportation Code, 'crosswalks' exist at ______ even though they may not be marked.",
   options: [
     { id: "A", text: "Intersections" },
@@ -23521,7 +23521,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1763",
+  id: "TCOLE_q1762",
   prompt: "Under the Alcoholic Beverage Code, which of the following can a peace officer confiscate without a warrant?",
   options: [
     { id: "A", text: "Beer containing more than one-half of 1 percent alcohol by volume" },
@@ -23534,7 +23534,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1764",
+  id: "TCOLE_q1763",
   prompt: "The rules of the VCCR apply to:",
   options: [
     { id: "A", text: "Only detainees who are in the country illegally" },
@@ -23547,7 +23547,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1765",
+  id: "TCOLE_q1764",
   prompt: "A man is walking down the street with his wife asking her if their children have been doing well. A valid protective order exists that states the man cannot go within 100 feet of his wife due to past family violence. What offense has occurred?",
   options: [
     { id: "A", text: "Violation of Certain Court Orders or Conditions of Bond in a Family Violence, Child Abuse or Neglect, Sexual Assault or Abuse, Indecent Assault, Stalking or Trafficking Case" },
@@ -23560,7 +23560,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1767",
+  id: "TCOLE_q1765",
   prompt: "Which of the following rights is not included in the Sixth Amendment to the U.S. Constitution?",
   options: [
     { id: "A", text: "Right to a speedy and public trial" },
@@ -23573,7 +23573,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1767",
+  id: "TCOLE_q1766",
   prompt: "Of the following, which is NOT a condition that influences overall stopping distance?",
   options: [
     { id: "A", text: "Vehicle" },
@@ -23586,7 +23586,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1768",
+  id: "TCOLE_q1767",
   prompt: "An area of increasing interest in recent history is under what circumstances police are allowed to use deadly force to arrest a fleeing felon. In the U.S. Supreme Court case _________________________, the Court announced that using deadly force to apprehend a suspect constitutes a seizure and is therefore protected under the Fourth Amendment.",
   options: [
     { id: "A", text: "Mapp v. Ohio" },
@@ -23599,7 +23599,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1769",
+  id: "TCOLE_q1768",
   prompt: "A person steals a six-pack of beer from a store. While leaving, the clerk blocks the exit. The suspect verbally threatens to assault the clerk and the clerk moves out of the way. What offense was committed?",
   options: [
     { id: "A", text: "Theft" },
@@ -23612,7 +23612,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1770",
+  id: "TCOLE_q1769",
   prompt: "Which is not a ground fighting technique?",
   options: [
     { id: "A", text: "Base get up" },
@@ -23625,7 +23625,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1771",
+  id: "TCOLE_q1770",
   prompt: "The 7th Amendment to the United States Constitution is concerned with:",
   options: [
     { id: "A", text: "Right to trial by jury in civil matters" },
@@ -23638,7 +23638,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1772",
+  id: "TCOLE_q1771",
   prompt: "Weaponless strategies include:",
   options: [
     { id: "A", text: "Touching" },
@@ -23651,7 +23651,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1773",
+  id: "TCOLE_q1772",
   prompt: "_____________ control results when the level of force is less than the subject's level of resistance.",
   options: [
     { id: "A", text: "Effective" },
@@ -23664,7 +23664,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1774",
+  id: "TCOLE_q1773",
   prompt: "An order from the court directing the person responsible for holding an individual in jail or prison to bring that person before the court and show why he or she is being held in custody is called a:",
   options: [
     { id: "A", text: "Writ of attainder" },
@@ -23677,7 +23677,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1775",
+  id: "TCOLE_q1774",
   prompt: "Identity crime is the theft or _____________ of personal or financial identifiers in order to gain something of value and/or facilitate other criminal activity.",
   options: [
     { id: "A", text: "Use" },
@@ -23690,7 +23690,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1776",
+  id: "TCOLE_q1775",
   prompt: "Under Texas Penal Code § 2.04, what must a defendant do to establish an affirmative defense?",
   options: [
     { id: "A", text: "Prove the affirmative defense beyond a reasonable doubt" },
@@ -23703,7 +23703,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1777",
+  id: "TCOLE_q1776",
   prompt: "A woman witnessed her two neighbors beat a man to death. A day later, one of the perpetrators comes knocking on her door at 10:00 PM and threatens that if she tells police what they did, her children will be harmed. The offender could be charged with:",
   options: [
     { id: "A", text: "Obstruction or retaliation" },
@@ -23716,7 +23716,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1778",
+  id: "TCOLE_q1777",
   prompt: "A drawing which represents the crime scene and serves to supplement photography is called:",
   options: [
     { id: "A", text: "Scene drawing" },
@@ -23729,7 +23729,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1779",
+  id: "TCOLE_q1778",
   prompt: "The different proficiency certificates the Commission (TCOLE) offers for peace officers include which of the following:",
   options: [
     { id: "A", text: "Master Proficiency Certificate" },
@@ -23742,7 +23742,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1780",
+  id: "TCOLE_q1779",
   prompt: "Protein should comprise approximately _________ of daily calories.",
   options: [
     { id: "A", text: "12-20%" },
@@ -23755,7 +23755,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1781",
+  id: "TCOLE_q1780",
   prompt: "Of the three concepts of weaponless strategies, the concept that consists of being mentally prepared to control your own emotional and physical self, and then to restrain the violator and, ultimately the situation is _____________.",
   options: [
     { id: "A", text: "Balance" },
@@ -23768,7 +23768,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1782",
+  id: "TCOLE_q1781",
   prompt: "An item of evidence is blood soaked. What is the proper procedure for collecting and preserving the evidence?",
   options: [
     { id: "A", text: "Put it in a plastic bag" },
@@ -23781,7 +23781,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1783",
+  id: "TCOLE_q1782",
   prompt: "A person commits an offense if the person employs, authorizes, or induces a child to work in a sexually oriented commercial activity; or in any place of business permitting, requesting, or requiring a child to work nude or topless. This offense is:",
   options: [
     { id: "A", text: "Exploitation" },
@@ -23794,7 +23794,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1784",
+  id: "TCOLE_q1783",
   prompt: "According to CCP Art. 56A.051, the right to receive from law enforcement agencies adequate protection from harm and threats of harm arising from cooperation with prosecution efforts is afforded under Crime Victims' ____________.",
   options: [
     { id: "A", text: "Rights" },
@@ -23807,7 +23807,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1785",
+  id: "TCOLE_q1784",
   prompt: "Hazard lamps shall be visible at a distance of _____ feet in normal light.",
   options: [
     { id: "A", text: "200" },
@@ -23820,7 +23820,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1786",
+  id: "TCOLE_q1785",
   prompt: "Under Sec. 71.02 Engaging in Organized Criminal Activity, which does NOT fall under this topic as an offense?",
   options: [
     { id: "A", text: "Murder" },
@@ -23833,7 +23833,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1787",
+  id: "TCOLE_q1786",
   prompt: "Which of the following may cause an offense of robbery to be upgraded to aggravated robbery?",
   options: [
     { id: "A", text: "Threatens or places a 45-year-old person in fear of imminent bodily injury or death" },
@@ -23846,7 +23846,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1788",
+  id: "TCOLE_q1787",
   prompt: "What system is used for agencies to be able to work together more efficiently during an incident?",
   options: [
     { id: "A", text: "Incident Command System" },
@@ -23859,7 +23859,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1789",
+  id: "TCOLE_q1788",
   prompt: "A farm trailer with a registered weight of 30,000 pounds is required to have the following lights during daytime operation:",
   options: [
     { id: "A", text: "Stop lamps" },
@@ -23872,7 +23872,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1790",
+  id: "TCOLE_q1789",
   prompt: "A person commits an offense of arson if he or she starts a fire or causes an explosion, intending to destroy or damage any building, habitation, vehicle, vegetation, fence, or structure on open-space land knowing that it is:",
   options: [
     { id: "A", text: "Inside the city limits" },
@@ -23885,7 +23885,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1791",
+  id: "TCOLE_q1790",
   prompt: "An _________ is generally a material that burns or decomposes quickly releasing a large amount of heat and gas in a short time resulting in a shock wave.",
   options: [
     { id: "A", text: "Explosive" },
@@ -23898,7 +23898,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1792",
+  id: "TCOLE_q1791",
   prompt: "A person finds an open door to a residence. The person goes inside and discovers nobody is home. The person looks for money or jewelry that could be taken but leaves without taking anything. What offense has occurred?",
   options: [
     { id: "A", text: "Attempted Theft" },
@@ -23911,7 +23911,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1793",
+  id: "TCOLE_q1792",
   prompt: "Personal identifiers include:",
   options: [
     { id: "A", text: "Name" },
@@ -23924,7 +23924,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1794",
+  id: "TCOLE_q1793",
   prompt: "Which of the following vehicles may not be registered for operation on a public highway?",
   options: [
     { id: "A", text: "Motorized mobility devices" },
@@ -23937,7 +23937,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1795",
+  id: "TCOLE_q1794",
   prompt: "ASL means:",
   options: [
     { id: "A", text: "American Signal League" },
@@ -23950,7 +23950,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1796",
+  id: "TCOLE_q1795",
   prompt: "A vehicle that has a damage rating which includes an RBQ impact could have received damage from which of the following directions?",
   options: [
     { id: "A", text: "3" },
@@ -23963,7 +23963,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1797",
+  id: "TCOLE_q1796",
   prompt: "What new rules were derived from Arizona v. Gant in justifying search incident to arrest of the passenger compartment of a vehicle?",
   options: [
     { id: "A", text: "Lawful arrest; search must take place at the time of arrest; the arrestee must have the possibility of access; or there is a likelihood of discovering offense related evidence" },
@@ -23976,7 +23976,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1798",
+  id: "TCOLE_q1797",
   prompt: "A person who commits an offense under PC 25.07 Violation of Certain Court Orders, other than an offense related to a violation of a condition of bond set in a family violence case, may be denied release on bail if a judge or magistrate determines _________________________ that the person committed the offense.",
   options: [
     { id: "A", text: "There is probable cause" },
@@ -23989,7 +23989,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1799",
+  id: "TCOLE_q1798",
   prompt: "Whereas 'proof beyond a reasonable doubt' is the standard for criminal trials, what is the standard for civil trials?",
   options: [
     { id: "A", text: "Jury Deliberation" },
@@ -24002,20 +24002,20 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1800",
-  prompt: "Identify one common place of concealment of controlled substances and dangerous drugs in a vehicle.",
+  id: "TCOLE_q1799",
+  prompt: "Which of the following is one of the six major categories of controlled substances identified in the Texas Health and Safety Code curriculum?",
   options: [
-    { id: "A", text: "On the driver's clothing" },
-    { id: "B", text: "Door panels" },
-    { id: "C", text: "Antenna" },
-    { id: "D", text: "None of the above" }
+    { id: "A", text: "Antibiotics" },
+    { id: "B", text: "Hallucinogens" },
+    { id: "C", text: "Steroids" },
+    { id: "D", text: "Vitamins" }
   ],
   answer: ["B"],
-  explain: "Health and Safety Code Controlled Substance Act, Section 15.11"
+  explain: "The six major categories of controlled substances are narcotics, depressants, stimulants, hallucinogens, marihuana, and simulated controlled substances."
 },
 
 {
-  id: "TCOLE_q1801",
+  id: "TCOLE_q1800",
   prompt: "_________ alerts inform the public of missing older adults with a documented mental condition.",
   options: [
     { id: "A", text: "BLUE" },
@@ -24028,7 +24028,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1802",
+  id: "TCOLE_q1801",
   prompt: "When defusing a tense situation, questions should be open-ended and asked ____________.",
   options: [
     { id: "A", text: "Slowly" },
@@ -24041,7 +24041,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1803",
+  id: "TCOLE_q1802",
   prompt: "What does a writ of habeas corpus do?",
   options: [
     { id: "A", text: "Commands the taking into custody of a named person" },
@@ -24054,7 +24054,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1804",
+  id: "TCOLE_q1803",
   prompt: "The Eighth Amendment to the U.S. Constitution protects against:",
   options: [
     { id: "A", text: "Police brutality" },
@@ -24067,7 +24067,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1805",
+  id: "TCOLE_q1804",
   prompt: "Which of the listed is a way in which opportunity for crime may be reduced?",
   options: [
     { id: "A", text: "Citizen awareness" },
@@ -24080,7 +24080,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1806",
+  id: "TCOLE_q1805",
   prompt: "What citizens are required to take training on interacting with law enforcement under the same Community Safety Education Act that requires officers to receive civilian interaction training?",
   options: [
     { id: "A", text: "Students attending Texas Driver Education Training" },
@@ -24093,7 +24093,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1807",
+  id: "TCOLE_q1806",
   prompt: "A slow moving vehicle emblem may be displayed on _____________?",
   options: [
     { id: "A", text: "A driveway entrance" },
@@ -24106,7 +24106,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1808",
+  id: "TCOLE_q1807",
   prompt: "The ideal location for conducting an interview is:",
   options: [
     { id: "A", text: "In a private office at police headquarters equipped for the purpose" },
@@ -24119,7 +24119,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1809",
+  id: "TCOLE_q1808",
   prompt: "Which of the following is a prohibited weapon?",
   options: [
     { id: "A", text: "A knife with a 6-inch blade" },
@@ -24132,7 +24132,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1810",
+  id: "TCOLE_q1809",
   prompt: "The amendment to the U.S. Constitution that provides that all the rights and liberties of the Bill of Rights will be accorded to citizens of the states and that states must abide by the first ten amendments is the:",
   options: [
     { id: "A", text: "7th Amendment" },
@@ -24145,7 +24145,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1811",
+  id: "TCOLE_q1810",
   prompt: "What information is required on the DIC-23 (Peace Officer's Sworn Report)?",
   options: [
     { id: "A", text: "Probable cause for arrest or detention" },
@@ -24158,7 +24158,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1812",
+  id: "TCOLE_q1811",
   prompt: "What are the three basic concepts of weaponless strategies?",
   options: [
     { id: "A", text: "Control, Strength, Strategy" },
@@ -24171,7 +24171,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1813",
+  id: "TCOLE_q1812",
   prompt: "In physical arrest, the police role is essentially defensive. 'Defensive' means:",
   options: [
     { id: "A", text: "Serving to protect" },
@@ -24184,7 +24184,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1814",
+  id: "TCOLE_q1813",
   prompt: "A babysitter is taking care of a six-year-old child. The sitter disrobes and begins to masturbate in front of the child. The sitter can be charged with:",
   options: [
     { id: "A", text: "Injury to a child" },
@@ -24197,7 +24197,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1815",
+  id: "TCOLE_q1814",
   prompt: "Upon encountering a person listed on the Child Safety Alert Checklist, an officer must:",
   options: [
     { id: "A", text: "Contact the Department of Family and Protective Services on the department's dedicated law-enforcement telephone number for statewide intake" },
@@ -24210,7 +24210,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1816",
+  id: "TCOLE_q1815",
   prompt: "Of the three concepts of weaponless strategies, the concept that consists of being mentally prepared to control your own emotional and physical self, and then to restrain the violator and ultimately the situation is:",
   options: [
     { id: "A", text: "Balance" },
@@ -24223,7 +24223,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1817",
+  id: "TCOLE_q1816",
   prompt: "A person steals an old lawn mower worth $40 out of an old storage shed that is falling apart. What offense has occurred?",
   options: [
     { id: "A", text: "Theft" },
@@ -24236,7 +24236,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1818",
+  id: "TCOLE_q1817",
   prompt: "Which search pattern is often preferred for large outdoor crime scenes because it divides the area into manageable sections?",
   options: [
     { id: "A", text: "Point-to-point search" },
@@ -24249,7 +24249,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1819",
+  id: "TCOLE_q1818",
   prompt: "_____________ includes nonprofit corporations, professional associations created pursuant to statute, and joint stock companies.",
   options: [
     { id: "A", text: "Corporate taxes" },
@@ -24262,7 +24262,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1820",
+  id: "TCOLE_q1819",
   prompt: "A 'child' in the State of Texas is any person:",
   options: [
     { id: "A", text: "Under 17 years old" },
@@ -24275,7 +24275,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1821",
+  id: "TCOLE_q1820",
   prompt: "Alcohol concentration means the number of grams of alcohol per:",
   options: [
     { id: "A", text: "210 liters of breath" },
@@ -24288,7 +24288,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1822",
+  id: "TCOLE_q1821",
   prompt: "Complete the sentence: '_________, I thought that the state's argument before the jury was excellent.'",
   options: [
     { id: "A", text: "All together" },
@@ -24301,7 +24301,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1823",
+  id: "TCOLE_q1822",
   prompt: "Which of the following is a true statement?",
   options: [
     { id: "A", text: "A highway is a subset of a roadway" },
@@ -24314,7 +24314,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1824",
+  id: "TCOLE_q1823",
   prompt: "While taking a purse from a 66-year-old victim, the actor knocks the woman down, causing her to receive a bruised elbow. He committed:",
   options: [
     { id: "A", text: "Felony theft" },
@@ -24327,7 +24327,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1825",
+  id: "TCOLE_q1824",
   prompt: "The first principle of self-defense is:",
   options: [
     { id: "A", text: "Stay physically fit" },
@@ -24340,7 +24340,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1826",
+  id: "TCOLE_q1825",
   prompt: "A felony of the third degree is punishable by:",
   options: [
     { id: "A", text: "Confinement not to exceed one year and a fine not more than $10,000" },
@@ -24353,7 +24353,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1827",
+  id: "TCOLE_q1826",
   prompt: "All law enforcement agencies are required to report cases of missing children under the age of ____ reported to their agency to the National Crime Information Center.",
   options: [
     { id: "A", text: "10" },
@@ -24366,7 +24366,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1828",
+  id: "TCOLE_q1827",
   prompt: "You make a traffic stop on a person transporting a 26-inch rifle with a 16-inch barrel. What offense, besides the traffic offense, has been committed?",
   options: [
     { id: "A", text: "No offense" },
@@ -24379,7 +24379,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1829",
+  id: "TCOLE_q1828",
   prompt: "The Reform Era marked contributions of men such as J. Edgar Hoover and:",
   options: [
     { id: "A", text: "George Washington" },
@@ -24392,7 +24392,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1830",
+  id: "TCOLE_q1829",
   prompt: "Personality disorders include:",
   options: [
     { id: "A", text: "Paranoid, Anti-social, Borderline, and Narcissistic" },
@@ -24405,7 +24405,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1831",
+  id: "TCOLE_q1830",
   prompt: "According to Family Code, ____________ includes individuals related by consanguinity or affinity, individuals who are former spouses of each other, individuals who are the parents of the same child, and foster child/foster parent relationships.",
   options: [
     { id: "A", text: "Family" },
@@ -24418,7 +24418,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1832",
+  id: "TCOLE_q1831",
   prompt: "The threat of force is justified when:",
   options: [
     { id: "A", text: "The use of force is justified" },
@@ -24431,7 +24431,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1833",
+  id: "TCOLE_q1832",
   prompt: "According to the CR-100, a vehicle manufactured in 1981 or later will have a VIN number containing how many characters?",
   options: [
     { id: "A", text: "9" },
@@ -24444,7 +24444,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1834",
+  id: "TCOLE_q1833",
   prompt: "__________ is that degree of influence the officer must exert over a violator to take him or her safely into custody.",
   options: [
     { id: "A", text: "Force" },
@@ -24457,7 +24457,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1835",
+  id: "TCOLE_q1834",
   prompt: "For further detention of certain persons, a magistrate must conclude that the violence would continue if the person is released and:",
   options: [
     { id: "A", text: "The detained person would attempt to restore the relationship with the victim" },
@@ -24470,7 +24470,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1836",
+  id: "TCOLE_q1835",
   prompt: "On September 25, 1789, Congress proposed the first _____ Amendments to the United States Constitution as the Bill of Rights.",
   options: [
     { id: "A", text: "Six" },
@@ -24483,7 +24483,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1837",
+  id: "TCOLE_q1836",
   prompt: "During the era from 1950 through 1970 police employed _________________ for improved communications.",
   options: [
     { id: "A", text: "The radio system" },
@@ -24496,7 +24496,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1838",
+  id: "TCOLE_q1837",
   prompt: "_____________________ is the process of carefully gathering information based on verbal and nonverbal observations.",
   options: [
     { id: "A", text: "Active listening" },
@@ -24509,7 +24509,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1839",
+  id: "TCOLE_q1838",
   prompt: "A person is ____________ when he has been actually placed under restraint or taken into custody by an officer or person executing a warrant of arrest, or by any officer or person arresting without a warrant.",
   options: [
     { id: "A", text: "Arrested" },
@@ -24522,7 +24522,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1840",
+  id: "TCOLE_q1839",
   prompt: "During investigation of certain reports alleging child abuse, as soon as possible after being notified by the department of the report, but not later than ____ hours after being notified, the peace officer shall accompany the CPS investigator in initially responding to the report.",
   options: [
     { id: "A", text: "12" },
@@ -24535,7 +24535,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1841",
+  id: "TCOLE_q1840",
   prompt: "According to Sec. 43.05 of the Penal Code, if a man makes a 16-year-old girl a prostitute, what offense has he committed?",
   options: [
     { id: "A", text: "Promotion of prostitution" },
@@ -24548,7 +24548,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1842",
+  id: "TCOLE_q1841",
   prompt: "When an officer takes a person into custody for mental health issues the person shall be immediately transported to the _______ appropriate inpatient mental health facility.",
   options: [
     { id: "A", text: "Nearest" },
@@ -24561,7 +24561,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1843",
+  id: "TCOLE_q1842",
   prompt: "A person who takes possession of a child without a court order is ______________ from civil liability if, at the time possession is taken, there is reasonable cause to believe there is imminent danger to the physical health of the child.",
   options: [
     { id: "A", text: "Open" },
@@ -24574,7 +24574,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1844",
+  id: "TCOLE_q1843",
   prompt: "To charge a person with the offense of aggravated promotion of prostitution, he or she must knowingly own, invest in, finance, control, supervise, or manage a prostitution enterprise that uses ____________ or more prostitutes.",
   options: [
     { id: "A", text: "Two" },
@@ -24587,7 +24587,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1845",
+  id: "TCOLE_q1844",
   prompt: "The magistrate committing the arrested person shall immediately provide notice to _______________ of the county in which the offense is alleged to have been committed regarding the arrest and commitment.",
   options: [
     { id: "A", text: "All magistrates" },
@@ -24600,7 +24600,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1846",
+  id: "TCOLE_q1845",
   prompt: "Any officer who willfully refuses or fails to execute any summons or any other legal process, which is made his duty, shall be ______________.",
   options: [
     { id: "A", text: "In contempt" },
@@ -24613,7 +24613,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1847",
+  id: "TCOLE_q1846",
   prompt: "A ___________ may be issued in any case where a warrant may be issued and shall be in the same form as the warrant except that it shall summon the defendant to appear before a magistrate at a stated time and place.",
   options: [
     { id: "A", text: "Writ of habeas corpus" },
@@ -24626,7 +24626,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1848",
+  id: "TCOLE_q1847",
   prompt: "An asset forfeiture case is a _________ case.",
   options: [
     { id: "A", text: "Criminal" },
@@ -24639,7 +24639,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1849",
+  id: "TCOLE_q1848",
   prompt: "A person commits an offense if with the intent to unlawfully manufacture a controlled substance, the person ______ or _____ anhydrous ammonia, an immediate precursor, a chemical precursor, or an additional chemical substance named as a precursor by the director.",
   options: [
     { id: "A", text: "Possesses or transports" },
@@ -24652,7 +24652,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1850",
+  id: "TCOLE_q1849",
   prompt: "A person causes an explosion with intent to destroy or damage, and is reckless about whether the explosion will endanger the life of some individual. According to the Penal Code, the person has committed the offense of:",
   options: [
     { id: "A", text: "Criminal mischief" },
@@ -24665,7 +24665,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1852",
+  id: "TCOLE_q1850",
   prompt: "Which of the following is NOT listed as an additional psychological response to trauma?",
   options: [
     { id: "A", text: "Memory problems" },
@@ -24678,7 +24678,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1852",
+  id: "TCOLE_q1851",
   prompt: "According to CCP 2.132 Law Enforcement Policy on Racial Profiling, what is the meaning of 'Law Enforcement Agency'?",
   options: [
     {
@@ -24694,7 +24694,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1853",
+  id: "TCOLE_q1852",
   prompt: "One of the primary considerations for a crowd control situation is to assess the makeup of the group and:",
   options: [
     { id: "A", text: "Where they are gathered" },
@@ -24707,7 +24707,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1854",
+  id: "TCOLE_q1853",
   prompt: "Regarding alcoholic beverages, Texas liquor laws govern specifically the:",
   options: [
     { id: "A", text: "Manufacture and sale" },
@@ -24720,7 +24720,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1855",
+  id: "TCOLE_q1854",
   prompt: "When performing the Walk-and-Turn test, the subject takes ____ steps before making the prescribed turn and then takes ____ steps back to the point of origin.",
   options: [
     { id: "A", text: "9 and 10" },
@@ -24733,7 +24733,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1856",
+  id: "TCOLE_q1855",
   prompt: "Deputy Dollar arranges to provide extra patrol in his neighborhood while on duty in exchange for payment from the HOA. What offense has he committed?",
   options: [
     { id: "A", text: "No offense, if reported as extra employment" },
@@ -24746,7 +24746,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1857",
+  id: "TCOLE_q1856",
   prompt: "Veterans and law enforcement share many commonalities. Which of these expresses one of those areas?",
   options: [
     { id: "A", text: "The need to repress emotional or instinctual responses" },
@@ -24759,7 +24759,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1858",
+  id: "TCOLE_q1857",
   prompt: "A person who is not a handgun license holder is carrying a handgun in his automobile and is stopped for speeding. Besides the speeding offense, this person can be charged with:",
   options: [
     { id: "A", text: "No other offense from the information given" },
@@ -24772,7 +24772,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1859",
+  id: "TCOLE_q1858",
   prompt: "A person commits an offense if he offers to give, agrees to give, or gives a thing of value to another for acquiring or maintaining possession of a child for the purpose of ____________.",
   options: [
     { id: "A", text: "Prostitution" },
@@ -24785,7 +24785,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1860",
+  id: "TCOLE_q1859",
   prompt: "John C. Maxwell explains in his book Everyone Communicates, Few Connect that there are Four Components of Connection. Which option below is NOT one of the four components?",
   options: [
     { id: "A", text: "What people see" },
@@ -24798,7 +24798,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1861",
+  id: "TCOLE_q1860",
   prompt: "A person performs a drive-by shooting at a place of business and no one is injured. What offense should be charged?",
   options: [
     { id: "A", text: "Reckless damage" },
@@ -24811,7 +24811,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1862",
+  id: "TCOLE_q1861",
   prompt: "Federal civil rights complaints are investigated by:",
   options: [
     { id: "A", text: "Texas Rangers" },
@@ -24824,7 +24824,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1863",
+  id: "TCOLE_q1862",
   prompt: "What is an example of a biological pathogen?",
   options: [
     { id: "A", text: "Bacteria" },
@@ -24837,7 +24837,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1864",
+  id: "TCOLE_q1863",
   prompt: "Which is not a public safety entity?",
   options: [
     { id: "A", text: "Fire Service" },
@@ -24850,7 +24850,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1865",
+  id: "TCOLE_q1864",
   prompt: "When is a peace officer authorized to engage in racial profiling?",
   options: [
     { id: "A", text: "Always" },
@@ -24863,7 +24863,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1866",
+  id: "TCOLE_q1865",
   prompt: "How many compressions must be delivered within 1 minute when giving adult CPR?",
   options: [
     { id: "A", text: "80 compressions" },
@@ -24876,7 +24876,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1867",
+  id: "TCOLE_q1866",
   prompt: "Who are peace officers?",
   options: [
     { id: "A", text: "Special Agents of the Federal Bureau of Investigation" },
@@ -24889,7 +24889,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1868",
+  id: "TCOLE_q1867",
   prompt: "A person takes a business client to a hotel where he has arranged sexual entertainment for the evening. The next day, the client gives the person $500 for arranging the encounter. The person gives the woman $200 and a $50 tip. What offense, if any, has been committed by the person?",
   options: [
     { id: "A", text: "Prostitution" },
@@ -24902,7 +24902,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1869",
+  id: "TCOLE_q1868",
   prompt: "Detention Officer Dan works inside the county jail and frequently requests sexual favors from an inmate in exchange for additional privileges. What offense, if any, has been committed?",
   options: [
     { id: "A", text: "Voluntary Confinement" },
@@ -24916,7 +24916,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1870",
+  id: "TCOLE_q1869",
   prompt: "Which of the following statements is true in regard to stop lamps?",
   options: [
     { id: "A", text: "A passenger car or truck manufactured or assembled before model year 1960 shall be equipped with at least one stop lamp visible in normal sunlight at a distance of at least 500 feet from the rear of the vehicle" },
@@ -24929,7 +24929,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1871",
+  id: "TCOLE_q1870",
   prompt: "Crisis Intervention Training (CIT) is important because mental health calls for service are frequent. Which of the following statements is true about crisis calls?",
   options: [
     { id: "A", text: "No less than 1 in 10 calls for police service involve individuals with mental illness" },
@@ -24942,7 +24942,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1872",
+  id: "TCOLE_q1871",
   prompt: "What is the form code for the Vehicle Damage Guide for Traffic Crash Investigators?",
   options: [
     { id: "A", text: "CR-100" },
@@ -24955,7 +24955,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1873",
+  id: "TCOLE_q1872",
   prompt: "In the Texas Constitution, the prohibition against unlawful search and seizure is contained in:",
   options: [
     { id: "A", text: "Article I, Section 3" },
@@ -24968,7 +24968,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1874",
+  id: "TCOLE_q1873",
   prompt: "The development of _____________ units resulted in patrol officers being removed from most follow-up activities.",
   options: [
     { id: "A", text: "Necessary" },
@@ -24981,7 +24981,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1875",
+  id: "TCOLE_q1874",
   prompt: "How may a riot be dispersed?",
   options: [
     { id: "A", text: "Commanding the persons to disperse" },
@@ -24994,7 +24994,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1876",
+  id: "TCOLE_q1875",
   prompt: "A person commits an offense if he intentionally or knowingly displays or distributes an obscene photograph, drawing, or similar visual representation, and is reckless about whether a person present will be offended or alarmed. What crime is this?",
   options: [
     { id: "A", text: "Obscene display or distribution" },
@@ -25007,7 +25007,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1877",
+  id: "TCOLE_q1876",
   prompt: "Not giving eye contact, interrupting, having negative or apathetic body language, not paraphrasing and restating what the other person says, letting your emotions control what you say, or needing to 'win' an argument are all examples of:",
   options: [
     { id: "A", text: "Kinetics" },
@@ -25020,7 +25020,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1878",
+  id: "TCOLE_q1877",
   prompt: "Chain of custody or possession accounts for:",
   options: [
     { id: "A", text: "Who found the evidentiary item" },
@@ -25033,7 +25033,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1879",
+  id: "TCOLE_q1878",
   prompt: "A person steals a debit card with the intention of giving the card to his girlfriend to use to buy beer. He has committed:",
   options: [
     { id: "A", text: "Theft" },
@@ -25046,7 +25046,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1880",
+  id: "TCOLE_q1879",
   prompt: "A vehicle is parked inside the garage of a home with the garage door open. A person steals property valued at $1,000 from the front seat of the vehicle. What offense has been committed?",
   options: [
     { id: "A", text: "Burglary of habitation" },
@@ -25059,7 +25059,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1881",
+  id: "TCOLE_q1880",
   prompt: "After an accused person charged with a _________________________________ is taken before a magistrate and the magistrate has identified the accused with certainty, the magistrate may release the accused without bond and order the accused to appear at a later date.",
   options: [
     { id: "A", text: "Misdemeanor punishable by fine only" },
@@ -25072,7 +25072,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1882",
+  id: "TCOLE_q1881",
   prompt: "Besides the right to a speedy and public trial, and the right to an attorney, what additional right does the Sixth Amendment provide?",
   options: [
     { id: "A", text: "Prohibits double jeopardy" },
@@ -25085,7 +25085,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1883",
+  id: "TCOLE_q1882",
   prompt: "The acronym CYMBALS stands for:",
   options: [
     { id: "A", text: "Color, year, make/model, body style, additional information, license plate, state" },
@@ -25098,7 +25098,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1884",
+  id: "TCOLE_q1883",
   prompt: "Complete the sentence: 'Lack of exercise _________, your ability to effectively perform your duties.'",
   options: [
     { id: "A", text: "Effects" },
@@ -25111,7 +25111,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1885",
+  id: "TCOLE_q1884",
   prompt: "The act of scapegoating:",
   options: [
     { id: "A", text: "Provides an outlet for projecting one's tension and frustrations onto other people" },
@@ -25124,7 +25124,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1886",
+  id: "TCOLE_q1885",
   prompt: "To knowingly tamper with tangible property of another and thereby cause substantial inconvenience to the property owner is to commit:",
   options: [
     { id: "A", text: "Criminal mischief" },
@@ -25137,7 +25137,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1887",
+  id: "TCOLE_q1886",
   prompt: "When responding to incidents involving explosive devices, turn off all radios within _____ feet of the search area.",
   options: [
     { id: "A", text: "500" },
@@ -25150,7 +25150,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1888",
+  id: "TCOLE_q1887",
   prompt: "The ______________ describes how the impact of crime can spread beyond the immediate victim.",
   options: [
     { id: "A", text: "Sympathy effect" },
@@ -25163,7 +25163,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1889",
+  id: "TCOLE_q1888",
   prompt: "A drawing which represents the crime scene and serves to supplement photography is called:",
   options: [
     { id: "A", text: "Scene drawing" },
@@ -25176,7 +25176,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1890",
+  id: "TCOLE_q1889",
   prompt: "Which is a risk factor to consider during an arrest?",
   options: [
     { id: "A", text: "Time and location" },
@@ -25189,7 +25189,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1891",
+  id: "TCOLE_q1890",
   prompt: "When a prisoner is committed to jail by warrant from a Magistrate or court, he _____ be placed in jail by the Sheriff.",
   options: [
     { id: "A", text: "Shall" },
@@ -25202,7 +25202,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1892",
+  id: "TCOLE_q1891",
   prompt: "The case Miranda v. Arizona dealt strongly with the right to be free from self-incrimination. This right is associated with what Amendment to the U.S. Constitution?",
   options: [
     { id: "A", text: "5th" },
@@ -25215,7 +25215,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1893",
+  id: "TCOLE_q1892",
   prompt: "Probable cause to search exists when the facts and circumstances within the officer's knowledge and of which they had reasonably trustworthy information are sufficient to warrant a person of reasonable caution in believing that seizable property would be found. This concept is attributed to which landmark case?",
   options: [
     { id: "A", text: "Florida v. Royer" },
@@ -25228,7 +25228,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1894",
+  id: "TCOLE_q1893",
   prompt: "A person is working on a billboard scaffold 20 feet off the ground. The worker negligently throws a tool to the ground without looking. The tool hits a pedestrian and kills the individual. What crime, if any, can the worker be charged with?",
   options: [
     { id: "A", text: 'No crime because it was an accident' },
@@ -25241,7 +25241,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1895",
+  id: "TCOLE_q1894",
   prompt: "Only the following may take a blood specimen at the request or order of a peace officer under this chapter:",
   options: [
     { id: "A", text: "Physician" },
@@ -25254,7 +25254,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1896",
+  id: "TCOLE_q1895",
   prompt: "In the course of committing theft, a person causes serious bodily injury to another person. The actor has committed:",
   options: [
     { id: "A", text: "Theft" },
@@ -25267,7 +25267,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1897",
+  id: "TCOLE_q1896",
   prompt: "Article I, Section 14 of the Texas Constitution states that no person shall twice be put in jeopardy for the same offense. What is this concept called?",
   options: [
     { id: "A", text: "Double Jeopardy" },
@@ -25280,7 +25280,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1898",
+  id: "TCOLE_q1897",
   prompt: "A person prints fake checks on a computer and uses one to purchase a pizza worth $15 delivered to his residence. What offense has occurred?",
   options: [
     { id: "A", text: "Theft < $50" },
@@ -25293,7 +25293,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1899",
+  id: "TCOLE_q1898",
   prompt: "The venue for an offense under PC 25.07 or 25.072 protective order violation is in the _______, in which the order was issued, or in which the offense was committed.",
   options: [
     { id: "A", text: "Precinct" },
@@ -25306,7 +25306,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1900",
+  id: "TCOLE_q1899",
   prompt: "A person commits the offense of abandoning or endangering a child if, having care, custody, or control of a child younger than _____ years of age, he intentionally abandons the child under circumstances that expose the child to unreasonable risk of harm.",
   options: [
     { id: "A", text: "15" },
@@ -25319,7 +25319,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1901",
+  id: "TCOLE_q1900",
   prompt: "A person offers money to a witness in exchange for testimony that is otherwise correct if the witness omits mentioning the second suspect. What offense has occurred?",
   options: [
     { id: "A", text: "Coercion of Public Servant" },
@@ -25332,7 +25332,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1902",
+  id: "TCOLE_q1901",
   prompt: "__________ control results when the level of force is less than the subject's level of resistance.",
   options: [
     { id: "A", text: "Effective" },
@@ -25345,7 +25345,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1903",
+  id: "TCOLE_q1902",
   "prompt": "A suspect picks up a customer's unattended cellphone from a restaurant table and leaves without permission. No force or threats are used. What offense has occurred?",
   "options": [
     { "id": "A", "text": "Theft" },
@@ -25358,7 +25358,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1904",
+  id: "TCOLE_q1903",
   prompt: "Which agency should you notify if there is any custody arrest of individuals associated with identity crime or identity takeover?",
   options: [
     { id: "A", text: "U.S. Secret Service" },
@@ -25371,7 +25371,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1905",
+  id: "TCOLE_q1904",
   prompt: "A couple is at their home and having a verbal argument. When the female attempts to call 9-1-1, the male yells that she cannot use his phone and jerks the phone line out of the wall. What offense has occurred?",
   options: [
     { id: "A", text: "Interference with Emergency Telephone Call" },
@@ -25384,7 +25384,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1906",
+  id: "TCOLE_q1905",
   prompt: "What is the first step in the 8-step tactical vehicle stop taught in the patrol section?",
   options: [
     { id: "A", text: "Identify yourself" },
@@ -25397,7 +25397,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1907",
+  id: "TCOLE_q1906",
   prompt: "A peace officer shall arrest, without a warrant, a person the peace officer has probable cause to believe has committed an offense under Section 25.07 Penal Code, if the offense is:",
   options: [
     { id: "A", text: "Committed in the presence of the peace officer" },
@@ -25411,7 +25411,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1908",
+  id: "TCOLE_q1907",
   prompt: "The Fifth Amendment to the U.S. Constitution provides which one of the following protections?",
   options: [
     { id: "A", text: "Freedom of the press" },
@@ -25424,7 +25424,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1909",
+  id: "TCOLE_q1908",
   prompt: "What are an officer's responsibilities when responding to a hate crime?",
   options: [
     { id: "A", text: "Basic response is the same as for other crimes" },
@@ -25437,7 +25437,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1910",
+  id: "TCOLE_q1909",
   prompt: "The purpose of the _________________ is to ensure that a foreign national is not placed in a situation in which he cannot receive assistance from his own government.",
   options: [
     { id: "A", text: "Treaty of Versailles" },
@@ -25450,7 +25450,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1911",
+  id: "TCOLE_q1910",
   prompt: "_________________ means the minimum amount of lawful aggression sufficient to achieve a legitimate law enforcement objective.",
   options: [
     { id: "A", text: "Deadly force" },
@@ -25463,7 +25463,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1912",
+  id: "TCOLE_q1911",
   prompt: "In order to enable the officer to disperse a riot, he _______ call to his aid the power of the county in the same manner as is provided where it is necessary for the execution of process.",
   options: [
     { id: "A", text: "Shall not" },
@@ -25476,7 +25476,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1913",
+  id: "TCOLE_q1912",
   prompt: "Civil actions may be initiated for many reasons and by many entities. All of the following are among those entities except:",
   options: [
     { id: "A", text: "Individuals" },
@@ -25489,7 +25489,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1914",
+  id: "TCOLE_q1913",
   prompt: "An operator may drive on an improved shoulder to the right of the main traveled portion of a roadway if that operation is necessary and may be done safely, but only:",
   options: [
     { id: "A", text: "To accelerate before entering the main traveled lane of traffic" },
@@ -25502,7 +25502,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1915",
+  id: "TCOLE_q1914",
   prompt: "In physical arrest, the police role is essentially:",
   options: [
     { id: "A", text: "Defensive" },
@@ -25515,7 +25515,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1916",
+  id: "TCOLE_q1915",
   prompt: "A prohibited weapon does not include which of the following weapons?",
   options: [
     { id: "A", text: "Pistol" },
@@ -25528,7 +25528,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1917",
+  id: "TCOLE_q1916",
   prompt: "Identity crime is often used as a facilitator to commit other crimes such as:",
   options: [
     { id: "A", text: "Mail theft" },
@@ -25541,7 +25541,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1918",
+  id: "TCOLE_q1917",
   prompt: "_______________ means the mother or father of the child, but does not include a person whose parental rights have been legally removed.",
   options: [
     { id: "A", text: "Parent" },
@@ -25554,7 +25554,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1919",
+  id: "TCOLE_q1918",
   prompt: "Which of the following situations justifies the use of deadly force to protect property?",
   options: [
     { id: "A", text: "An actor fleeing from an arson crime scene" },
@@ -25567,7 +25567,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1920",
+  id: "TCOLE_q1919",
   prompt: "Which is NOT one of the recommended behaviors of citizens under the Community Safety Education Act?",
   options: [
     { id: "A", text: "While being stopped by an officer, a driver should slow down immediately and pull over to the right side of the road as soon as possible" },
@@ -25581,7 +25581,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1921",
+  id: "TCOLE_q1920",
   prompt: "An easy way to remember the signs and symptoms of a stroke is to use the acronym:",
   options: [
     { id: "A", text: "FALL" },
@@ -25594,7 +25594,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1922",
+  id: "TCOLE_q1921",
   prompt: "_______ _______ means force that is intended or known by the actor to cause, or in the manner of its use or intended use is capable of causing, death or serious bodily injury.",
   options: [
     { id: "A", text: "Reasonable force" },
@@ -25607,7 +25607,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1923",
+  id: "TCOLE_q1922",
   prompt: "Having photographed a child victim of an alleged sexual assault as required by search warrant, what should be done with the film, per the CCP?",
   options: [
     { id: "A", text: "Taken immediately to a photo lab for processing" },
@@ -25620,7 +25620,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1924",
+  id: "TCOLE_q1923",
   prompt: "What contributing factor should be shown on a crash report for a vehicle that strikes another vehicle or pedestrian which is on or entering a highway in compliance with law?",
   options: [
     { id: "A", text: "Failed to Control Speed" },
@@ -25633,7 +25633,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1925",
+  id: "TCOLE_q1924",
   prompt: "While a clear majority of officer skills in judgment and discretion involve verbal skills to de-escalate a situation, research has shown that _____________ calls are the most dangerous for responding officers.",
   options: [
     { id: "A", text: "Traffic Accident" },
@@ -25646,7 +25646,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1926",
+  id: "TCOLE_q1925",
   prompt: "Which of the following is considered physical evidence at the scene during a crash investigation?",
   options: [
     { id: "A", text: "Tire tread patterns and scuff marks" },
@@ -25659,7 +25659,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1927",
+  id: "TCOLE_q1926",
   prompt: "Billy and Bob are arguing over a parking space. Bob tells the deputy that as soon as the deputy leaves, he is going to beat up Billy. According to the Code of Criminal Procedure:",
   options: [
     { id: "A", text: "The deputy can do nothing yet. No assault has occurred." },
@@ -25672,7 +25672,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1928",
+  id: "TCOLE_q1927",
   prompt: "__________ means a child who is accused, adjudicated, or convicted for conduct that would not, under state law, be a crime if committed by an adult.",
   options: [
     { id: "A", text: "Delinquent child" },
@@ -25685,7 +25685,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1929",
+  id: "TCOLE_q1928",
   prompt: "In order to substantiate the offense of sexual assault, the two most important elements that must be proven are:",
   options: [
     { id: "A", text: "Emission and force" },
@@ -25698,7 +25698,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1930",
+  id: "TCOLE_q1929",
   prompt: "The following are Peace Officers:",
   options: [
     { id: "A", text: "Magistrates" },
@@ -25711,7 +25711,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1931",
+  id: "TCOLE_q1930",
   prompt: "Tools used to redirect someone's behavior include:",
   options: [
     { id: "A", text: "Listening" },
@@ -25724,7 +25724,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1932",
+  id: "TCOLE_q1931",
   prompt: "While in a restaurant you see someone suddenly collapse. The victim is a middle-aged woman who is unresponsive, unconscious, and gasping occasionally. What is the most likely cause and appropriate treatment?",
   options: [
     { id: "A", text: "Cause: Sudden Cardiac Arrest; Treatment: CPR and defibrillation with an AED" },
@@ -25737,7 +25737,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1933",
+  id: "TCOLE_q1932",
   prompt: "Which of the listed is a disadvantage of the point-to-point search?",
   options: [
     { id: "A", text: "It is often disorganized" },
@@ -25750,7 +25750,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1934",
+  id: "TCOLE_q1933",
   prompt: "If the arrested person fails or refuses to give bail, as provided by Article 15.18, the arrested person shall __________________________ where the person was arrested.",
   options: [
     { id: "A", text: "Be committed to the jail of the county" },
@@ -25763,7 +25763,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1935",
+  id: "TCOLE_q1934",
   prompt: "Which of the following offenses will raise murder to capital murder?",
   options: [
     { id: "A", text: "Criminal Mischief" },
@@ -25776,7 +25776,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1936",
+  id: "TCOLE_q1935",
   prompt: "Which of the following are correct concerning the minimum amounts of motor vehicle liability insurance coverage required to establish financial responsibility?",
   options: [
     { id: "A", text: "$30,000 for bodily injury to or death of one person in one accident; $60,000 for bodily injury to or death of two or more persons in one accident; $25,000 for property damage" },
@@ -25789,7 +25789,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1937",
+  id: "TCOLE_q1936",
   prompt: "In accordance with ABC 105.06(b), while in a standard hour area, a person commits an offense if he or she consumes or possesses with intent to consume an alcoholic beverage in a public place at any time on Sunday between the hours of:",
   options: [
     { id: "A", text: "1:00 A.M. and 6:00 A.M." },
@@ -25802,7 +25802,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1938",
+  id: "TCOLE_q1937",
   prompt: "A belief that would be held by an ordinary and prudent person in the same circumstances as the actor.",
   options: [
     { id: "A", text: "Reasonable belief" },
@@ -25815,7 +25815,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1939",
+  id: "TCOLE_q1938",
   prompt: "Rapid mood changes and depression are __________ symptoms of excessive stress.",
   options: [
     { id: "A", text: "Physical" },
@@ -25828,7 +25828,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1940",
+  id: "TCOLE_q1939",
   prompt: "Questions in which the desired answer is implied are:",
   options: [
     { id: "A", text: "Open-ended questions" },
@@ -25841,7 +25841,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1941",
+  id: "TCOLE_q1940",
   prompt: "Peter has been terminated from the Post Office. In anger, he calls and states that there is a letter bomb in the mail. This causes evacuation of the Post Office and the alert of the fire department and bomb squad. What offense has been committed?",
   options: [
     { id: "A", text: "Terroristic Threat" },
@@ -25854,7 +25854,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1942",
+  id: "TCOLE_q1941",
   prompt: "What does a writ of habeas corpus do?",
   options: [
     { id: "A", text: "Commands the taking into custody of a named person" },
@@ -25867,7 +25867,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1943",
+  id: "TCOLE_q1942",
   prompt: "According to the Color Codes of Awareness, the more time you spend in color ______, the greater your chances to become a statistic.",
   options: [
     { id: "A", text: "White" },
@@ -25880,7 +25880,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1944",
+  id: "TCOLE_q1943",
   prompt: "Which of the following is a component of a sentence?",
   options: [
     { id: "A", text: "Adjective" },
@@ -25893,7 +25893,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1945",
+  id: "TCOLE_q1944",
   prompt: "Which is not one of the benefits of the CDM?",
   options: [
     { id: "A", text: "Assists the officer in making better decisions" },
@@ -25906,7 +25906,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1946",
+  id: "TCOLE_q1945",
   prompt: "A person steals a six-pack of beer from a store. While leaving the store, the clerk blocks the exit door. The man verbally threatens to assault the clerk and the clerk moves out of the way. What offense was committed?",
   options: [
     { id: "A", text: "Theft" },
@@ -25919,7 +25919,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1947",
+  id: "TCOLE_q1946",
   prompt: "The good faith defense for an officer is enhanced when following:",
   options: [
     { id: "A", text: "Penal Code" },
@@ -25932,7 +25932,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1948",
+  id: "TCOLE_q1947",
   prompt: "What is the duration of a protective order?",
   options: [
     { id: "A", text: "Indefinitely" },
@@ -25945,7 +25945,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1949",
+  id: "TCOLE_q1948",
   prompt: "Which Amendment to the U.S. Constitution guarantees the right to the assistance of counsel when charged with a crime?",
   options: [
     { id: "A", text: "4th" },
@@ -25958,7 +25958,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1950",
+  id: "TCOLE_q1949",
   prompt: "A warrant of arrest, issued by a county or district clerk, or by any magistrate (except mayors of an incorporated city or town), shall:",
   options: [
     { id: "A", text: "Extend to any part of the State" },
@@ -25971,7 +25971,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1951",
+  id: "TCOLE_q1950",
   prompt: "Property acquired by theft, arms and munitions kept or prepared for the purposes of insurrection or riot, gambling devices, any property the possession of which is prohibited by law, implements or instruments used in the commission of a crime, or persons are examples of grounds for issuance of a:",
   options: [
     { id: "A", text: "Warrant of arrest" },
@@ -25984,7 +25984,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1952",
+  id: "TCOLE_q1951",
   prompt: "When words and actions disagree:",
   options: [
     { id: "A", text: "Trust words, not actions" },
@@ -25997,7 +25997,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1953",
+  id: "TCOLE_q1952",
   prompt: "A Multi-Function School Activity Bus may be any color except _________?",
   options: [
     { id: "A", text: "Red" },
@@ -26010,7 +26010,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1954",
+  id: "TCOLE_q1953",
   prompt: "A lady possesses a valid Texas Handgun License and is carrying a compact Glock pistol in her purse. As she enters a local store, she notices only a picture of a handgun inside a red circle with a diagonal line through it and no other signs regarding weapons. What offense has occurred if she continues into the store?",
   options: [
     { id: "A", text: "Unlawful Carrying Weapon" },
@@ -26023,7 +26023,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1955",
+  id: "TCOLE_q1954",
   prompt: "An operator of an authorized emergency vehicle is ________ relieved by the Traffic Code from the duty to operate the vehicle with appropriate regard for the safety of all persons and the consequences of reckless disregard for the safety of others.",
   options: [
     { id: "A", text: "Not" },
@@ -26036,7 +26036,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1956",
+  id: "TCOLE_q1955",
   prompt: "Identity crime is often used as a facilitator to commit other crimes such as:",
   options: [
     { id: "A", text: "Mail theft" },
@@ -26049,7 +26049,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1957",
+  id: "TCOLE_q1956",
   prompt: "Which of the following persons cannot be charged with Murder for killing an unborn child?",
   options: [
     { id: "A", text: "The mother of an unborn child" },
@@ -26062,7 +26062,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1958",
+  id: "TCOLE_q1957",
   prompt: "Which of the following amendments to the U.S. Constitution prohibits cruel and unusual punishment as well as excessive bail?",
   options: [
     { id: "A", text: "Sixth" },
@@ -26075,7 +26075,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1959",
+  id: "TCOLE_q1958",
   prompt: "If a person receives minor scrapes and cuts relating to a motor vehicle crash, which injury code should be shown on the CR-3?",
   options: [
     { id: "A", text: "Possible Injury" },
@@ -26088,7 +26088,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1960",
+  id: "TCOLE_q1959",
   prompt: "The primary duties of a Peace Officer who investigates a family violence allegation include:",
   options: [
     { id: "A", text: "Protect any potential victim" },
@@ -26101,7 +26101,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1961",
+  id: "TCOLE_q1960",
   prompt: "A person commits an offense if the person operates a passenger vehicle and transports a child who is ________________ and does not keep the child secured in a passenger safety seat system.",
   options: [
     { id: "A", text: "Older than 8 years of age and the child is shorter than four feet nine inches" },
@@ -26114,7 +26114,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1962",
+  id: "TCOLE_q1961",
   prompt: "Which of the following is not a traffic condition that affects safe vehicle operation?",
   options: [
     { id: "A", text: "Stopping Distance" },
@@ -26127,7 +26127,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1963",
+  id: "TCOLE_q1962",
   prompt: "A fictitious registration insignia is a _____ misdemeanor.",
   options: [
     { id: "A", text: "Class A" },
@@ -26140,7 +26140,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1964",
+  id: "TCOLE_q1963",
   prompt: "A hearing status of such severity that an individual must depend on visual methods to communicate is the definition of a _______ person.",
   options: [
     { id: "A", text: "Deaf" },
@@ -26153,7 +26153,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1965",
+  id: "TCOLE_q1964",
   prompt: "According to Section 42.02, a riot means the assemblage of ________ or more persons.",
   options: [
     { id: "A", text: "Two" },
@@ -26166,7 +26166,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1966",
+  id: "TCOLE_q1965",
   prompt: "A person under _____ years of age may not operate a motor vehicle while using a wireless communications device, except in an emergency.",
   options: [
     { id: "A", text: "15" },
@@ -26179,7 +26179,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1967",
+  id: "TCOLE_q1966",
   prompt: "Under the statutes, at least how many persons constitute a riot?",
   options: [
     { id: "A", text: "4" },
@@ -26192,7 +26192,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1968",
+  id: "TCOLE_q1967",
   prompt: "Elder abuse often involves physical abuse by _________ and therefore seldom gets reported.",
   options: [
     { id: "A", text: "A physician" },
@@ -26205,7 +26205,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1969",
+  id: "TCOLE_q1968",
   prompt: "Each agency Civilian Interaction Training Program must include information regarding:",
   options: [
     { id: "A", text: "The role of law enforcement and the duties and responsibilities of peace officers" },
@@ -26218,7 +26218,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1970",
+  id: "TCOLE_q1969",
   prompt: "The act of stereotyping:",
   options: [
     { id: "A", text: "Provides an outlet for projecting one's tension and frustrations onto other people" },
@@ -26231,7 +26231,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1971",
+  id: "TCOLE_q1970",
   prompt: "A person commits this offense if by means of coercion he influences or attempts to influence a public servant in a specific exercise of official power or duty, or attempts to influence a public servant to violate a known legal duty.",
   options: [
     { id: "A", text: "Coercion of Public Servant or Voter" },
@@ -26244,7 +26244,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1972",
+  id: "TCOLE_q1971",
   prompt: "When you are transporting a prisoner in the patrol unit:",
   options: [
     { id: "A", text: "Obey all traffic laws" },
@@ -26257,7 +26257,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1973",
+  id: "TCOLE_q1972",
   prompt: "What kind of entry is required for criminal trespass?",
   options: [
     { id: "A", text: "A breaking must be shown" },
@@ -26270,7 +26270,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1974",
+  id: "TCOLE_q1973",
   prompt: "\"____________________\" means pedestrians, ridden or herded animals, and conveyances, including vehicles and streetcars, singly or together while using a highway for the purposes of travel.",
   options: [
     { id: "A", text: "Vehicle" },
@@ -26283,7 +26283,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1975",
+  id: "TCOLE_q1974",
   prompt: "Escalation of the scene or call for service by the peace officer may be due to:",
   options: [
     { id: "A", text: "Authoritarian thought process" },
@@ -26296,7 +26296,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1976",
+  id: "TCOLE_q1975",
   prompt: "Law enforcement agencies in the State of Texas _______ adopt a detailed written policy on racial profiling.",
   options: [
     { id: "A", text: "Should" },
@@ -26309,7 +26309,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1977",
+  id: "TCOLE_q1976",
   prompt: "A person in a public tavern screams obscenities at patrons in the bar and the patrons are obviously upset. The person committed:",
   options: [
     { id: "A", text: "Disorderly conduct" },
@@ -26322,7 +26322,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1978",
+  id: "TCOLE_q1977",
   prompt: "A man in the front row of a crowded movie theater stands up and 'moons' everyone. What offense, if any, did he commit?",
   options: [
     { id: "A", text: "Indecent exposure" },
@@ -26335,7 +26335,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1979",
+  id: "TCOLE_q1978",
   prompt: "_________________ means a pursuit without unreasonable delay by a peace officer of a person the officer reasonably suspects has committed a felony.",
   options: [
     { id: "A", text: "Fresh pursuit" },
@@ -26348,7 +26348,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1980",
+  id: "TCOLE_q1979",
   prompt: "A person arrested for racing in which another person suffered serious bodily injury or death should be charged with a:",
   options: [
     { id: "A", text: "Class B Misdemeanor" },
@@ -26361,7 +26361,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1981",
+  id: "TCOLE_q1980",
   prompt: "The right to be free implies the right to:",
   options: [
     { id: "A", text: "Food" },
@@ -26374,7 +26374,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1982",
+  id: "TCOLE_q1981",
   prompt: "What is the most important thing to do after splinting an open fracture?",
   options: [
     { id: "A", text: "Check to ensure that the pulses distal to the splint have not been reduced by the splint" },
@@ -26387,7 +26387,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1983",
+  id: "TCOLE_q1982",
   prompt: "All persons are presumed to be innocent and no person may be convicted of an offense unless each element of the offense is:",
   options: [
     { id: "A", text: "Proved beyond a reasonable doubt" },
@@ -26400,7 +26400,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1984",
+  id: "TCOLE_q1983",
   prompt: "A belief that would be held by an ordinary and prudent person in the same circumstances as the actor.",
   options: [
     { id: "A", text: "Reasonable belief" },
@@ -26413,7 +26413,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1985",
+  id: "TCOLE_q1984",
   prompt: "If you lose your duty weapon during an altercation:",
   options: [
     { id: "A", text: "Run away from the spot as quickly as possible" },
@@ -26426,7 +26426,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1986",
+  id: "TCOLE_q1985",
   prompt: "Research has demonstrated and NCIC reports support that children are more likely to be abducted by:",
   options: [
     { id: "A", text: "Strangers" },
@@ -26439,7 +26439,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1987",
+  id: "TCOLE_q1986",
   prompt: "Identity elements that an officer must recognize and control in every encounter include:",
   options: [
     { id: "A", text: "Audience" },
@@ -26452,7 +26452,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1988",
+  id: "TCOLE_q1987",
   prompt: "A vehicle that has a damage rating which includes an RBQ impact could have received damage from which of the following directions?",
   options: [
     { id: "A", text: "3" },
@@ -26465,7 +26465,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1989",
+  id: "TCOLE_q1988",
   prompt: "\"Legal authority to use force\" can be found in the _______ Code.",
   options: [
     { id: "A", text: "Penal" },
@@ -26478,7 +26478,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1990",
+  id: "TCOLE_q1989",
   prompt: "Under the concept of control, self-control:",
   options: [
     { id: "A", text: "Will be one of the greatest assets in dealing with a law violator" },
@@ -26491,7 +26491,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1991",
+  id: "TCOLE_q1990",
   prompt: "Which patrol method allows for twice as many patrol vehicles on the street?",
   options: [
     { id: "A", text: "Two-officer patrol" },
@@ -26504,7 +26504,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1992",
+  id: "TCOLE_q1991",
   prompt: "The magistrate issuing a search warrant shall endorse on the search warrant the _________ of its issuance.",
   options: [
     { id: "A", text: "Date and hour" },
@@ -26517,7 +26517,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1993",
+  id: "TCOLE_q1992",
   prompt: "Which of the below are legal decisions (case law) based on the 1st Amendment?",
   options: [
     { id: "A", text: "Duran v. City of Douglas (Arizona)" },
@@ -26530,7 +26530,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1994",
+  id: "TCOLE_q1993",
   prompt: "Having been denied admittance to a residence after giving notice of your authority and purpose, a peace officer may break down the door, provided the offense is:",
   options: [
     { id: "A", text: "A capital felony" },
@@ -26543,7 +26543,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1995",
+  id: "TCOLE_q1994",
   prompt: "Which of the following is a job duty of an officer who investigates a motor vehicle accident?",
   options: [
     { id: "A", text: "Report the accident to TXDOT" },
@@ -26556,7 +26556,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1996",
+  id: "TCOLE_q1995",
   prompt: "Maintaining a position of advantage and a safety zone is known as:",
   options: [
     { id: "A", text: "Distance and cover" },
@@ -26569,7 +26569,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1997",
+  id: "TCOLE_q1996",
   prompt: "Which of the following statements is true concerning a passenger car or truck that was manufactured or assembled in the model year 1960 or later?",
   options: [
     { id: "A", text: "Shall be equipped with one tail lamp plainly visible at a distance of 500 feet from the rear of the vehicle" },
@@ -26582,7 +26582,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1998",
+  id: "TCOLE_q1997",
   prompt: "TCOLE stands for:",
   options: [
     { id: "A", text: "Texas Commission Overseeing Law Enforcement" },
@@ -26595,7 +26595,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q1999",
+  id: "TCOLE_q1998",
   prompt: "________ A firearm or anything manifestly designed, made, or adapted for the purpose of inflicting death or serious bodily injury; or anything that in the manner of its use or intended use is capable of causing death or serious bodily injury.",
   options: [
     { id: "A", text: "Deadly Weapon" },
@@ -26608,7 +26608,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2000",
+  id: "TCOLE_q1999",
   prompt: "What effect does an affirmative defense to prosecution have on a criminal case?",
   options: [
     { id: "A", text: "Excuses criminal responsibility if the defense is proven to exist beyond a reasonable doubt" },
@@ -26621,7 +26621,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2001",
+  id: "TCOLE_q2000",
   prompt: "A ____________ is a person elected, selected, appointed, employed, or otherwise designated, even if he has not yet qualified for office or assumed his duties.",
   options: [
     { id: "A", text: "Jury" },
@@ -26634,7 +26634,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2002",
+  id: "TCOLE_q2001",
   prompt: "Which of the following is not a valid option for the type of vehicle operation in the CMV section of the CR-3?",
   options: [
     { id: "A", text: "Interstate Commerce" },
@@ -26647,7 +26647,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2003",
+  id: "TCOLE_q2002",
   prompt: "Officers identify a witness at the scene of an offense who provides her correct name but gives an incorrect address. She can be charged with:",
   options: [
     { id: "A", text: "Disorderly conduct" },
@@ -26660,7 +26660,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2004",
+  id: "TCOLE_q2003",
   prompt: "__________ can be both an emotional and physical problem for an officer and an arrestee.",
   options: [
     { id: "A", text: "Detention" },
@@ -26673,7 +26673,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2005",
+  id: "TCOLE_q2004",
   prompt: "An operator moving around a rotary traffic island shall:",
   options: [
     { id: "A", text: "Always drive to the left of the island" },
@@ -26686,7 +26686,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2006",
+  id: "TCOLE_q2005",
   prompt: "A conviction for a felony in Texas could be appealed to the:",
   options: [
     { id: "A", text: "U.S. District Court" },
@@ -26699,7 +26699,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2007",
+  id: "TCOLE_q2006",
   prompt: "People often speak in incomplete sentences. Written communication must state complete thoughts. When someone writes the same way he talks, two serious grammatical errors occur. These errors are best described as:",
   options: [
     { id: "A", text: "Sentence verb inconsistencies" },
@@ -26712,7 +26712,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2008",
+  id: "TCOLE_q2007",
   prompt: "________________ is a peace officer's purpose or intention to take a person into the custody of the law.",
   options: [
     { id: "A", text: "Authority" },
@@ -26725,7 +26725,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2009",
+  id: "TCOLE_q2008",
   prompt: "Under the community policing model, the most effective means of resolving incidents is to involve:",
   options: [
     { id: "A", text: "Agency non-sworn personnel" },
@@ -26738,7 +26738,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2010",
+  id: "TCOLE_q2009",
   prompt: "On searching the place ordered to be searched, the officer executing the warrant _________ present a copy of the warrant to the owner of the place if he is present.",
   options: [
     { id: "A", text: "Can" },
@@ -26751,7 +26751,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2011",
+  id: "TCOLE_q2010",
   prompt: "According to the Transportation Code, crosswalks exist at ______ even though they may not be marked.",
   options: [
     { id: "A", text: "Intersections" },
@@ -26764,7 +26764,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2012",
+  id: "TCOLE_q2011",
   prompt: "Under the Alcoholic Beverage Code, which of the following can a peace officer confiscate without a warrant?",
   options: [
     { id: "A", text: "Beer containing more than one-half of 1 percent alcohol by volume" },
@@ -26777,7 +26777,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2013",
+  id: "TCOLE_q2012",
   prompt: "The rules of the VCCR apply to:",
   options: [
     { id: "A", text: "Only detainees who are in the country illegally" },
@@ -26790,7 +26790,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2014",
+  id: "TCOLE_q2013",
   prompt: "Which of the following rights is not included in the First Amendment to the U.S. Constitution?",
   options: [
     { id: "A", text: "Freedom of speech and religion" },
@@ -26803,7 +26803,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2015",
+  id: "TCOLE_q2014",
   prompt: "Of the following, which is NOT a condition that influences overall stopping distance?",
   options: [
     { id: "A", text: "Vehicle" },
@@ -26816,7 +26816,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2016",
+  id: "TCOLE_q2015",
   prompt: "The CCP states that any officer wilfully refuses or neglects to execute any summons, subpoena, or attachment for a witness or any other legal process the officer has a duty to execute is liable for a fine for contempt in an amount in the courtâ€™s discretion of not less than $10 or more than $200",
   options: [
     { id: "A", text: "Dereliction of Duty" },
@@ -26829,7 +26829,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2017",
+  id: "TCOLE_q2016",
   prompt: "An area of increasing interest in recent history is under what circumstances police are allowed to use deadly force to arrest a fleeing felon. In the U.S. Supreme Court case _________________________, the Court announced that using deadly force to apprehend a suspect constitutes a seizure and is therefore protected under the Fourth Amendment.",
   options: [
     { id: "A", text: "Mapp v. Ohio" },
@@ -26842,7 +26842,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2018",
+  id: "TCOLE_q2017",
   prompt: "A person steals a six-pack of beer from a store. While he is leaving the store, the clerk blocks the exit door. The man verbally threatens to assault the clerk and the clerk moves out of the way. What offense was committed?",
   options: [
     { id: "A", text: "Theft" },
@@ -26855,7 +26855,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2019",
+  id: "TCOLE_q2018",
   prompt: "Which is not a ground fighting technique?",
   options: [
     { id: "A", text: "Base get up" },
@@ -26868,7 +26868,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2020",
+  id: "TCOLE_q2019",
   prompt: "The 7th Amendment to the United States Constitution is concerned with:",
   options: [
     { id: "A", text: "Right to trial by jury in civil matters" },
@@ -26881,7 +26881,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2021",
+  id: "TCOLE_q2020",
   prompt: "Weaponless strategies include:",
   options: [
     { id: "A", text: "Touching" },
@@ -26894,7 +26894,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2022",
+  id: "TCOLE_q2021",
   prompt: "_____________ control results when the level of force is less than the subject's level of resistance.",
   options: [
     { id: "A", text: "Effective" },
@@ -26907,7 +26907,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2023",
+  id: "TCOLE_q2022",
   prompt: "An order from the court directing the person responsible for holding an individual in jail or prison to bring that person before the court and show why he or she is being held in custody is called a:",
   options: [
     { id: "A", text: "Writ of attainder" },
@@ -26920,7 +26920,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2024",
+  id: "TCOLE_q2023",
   prompt: "Identity crime is the theft or _____________ of personal or financial identifiers in order to gain something of value and/or facilitate other criminal activity.",
   options: [
     { id: "A", text: "Use" },
@@ -26933,7 +26933,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2025",
+  id: "TCOLE_q2024",
   prompt: "A woman witnessed her two neighbors beat a man to death. A day later, one of the perpetrators comes knocking on her door at 10:00 PM and threatens that if she tells police they committed the murder, they will hurt her children. The offender could be charged with:",
   options: [
     { id: "A", text: "Obstruction or retaliation" },
@@ -26946,7 +26946,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2026",
+  id: "TCOLE_q2025",
   prompt: "A drawing which represents the crime scene and serves to supplement photography is called:",
   options: [
     { id: "A", text: "Scene drawing" },
@@ -26959,7 +26959,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2027",
+  id: "TCOLE_q2026",
   prompt: "The different proficiency certificates the Commission (TCOLE) offers for peace officers include which of the following:",
   options: [
     { id: "A", text: "Master Proficiency Certificate" },
@@ -26972,7 +26972,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2028",
+  id: "TCOLE_q2027",
   prompt: "Who are peace officers?",
   options: [
     { id: "A", text: "Special Agents of the Federal Bureau of Investigation" },
@@ -26985,7 +26985,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2029",
+  id: "TCOLE_q2028",
   prompt: "Protein should comprise approximately _________ of daily calories.",
   options: [
     { id: "A", text: "12-20%" },
@@ -26998,7 +26998,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2030",
+  id: "TCOLE_q2029",
   prompt: "Of the three concepts of weaponless strategies, the concept that consists of being mentally prepared to control your own emotional and physical self, and then to restrain the violator and, ultimately, the situation is:",
   options: [
     { id: "A", text: "Balance" },
@@ -27011,7 +27011,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2031",
+  id: "TCOLE_q2030",
   prompt: "An item of evidence is blood soaked. What is the proper procedure for collection and preserving the evidence?",
   options: [
     { id: "A", text: "Put it in a plastic bag" },
@@ -27024,7 +27024,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2032",
+  id: "TCOLE_q2031",
   prompt: "A person commits an offense if the person employs, authorizes, or induces a child to work in a sexually oriented commercial activity; or in any place of business permitting, requesting, or requiring a child to work nude or topless. This offense is:",
   options: [
     { id: "A", text: "Exploitation" },
@@ -27037,7 +27037,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2033",
+  id: "TCOLE_q2032",
   prompt: "According to CCP Art. 56A.051, the right to receive from law enforcement agencies adequate protection from harm and threats of harm arising from cooperation with prosecution efforts is afforded under Crime Victims' _______________.",
   options: [
     { id: "A", text: "Rights" },
@@ -27050,7 +27050,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2034",
+  id: "TCOLE_q2033",
   prompt: "Hazard lamps shall be visible at a distance of _____ feet in normal light.",
   options: [
     { id: "A", text: "200" },
@@ -27063,7 +27063,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2035",
+  id: "TCOLE_q2034",
   prompt: "Under Sec. 71.02 Engaging in Organized Criminal Activity, which does NOT fall under this topic as an offense?",
   options: [
     { id: "A", text: "Murder" },
@@ -27076,7 +27076,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2036",
+  id: "TCOLE_q2035",
   prompt: "Which of the following may cause an offense of robbery to be upgraded to aggravated robbery?",
   options: [
     { id: "A", text: "Threatens or places a 45-year-old person in fear of imminent bodily injury or death" },
@@ -27089,7 +27089,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2037",
+  id: "TCOLE_q2036",
   prompt: "What system is used for agencies to be able to work together more efficiently during an incident?",
   options: [
     { id: "A", text: "Incident Command System" },
@@ -27102,7 +27102,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2038",
+  id: "TCOLE_q2037",
   prompt: "A farm trailer with a registered weight of 30,000 pounds is required to have the following lights during daytime operation:",
   options: [
     { id: "A", text: "Stop lamps" },
@@ -27115,7 +27115,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2039",
+  id: "TCOLE_q2038",
   prompt: "A person commits an offense of arson if he or she starts a fire or causes an explosion, intending to destroy or damage any building, habitation, vehicle, vegetation, fence, or structure on open-space land knowing that it is:",
   options: [
     { id: "A", text: "Inside the city limits" },
@@ -27128,7 +27128,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2040",
+  id: "TCOLE_q2039",
   prompt: "An _________ is generally a material that burns or decomposes quickly releasing a large amount of heat and gas in a short time resulting in a shock wave.",
   options: [
     { id: "A", text: "Explosive" },
@@ -27141,7 +27141,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2041",
+  id: "TCOLE_q2040",
   prompt: "A person finds an open door to a residence. The person goes inside and discovers that nobody is home. The person looks for money or jewelry that could be taken but leaves without taking anything. What offense has occurred?",
   options: [
     { id: "A", text: "Attempted Theft" },
@@ -27154,7 +27154,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2042",
+  id: "TCOLE_q2041",
   prompt: "Personal identifiers include:",
   options: [
     { id: "A", text: "Name" },
@@ -27167,7 +27167,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2043",
+  id: "TCOLE_q2042",
   prompt: "Which of the following vehicles may not be registered for operation on a public highway?",
   options: [
     { id: "A", text: "Motorized mobility devices" },
@@ -27180,7 +27180,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2044",
+  id: "TCOLE_q2043",
   prompt: "ASL means:",
   options: [
     { id: "A", text: "American Signal League" },
@@ -27193,7 +27193,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2045",
+  id: "TCOLE_q2044",
   prompt: "A vehicle that has a damage rating which includes an RBQ impact could have received damage from which of the following directions?",
   options: [
     { id: "A", text: "3" },
@@ -27206,7 +27206,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2046",
+  id: "TCOLE_q2045",
   prompt: "What new rules were derived from Arizona v. Gant in justifying search incident to arrest of the passenger compartment of a vehicle?",
   options: [
     {
@@ -27231,7 +27231,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2047",
+  id: "TCOLE_q2046",
   prompt: "A person who commits an offense under PC 25.07 Violation of Certain Court Orders, other than an offense related to a violation of a condition of bond set in a family violence case, may be taken into custody and denied release on bail if a judge or magistrate determines _________________________ that the person committed the offense.",
   options: [
     { id: "A", text: "There is probable cause" },
@@ -27244,7 +27244,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2048",
+  id: "TCOLE_q2047",
   prompt: "Whereas 'Proof Beyond a Reasonable Doubt' is the standard for criminal trials, what is the standard for civil trials?",
   options: [
     { id: "A", text: "Jury Deliberation" },
@@ -27257,7 +27257,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2049",
+  id: "TCOLE_q2048",
   prompt: "Identify one common place of concealment of controlled substances and dangerous drugs in a vehicle:",
   options: [
     { id: "A", text: "On the driver's clothing" },
@@ -27270,7 +27270,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2050",
+  id: "TCOLE_q2049",
   prompt: "___________ alerts inform the public of missing older adults with a documented mental condition.",
   options: [
     { id: "A", text: "BLUE" },
@@ -27283,7 +27283,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2051",
+  id: "TCOLE_q2050",
   prompt: "When defusing a tense situation, questions should be open-ended and asked _____________.",
   options: [
     { id: "A", text: "Slowly" },
@@ -27296,7 +27296,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2052",
+  id: "TCOLE_q2051",
   prompt: "What does a writ of habeas corpus do?",
   options: [
     { id: "A", text: "Commands the taking into custody of a named person" },
@@ -27309,7 +27309,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2053",
+  id: "TCOLE_q2052",
   prompt: "The Eighth Amendment to the U.S. Constitution protects against:",
   options: [
     { id: "A", text: "Police brutality" },
@@ -27322,7 +27322,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2054",
+  id: "TCOLE_q2053",
   prompt: "Which of the listed is a way in which opportunity for crime may be reduced?",
   options: [
     { id: "A", text: "Citizen awareness" },
@@ -27335,7 +27335,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2055",
+  id: "TCOLE_q2054",
   prompt: "What citizens are required to take training on interacting with law enforcement under the same Community Safety Education Act that requires officers to receive civilian interaction training?",
   options: [
     { id: "A", text: "Students attending Texas Driver Education Training" },
@@ -27348,7 +27348,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2056",
+  id: "TCOLE_q2055",
   prompt: "An owner or interest holder's interest in property may not be forfeited if proven by a preponderance of the evidence that their interest was acquired or perfected:",
   options: [
     { id: "A", text: "If the property was stolen before the act was committed" },
@@ -27361,7 +27361,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2057",
+  id: "TCOLE_q2056",
   prompt: "On September 25, 1789, Congress proposed the first _____ Amendments to the new United States Constitution as the Bill of Rights.",
   options: [
     { id: "A", text: "Six" },
@@ -27374,7 +27374,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2058",
+  id: "TCOLE_q2057",
   prompt: "A person is working on a billboard scaffold 20 feet off the ground. The worker negligently throws a tool to the ground without looking. The tool hits a person walking under the scaffold and kills the individual. What crime, if any, can the worker be charged with?",
   options: [
     { id: "A", text: "No crime because it was an accident" },
@@ -27387,7 +27387,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2059",
+  id: "TCOLE_q2058",
   prompt: "If an officer stops a vehicle and discovers it is a rental car that is two months overdue, may he make an arrest?",
   options: [
     { id: "A", text: "Yes, the vehicle is stolen at that point" },
@@ -27400,7 +27400,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2060",
+  id: "TCOLE_q2059",
   prompt: "The potential effects of a CBRNE (Chemical, Biological, Radiation, Nuclear, Explosive) incident include all of the following except:",
   options: [
     { id: "A", text: "Health Impacts" },
@@ -27413,7 +27413,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2061",
+  id: "TCOLE_q2060",
   prompt: "______________ means the kind of control which one person exercises over another, not to confine him within certain limits, but to subject him to the general authority and power of the person claiming such right.",
   options: [
     { id: "A", text: "Detention" },
@@ -27426,7 +27426,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2062",
+  id: "TCOLE_q2061",
   prompt: "No person, for the same offense, shall be twice put in jeopardy of life or liberty; nor shall a person be again put upon trial for the same offense after a verdict of _______ in a court of competent jurisdiction.",
   options: [
     { id: "A", text: "Guilty" },
@@ -27439,7 +27439,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2063",
+  id: "TCOLE_q2062",
   prompt: "Which of the following accidents is classified as reportable to TXDOT using the CR-3 Texas Peace Officer's Crash Report?",
   options: [
     { id: "A", text: "A pedal cyclist/pedestrian runs into a motor vehicle not in transport" },
@@ -27452,7 +27452,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2064",
+  id: "TCOLE_q2063",
   prompt: "____________ means anything reasonably regarded as pecuniary gain or pecuniary advantage, including benefit to any other person in whose welfare the beneficiary has a direct and substantial interest.",
   options: [
     { id: "A", text: "Bribery" },
@@ -27465,7 +27465,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2065",
+  id: "TCOLE_q2064",
   prompt: "When can property be seized?",
   options: [
     { id: "A", text: "Property used in commission of a 1st or 2nd degree felony, evading in a motor vehicle, or 4th DWI or more" },
@@ -27478,7 +27478,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2066",
+  id: "TCOLE_q2065",
   prompt: "Which of the following should not be shown as a traffic unit on a CR-3:",
   options: [
     { id: "A", text: "A herded animal" },
@@ -27491,7 +27491,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2067",
+  id: "TCOLE_q2066",
   prompt: "The 2nd Amendment to the United States Constitution is concerned with:",
   options: [
     { id: "A", text: "The right to peaceably assemble" },
@@ -27504,7 +27504,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2068",
+  id: "TCOLE_q2067",
   prompt: "A motor vehicle would be considered abandoned if the motor vehicle has been left unattended on the right-of-way of a designated county, state, or federal highway for more than ____ hours.",
   options: [
     { id: "A", text: "12" },
@@ -27517,7 +27517,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2069",
+  id: "TCOLE_q2068",
   prompt: "Probable cause exists where the facts and circumstances within the officer's knowledge, of which they have reasonably trustworthy information, are sufficient in themselves to warrant a belief by a person of reasonable caution that a crime is being committed.",
   options: [
     { id: "A", text: "Florida v. Royer" },
@@ -27530,7 +27530,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2070",
+  id: "TCOLE_q2069",
   prompt: "According to the Family Code, ___________ means an act, other than a defensive measure to protect oneself, by an actor that is committed against a victim or applicant for protective order with whom the actor has or has had a dating relationship.",
   options: [
     { id: "A", text: "Family Violence" },
@@ -27543,7 +27543,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2071",
+  id: "TCOLE_q2070",
   prompt: "A peace officer _________ arrest, without a warrant, a person the peace officer has probable cause to believe has committed an offense under Section 25.07, Penal Code, if the offense is committed in the presence of a peace officer.",
   options: [
     { id: "A", text: "May" },
@@ -27556,7 +27556,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2072",
+  id: "TCOLE_q2071",
   prompt: "If a person dumps 20 pounds of litter on the side of the roadway, they have committed a:",
   options: [
     { id: "A", text: "Misdemeanor" },
@@ -27569,7 +27569,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2073",
+  id: "TCOLE_q2072",
   prompt: "In relation to providing victims' services, NGO stands for:",
   options: [
     { id: "A", text: "Non-governmental organization" },
@@ -27582,7 +27582,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2074",
+  id: "TCOLE_q2073",
   prompt: "The Fourteenth Amendment to the U.S. Constitution ensures that all people are entitled to:",
   options: [
     { id: "A", text: "Equal rights under law" },
@@ -27595,7 +27595,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2075",
+  id: "TCOLE_q2074",
   prompt: "Before each shift, the officer should make a personal check for the following:",
   options: [
     { id: "A", text: "Cleanliness" },
@@ -27608,7 +27608,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2076",
+  id: "TCOLE_q2075",
   prompt: "Under which of the following situations is a peace officer not justified in making an arrest?",
   options: [
     { id: "A", text: "A person restrained under a protective order goes to the victim's place of employment when prohibited" },
@@ -27621,7 +27621,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2077",
+  id: "TCOLE_q2076",
   prompt: "The baton is:",
   options: [
     { id: "A", text: "An offensive police weapon" },
@@ -27634,7 +27634,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2078",
+  id: "TCOLE_q2077",
   prompt: "The statutory speed limit in an alley is ____ miles per hour.",
   options: [
     { id: "A", text: "15" },
@@ -27647,7 +27647,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2079",
+  id: "TCOLE_q2078",
   prompt: "Victims may experience all of the following EXCEPT:",
   options: [
     { id: "A", text: "Feel shame" },
@@ -27660,7 +27660,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2080",
+  id: "TCOLE_q2079",
   prompt: "A person who has custody, care, or control of a child younger than ____ years commits an offense if he or she intentionally abandons the child in any place under circumstances that expose the child to an unreasonable risk of harm.",
   options: [
     { id: "A", text: "Ten" },
@@ -27673,7 +27673,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2081",
+  id: "TCOLE_q2080",
   prompt: "According to the CCP, it is the duty of every peace officer to preserve the peace:",
   options: [
     { id: "A", text: "Within his jurisdiction" },
@@ -27686,7 +27686,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2082",
+  id: "TCOLE_q2081",
   prompt: "A man enters his next door neighbor's unfenced yard and kills his neighbor's pigs, which are in a pig pen. What offense, if any, did the man commit?",
   options: [
     { id: "A", text: "Criminal Mischief" },
@@ -27699,7 +27699,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2083",
+  id: "TCOLE_q2082",
   prompt: "___________ is a way of thinking and acting based on tradition; i.e., learned behavior passed down from one generation to another.",
   options: [
     { id: "A", text: "Race" },
@@ -27712,7 +27712,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2084",
+  id: "TCOLE_q2083",
   "type": "multiple-choice",
   "points": 1,
   "prompt": "While the homeowner is away for the weekend, a suspect pries open a back window, enters the residence without consent, and steals a television and laptop computer. What offense has occurred?",
@@ -27727,7 +27727,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2085",
+  id: "TCOLE_q2084",
   prompt: "____% of an officer's duties involve verbal skills:",
   options: [
     { id: "A", text: "98%" },
@@ -27740,7 +27740,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2086",
+  id: "TCOLE_q2085",
   prompt: "The knowledge a criminal investigator gathers from other persons (victims, witnesses, suspects) and other legitimate sources (records, reports, etc.) is called:",
   options: [
     { id: "A", text: "Interviews" },
@@ -27753,7 +27753,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2087",
+  id: "TCOLE_q2086",
   prompt: "A prisoner booking search should be conducted:",
   options: [
     { id: "A", text: "Out of view of the opposite sex" },
@@ -27766,7 +27766,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2088",
+  id: "TCOLE_q2087",
   prompt: "Under Penal Code 71.022, Coercing, Inducing, or Soliciting Membership in a Criminal Street Gang, a child is defined as younger than:",
   options: [
     { id: "A", text: "18 YOA" },
@@ -27779,7 +27779,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2089",
+  id: "TCOLE_q2088",
   prompt: "Which case law declared that any traffic offense committed by a driver was a legitimate legal basis for a stop?",
   options: [
     { id: "A", text: "Terry v. Ohio" },
@@ -27792,7 +27792,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2090",
+  id: "TCOLE_q2089",
   prompt: "If a person who is charged with serving a process fails to execute or return the process, he or she:",
   options: [
     { id: "A", text: "Commits a misdemeanor offense" },
@@ -27805,7 +27805,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2091",
+  id: "TCOLE_q2090",
   prompt: "The Sixth Amendment to the U.S. Constitution:",
   options: [
     { id: "A", text: "Gives the right to confront witnesses" },
@@ -27818,7 +27818,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2092",
+  id: "TCOLE_q2091",
   prompt: "A person commits the offense of _________ if he commits an act clearly dangerous to human life, with the intention of causing serious bodily injury, and causes the death of an individual.",
   options: [
     { id: "A", text: "Murder" },
@@ -27831,7 +27831,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2093",
+  id: "TCOLE_q2092",
   prompt: "Which of the following is incorrect concerning de-escalation After-Action Reviews?",
   options: [
     { id: "A", text: "Someone, regardless of rank or position, has all the answers" },
@@ -27844,7 +27844,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2094",
+  id: "TCOLE_q2093",
   prompt: "Of the six different patrol modes, which mode offers flexibility where use of motorized vehicles is impractical?",
   options: [
     { id: "A", text: "Bicycle Patrol" },
@@ -27857,7 +27857,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2095",
+  id: "TCOLE_q2094",
   prompt: "Individuals who are __________ typically have more chronic physical and mental health problems and substance abuse issues than does the general population.",
   options: [
     { id: "A", text: "Single" },
@@ -27870,7 +27870,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2096",
+  id: "TCOLE_q2095",
   prompt: "Stop lamps shall emit ______ color that is visible in normal sunlight at a distance of at least 300 feet from the rear of the vehicle and displayed when the vehicle service brake is on.",
   options: [
     { id: "A", text: "Red or amber or a color between red and amber" },
@@ -27883,7 +27883,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2097",
+  id: "TCOLE_q2096",
   prompt: "A person reaches through an open car window and takes a CD worth $15. What offense has occurred?",
   options: [
     { id: "A", text: "Theft < $50" },
@@ -27896,7 +27896,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2098",
+  id: "TCOLE_q2097",
   prompt: "Which of the following is an aspect or element of effective victim intervention and response?",
   options: [
     { id: "A", text: "Assure victims that their reactions are natural and understandable" },
@@ -27909,7 +27909,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2099",
+  id: "TCOLE_q2098",
   prompt: "A person commits which offense if he makes a bet on the partial or final result of a game or contest or on the performance of a participant in a game or contest?",
   options: [
     { id: "A", text: "Gambling" },
@@ -27922,7 +27922,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2100",
+  id: "TCOLE_q2099",
   prompt: "Which of the following is not a violation under the Alcoholic Beverage Code?",
   options: [
     { id: "A", text: "Possession of more than 1 quart of liquor in a dry area" },
@@ -27936,7 +27936,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2101",
+  id: "TCOLE_q2100",
   prompt: "Maintaining a position of advantage and a safety zone is known as:",
   options: [
     { id: "A", text: "Distance and cover" },
@@ -27949,7 +27949,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2102",
+  id: "TCOLE_q2101",
   prompt: "_________ means an act or omission and its accompanying mental state.",
   options: [
     { id: "A", text: "Conduct" },
@@ -27962,7 +27962,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2103",
+  id: "TCOLE_q2102",
   prompt: "_____________ is an organized and relatively unchanging combination of a person's knowledge and feelings about someone or something that influences him or her to behave in a certain way in regard to that person or thing.",
   options: [
     { id: "A", text: "Attitude" },
@@ -27975,7 +27975,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2104",
+  id: "TCOLE_q2103",
   prompt: "Officers should demand suspects place hands in ______ of him/her and turn palms ______.",
   options: [
     { id: "A", text: "Back, down" },
@@ -27988,7 +27988,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2105",
+  id: "TCOLE_q2104",
   prompt: "Which is a component of successfully affecting an arrest?",
   options: [
     { id: "A", text: "Keeping prisoner in sight" },
@@ -28001,7 +28001,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2106",
+  id: "TCOLE_q2105",
   prompt: "A peace officer may arrest, without warrant, when a felony or breach of the peace has been committed in the presence or within the view of a ______________, and such magistrate verbally orders the arrest of the offender.",
   options: [
     { id: "A", text: "Defense attorney" },
@@ -28014,7 +28014,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2107",
+  id: "TCOLE_q2106",
   prompt: "In physical arrest, the police role is essentially defensive. 'Defensive' means:",
   options: [
     { id: "A", text: "Serving to protect" },
@@ -28027,7 +28027,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2108",
+  id: "TCOLE_q2107",
   prompt: "Shooting at nonviolent fleeing felons is:",
   options: [
     { id: "A", text: "Never authorized" },
@@ -28040,7 +28040,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2109",
+  id: "TCOLE_q2108",
   prompt: "A person commits ________________ if he or she knowingly transports another person with the intent that the person engages in forced labor or services.",
   options: [
     { id: "A", text: "Aggravated kidnapping" },
@@ -28053,7 +28053,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2110",
+  id: "TCOLE_q2109",
   prompt: "Which of the below are legal decisions (case law) based on the 1st Amendment?",
   options: [
     { id: "A", text: "Duran v. City of Douglas (Arizona)" },
@@ -28066,7 +28066,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2111",
+  id: "TCOLE_q2110",
   prompt: "The concept that consists of being prepared to control your own emotional and physical self, and then to restrain the violator and, ultimately, the situation is:",
   options: [
     { id: "A", text: "Balance" },
@@ -28079,7 +28079,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2112",
+  id: "TCOLE_q2111",
   prompt: "A conviction for a felony in Texas could be appealed to the:",
   options: [
     { id: "A", text: "U.S. District Court" },
@@ -28092,7 +28092,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2113",
+  id: "TCOLE_q2112",
   prompt: "If a law enforcement agency ascertains that an arrested individual is enrolled as a student in a public primary or secondary school, the agency shall orally notify the superintendent or designee within _______ after the arrest or referral is made, or before the next school day, whichever is earlier.",
   options: [
     { id: "A", text: "12 hours" },
@@ -28105,7 +28105,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2114",
+  id: "TCOLE_q2113",
   prompt: "_________ means under arrest by a peace officer or under restraint by a public servant.",
   options: [
     { id: "A", text: "Restraint" },
@@ -28118,7 +28118,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2115",
+  id: "TCOLE_q2114",
   prompt: "Of the following, which is NOT a driving movement or activity that most frequently contributes to law enforcement crashes?",
   options: [
     { id: "A", text: "Right-of-way violations" },
@@ -28131,7 +28131,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2116",
+  id: "TCOLE_q2115",
   prompt: "Which of the following is not one of the conditions officers must consider when faced with the use of deadly force?",
   options: [
     { id: "A", text: "The type of crime and suspect(s) involved" },
@@ -28144,7 +28144,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2117",
+  id: "TCOLE_q2116",
   prompt: "The policy on racial profiling that each law enforcement agency in the State of Texas shall adopt must include:",
   options: [
     {
@@ -28160,7 +28160,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2118",
+  id: "TCOLE_q2117",
   prompt: "The 6th Amendment to the United States Constitution is concerned with:",
   options: [
     { id: "A", text: "Speedy Trial" },
@@ -28173,7 +28173,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2119",
+  id: "TCOLE_q2118",
   prompt: "A peace officer may arrest an offender without a warrant for _____________ committed in his presence or within his view.",
   options: [
     { id: "A", text: "Any offense" },
@@ -28186,7 +28186,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2120",
+  id: "TCOLE_q2119",
   prompt: "Law enforcement agencies should be __________ in their approach to educating the public about identity crime.",
   options: [
     { id: "A", text: "Reactive" },
@@ -28199,7 +28199,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2121",
+  id: "TCOLE_q2120",
   prompt: "A person is asked to leave property that he does not have a right to occupy. The person refuses after receiving notice that his presence is no longer legal. He committed:",
   options: [
     { id: "A", text: "Burglary" },
@@ -28212,7 +28212,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2122",
+  id: "TCOLE_q2121",
   prompt: "Having photographed a child victim of an alleged sexual assault as required by search warrant, what should be done with the file per the CCP?",
   options: [
     { id: "A", text: "Taken immediately to a photo lab for processing" },
@@ -28225,7 +28225,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2123",
+  id: "TCOLE_q2122",
   prompt: "When approaching a deaf person, what is the first thing you should do?",
   options: [
     { id: "A", text: "Talk as loud as possible" },
@@ -28238,7 +28238,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2124",
+  id: "TCOLE_q2123",
   prompt: "Crisis Intervention Training (CIT) is important because mental health calls for service are frequent. Which of the following statements is true about crisis calls?",
   options: [
     { id: "A", text: "No less than 1 in 10 calls for police service involve individuals with mental illness" },
@@ -28251,7 +28251,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2125",
+  id: "TCOLE_q2124",
   prompt: "________ This is an affirmation.",
   options: [
     { id: "A", text: "Swear" },
@@ -28264,7 +28264,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2126",
+  id: "TCOLE_q2125",
   prompt: "The venue for an offense under PC 25.07 or 25.072 protective order violation is in the _______ in which the order was issued, or in which the offense was committed.",
   options: [
     { id: "A", text: "Precinct" },
@@ -28277,7 +28277,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2127",
+  id: "TCOLE_q2126",
   prompt: "____________ deals with specific problems or violations.",
   options: [
     { id: "A", text: "Apprehension patrol" },
@@ -28290,7 +28290,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2128",
+  id: "TCOLE_q2127",
   prompt: "Civil law is that portion of the law that defines the personal and property rights of individuals to prevent a wrong and to:",
   options: [
     { id: "A", text: "Allow individuals to seek redress of grievance" },
@@ -28303,7 +28303,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2129",
+  id: "TCOLE_q2128",
   prompt: "Dementia is a name for a group of symptoms caused by disorders that affect the __________.",
   options: [
     { id: "A", text: "Brain" },
@@ -28316,7 +28316,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2130",
+  id: "TCOLE_q2129",
   prompt: "Peter has been terminated from the Post Office. In anger, he calls and states that there is a letter bomb in the mail. This causes evacuation of the Post Office and the alert of the fire department and bomb squad. What offense has been committed?",
   options: [
     { id: "A", text: "Terroristic Threat" },
@@ -28329,7 +28329,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2131",
+  id: "TCOLE_q2130",
   prompt: "Which is NOT a true statement regarding Taser usage within a canine encounter:",
   options: [
     { id: "A", text: "Due to a canine's size, it is easy to use a Taser at extended ranges" },
@@ -28342,7 +28342,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2132",
+  id: "TCOLE_q2131",
   prompt: "You stop a vehicle for speeding and make contact with the driver who is a pregnant female advising she is in labor and her water has broken. How would you know if you have a possible imminent delivery?",
   options: [
     { id: "A", text: "Female advises contractions are 2-3 minutes apart" },
@@ -28355,7 +28355,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2133",
+  id: "TCOLE_q2132",
   prompt: "The mission of the Texas Commission on Law Enforcement, as a ____________ State agency, is to establish and enforce standards to ensure that the people of Texas are served by highly trained and ethical law enforcement, corrections, and telecommunications personnel.",
   options: [
     { id: "A", text: "Regulatory" },
@@ -28368,7 +28368,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2134",
+  id: "TCOLE_q2133",
   prompt: "A person that operates a vehicle displaying a fictitious license plate commits a ______________?",
   options: [
     { id: "A", text: "Class C Misdemeanor" },
@@ -28381,7 +28381,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2135",
+  id: "TCOLE_q2134",
   prompt: "Tools used to redirect someone's behavior include:",
   options: [
     { id: "A", text: "Listening" },
@@ -28394,7 +28394,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2136",
+  id: "TCOLE_q2135",
   prompt: "To determine whether or not a subject is impaired, the Standardized Field Sobriety Tests are designed to ______ the subject's attention.",
   options: [
     { id: "A", text: "Interrupt" },
@@ -28407,7 +28407,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2137",
+  id: "TCOLE_q2136",
   prompt: "Putting another's meaning into your own words and delivering it back to them would best be described as:",
   options: [
     { id: "A", text: "Paralinguistic" },
@@ -28420,7 +28420,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2138",
+  id: "TCOLE_q2137",
   prompt: "A person who engages in professional gambling (operates a gambling place, does bookmaking, is custodian of bets, sells chances on various games or participants, sets up or promotes any lottery) commits:",
   options: [
     { id: "A", text: "Gambling" },
@@ -28433,7 +28433,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2139",
+  id: "TCOLE_q2138",
   prompt: "What type of communicable diseases is/are generally encountered by first responders?",
   options: [
     { id: "A", text: "Hepatitis B" },
@@ -28446,7 +28446,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2140",
+  id: "TCOLE_q2139",
   prompt: "Compensating behavior may take one of the following forms:",
   options: [
     { id: "A", text: "Hesitation" },
@@ -28459,7 +28459,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2141",
+  id: "TCOLE_q2140",
   prompt: "Upon encountering a person listed on the Child Safety Alert Checklist an officer must:",
   options: [
     {
@@ -28484,7 +28484,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2142",
+  id: "TCOLE_q2141",
   prompt: "The ADA requires that:",
   options: [
     {
@@ -28506,7 +28506,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2143",
+  id: "TCOLE_q2142",
   prompt: "The SFST Validation Study that addressed the question, 'Do SFSTs discriminate at BAC levels below 0.10%' was the:",
   options: [
     { id: "A", text: "Los Angeles Field Validation Study" },
@@ -28519,7 +28519,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2144",
+  id: "TCOLE_q2143",
   prompt: "Joe is visiting Tom's house. Tom shows Joe his new .22 caliber pistol. When Tom looks away, Joe places the pistol in his pocket and leaves with it. What offense has occurred?",
   options: [
     { id: "A", text: "Theft â€“ Felony" },
@@ -28532,7 +28532,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2145",
+  id: "TCOLE_q2144",
   prompt: "__________ are to keep improper evidence out of the trial.",
   options: [
     { id: "A", text: "Objections" },
@@ -28545,7 +28545,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2146",
+  id: "TCOLE_q2145",
   prompt: "A person steals a debit card with the intention of giving the card to his girlfriend to use to buy beer. He has committed:",
   options: [
     { id: "A", text: "Theft" },
@@ -28558,7 +28558,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2147",
+  id: "TCOLE_q2146",
   prompt: "_______ means under arrest by a peace officer or under restraint by a public servant pursuant to an order of a court of this state or another state of the United States.",
   options: [
     { id: "A", text: "Constructive custody" },
@@ -28571,7 +28571,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2148",
+  id: "TCOLE_q2147",
   prompt: "The 8th Amendment to the United States Constitution protects against:",
   options: [
     { id: "A", text: "Cruel and unusual punishment" },
@@ -28584,7 +28584,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2149",
+  id: "TCOLE_q2148",
   prompt: "Which of the listed elements is associated with the traditional police service model?",
   options: [
     { id: "A", text: "Incident driven" },
@@ -28597,7 +28597,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2150",
+  id: "TCOLE_q2149",
   prompt: "When providing infant CPR what should be used to deliver chest compressions?",
   options: [
     { id: "A", text: "Two hands" },
@@ -28610,7 +28610,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2151",
+  id: "TCOLE_q2150",
   prompt: "The primary duties of a Peace Officer who investigates a family violence allegation include:",
   options: [
     { id: "A", text: "Protect any potential victim" },
@@ -28623,7 +28623,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2152",
+  id: "TCOLE_q2151",
   prompt: "The property seized from a search warrant ___________________________ in which it was seized without an order approving the removal by a magistrate in the county in which the warrant was issued.",
   options: [
     { id: "A", text: "May not be removed from the county" },
@@ -28636,7 +28636,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2153",
+  id: "TCOLE_q2152",
   prompt: "If you lose your duty weapon during an altercation:",
   options: [
     { id: "A", text: "Run away from the spot as quickly as possible" },
@@ -28649,7 +28649,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2154",
+  id: "TCOLE_q2153",
   prompt: "38% of communication is ___________________.",
   options: [
     { id: "A", text: "Word Choices" },
@@ -28662,7 +28662,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2155",
+  id: "TCOLE_q2154",
   prompt: "A person other than a railroad employee commits an offense of interference with railroad property if he or she:",
   options: [
     { id: "A", text: "Knowingly enters or remains on railroad property" },
@@ -28675,7 +28675,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2156",
+  id: "TCOLE_q2155",
   prompt: "Which of the listed is NOT a service provided by the consular officer?",
   options: [
     { id: "A", text: "Arrange legal representation" },
@@ -28688,7 +28688,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2157",
+  id: "TCOLE_q2156",
   prompt: "Identity crime is the theft or _______ of personal or financial identifiers in order to gain something of value and/or facilitate other criminal activity.",
   options: [
     { id: "A", text: "Use" },
@@ -28701,7 +28701,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2158",
+  id: "TCOLE_q2157",
   prompt: "Individuals with mental illness are traditionally not ____________.",
   options: [
     { id: "A", text: "Cooperative" },
@@ -28714,7 +28714,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2159",
+  id: "TCOLE_q2158",
   prompt: "A person sets a fire in his backyard to burn off dead grass; the fire gets out of control and burns a neighbor's fence. The crime is:",
   options: [
     { id: "A", text: "Criminal mischief" },
@@ -28727,7 +28727,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2160",
+  id: "TCOLE_q2159",
   prompt: "Which is not one of the Four Principles of Procedural Justice?",
   options: [
     { id: "A", text: "Listening" },
@@ -28740,7 +28740,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2161",
+  id: "TCOLE_q2160",
   prompt: "A Texas Commercial Driver License is required for _______________?",
   options: [
     { id: "A", text: "A farmer when operating within 150 miles of their farm" },
@@ -28753,7 +28753,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2162",
+  id: "TCOLE_q2161",
   prompt: "Level ______ indicates that the person poses a moderate danger to the community and may continue to engage in criminal sexual conduct.",
   options: [
     { id: "A", text: "One" },
@@ -28766,7 +28766,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2163",
+  id: "TCOLE_q2162",
   prompt: "A person makes a material false statement under oath during an official proceeding. This person may be charged with:",
   options: [
     { id: "A", text: "Aggravated perjury" },
@@ -28779,7 +28779,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2164",
+  id: "TCOLE_q2163",
   prompt: "A person abducts another and threatens to harm the victim if he or she does not go along peacefully. The actor commits what crime, if any?",
   options: [
     { id: "A", text: "Kidnapping" },
@@ -28792,7 +28792,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2165",
+  id: "TCOLE_q2164",
   prompt: "When officers respond to a de-escalation incident that does not require the immediate neutralization of an active threat, the first step is to:",
   options: [
     { id: "A", text: "Gather information" },
@@ -28805,7 +28805,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2166",
+  id: "TCOLE_q2165",
   prompt: "A search warrant issued solely to search for and seize specimens from a specific person for DNA analysis and comparison, including blood and saliva, is allowed to run for:",
   options: [
     { id: "A", text: "3 whole days" },
@@ -28818,7 +28818,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2167",
+  id: "TCOLE_q2166",
   prompt: "A law enforcement officer who in the regular course of duty investigates a motor vehicle accident shall make a written report of the accident if the accident results in injury to a person, death of a person, or damage to the property of any one person to the apparent extent of $________ or more.",
   options: [
     { id: "A", text: "250" },
@@ -28831,7 +28831,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2168",
+  id: "TCOLE_q2167",
   prompt: "A person under ____ years of age may not operate a motor vehicle while using a wireless communications device, except in an emergency.",
   options: [
     { id: "A", text: "15" },
@@ -28844,7 +28844,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2169",
+  id: "TCOLE_q2168",
   prompt: "A stop sign erected by a business within their parking lot is _____.",
   options: [
     { id: "A", text: "Enforceable as an official traffic control device" },
@@ -28857,7 +28857,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2170",
+  id: "TCOLE_q2169",
   prompt: "__________ The constitution or a statute of this state or of the United States, a written opinion of a court of record, a municipal ordinance, an order of a county commissioners court, or a rule authorized by and lawfully adopted under a statute.",
   options: [
     { id: "A", text: "Constitution" },
@@ -28870,7 +28870,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2171",
+  id: "TCOLE_q2170",
   prompt: "Sexual assault is committed without consent of the other person if:",
   options: [
     { id: "A", text: "The other person has not consented and the actor knows that the other person is unconscious" },
@@ -28883,7 +28883,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2172",
+  id: "TCOLE_q2171",
   prompt: "How may a riot be dispersed?",
   options: [
     { id: "A", text: "Commanding the persons to disperse" },
@@ -28896,7 +28896,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2173",
+  id: "TCOLE_q2172",
   prompt: "A person commits Illegal Dumping if the person disposes or allows or permits the disposal of litter or other solid waste at a place that is not an approved solid waste site, including a place on or within ___________ feet of a public highway.",
   options: [
     { id: "A", text: "300" },
@@ -28909,7 +28909,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2174",
+  id: "TCOLE_q2173",
   prompt: "A person under ____ years of age may not operate a motor vehicle while using a wireless communications device, except in an emergency.",
   options: [
     { id: "A", text: "15" },
@@ -28922,7 +28922,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2175",
+  id: "TCOLE_q2174",
   prompt: "A short-barreled firearm includes a rifle or shotgun that has an overall length shorter than ___ inches.",
   options: [
     { id: "A", text: "24" },
@@ -28935,7 +28935,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2176",
+  id: "TCOLE_q2175",
   prompt: "Administrative or departmental policy should be at least as ________ as the law.",
   options: [
     { id: "A", text: "Equal" },
@@ -28948,7 +28948,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2177",
+  id: "TCOLE_q2176",
   prompt: "Art. 5.045 (Standby Assistance: Liability) provides that, in the discretion of a peace officer, the officer may stay with a victim of family violence to protect the victim and allow the victim to take personal property to a place of safety. A peace officer who provides assistance under this article is:",
   options: [
     { id: "A", text: "Civilly liable for an act or omission of the officer that arises in connection with providing the assistance" },
@@ -28961,7 +28961,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2178",
+  id: "TCOLE_q2177",
   prompt: "A 20-year-old man has sexual intercourse with a 16-year-old girl who consents because they are boyfriend and girlfriend. What offense, if any, was committed?",
   options: [
     { id: "A", text: "Assault" },
@@ -28974,7 +28974,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2179",
+  id: "TCOLE_q2178",
   prompt: "According to Sec. 32.21 of the Penal Code, a person commits an offense if he alters, makes, completes, executes, or authenticates a writing so that it purports to be a copy of an original when no original existed. This offense is:",
   options: [
     { id: "A", text: "Credit Card Abuse" },
@@ -28987,7 +28987,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2180",
+  id: "TCOLE_q2179",
   prompt: "When two officers approach a suspect, the officers should use the spread ___ formation.",
   options: [
     { id: "A", text: "V" },
@@ -29000,7 +29000,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2181",
+  id: "TCOLE_q2180",
   prompt: "Prejudice can take several forms including racial and ethnic, _________, sexual orientation, and authority figures.",
   options: [
     { id: "A", text: "Spiritual" },
@@ -29013,7 +29013,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2182",
+  id: "TCOLE_q2181",
   prompt: "________ _________ is the process of carefully gathering information based on verbal and nonverbal observations. This involves the listener observing the speaker's paralinguistic expressions. Oftentimes it is described as the most important life skill.",
   options: [
     { id: "A", text: "Observation intention" },
@@ -29026,7 +29026,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2183",
+  id: "TCOLE_q2182",
   prompt: "Which of the following, especially done in clusters, say 'I'm not interested' or 'I'm not listening'?",
   options: [
     { id: "A", text: "Repeatedly rubbing the back of the neck, ears, or eyes" },
@@ -29039,7 +29039,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2184",
+  id: "TCOLE_q2183",
   prompt: "The rational appeal is based on:",
   options: [
     { id: "A", text: "Use of reasoning" },
@@ -29052,7 +29052,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2185",
+  id: "TCOLE_q2184",
   prompt: "According to the CCP, which of the below is NOT one of the objects of the Code?",
   options: [
     { id: "A", text: "Prevention of Crime" },
@@ -29065,7 +29065,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2186",
+  id: "TCOLE_q2185",
   prompt: "________________ means a structure or vehicle that is adapted for the overnight accommodation of persons.",
   options: [
     { id: "A", text: "Motor home" },
@@ -29078,7 +29078,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2187",
+  id: "TCOLE_q2186",
   prompt: "An individual adjudged guilty of a Class A misdemeanor shall be punished by:",
   options: [
     { id: "A", text: "A fine not to exceed $4,000" },
@@ -29091,7 +29091,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2188",
+  id: "TCOLE_q2187",
   prompt: "In the Recommended Procedures for Notification of Death, if a child answers the door, ___________________.",
   options: [
     { id: "A", text: "Leave" },
@@ -29104,7 +29104,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2189",
+  id: "TCOLE_q2188",
   prompt: "How do the three components of the criminal justice system directly affect each other?",
   options: [
     { id: "A", text: "Increased arrests cause increased court dockets" },
@@ -29117,7 +29117,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2190",
+  id: "TCOLE_q2189",
   prompt: "_________ is that degree of influence that the officer must exert over the violator to take him or her safely into custody.",
   options: [
     { id: "A", text: "Restraint" },
@@ -29130,7 +29130,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2191",
+  id: "TCOLE_q2190",
   prompt: "The time 'zero zero zero one' is at the ________ of the day.",
   options: [
     { id: "A", text: "End" },
@@ -29143,7 +29143,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2192",
+  id: "TCOLE_q2191",
   prompt: "The minimum age in order to secure a Texas driver license is _____?",
   options: [
     { id: "A", text: "14" },
@@ -29156,7 +29156,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2193",
+  id: "TCOLE_q2192",
   prompt: "____________ Diversion is shifting someone away from the criminal justice system (no arrest or charges made), and guiding them to another form of intervention.",
   options: [
     { id: "A", text: "Pre-crime" },
@@ -29169,7 +29169,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2194",
+  id: "TCOLE_q2193",
   prompt: "In the course of committing an aggravated robbery, the perpetrator exits the store and pushes a customer aside to escape. The customer hits their head and dies from the fall. The most serious crime committed is:",
   options: [
     { id: "A", text: "Capital Murder" },
@@ -29182,7 +29182,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2195",
+  id: "TCOLE_q2194",
   prompt: "An arrest can be both _______ and physical problem for officer and arrestee.",
   options: [
     { id: "A", text: "An intellectual" },
@@ -29195,7 +29195,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2196",
+  id: "TCOLE_q2195",
   prompt: "In the definition of 'Sexual Conduct' under PC 43.01 Definitions, which is NOT included?",
   options: [
     { id: "A", text: "Deviate sexual intercourse" },
@@ -29208,7 +29208,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2197",
+  id: "TCOLE_q2196",
   prompt: "The ideal location for conducting an interview is:",
   options: [
     { id: "A", text: "In a private office at police headquarters equipped for the purpose" },
@@ -29221,7 +29221,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2198",
+  id: "TCOLE_q2197",
   prompt: "A person who is arrested for a ______________________ and who, during the commission of that offense, arrest, judicial proceeding, or confinement, causes bodily fluids to come into contact with a peace officer, magistrate, or correctional employee may be ordered to undergo testing for communicable diseases.",
   options: [
     { id: "A", text: "Misdemeanor" },
@@ -29234,7 +29234,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2199",
+  id: "TCOLE_q2198",
   prompt: "What is the name of the treaty that ensures a foreign national is not placed in a situation in which he cannot receive assistance from his own government?",
   options: [
     { id: "A", text: "Vienna Convention on Consular Relations" },
@@ -29247,7 +29247,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2200",
+  id: "TCOLE_q2199",
   prompt: "A liquor store may not sell liquor before:",
   options: [
     { id: "A", text: "10 A.M." },
@@ -29260,7 +29260,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2201",
+  id: "TCOLE_q2200",
   prompt: "____________ are organic substances essential for metabolism, growth, and development.",
   options: [
     { id: "A", text: "Neutrons" },
@@ -29273,7 +29273,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2202",
+  id: "TCOLE_q2201",
   prompt: "It is the duty of every peace officer to preserve the ________ within the officer's jurisdiction.",
   options: [
     { id: "A", text: "Law" },
@@ -29286,7 +29286,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2203",
+  id: "TCOLE_q2202",
   prompt: "Deadly force is:",
   options: [
     { id: "A", text: "Never authorized unless the peace officer is personally threatened" },
@@ -29299,7 +29299,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2204",
+  id: "TCOLE_q2203",
   prompt: "A farm trailer with a registered weight of 30,000 pounds is required to have the following lights during daytime operation:",
   options: [
     { id: "A", text: "Stop lamps" },
@@ -29312,7 +29312,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2205",
+  id: "TCOLE_q2204",
   prompt: "The DIC-25 deals mainly with:",
   options: [
     { id: "A", text: "The collection of breath or blood specimens" },
@@ -29325,7 +29325,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2206",
+  id: "TCOLE_q2205",
   prompt: "What form is read to subjects after a DWI arrest has been made?",
   options: [
     { id: "A", text: "Miranda Card" },
@@ -29338,7 +29338,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2207",
+  id: "TCOLE_q2206",
   prompt: "Which of the listed is not a purpose of the Juvenile Justice Code?",
   options: [
     { id: "A", text: "To provide for the protection of the public" },
@@ -29351,7 +29351,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2208",
+  id: "TCOLE_q2207",
   prompt: "A person breaks into an attached garage, breaks into a vehicle parked within the garage, and steals a $1,500 computer from the back seat. According to the Penal Code, what is the most serious offense committed?",
   options: [
     { id: "A", text: "Burglary of Habitation" },
@@ -29364,7 +29364,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2209",
+  id: "TCOLE_q2208",
   prompt: "A person steals a credit card with the intent to use it. According to the Penal Code, the person has committed the offense of:",
   options: [
     { id: "A", text: "Theft" },
@@ -29377,7 +29377,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2210",
+  id: "TCOLE_q2209",
   prompt: "What information should a crime scene related photo card contain?",
   options: [
     { id: "A", text: "Date" },
@@ -29390,7 +29390,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2211",
+  id: "TCOLE_q2210",
   prompt: "What does PPE stand for?",
   options: [
     { id: "A", text: "Pre-Protection Equipment" },
@@ -29403,7 +29403,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2212",
+  id: "TCOLE_q2211",
   prompt: "Which of the below is a force option?",
   options: [
     { id: "A", text: "Professional Presence" },
@@ -29416,7 +29416,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2213",
+  id: "TCOLE_q2212",
   prompt: "A person rents a lawn mower from a rental agency for a period of 30 days. Forty-five days later the subject does not return the lawn mower as agreed to in the contract. What offense, if any, did the subject commit?",
   options: [
     { id: "A", text: "Burglary" },
@@ -29429,7 +29429,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2214",
+  id: "TCOLE_q2213",
   prompt: "A man restricts his wife's movements without her consent by confining her in their bedroom; after a day passes, he lets her go free. What crime, if any, did the man commit?",
   options: [
     { id: "A", text: "Kidnapping" },
@@ -29442,7 +29442,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2215",
+  id: "TCOLE_q2214",
   prompt: "Which of the following statements is correct?",
   options: [
     { id: "A", text: "An operator may not drive on the left side of any pavement striping designed to mark a no-passing zone when passing." },
@@ -29455,7 +29455,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2216",
+  id: "TCOLE_q2215",
   prompt: "A person may not be prosecuted for or convicted of an offense (other than perjury, aggravated perjury, or a traffic offense) that he or she committed when:",
   options: [
     { id: "A", text: "Younger than eighteen years of age" },
@@ -29468,7 +29468,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2217",
+  id: "TCOLE_q2216",
   prompt: "Three major types of elder abuse are:",
   options: [
     { id: "A", text: "Financial, physical, mental" },
@@ -29481,7 +29481,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2218",
+  id: "TCOLE_q2217",
   prompt: "Some people hold the view that all people are entitled to equal basic rights and dignities simply because:",
   options: [
     { id: "A", text: "They were born in the United States" },
@@ -29494,7 +29494,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2219",
+  id: "TCOLE_q2218",
   prompt: "A person steals a book from a store. When exiting the store, the thief pushes a sixty-five-year-old woman to the side. The victim received bodily injury. The actor committed:",
   options: [
     { id: "A", text: "Theft" },
@@ -29507,7 +29507,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2220",
+  id: "TCOLE_q2219",
   prompt: "A person enters a department store during business hours and conceals herself inside the building until the store closes. The person then sneaks out of her hiding spot and commits a theft. She committed:",
   options: [
     { id: "A", text: "Criminal Trespass" },
@@ -29520,7 +29520,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2221",
+  id: "TCOLE_q2220",
   prompt: "What case proposed that entry may only be forced to execute an arrest warrant when the warrant is being executed at the residence where the person named in the arrest warrant lives?",
   options: [
     { id: "A", text: "Steagald v. United States" },
@@ -29533,7 +29533,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2222",
+  id: "TCOLE_q2221",
   prompt: "A person commits an offense if, during a period that is 30 or more days in duration, the person engages two or more times in conduct that constitutes an offense under Section 20A.03. This offense is:",
   options: [
     { id: "A", text: "Robbery" },
@@ -29546,7 +29546,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2223",
+  id: "TCOLE_q2222",
   prompt: "A person is _______ when he has been actually placed under restraint or taken into custody by an officer or person executing a warrant of arrest, or by any officer or person arresting without a warrant.",
   options: [
     { id: "A", text: "Arrested" },
@@ -29559,7 +29559,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2224",
+  id: "TCOLE_q2223",
   prompt: "Which one of the answers is one of the objectives of the Penal Code?",
   options: [
     { id: "A", text: "Adopt measures for preventing the commission of every crime" },
@@ -29572,7 +29572,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2225",
+  id: "TCOLE_q2224",
   prompt: "Which of the listed is a characteristic of a criminal investigator?",
   options: [
     { id: "A", text: "Curious" },
@@ -29585,7 +29585,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2226",
+  id: "TCOLE_q2225",
   prompt: "In order to suspend a person's driver license under the provisions of Chapter 724, Implied Consent, the motor vehicle or watercraft must be powered with an engine having a manufacturer's rating of _____ horsepower or above.",
   options: [
     { id: "A", text: "25" },
@@ -29598,7 +29598,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2227",
+  id: "TCOLE_q2226",
   prompt: "Which is one of the six major categories of a controlled substance?",
   options: [
     { id: "A", text: "Narcotics" },
@@ -29611,7 +29611,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2228",
+  id: "TCOLE_q2227",
   prompt: "The statutory speed limit for an urban district on a street other than an alley is _____ per hour.",
   options: [
     { id: "A", text: "20" },
@@ -29624,7 +29624,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2229",
+  id: "TCOLE_q2228",
   prompt: "Any injury, other than a fatal injury, which prevents continuation of normal activities (includes broken extremities, crush injuries, or paralysis) is known as:",
   options: [
     { id: "A", text: "Suspected Serious Injury" },
@@ -29637,7 +29637,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2230",
+  id: "TCOLE_q2229",
   prompt: "Who may file an application for a protective order under this chapter?",
   options: [
     { id: "A", text: "A person who is the victim of stalking" },
@@ -29650,7 +29650,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2231",
+  id: "TCOLE_q2230",
   prompt: "One of two methods of identifying suspected controlled substances and dangerous drugs is:",
   options: [
     { id: "A", text: "Ask a supervisor" },
@@ -29663,7 +29663,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2232",
+  id: "TCOLE_q2231",
   prompt: "\"I can't hardly see the fog in this fog\" would be an example of:",
   options: [
     { id: "A", text: "Double intensifiers" },
@@ -29676,7 +29676,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2233",
+  id: "TCOLE_q2232",
   prompt: "Law enforcement agencies in the State of Texas ______ adopt a detailed written policy on racial profiling.",
   options: [
     { id: "A", text: "Should" },
@@ -29689,7 +29689,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2234",
+  id: "TCOLE_q2233",
   prompt: "A ____________ is a moving object kept between the officer and the canine. This will be used if the canine is continually moving closer as the officer is backing away.",
   options: [
     { id: "A", text: "Shield" },
@@ -29702,7 +29702,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2235",
+  id: "TCOLE_q2234",
   prompt: "Individual states are granted rights under the U.S. Constitution to make and enforce laws that do not conflict with federal law. Which amendment guarantees states' rights?",
   options: [
     { id: "A", text: "Tenth" },
@@ -29715,7 +29715,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2236",
+  id: "TCOLE_q2235",
   prompt: "During investigation of certain reports alleging child abuse, as soon as possible after being notified by the department of the report, but not later than ____ hours after being notified, the peace officer shall accompany the CPS investigator in initially responding to the report:",
   options: [
     { id: "A", text: "12" },
@@ -29728,7 +29728,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2237",
+  id: "TCOLE_q2236",
   prompt: "Which simple basics of human interaction are the keys to true success when communicating?",
   options: [
     { id: "A", text: "Listening actively" },
@@ -29741,7 +29741,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2238",
+  id: "TCOLE_q2237",
   prompt: "The term ________________________ refers to any medication capable of affecting the mind, emotions, and behavior.",
   options: [
     { id: "A", text: "Psychotropic medication" },
@@ -29754,7 +29754,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2239",
+  id: "TCOLE_q2238",
   prompt: "A detention hearing without a jury shall be held promptly, but no later than the _______ working day after the child is taken into custody.",
   options: [
     { id: "A", text: "5th" },
@@ -29767,7 +29767,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2240",
+  id: "TCOLE_q2239",
   prompt: "Of the five domains of risk factors for youth gang involvement which is one of the strongest:",
   options: [
     { id: "A", text: "Family" },
@@ -29780,7 +29780,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2241",
+  id: "TCOLE_q2240",
   prompt: "Which is not a ground fighting technique?",
   options: [
     { id: "A", text: "Base get up" },
@@ -29793,7 +29793,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2242",
+  id: "TCOLE_q2241",
   prompt: "Capital Murder carries the below penalty:",
   options: [
     { id: "A", text: "Death Penalty" },
@@ -29806,7 +29806,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2243",
+  id: "TCOLE_q2242",
   prompt: "___________ Any type of administrative, executive, legislative, or judicial proceeding that may be conducted before a public servant.",
   options: [
     { id: "A", text: "Jury" },
@@ -29819,7 +29819,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2244",
+  id: "TCOLE_q2243",
   prompt: "A person commits aggravated sexual assault if the person intentionally or knowingly causes the penetration of the anus or female sexual organ of a person by any means:",
   options: [
     { id: "A", text: "If the actor causes the victim serious bodily injury" },
@@ -29832,7 +29832,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2245",
+  id: "TCOLE_q2244",
   "type": "multiple-choice",
   "points": 1,
   "prompt": "A person rents a chainsaw for one weekend and intentionally keeps it beyond the rental agreement. What offense has occurred?",
@@ -29847,7 +29847,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2246",
+  id: "TCOLE_q2245",
   prompt: "In determining probable cause for warrants for fire, health, and code inspections, the magistrate may consider any of the following: age and general condition of the premises, _______________________, the type of premises, the purpose for which the premises are used, and the presence of hazards or violations in and the general conditions of premises near the premises sought to be inspected.",
   options: [
     { id: "A", text: "The color of the grass outside the premises" },
@@ -29860,7 +29860,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2247",
+  id: "TCOLE_q2246",
   prompt: "According to your CIT training, mental illnesses are more common than:",
   options: [
     { id: "A", text: "Cancer" },
@@ -29873,7 +29873,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2248",
+  id: "TCOLE_q2247",
   prompt: "A man walks into a store and demands all the money in the register or he will kill the clerk. The clerk gives the perpetrator money from the register and the suspect leaves the store. After catching the person, you charge him with:",
   options: [
     { id: "A", text: "Terroristic threat" },
@@ -29886,7 +29886,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2249",
+  id: "TCOLE_q2248",
   prompt: "About what percentage of police contacts require physical force?",
   options: [
     { id: "A", text: "50 percent" },
@@ -29899,7 +29899,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2250",
+  id: "TCOLE_q2249",
   prompt: "A person commits aggravated sexual assault if the person intentionally or knowingly causes the penetration of the anus or female sexual organ of a person by any means:",
   options: [
     { id: "A", text: "If the actor causes the victim serious bodily injury" },
@@ -29912,7 +29912,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2251",
+  id: "TCOLE_q2250",
   prompt: "A kid on a skateboard rides by and steals a radio from a bench where a lady is sitting waiting for a bus. What offense has the kid committed?",
   options: [
     { id: "A", text: "Robbery" },
@@ -29925,7 +29925,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2252",
+  id: "TCOLE_q2251",
   prompt: "In determining probable cause for warrants for fire, health, and code inspections, the magistrate may consider any of the following: age and general condition of the premises, _______________________, the type of premises, the purpose for which the premises are used, and the presence of hazards or violations in and the general conditions of premises near the premises sought to be inspected.",
   options: [
     { id: "A", text: "The color of the grass outside the premises" },
@@ -29938,7 +29938,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2253",
+  id: "TCOLE_q2252",
   prompt: "According to your CIT training, mental illnesses are more common than:",
   options: [
     { id: "A", text: "Cancer" },
@@ -29951,7 +29951,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2254",
+  id: "TCOLE_q2253",
   prompt: "A man walks into a store and demands all the money in the register or he will kill the clerk. The clerk gives the perpetrator money from the register and the suspect leaves the store. After catching the person, you charge him with:",
   options: [
     { id: "A", text: "Terroristic threat" },
@@ -29964,7 +29964,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2255",
+  id: "TCOLE_q2254",
   prompt: "About what percentage of police contacts require physical force?",
   options: [
     { id: "A", text: "50 percent" },
@@ -29977,7 +29977,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2256",
+  id: "TCOLE_q2255",
   prompt: "What does the acronym PSAP stand for?",
   options: [
     { id: "A", text: "Public Safety Answering Point" },
@@ -29990,7 +29990,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2257",
+  id: "TCOLE_q2256",
   prompt: "When required, a vehicle transporting a load that extends beyond the vehicle's sides or more than __________ feet beyond the vehicle's rear shall display red flags that are at least ________ inches square and mark the extremities of the load.",
   options: [
     { id: "A", text: "2, 12" },
@@ -30003,7 +30003,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2258",
+  id: "TCOLE_q2257",
   prompt: "Title 18 U.S.C. Section 241 - Conspiracy Against Rights. Which answer is NOT correct?",
   options: [
     {
@@ -30028,7 +30028,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2259",
+  id: "TCOLE_q2258",
   prompt: "Whenever a number of persons are assembled together in such a manner as to constitute a riot, it is the _______ of every Magistrate or Peace Officer to cause such persons to disperse.",
   options: [
     { id: "A", text: "Call" },
@@ -30041,7 +30041,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2260",
+  id: "TCOLE_q2259",
   prompt: "Which of the listed is a common cognitive change an individual with a brain injury experiences?",
   options: [
     { id: "A", text: "Personality Change" },
@@ -30054,7 +30054,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2261",
+  id: "TCOLE_q2260",
   prompt: "Which of the following children may be referred to the juvenile court for delinquent conduct?",
   options: [
     { id: "A", text: "A child who violates an order of the juvenile court" },
@@ -30067,7 +30067,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2262",
+  id: "TCOLE_q2261",
   prompt: "Alcohol concentration means the number of grams of alcohol per:",
   options: [
     { id: "A", text: "210 liters of breath" },
@@ -30080,7 +30080,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2263",
+  id: "TCOLE_q2262",
   prompt: "In which step of the De-Escalation Critical Decision-Making Model should an officer determine how to proceed?",
   options: [
     { id: "A", text: "Collect information" },
@@ -30093,7 +30093,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2264",
+  id: "TCOLE_q2263",
   prompt: "In Asia, countries such as China and Thailand are considered:",
   options: [
     { id: "A", text: "Exempt from human trafficking" },
@@ -30106,7 +30106,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2265",
+  id: "TCOLE_q2264",
   prompt: "What is the proper sequence that makes up total stopping distance of a vehicle?",
   options: [
     { id: "A", text: "Braking, perception, decision" },
@@ -30119,7 +30119,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2266",
+  id: "TCOLE_q2265",
   prompt: "Daytime means the period beginning:",
   options: [
     { id: "A", text: "One-half hour before sunrise and ending one-half hour after sunset" },
@@ -30132,7 +30132,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2267",
+  id: "TCOLE_q2266",
   prompt: "Complete the sentence: '_________, I thought that the state's argument before the jury was excellent.'",
   options: [
     { id: "A", text: "All together" },
@@ -30145,7 +30145,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2268",
+  id: "TCOLE_q2267",
   prompt: "Which of the following is a true statement?",
   options: [
     { id: "A", text: "A highway is a subset of a roadway" },
@@ -30158,7 +30158,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2269",
+  id: "TCOLE_q2268",
   prompt: "Which search is best used for small areas with defined borders?",
   options: [
     { id: "A", text: "Quadrant search" },
@@ -30171,7 +30171,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2270",
+  id: "TCOLE_q2269",
   prompt: "All of these issues are usually addressed by a law enforcement agency's pursuit policy, except:",
   options: [
     { id: "A", text: "The conditions under which a pursuit should be initiated" },
@@ -30184,7 +30184,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2271",
+  id: "TCOLE_q2270",
   prompt: "A person who, in the course of committing theft, knowingly or recklessly causes bodily injury to another, or places another in fear of imminent bodily injury or death, has committed what offense?",
   options: [
     { id: "A", text: "Assault and theft" },
@@ -30197,7 +30197,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2272",
+  id: "TCOLE_q2271",
   prompt: "Punishment for a third-degree felony is:",
   options: [
     { id: "A", text: "2 to 20 years in state penitentiary and a $10,000 fine" },
@@ -30210,7 +30210,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2273",
+  id: "TCOLE_q2272",
   prompt: "A Texas Senator is currently on the way to Austin to attend a session of the Texas Legislature. Pursuant to Article 1.21 CCP, the Senator can only be arrested for which of the following?",
   options: [
     { id: "A", text: "Any offense provided it is committed in the officer's presence or view" },
@@ -30223,7 +30223,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2274",
+  id: "TCOLE_q2273",
   prompt: "A person operating a 'farm tractor' temporarily on a public highway must be licensed with at least a Class '_____' driver's license and display it on demand to a peace officer.",
   options: [
     { id: "A", text: "C" },
@@ -30236,7 +30236,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2275",
+  id: "TCOLE_q2274",
   prompt: "A 'controlled substance' is any item:",
   options: [
     { id: "A", text: "That is unsafe for self-medication and not included in Schedule I-V or Penalty Groups 1-4" },
@@ -30249,7 +30249,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2276",
+  id: "TCOLE_q2275",
   prompt: "Under Sec. 48.01 PC: Smoking Tobacco, which of the below locations is a place where tobacco use is prohibited?",
   options: [
     { id: "A", text: "Private museum" },
@@ -30262,7 +30262,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2277",
+  id: "TCOLE_q2276",
   prompt: "Chapter 724 of the Transportation Code requires that a blood specimen be taken:",
   options: [
     { id: "A", text: "In an ambulance" },
@@ -30275,7 +30275,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2278",
+  id: "TCOLE_q2277",
   prompt: "Rigor mortis usually disappears within:",
   options: [
     { id: "A", text: "24 hours" },
@@ -30288,7 +30288,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2279",
+  id: "TCOLE_q2278",
   prompt: "In order to substantiate the offense of sexual assault, the two most important elements that must be proven are:",
   options: [
     { id: "A", text: "Emission and force" },
@@ -30301,7 +30301,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2280",
+  id: "TCOLE_q2279",
   prompt: "You sustained a gunshot wound to your right thigh that produced heavy arterial bleeding. You initially controlled the hemorrhage by applying your own tourniquet. Which is the best strategy for dealing with the tourniquet on your leg?",
   options: [
     { id: "A", text: "Replace the tourniquet with a Combat Gauze dressing" },
@@ -30314,7 +30314,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2281",
+  id: "TCOLE_q2280",
   prompt: "Whenever, in the presence of a Peace Officer, or within his view, one person is about to commit an offense against the person or property of another, including the person or property of his spouse, or injure himself, it is his duty to _______ it.",
   options: [
     { id: "A", text: "Prevent" },
@@ -30327,7 +30327,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2282",
+  id: "TCOLE_q2281",
   prompt: "Each agency Civilian Interaction Training Program must include information regarding:",
   options: [
     { id: "A", text: "The role of law enforcement and the duties and responsibilities of peace officers" },
@@ -30340,7 +30340,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2283",
+  id: "TCOLE_q2282",
   prompt: "Section 39.03, Official Oppression, of the Texas Penal Code governs law that makes sexual harassment a Class A misdemeanor offense. Which of the following agencies may be involved in a sexual harassment investigation involving public servants?",
   options: [
     { id: "A", text: "Sexual Harassment-EEOC definitions / USCA 1983 - Violation of Civil Rights" },
@@ -30353,7 +30353,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2284",
+  id: "TCOLE_q2283",
   prompt: "Sexual assault is committed without consent of the person if:",
   options: [
     { id: "A", text: "The actor compels the other person to submit or participate by threatening to use force or violence against any person" },
@@ -30366,7 +30366,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2285",
+  id: "TCOLE_q2284",
   prompt: "In the course of committing theft, a person causes serious bodily injury to another person. The actor has committed:",
   options: [
     { id: "A", text: "Theft" },
@@ -30379,7 +30379,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2286",
+  id: "TCOLE_q2285",
   prompt: "A vehicle shall display each lighted lamp and illuminating device required to be on the vehicle under the following circumstances:",
   options: [
     { id: "A", text: "In a fog with a visibility of 1500 feet" },
@@ -30392,7 +30392,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2287",
+  id: "TCOLE_q2286",
   prompt: "The advent of ______________ allowed calls for service to be dispatched to officers in the field.",
   options: [
     { id: "A", text: "Automobiles" },
@@ -30405,7 +30405,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2288",
+  id: "TCOLE_q2287",
   prompt: "The court will examine the _______________ surrounding the seizure or detention to determine if there were sufficient facts and circumstances present to satisfy the Fourth Amendment.",
   options: [
     { id: "A", text: "Totality of the circumstances" },
@@ -30418,7 +30418,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2289",
+  id: "TCOLE_q2288",
   prompt: "Which of the following is part of the Intensity Continuum?",
   options: [
     { id: "A", text: "Crime-Specific" },
@@ -30431,7 +30431,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2290",
+  id: "TCOLE_q2289",
   prompt: "The goal of the State Network is to:",
   options: [
     { id: "A", text: "Slowly notify the public of specific missing person cases" },
@@ -30444,7 +30444,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2291",
+  id: "TCOLE_q2290",
   prompt: "Right to counsel is guaranteed in the _______ Amendment to the U.S. Constitution.",
   options: [
     { id: "A", text: "Fifth" },
@@ -30457,7 +30457,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2292",
+  id: "TCOLE_q2291",
   prompt: "Standing body searches should be executed from:",
   options: [
     { id: "A", text: "The rear" },
@@ -30470,7 +30470,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2293",
+  id: "TCOLE_q2292",
   prompt: "Robbery differs from theft and burglary in that it involves:",
   options: [
     { id: "A", text: "Stealth" },
@@ -30483,7 +30483,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2294",
+  id: "TCOLE_q2293",
   prompt: "A _________________ is a demand, real or imagined, that disrupts a person's equilibrium and initiates the stress response.",
   options: [
     { id: "A", text: "Trigger" },
@@ -30496,7 +30496,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2295",
+  id: "TCOLE_q2294",
   prompt: "A person commits an offense of ____________________ if he or she threatens to commit any offense with intent to interrupt public communications, public transportation, public water, gas, or power supply or other public services.",
   options: [
     { id: "A", text: "Criminal mischief" },
@@ -30509,7 +30509,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2296",
+  id: "TCOLE_q2295",
   prompt: "Who is required to complete training under the Community Safety Education Act?",
   options: [
     { id: "A", text: "All Texas peace officers" },
@@ -30523,7 +30523,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2297",
+  id: "TCOLE_q2296",
   prompt: "According to Art. 18.021 (Issuance of Search Warrant to Photograph Child), after the child is photographed, the exposed film _______________________________.",
   options: [
     { id: "A", text: "Is delivered to the magistrate" },
@@ -30536,7 +30536,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2298",
+  id: "TCOLE_q2297",
   prompt: "Crisis Intervention Training was designed so that law enforcement officers can:",
   options: [
     { id: "A", text: "Understand mental illness" },
@@ -30549,7 +30549,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2299",
+  id: "TCOLE_q2298",
   prompt: "The security given by the accused that he will appear and answer before the proper court the accusation brought against him is called ___________.",
   options: [
     { id: "A", text: "A bondsman" },
@@ -30562,7 +30562,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2300",
+  id: "TCOLE_q2299",
   prompt: "What offense occurs if a woman is sitting in front of a store entrance, blocking customers from entering, and refuses to leave when asked to do so?",
   options: [
     { id: "A", text: "Criminal trespass" },
@@ -30575,7 +30575,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2301",
+  id: "TCOLE_q2300",
   prompt: "What is the minimum light transmission percentage allowable for window tinting?",
   options: [
     { id: "A", text: "25%" },
@@ -30587,7 +30587,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
   explain: "TC 547.613(b)(2)(A); TC Section 22.17, page 12"
 },
 {
-  id: "TCOLE_q2302",
+  id: "TCOLE_q2301",
   prompt: "When performing rescue breathing on an adult, what rate should be maintained?",
   options: [
     { id: "A", text: "5 breaths per minute" },
@@ -30600,7 +30600,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2303",
+  id: "TCOLE_q2302",
   prompt: "A motor vehicle designed to transport more than 10 passengers, including the operator, is classified as a:",
   options: [
     { id: "A", text: "Truck" },
@@ -30613,7 +30613,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2304",
+  id: "TCOLE_q2303",
   prompt: "Which court has exclusive jurisdiction over death penalty appeals in Texas?",
   options: [
     { id: "A", text: "Supreme Court" },
@@ -30626,7 +30626,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2305",
+  id: "TCOLE_q2304",
   prompt: "According to CCP Article 1.24, proceedings and trials in all courts shall be:",
   options: [
     { id: "A", text: "Recorded" },
@@ -30639,7 +30639,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2306",
+  id: "TCOLE_q2305",
   prompt: "Who may serve documents involving seizure of property, seizure of persons, or evictions?",
   options: [
     { id: "A", text: "Only a Sheriff" },
@@ -30652,7 +30652,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2307",
+  id: "TCOLE_q2306",
   prompt: "According to the CCP and case law, an officer or supervisor witnessing excessive force must:",
   options: [
     { id: "A", text: "May intervene" },
@@ -30665,7 +30665,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2308",
+  id: "TCOLE_q2307",
   prompt: "Penal Code 31.03 defines which offense?",
   options: [
     { id: "A", text: "Escape" },
@@ -30678,7 +30678,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2309",
+  id: "TCOLE_q2308",
   prompt: "What term describes the lawful delivery of a controlled substance by a practitioner to an ultimate user or research subject?",
   options: [
     { id: "A", text: "Delivery" },
@@ -30691,7 +30691,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2310",
+  id: "TCOLE_q2309",
   prompt: "A person intentionally or knowingly abducts another person. What offense has occurred?",
   options: [
     { id: "A", text: "Illegal Restraint" },
@@ -30704,7 +30704,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2311",
+  id: "TCOLE_q2310",
   prompt: "An officer should stand with his or her weapon facing a subject during an interview to demonstrate readiness.",
   options: [
     { id: "A", text: "True" },
@@ -30715,7 +30715,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2312",
+  id: "TCOLE_q2311",
   prompt: "What type of mob is associated with race riots, lynching, political riots, or prison riots?",
   options: [
     { id: "A", text: "Escape Mob" },
@@ -30728,7 +30728,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2313",
+  id: "TCOLE_q2312",
   prompt: "A qualified retired law enforcement officer's weapons proficiency certification expires on the:",
   options: [
     { id: "A", text: "Second Anniversary" },
@@ -30741,7 +30741,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2314",
+  id: "TCOLE_q2313",
   prompt: "Daytime begins one-half hour before sunrise and ends one-half hour after sunset.",
   options: [
     { id: "A", text: "True" },
@@ -30752,7 +30752,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2315",
+  id: "TCOLE_q2314",
   prompt: "Writing a report in the order events occurred is known as:",
   options: [
     { id: "A", text: "Chronological" },
@@ -30765,7 +30765,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2316",
+  id: "TCOLE_q2315",
   prompt: "Non-consensual penetration of another person's sexual organ, anus, or mouth as defined by Texas law constitutes:",
   options: [
     { id: "A", text: "Battery" },
@@ -30778,7 +30778,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2317",
+  id: "TCOLE_q2316",
   prompt: "Which body parts are commonly used by dogs to communicate?",
   options: [
     { id: "A", text: "Eyes Only" },
@@ -30791,7 +30791,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2318",
+  id: "TCOLE_q2317",
   prompt: "When encountering a potentially aggressive dog, an officer should NOT:",
   options: [
     { id: "A", text: "Speak calmly" },
@@ -30804,7 +30804,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2319",
+  id: "TCOLE_q2318",
   prompt: "Possible physiological responses when encountering a homicide in progress include:",
   options: [
     { id: "A", text: "Loss of peripheral vision" },
@@ -30817,7 +30817,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2320",
+  id: "TCOLE_q2319",
   prompt: "What legal term describes a person who represents themselves in court without an attorney?",
   options: [
     { id: "A", text: "Ex Parte" },
@@ -30830,7 +30830,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2321",
+  id: "TCOLE_q2320",
   prompt: "A law enforcement agency's racial profiling policy must include:",
   options: [
     { id: "A", text: "Reading Miranda warnings based on ethnicity" },
@@ -30843,7 +30843,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2322",
+  id: "TCOLE_q2321",
   prompt: "Generally, a person may not be prosecuted for most offenses committed before age 17 unless:",
   options: [
     { id: "A", text: "The person reaches age 18" },
@@ -30856,7 +30856,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2323",
+  id: "TCOLE_q2322",
   prompt: "The constitutional protection against unreasonable searches and seizures is found in which amendment?",
   options: [
     { id: "A", text: "First Amendment" },
@@ -30869,7 +30869,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2324",
+  id: "TCOLE_q2323",
   prompt: "Criminal law primarily regulates conduct through:",
   options: [
     { id: "A", text: "Fines, imprisonment, or execution" },
@@ -30882,7 +30882,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2325",
+  id: "TCOLE_q2324",
   prompt: "A pedestrian must yield the right-of-way to vehicles when crossing:",
   options: [
     { id: "A", text: "At an intersection" },
@@ -30895,7 +30895,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2326",
+  id: "TCOLE_q2325",
   prompt: "Which term applies to any self-propelled vehicle or a vehicle powered through overhead trolley wires?",
   options: [
     { id: "A", text: "Public Conveyance" },
@@ -30908,7 +30908,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2327",
+  id: "TCOLE_q2326",
   prompt: "In the LEAPS communication model, what does the letter E represent?",
   options: [
     { id: "A", text: "Ease" },
@@ -30921,7 +30921,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2328",
+  id: "TCOLE_q2327",
   prompt: "When obtaining a specimen from a person who resists or objects, the act does not itself constitute negligence and may ______ be considered evidence of negligence.",
   options: [
     { id: "A", text: "Indeed, in fact" },
@@ -30934,7 +30934,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2329",
+  id: "TCOLE_q2328",
   prompt: "Besides cardiovascular disease and ulcers, which condition is a primary physical disabler for law enforcement officers?",
   options: [
     { id: "A", text: "Smoking" },
@@ -30947,7 +30947,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2330",
+  id: "TCOLE_q2329",
   prompt: "Problem area patrols are commonly divided into preventative and ______ patrols.",
   options: [
     { id: "A", text: "Responsive" },
@@ -30960,7 +30960,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2331",
+  id: "TCOLE_q2330",
   prompt: "Emergency vehicle audible warning devices are generally ______ effective in heavy traffic.",
   options: [
     { id: "A", text: "More" },
@@ -30972,7 +30972,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2332",
+  id: "TCOLE_q2331",
   prompt: "Which courts possess criminal jurisdiction within the Texas court system?",
   options: [
     { id: "A", text: "District Courts and County Courts only" },
@@ -30985,7 +30985,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2333",
+  id: "TCOLE_q2332",
   prompt: "A person who falsely, fraudulently, or willfully permits another to violate a statute may be guilty of what type of offense?",
   options: [
     { id: "A", text: "Premature Acquisition" },
@@ -30998,7 +30998,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2334",
+  id: "TCOLE_q2333",
   prompt: "A steady yellow traffic signal warns drivers that:",
   options: [
     { id: "A", text: "A red light will soon be displayed" },
@@ -31011,7 +31011,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2335",
+  id: "TCOLE_q2334",
   prompt: "According to the 80/20 Rule, a communicator should spend approximately 80% of the interaction:",
   options: [
     { id: "A", text: "Talking" },
@@ -31024,7 +31024,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2336",
+  id: "TCOLE_q2335",
   prompt: "A person commits an offense only if he or she ______ engages in conduct.",
   options: [
     { id: "A", text: "Responsibly" },
@@ -31037,7 +31037,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2337",
+  id: "TCOLE_q2336",
   prompt: "A suspect abducts a child, demands ransom, and later releases the child unharmed. What is the most serious offense committed?",
   options: [
     { id: "A", text: "Kidnapping" },
@@ -31050,7 +31050,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2338",
+  id: "TCOLE_q2337",
   prompt: "A peace officer's license may be suspended for failure to meet legislative continuing education requirements for:",
   options: [
     { id: "A", text: "Up to 30 days first offense and 90 days second offense" },
@@ -31063,7 +31063,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2339",
+  id: "TCOLE_q2338",
   prompt: "Which item is NOT required for a valid consent search?",
   options: [
     { id: "A", text: "Consent must be voluntary" },
@@ -31076,7 +31076,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2340",
+  id: "TCOLE_q2339",
   prompt: "What term means conduct that is criminal or tortious, including conduct that would be criminal or tortious except for a defense not amounting to justification or privilege?",
   options: [
     { id: "A", text: "Samaritan" },
@@ -31089,7 +31089,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2341",
+  id: "TCOLE_q2340",
   prompt: "Under Article 7B.007, a protective order may remain effective:",
   options: [
     { id: "A", text: "Only until the second anniversary" },
@@ -31102,7 +31102,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2342",
+  id: "TCOLE_q2341",
   prompt: "Intentionally, knowingly, or recklessly causing bodily injury, threatening bodily injury, or making offensive physical contact defines:",
   options: [
     { id: "A", text: "Sexual Abuse" },
@@ -31115,7 +31115,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2343",
+  id: "TCOLE_q2342",
   prompt: "Which of the following is considered a force option within the force continuum?",
   options: [
     { id: "A", text: "Awareness" },
@@ -31128,7 +31128,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2344",
+  id: "TCOLE_q2343",
   prompt: "Physical balance allows an officer to move while maintaining balance, strength, and:",
   options: [
     { id: "A", text: "Awareness" },
@@ -31141,7 +31141,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2345",
+  id: "TCOLE_q2344",
   prompt: "What term describes the part of a highway used for vehicular travel, excluding the berm or shoulder?",
   options: [
     { id: "A", text: "Roadway" },
@@ -31154,7 +31154,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2346",
+  id: "TCOLE_q2345",
   prompt: "Which reform-era policing leader is credited with promoting professionalism in American policing?",
   options: [
     { id: "A", text: "Sir Robert Peel" },
@@ -31167,7 +31167,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2347",
+  id: "TCOLE_q2346",
   prompt: "Which of the following is NOT considered one of the common methods of drug abuse?",
   options: [
     { id: "A", text: "Ingestion" },
@@ -31180,7 +31180,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2348",
+  id: "TCOLE_q2347",
   prompt: "A person intentionally leaves a motel without paying a $65 bill. What offense has occurred?",
   options: [
     { id: "A", text: "Theft" },
@@ -31193,7 +31193,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2349",
+  id: "TCOLE_q2348",
   prompt: "Which of these is not a universal precaution for transmission of communicable diseases?",
   options: [
     { id: "A", text: "Gloves" },
@@ -31206,7 +31206,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2350",
+  id: "TCOLE_q2349",
   prompt: "Criminal Attempt occurs when a person, with specific intent to commit an offense, does an act amounting to more than mere preparation that tends but fails to effect the commission of the offense intended. An offense of Criminal Attempt is punishable by what offense punishment level?",
   options: [
     { id: "A", text: "The same category of the offense attempted" },
@@ -31220,7 +31220,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2351",
+  id: "TCOLE_q2350",
   prompt: "If two or more persons conspire to injure, oppress, threaten, or intimidate any inhabitant in the free exercise or enjoyment of rights secured by the Constitution or laws of the United States, best describes __________.",
   options: [
     { id: "A", text: "USC 242 Deprivation of Rights Under Color of Law" },
@@ -31233,7 +31233,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2352",
+  id: "TCOLE_q2351",
   prompt: "Eustress is __________.",
   options: [
     { id: "A", text: "Stress that causes pain" },
@@ -31246,7 +31246,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2353",
+  id: "TCOLE_q2352",
   prompt: "Post mortem lividity is a dark blue discoloration observable on the parts of the body nearest the ground. Appears about __________ subsequent to death.",
   options: [
     { id: "A", text: "Immediately" },
@@ -31259,7 +31259,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2354",
+  id: "TCOLE_q2353",
   prompt: "According to Commission Rules, if a current license holder is arrested for any offense above a Class C misdemeanor, the license holder shall report the facts of the arrest to the Commission in writing within __________.",
   options: [
     { id: "A", text: "30 days" },
@@ -31272,7 +31272,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2355",
+  id: "TCOLE_q2354",
   prompt: "According to the Code of Criminal Procedure, what is a writ issued by a court directing any peace officer in the state to arrest a person accused of an offense and bring him before that court immediately called?",
   options: [
     { id: "A", text: "Attachment" },
@@ -31285,7 +31285,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2356",
+  id: "TCOLE_q2355",
   prompt: "These disorders cause oversensitivity to sounds and visions characterized by hallucinations and/or impaired distorted thinking.",
   options: [
     { id: "A", text: "Antisocial" },
@@ -31298,7 +31298,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2357",
+  id: "TCOLE_q2356",
   prompt: "Which one of the following best describes the importance of patrol?",
   options: [
     { id: "A", text: "Eliminates the opportunity of, but not the confidence in succeeding at, misconduct by the criminal element of society." },
@@ -31312,7 +31312,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2358",
+  id: "TCOLE_q2357",
   prompt: "The normal response to trauma follows a similar pattern called the __________.",
   options: [
     { id: "A", text: "Crisis Reaction" },
@@ -31325,7 +31325,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2359",
+  id: "TCOLE_q2358",
   prompt: "A writ which commands the appearance of a person before a coroner's inquest is called a __________.",
   options: [
     { id: "A", text: "Summons" },
@@ -31338,7 +31338,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2360",
+  id: "TCOLE_q2359",
   "type": "multiple-choice",
   "points": 1,
   "prompt": "A suspect enters an unlocked storage building without the owner's consent and removes a lawn mower valued at $500. What is the most serious offense committed?",
@@ -31353,7 +31353,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2361",
+  id: "TCOLE_q2360",
   prompt: "The method of service that is always allowed on Sunday is __________.",
   options: [
     { id: "A", text: "Third person to the defendant" },
@@ -31367,7 +31367,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2362",
+  id: "TCOLE_q2361",
   prompt: "__________ means the person who, under court order, is the guardian of the child or the public or private agency with whom the child has been placed by a court.",
   options: [
     { id: "A", text: "Party" },
@@ -31380,7 +31380,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2363",
+  id: "TCOLE_q2362",
   prompt: "If a person intentionally or knowingly causes the penetration of the anus or sexual organ of another person by any means, without that person's consent, the actor has committed the offense of __________.",
   options: [
     { id: "A", text: "Rape" },
@@ -31393,7 +31393,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2364",
+  id: "TCOLE_q2363",
   prompt: "An operator of a vehicle emerging from an alley, driveway, or business shall __________.",
   options: [
     { id: "A", text: "Stop before the sidewalk" },
@@ -31407,7 +31407,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2365",
+  id: "TCOLE_q2364",
   prompt: "A man is walking down the street with his wife. A valid protective order prohibits him from coming within 100 feet of her. What offense has occurred?",
   options: [
     { id: "A", text: "Assault - Contact" },
@@ -31421,7 +31421,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2366",
+  id: "TCOLE_q2365",
   prompt: "Which of the following is considered a risk factor in the physical process of arrest?",
   options: [
     { id: "A", text: "Officer's equipment" },
@@ -31434,7 +31434,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2367",
+  id: "TCOLE_q2366",
   prompt: "A person in the course of committing theft, and with the intent to obtain or maintain control of property, intentionally, knowingly, or recklessly places another in fear of imminent bodily injury or death.",
   options: [
     { id: "A", text: "Theft by Appropriation" },
@@ -31447,7 +31447,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2368",
+  id: "TCOLE_q2367",
   prompt: "__________ includes consent by a person legally authorized to act for the owner.",
   options: [
     { id: "A", text: "Ineffective Consent" },
@@ -31460,7 +31460,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2369",
+  id: "TCOLE_q2368",
   prompt: "According to the Health and Safety Code, __________ means a principal compound commonly used or produced primarily for use in the manufacture of a controlled substance.",
   options: [
     { id: "A", text: "Immediate Precursor" },
@@ -31473,7 +31473,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2370",
+  id: "TCOLE_q2369",
   prompt: "False beliefs not based on factual information is the definition of __________.",
   options: [
     { id: "A", text: "Psychosis" },
@@ -31486,7 +31486,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2371",
+  id: "TCOLE_q2370",
   prompt: "Traditionally police officers handle crimes __________.",
   options: [
     { id: "A", text: "Before they are committed" },
@@ -31499,7 +31499,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2372",
+  id: "TCOLE_q2371",
   prompt: "A __________ is a divided, controlled access highway for through traffic.",
   options: [
     { id: "A", text: "Freeway" },
@@ -31513,7 +31513,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2373",
+  id: "TCOLE_q2372",
   prompt: "Time limitations for offenses refer to the time that what must occur?",
   options: [
     { id: "A", text: "A trial for the offense must begin" },
@@ -31526,7 +31526,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2374",
+  id: "TCOLE_q2373",
   prompt: "Peace officers who do not have their Intermediate Certification by the last day of the cycle must take __________.",
   options: [
     { id: "A", text: "Cultural Diversity (3939)" },
@@ -31540,7 +31540,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2375",
+  id: "TCOLE_q2374",
   prompt: "Attitudes or __________ can lead to conflict.",
   options: [
     { id: "A", text: "Jokes" },
@@ -31553,7 +31553,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2376",
+  id: "TCOLE_q2375",
   prompt: "__________ means the state, a child who is the subject of proceedings under this subtitle, or the child's parent, spouse, guardian, or guardian ad litem.",
   options: [
     { id: "A", text: "Party" },
@@ -31566,7 +31566,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2377",
+  id: "TCOLE_q2376",
   prompt: "When treating shock, what do you need to control?",
   options: [
     { id: "A", text: "Breathing" },
@@ -31579,7 +31579,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2378",
+  id: "TCOLE_q2377",
   prompt: "A __________ team covers search team as they enter the building, and then guards the place of entry/exits providing any help possible.",
   options: [
     { id: "A", text: "Rescue Team" },
@@ -31592,7 +31592,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2379",
+  id: "TCOLE_q2378",
   prompt: "What type of injury must occur to constitute an assault punishable as a Class A misdemeanor?",
   options: [
     { id: "A", text: "Offensive Contact" },
@@ -31606,7 +31606,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2380",
+  id: "TCOLE_q2379",
   prompt: "All __________ should be treated as a homicide until proven otherwise.",
   options: [
     { id: "A", text: "Deaths" },
@@ -31619,7 +31619,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2381",
+  id: "TCOLE_q2380",
   prompt: "Who may authorize the release of a person arrested for Public Intoxication?",
   options: [
     { id: "A", text: "Peace Officer" },
@@ -31632,7 +31632,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2382",
+  id: "TCOLE_q2381",
   prompt: "Operation ID encourages citizens to mark their personal inventory with their __________.",
   options: [
     { id: "A", text: "Social Security Number" },
@@ -31645,7 +31645,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2383",
+  id: "TCOLE_q2382",
   prompt: "Which of the following is the correct order of courtroom testimony?",
   options: [
     { id: "A", text: "Cross, Direct, Indirect, Recross" },
@@ -31658,7 +31658,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2384",
+  id: "TCOLE_q2383",
   prompt: "Amendment 9 to the Constitution __________.",
   options: [
     { id: "A", text: "Individual Rights" },
@@ -31671,7 +31671,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2385",
+  id: "TCOLE_q2384",
   prompt: "Which of the following is an advantage of a rear approach?",
   options: [
     { id: "A", text: "Element of Surprise" },
@@ -31684,7 +31684,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2386",
+  id: "TCOLE_q2385",
   prompt: "What mental disorder is commonly associated with unstable and intense personal relationships, impulsiveness, and intense anger or lack of anger control?",
   options: [
     { id: "A", text: "Borderline" },
@@ -31697,7 +31697,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2387",
+  id: "TCOLE_q2386",
   prompt: "The single most common factor in suicide is __________.",
   options: [
     { id: "A", text: "Autism" },
@@ -31709,7 +31709,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
   explain: "Mental Health / Suicide Prevention. Depression is the most commonly identified risk factor associated with suicide."
 },
 {
-  id: "TCOLE_q2388",
+  id: "TCOLE_q2387",
   prompt: "Citations and other notices may be served anywhere by __________.",
   options: [
     { id: "A", text: "Any Sheriff or Constable or other person authorized by law" },
@@ -31723,7 +31723,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2389",
+  id: "TCOLE_q2388",
   prompt: "Attitude is a __________ position based on a person's knowledge, feelings, and experiences about someone or something influencing behavior.",
   options: [
     { id: "A", text: "Cognitive" },
@@ -31736,7 +31736,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2390",
+  id: "TCOLE_q2389",
   prompt: "Where do you move an injured limb to control bleeding?",
   options: [
     { id: "A", text: "Above Heart" },
@@ -31749,7 +31749,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2391",
+  id: "TCOLE_q2390",
   prompt: "A person intentionally or knowingly requests, commands, or attempts to induce another person to engage in specific conduct that would constitute a capital or first-degree felony commits what offense?",
   options: [
     { id: "A", text: "Criminal Attempt" },
@@ -31762,7 +31762,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 },
 
 {
-  id: "TCOLE_q2392",
+  id: "TCOLE_q2391",
   prompt: "What percentage of a message is received due to the content of the message?",
   options: [
     { id: "A", text: "7%" },
@@ -31776,7 +31776,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 
 {
-id: "TCOLE_q2393",
+id: "TCOLE_q2392",
 type: "multiple-choice",
 points: 1,
 prompt: "Which of these is not a universal precaution for transmission of communicable diseases?",
@@ -31791,7 +31791,7 @@ explain: "Shoes are not considered a standard universal precaution."
 },
 
 {
-id: "TCOLE_q2394",
+id: "TCOLE_q2393",
 type: "multiple-choice",
 points: 1,
 prompt: "Criminal Attempt occurs when a person, with specific intent to commit an offense, does an act amounting to more than mere preparation that tends but fails to effect the commission of the offense intended. An offense of Criminal Attempt is punishable by what offense punishment level?",
@@ -31807,7 +31807,7 @@ explain: "Criminal Attempt is generally punishable one category lower than the o
 },
 
 {
-id: "TCOLE_q2395",
+id: "TCOLE_q2394",
 type: "multiple-choice",
 points: 1,
 prompt: "If two or more persons conspire to injure, oppress, threaten, or intimidate any inhabitant in the free exercise or enjoyment of rights secured by the Constitution or laws of the United States, best describes __________.",
@@ -31822,7 +31822,7 @@ explain: "USC 241 addresses conspiracy against rights."
 },
 
 {
-  id: "TCOLE_q2396",
+  id: "TCOLE_q2395",
   type: "multiple-choice",
   points: 1,
   prompt: "When doing a physical search _______________.",
@@ -31834,6 +31834,769 @@ explain: "USC 241 addresses conspiracy against rights."
   ],
   answer: "C",
   explain: "TCOLE Officer Safety and Search Techniques, During a physical search officers should let their hands do the searching while maintaining visual awareness of the suspect and surroundings."
+},
+
+{
+id: "TCOLE_q2396",
+type: "multiple-choice",
+points: 1,
+prompt: "A __________ is a group of words that expresses a complete thought.",
+options: [
+{ id: "A", text: "Sentence" },
+{ id: "B", text: "Category" },
+{ id: "C", text: "Scheme" },
+{ id: "D", text: "Fragment" }
+],
+answer: "A",
+explain: "A sentence contains a complete thought and can stand alone. Reference: TCOLE Ch. 25."
+},
+
+{
+id: "TCOLE_q2397",
+type: "multiple-choice",
+points: 1,
+prompt: "Family by definition of the Family Code includes __________.",
+options: [
+{ id: "A", text: "Biological and foster parents" },
+{ id: "B", text: "Former spouses of each other" },
+{ id: "C", text: "Individuals related by consanguinity or affinity" },
+{ id: "D", text: "All the above are under the 'family' definition" }
+],
+answer: "D",
+explain: "The Family Code definition of family includes all listed relationships. Reference: TFC §71.003."
+},
+
+{
+id: "TCOLE_q2398",
+type: "multiple-choice",
+points: 1,
+prompt: "Fraudulent Use or Possession of Identifying Information (PC 32.51) is a __________ if the number of items obtained, possessed, transferred, or used is less than five.",
+options: [
+{ id: "A", text: "Class C misdemeanor" },
+{ id: "B", text: "3rd Degree Felony" },
+{ id: "C", text: "Class B misdemeanor" },
+{ id: "D", text: "State Jail Felony" }
+],
+answer: "D",
+explain: "Possession of fewer than five items of identifying information is a State Jail Felony. Reference: PC §32.51."
+},
+
+{
+id: "TCOLE_q2399",
+type: "multiple-choice",
+points: 1,
+prompt: "In the SFST Walk and Turn test, the suspect must be instructed to take nine steps up the line and __________ steps back down the line.",
+options: [
+{ id: "A", text: "7" },
+{ id: "B", text: "8" },
+{ id: "C", text: "9" },
+{ id: "D", text: "10" },
+{ id: "E", text: "Any number other than nine" }
+],
+answer: "C",
+explain: "The standardized Walk-and-Turn test requires 9 heel-to-toe steps out and 9 steps back. Reference: NHTSA SFST Manual; TCOLE Ch. 23."
+},
+
+{
+id: "TCOLE_q2400",
+type: "multiple-choice",
+points: 1,
+prompt: "__________ is a motor vehicle designed and used primarily to draw another vehicle but not constructed to carry a load other than a part of the weight of the other vehicle and its load.",
+options: [
+{ id: "A", text: "Semitrailer" },
+{ id: "B", text: "Van trailer" },
+{ id: "C", text: "Truck trailer" },
+{ id: "D", text: "Truck tractor" }
+],
+answer: "D",
+explain: "A truck tractor is designed primarily to draw another vehicle and carry part of its weight. Reference: TTC §541.201."
+},
+
+{
+id: "TCOLE_q2401",
+type: "multiple-choice",
+points: 1,
+prompt: "Art. 15.16 states the arrested person must be taken before __________.",
+options: [
+{ id: "A", text: "The magistrate in the county where he is arrested" },
+{ id: "B", text: "The sheriff in the county where he is arrested" },
+{ id: "C", text: "A bondsman to allow him to post a bond" },
+{ id: "D", text: "The grand jury" }
+],
+answer: "A",
+explain: "An arrested person must be taken before a magistrate without unnecessary delay. Reference: CCP Art. 15.16."
+},
+
+{
+id: "TCOLE_q2402",
+type: "multiple-choice",
+points: 1,
+prompt: "Airport police officers commissioned by __________ with a population of more than 1.18 million located primarily in a county with a population of 2 million or more that operates an airport that serves commercial air carriers.",
+options: [
+{ id: "A", text: "A city" },
+{ id: "B", text: "A state" },
+{ id: "C", text: "A county" },
+{ id: "D", text: "The TSA" }
+],
+answer: "A",
+explain: "Certain qualifying cities operating commercial airports may commission airport peace officers. Reference: CCP Art. 2.12."
+},
+
+{
+id: "TCOLE_q2403",
+type: "multiple-choice",
+points: 1,
+prompt: "According to the Code of Criminal Procedure, a written statement of a grand jury accusing a person of an offense is a/an __________.",
+options: [
+{ id: "A", text: "Complaint" },
+{ id: "B", text: "Indictment" },
+{ id: "C", text: "Information" },
+{ id: "D", text: "Affidavit" }
+],
+answer: "B",
+explain: "An indictment is the written statement of a grand jury charging a person with an offense. Reference: CCP Art. 21.01."
+},
+
+{
+id: "TCOLE_q2404",
+type: "multiple-choice",
+points: 1,
+prompt: "An officer observes a male and female having sex in a local park late at night. Nobody is in the park that could possibly witness the couple's actions. What offense has occurred?",
+options: [
+{ id: "A", text: "Homosexual Conduct" },
+{ id: "B", text: "Disorderly Conduct – Exposure" },
+{ id: "C", text: "Public Lewdness" },
+{ id: "D", text: "Indecent Exposure" },
+{ id: "E", text: "None of the above" }
+],
+answer: "C",
+explain: "Sexual intercourse in a public place constitutes Public Lewdness regardless of whether anyone actually observes it. Reference: PC §21.07."
+},
+
+{
+id: "TCOLE_q2405",
+type: "multiple-choice",
+points: 1,
+prompt: "According to the Code of Criminal Procedure, the time allowed for the execution of a search warrant shall be __________ whole days, exclusive of the day of issuance and the day of its execution.",
+options: [
+{ id: "A", text: "3" },
+{ id: "B", text: "4" },
+{ id: "C", text: "5" },
+{ id: "D", text: "6" }
+],
+answer: "A",
+explain: "A search warrant must be executed within 3 whole days, excluding the day of issuance and execution. Reference: CCP Art. 18.07."
+},
+
+{
+id: "TCOLE_q2406",
+type: "multiple-choice",
+points: 1,
+prompt: "The physical response to trauma is based on our animal instincts. It includes __________.",
+options: [
+{ id: "A", text: "Physical shock, disorientation, and numbness ('frozen fright')" },
+{ id: "B", text: "'Fight-or-flight' reaction" },
+{ id: "C", text: "Exhaustion" },
+{ id: "D", text: "A and B above, but not C" },
+{ id: "E", text: "A, B, and C above" }
+],
+answer: "E",
+explain: "Trauma responses commonly include frozen fright, fight-or-flight reactions, and exhaustion. Reference: TCOLE Ch. 20."
+},
+
+{
+id: "TCOLE_q2407",
+type: "multiple-choice",
+points: 1,
+prompt: "Attitude is a __________ position based on a person's knowledge, feelings, and experiences about someone or something influencing him/her to behave in a certain way in regard to that person or thing.",
+options: [
+{ id: "A", text: "Cognitive" },
+{ id: "B", text: "Physical" },
+{ id: "C", text: "Emotional" },
+{ id: "D", text: "Spiritual" }
+],
+answer: "A",
+explain: "Attitude is a cognitive position developed through knowledge, beliefs, feelings, and experiences. Reference: TCOLE Ch. 5."
+},
+
+{
+id: "TCOLE_q2408",
+type: "multiple-choice",
+points: 1,
+prompt: "A person offers money to a witness in exchange for testimony that is otherwise correct if he just forgets to mention the second suspect that acted as the lookout. What offense has occurred?",
+options: [
+{ id: "A", text: "Coercion of Public Servant" },
+{ id: "B", text: "Improper Influence" },
+{ id: "C", text: "Tampering with Witness" },
+{ id: "D", text: "Retaliation" },
+{ id: "E", text: "None of the above" }
+],
+answer: "C",
+explain: "Offering a benefit to influence or alter witness testimony constitutes Tampering with a Witness. Reference: PC §36.05."
+},
+
+{
+id: "TCOLE_q2409",
+type: "multiple-choice",
+points: 1,
+prompt: "An officer's primary responsibility is __________.",
+options: [
+{ id: "A", text: "Arrest all offenders" },
+{ id: "B", text: "Crime prevention" },
+{ id: "C", text: "Write reports" },
+{ id: "D", text: "Service" }
+],
+answer: "B",
+explain: "The primary mission of law enforcement is the prevention of crime. Reference: TCOLE Ch. 35."
+},
+
+{
+id: "TCOLE_q2410",
+type: "multiple-choice",
+points: 1,
+prompt: "A package store may sell liquor on which of the following days?",
+options: [
+{ id: "A", text: "Election Day" },
+{ id: "B", text: "Christmas Day" },
+{ id: "C", text: "Thanksgiving Day" },
+{ id: "D", text: "New Year's Day" }
+],
+answer: "A",
+explain: "Package stores may not sell liquor on New Year's Day, Thanksgiving Day, Christmas Day, or Sunday. Election Day is not a prohibited sales day. Reference: TABC §105.01."
+},
+
+{
+id: "TCOLE_q2411",
+type: "multiple-choice",
+points: 1,
+prompt: "Both search and arrest warrants must be based on __________.",
+options: [
+{ id: "A", text: "Informant's tips" },
+{ id: "B", text: "The officer's firsthand knowledge" },
+{ id: "C", text: "Reasonable suspicion" },
+{ id: "D", text: "Probable cause" }
+],
+answer: "D",
+explain: "Search and arrest warrants require probable cause before issuance by a magistrate. Reference: CCP Ch. 15, Ch. 18."
+},
+
+{
+id: "TCOLE_q2412",
+type: "multiple-choice",
+points: 1,
+prompt: "In which of the following circumstances are headlights not required?",
+options: [
+{ id: "A", text: "At twelve noon during a dust storm in which visibility is 500 feet" },
+{ id: "B", text: "Half an hour after sunset in clear weather conditions" },
+{ id: "C", text: "Half an hour after sunrise in clear weather conditions" },
+{ id: "D", text: "One hour before sunrise in clear weather conditions" }
+],
+answer: "C",
+explain: "Headlights are required during limited visibility and nighttime hours, but not 30 minutes after sunrise in clear conditions. Reference: TTC §547.302."
+},
+
+{
+id: "TCOLE_q2413",
+type: "multiple-choice",
+points: 1,
+prompt: "Upon serving a civil citation, the officer shall __________.",
+options: [
+{ id: "A", text: "Sign or endorse the return" },
+{ id: "B", text: "Note how and when the citation was served" },
+{ id: "C", text: "Require certification of service by the defendant" },
+{ id: "D", text: "All of the above are correct" },
+{ id: "E", text: "A and B are correct" }
+],
+answer: "E",
+explain: "The officer must complete and sign the return, stating how and when service was accomplished. Reference: TRCP Rule 107."
+},
+
+{
+id: "TCOLE_q2414",
+type: "multiple-choice",
+points: 1,
+prompt: "__________ is a new philosophy of policing, based on the concept that police officers and private citizens working together in creative ways can help solve contemporary community problems related to crime, fear of crime, social and physical disorder, and neighborhood decay.",
+options: [
+{ id: "A", text: "Proactive policing" },
+{ id: "B", text: "Reactive policing" },
+{ id: "C", text: "Community policing" },
+{ id: "D", text: "Incident-driven policing" }
+],
+answer: "C",
+explain: "Community policing emphasizes partnerships between police and citizens to solve community problems. Reference: TCOLE Ch. 2."
+},
+
+{
+id: "TCOLE_q2415",
+type: "multiple-choice",
+points: 1,
+prompt: "Traditionally police officers handle crimes __________.",
+options: [
+{ id: "A", text: "Before they are committed" },
+{ id: "B", text: "As they are committed" },
+{ id: "C", text: "After they have been committed" },
+{ id: "D", text: "When they can get to them" }
+],
+answer: "C",
+explain: "Traditional policing is primarily reactive and responds after crimes occur. Reference: TCOLE Ch. 2."
+},
+
+{
+id: "TCOLE_q2416",
+type: "multiple-choice",
+points: 1,
+prompt: "If a licensed or certified emergency medical technician-intermediate or emergency medical technician-paramedic takes a blood specimen at the request or order of a peace officer, a peace officer must __________.",
+options: [
+{ id: "A", text: "Observe the taking of the specimen" },
+{ id: "B", text: "Assist in the taking of the specimen" },
+{ id: "C", text: "Not be present" },
+{ id: "D", text: "Be present but not look" }
+],
+answer: "A",
+explain: "The officer must observe the withdrawal of the blood specimen. Reference: TTC Ch. 724; TCOLE Ch. 23."
+},
+
+{
+id: "TCOLE_q2417",
+type: "multiple-choice",
+points: 1,
+prompt: "__________ is defined as force that is intended or known by the actor to cause, or in the manner of its use or intended use is capable of causing, death or serious bodily injury.",
+options: [
+{ id: "A", text: "Deadly force" },
+{ id: "B", text: "Unnecessary force" },
+{ id: "C", text: "Extreme force" },
+{ id: "D", text: "Proper force" }
+],
+answer: "A",
+explain: "Deadly force is force capable of causing death or serious bodily injury. Reference: PC §9.01(3)."
+},
+
+{
+id: "TCOLE_q2418",
+type: "multiple-choice",
+points: 1,
+prompt: "Which of the following best defines the term physical courage?",
+options: [
+{ id: "A", text: "Courage is the ability to face danger without fear." },
+{ id: "B", text: "Courage is a state of mind that allows you to think clearly when you are faced with danger and provides you with the physical energy to overcome that fear." },
+{ id: "C", text: "Courage is the state or quality of mind or spirit that enables one to face danger with confidence, resolution, bravery and valor." },
+{ id: "D", text: "Courage is a state of mind that encourages your spirit to face danger with a degree of calmness that would convince others that you are not afraid in that situation." }
+],
+answer: "C",
+explain: "Physical courage is the quality of mind or spirit that enables a person to face danger with confidence and resolve. Reference: TCOLE Ch. 1."
+},
+
+{
+id: "TCOLE_q2419",
+type: "multiple-choice",
+points: 1,
+prompt: "Documents that involve seizure of property or person or evictions may only be served by __________.",
+options: [
+{ id: "A", text: "A Sheriff or Constable and their deputies" },
+{ id: "B", text: "A Constable" },
+{ id: "C", text: "A Sheriff" },
+{ id: "D", text: "Attorneys" },
+{ id: "E", text: "Any of the above" }
+],
+answer: "A",
+explain: "Writs involving seizure of property, persons, or evictions may only be executed by a sheriff, constable, or their deputies. Reference: TCOLE Ch. 14."
+},
+
+{
+id: "TCOLE_q2420",
+type: "multiple-choice",
+points: 1,
+prompt: "Moral progress depends on our willingness to improve the consistency of our ethical judgment and behavior and to apply the same principles more thoroughly to our conduct involving other people.",
+options: [
+{ id: "A", text: "True" },
+{ id: "B", text: "False" }
+],
+answer: "A",
+explain: "Ethical conduct requires consistent application of moral principles and standards. Reference: TCOLE Ch. 1."
+},
+
+{
+id: "TCOLE_q2421",
+type: "multiple-choice",
+points: 1,
+prompt: "What should an officer consider when determining what method of a crime scene search to use?",
+options: [
+{ id: "A", text: "The weather" },
+{ id: "B", text: "The officer's attitude toward the suspect" },
+{ id: "C", text: "Personnel and equipment available" },
+{ id: "D", text: "None of the above" }
+],
+answer: "C",
+explain: "The choice of search method depends on available personnel, equipment, and scene conditions. Reference: TCOLE Ch. 32."
+},
+
+{
+id: "TCOLE_q2422",
+type: "multiple-choice",
+points: 1,
+prompt: "Who is responsible to ensure that a fifteen-year-old front-seat passenger is wearing a safety belt in a moving automobile?",
+options: [
+{ id: "A", text: "The passenger" },
+{ id: "B", text: "The operator" },
+{ id: "C", text: "A peace officer" },
+{ id: "D", text: "The municipal court judge" }
+],
+answer: "B",
+explain: "The vehicle operator is responsible for ensuring passengers younger than 17 are properly restrained. Reference: TTC §545.413."
+},
+
+{
+id: "TCOLE_q2423",
+type: "multiple-choice",
+points: 1,
+prompt: "Flexibility where use of motorized vehicles is impractical or impossible, allows for high visibility and intense patrol. Many cities and college campuses choose __________ patrol in preventive efforts and to improve community relations.",
+options: [
+{ id: "A", text: "Motorcycle Patrol" },
+{ id: "B", text: "Foot Patrol" },
+{ id: "C", text: "Bicycle Patrol" },
+{ id: "D", text: "Fixed Wing/Helicopter Patrol" }
+],
+answer: "C",
+explain: "Bicycle patrol provides mobility, visibility, and community interaction in areas where vehicles are less practical. Reference: TCOLE Ch. 35."
+},
+
+{
+id: "TCOLE_q2424",
+type: "multiple-choice",
+points: 1,
+prompt: "According to the Code of Criminal Procedure, which of the following, occurring in the presence of an officer, requires an arrest, even without a warrant?",
+options: [
+{ id: "A", text: "An individual is intoxicated" },
+{ id: "B", text: "A person is threatening to commit an offense" },
+{ id: "C", text: "There is a person the officer has probable cause to believe is violating a protective order" },
+{ id: "D", text: "There is a child violating a city ordinance" }
+],
+answer: "C",
+explain: "An officer shall arrest a person violating certain protective orders when probable cause exists. Reference: CCP Art. 14.03."
+},
+
+{
+id: "TCOLE_q2425",
+type: "multiple-choice",
+points: 1,
+prompt: "__________ includes authority, board, bureau, commission, committee, council, department, district, division, and office.",
+options: [
+{ id: "A", text: "Company" },
+{ id: "B", text: "Firm" },
+{ id: "C", text: "Agency" },
+{ id: "D", text: "Department" }
+],
+answer: "C",
+explain: "Agency includes authorities, boards, commissions, departments, districts, divisions, and offices. Reference: PC §1.07."
+},
+
+{
+id: "TCOLE_q2426",
+type: "multiple-choice",
+points: 1,
+prompt: "A continuing education course is any training course that is recognized by the commission, specifically __________.",
+options: [
+{ id: "A", text: "Legislatively required continuing education curricula and learning objectives developed by the commission" },
+{ id: "B", text: "Training in excess of basic licensing course requirements" },
+{ id: "C", text: "Training courses consistent with assigned duties" },
+{ id: "D", text: "Training not included in a basic licensing course" },
+{ id: "E", text: "All of the above" }
+],
+answer: "E",
+explain: "Continuing education includes all listed training recognized by the commission. Reference: 37 TAC §211; TCOLE Ch. 4."
+},
+
+{
+id: "TCOLE_q2427",
+type: "multiple-choice",
+points: 1,
+prompt: "What type of killing is described by a husband or wife killing their spouse who has involved himself/herself with another lover?",
+options: [
+{ id: "A", text: "Triangle Killing" },
+{ id: "B", text: "Felony Murder" },
+{ id: "C", text: "Anger Killing" },
+{ id: "D", text: "Killing for Profit" }
+],
+answer: "A",
+explain: "A triangle killing involves a spouse, lover, and romantic rival motivated by jealousy or infidelity. Reference: TCOLE Ch. 32."
+},
+
+{
+id: "TCOLE_q2428",
+type: "multiple-choice",
+points: 1,
+prompt: "You can frisk if there is __________ that the suspect may be in possession of a weapon.",
+options: [
+{ id: "A", text: "Reasonable Fear" },
+{ id: "B", text: "Mere Justification" },
+{ id: "C", text: "Reasonable Evidence" },
+{ id: "D", text: "Mere Suspicion" }
+],
+answer: "A",
+explain: "An officer may frisk when there is a reasonable belief the suspect is armed and dangerous. Reference: Terry v. Ohio; TCOLE Ch. 10."
+},
+
+{
+id: "TCOLE_q2429",
+type: "multiple-choice",
+points: 1,
+prompt: "According to the Penal Code, a mistake of fact is __________.",
+options: [
+{ id: "A", text: "An Affirmative Defense to Prosecution" },
+{ id: "B", text: "A Defense to Prosecution" },
+{ id: "C", text: "No Defense to Prosecution" },
+{ id: "D", text: "A Violation" }
+],
+answer: "B",
+explain: "A reasonable mistake of fact that negates culpability is a defense to prosecution. Reference: PC §8.02."
+},
+
+{
+id: "TCOLE_q2430",
+type: "multiple-choice",
+points: 1,
+prompt: "Which of the following best describes the TCOLE L-3 form?",
+options: [
+{ id: "A", text: "Appointment of PO, jailer, elected/appointed officials" },
+{ id: "B", text: "Medical, drug screen information for a licensee" },
+{ id: "C", text: "Report required psychiatric information for a licensee" },
+{ id: "D", text: "Notify TCOLE of the separation/termination of a licensee" }
+],
+answer: "C",
+explain: "The L-3 documents psychological and emotional fitness for licensure. Reference: Occupations Code Ch. 1701; TCOLE Ch. 4."
+},
+
+{
+id: "TCOLE_q2431",
+type: "multiple-choice",
+points: 1,
+prompt: "The __________ method of crime scene search is most effective for outside searches.",
+options: [
+{ id: "A", text: "Point-to-Point" },
+{ id: "B", text: "Strip" },
+{ id: "C", text: "Triangulation" },
+{ id: "D", text: "Rectangular" }
+],
+answer: "B",
+explain: "The strip search method is generally most effective for large outdoor scenes. Reference: TCOLE Ch. 32."
+},
+
+{
+id: "TCOLE_q2432",
+type: "multiple-choice",
+points: 1,
+prompt: "Who of the following are peace officers in the state of Texas?",
+options: [
+{ id: "A", text: "Officers of the Alcoholic Beverage Commission (ABC)" },
+{ id: "B", text: "Officers commissioned by a public junior college" },
+{ id: "C", text: "Investigators employed by the Texas Racing Commission" },
+{ id: "D", text: "Officers commissioned by the Texas Board of Pharmacy" },
+{ id: "E", text: "All of the Above" }
+],
+answer: "E",
+explain: "All listed positions are designated as peace officers by law. Reference: CCP Art. 2.12."
+},
+
+{
+id: "TCOLE_q2433",
+type: "multiple-choice",
+points: 1,
+prompt: "What court case deals with the topic of warning shots?",
+options: [
+{ id: "A", text: "Hathaway v. Bazany" },
+{ id: "B", text: "Vance v. Shaffer" },
+{ id: "C", text: "Jones v. Wittenberg University" },
+{ id: "D", text: "Frye v. Reynolds" }
+],
+answer: "A",
+explain: "Hathaway v. Bazany is a key use-of-force case discussed in TCOLE training. Reference: Hathaway v. Bazany; TCOLE Ch. 41."
+},
+
+{
+id: "TCOLE_q2434",
+type: "multiple-choice",
+points: 1,
+prompt: "Of the nine categories of criminal homicide this category is marked by unusual violence and may follow rape, acts of sexual perversion, or sadistic acts.",
+options: [
+{ id: "A", text: "Murder-suicide" },
+{ id: "B", text: "Felony murder" },
+{ id: "C", text: "Sex and sadism" },
+{ id: "D", text: "Random killing" }
+],
+answer: "C",
+explain: "This homicide category is characterized by sexual motivation, sadism, or extreme violence. Reference: TCOLE Ch. 32."
+},
+
+{
+id: "TCOLE_q2435",
+type: "multiple-choice",
+points: 1,
+prompt: "What is the first thing an officer does during the Scene Management stage?",
+options: [
+{ id: "A", text: "Summon assistance" },
+{ id: "B", text: "Care for injured" },
+{ id: "C", text: "Plan route of approach" },
+{ id: "D", text: "Set patrol unit" }
+],
+answer: "C",
+explain: "Scene management begins by planning the route of approach to preserve evidence and enhance safety. Reference: TCOLE Ch. 22."
+},
+
+{
+id: "TCOLE_q2436",
+type: "multiple-choice",
+points: 1,
+prompt: "If the arrest is made inside the home of the subject, the officer may not search __________ if the subject was arrested while he/she was in bed.",
+options: [
+{ id: "A", text: "The pillow cases on said bed" },
+{ id: "B", text: "A locked file cabinet on the opposite side of the room" },
+{ id: "C", text: "Under the bed" },
+{ id: "D", text: "Under the mattress" },
+{ id: "E", text: "All of the above places listed may be searched" }
+],
+answer: "B",
+explain: "A search incident to arrest is limited to the area within the suspect's immediate control. Reference: Chimel v. California; TCOLE Ch. 10."
+},
+
+{
+id: "TCOLE_q2437",
+type: "multiple-choice",
+points: 1,
+prompt: "The acronym 'CYMBAL' is not used for describing cars in detail.",
+options: [
+{ id: "A", text: "True" },
+{ id: "B", text: "False" }
+],
+answer: "A",
+explain: "CYMBAL is used for suspect descriptions rather than detailed vehicle descriptions. Reference: TCOLE Ch. 36."
+},
+
+{
+id: "TCOLE_q2438",
+type: "multiple-choice",
+points: 1,
+prompt: "Of the following methods of searching, which one is considered most effective for outside searches?",
+options: [
+{ id: "A", text: "Strip" },
+{ id: "B", text: "Point to Point" },
+{ id: "C", text: "Spiral" },
+{ id: "D", text: "Quadrant" },
+{ id: "E", text: "Exterior" }
+],
+answer: "A",
+explain: "The strip search pattern is generally most effective for large outdoor search areas. Reference: TCOLE Ch. 32."
+},
+
+
+{
+id: "TCOLE_q2439",
+type: "multiple-choice",
+points: 1,
+prompt: "What is the minimum number of rounds required for handgun proficiency?",
+options: [
+{ id: "A", text: "100" },
+{ id: "B", text: "10" },
+{ id: "C", text: "50" },
+{ id: "D", text: "20" }
+],
+answer: "C",
+explain: "Handgun proficiency requires a minimum 50-round course of fire. Reference: 37 TAC §218.9; TCOLE Ch. 41."
+},
+
+{
+id: "TCOLE_q2440",
+type: "multiple-response",
+points: 1,
+prompt: "Which of the following are guidelines for personal information protection against identity crimes? Select all that apply.",
+options: [
+{ id: "A", text: "Do not put your driver's license number on checks" },
+{ id: "B", text: "Shred credit offers that arrive in the mail" },
+{ id: "C", text: "Carry your social security card with you at all times" },
+{ id: "D", text: "Keep all labels on prescription bottles intact when disposing of them" },
+{ id: "E", text: "Don't give out personal information over the phone unless you know who you are dealing with" }
+],
+answer: ["A","B","E"],
+explain: "Identity theft prevention includes protecting personal information and securely disposing of sensitive documents. Reference: TCOLE Ch. 12."
+},
+
+{
+id: "TCOLE_q2441",
+type: "multiple-choice",
+points: 1,
+prompt: "A man is walking down the street with his wife asking her if their children have been doing well. A valid protective order exists that states the man cannot go within 100 feet of his wife due to prior family violence. What offense has occurred?",
+options: [
+{ id: "A", text: "Assault - Contact" },
+{ id: "B", text: "Interference with Child Custody" },
+{ id: "C", text: "Violation of Protective Order" },
+{ id: "D", text: "Stalking" },
+{ id: "E", text: "None of the Above" }
+],
+answer: "C",
+explain: "Entering a prohibited distance established by a protective order constitutes a violation. Reference: PC §25.07."
+},
+
+{
+id: "TCOLE_q2442",
+type: "multiple-choice",
+points: 1,
+prompt: "__________ may give permission to anyone to ignore or violate any provision of a protective order.",
+options: [
+{ id: "A", text: "Only the person who is protected by the order" },
+{ id: "B", text: "Only a member of a family or household" },
+{ id: "C", text: "No person" },
+{ id: "D", text: "Only the respondent" }
+],
+answer: "C",
+explain: "Only a court may modify a protective order; no person may authorize its violation. Reference: TFC Ch. 85."
+}, 
+
+{
+id: "TCOLE_q2443",
+type: "multiple-choice",
+points: 1,
+prompt: "An individual that is 'hard of hearing' may ___________.",
+options: [
+{ id: "A", text: "Rely on residual hearing" },
+{ id: "B", text: "Depend on visual methods to communicate" },
+{ id: "C", text: "Both A & B" },
+{ id: "D", text: "None of the Above" }
+],
+answer: "C",
+explain: "Persons who are hard of hearing may rely on residual hearing and visual communication methods. Reference: ADA Guidelines; TCOLE Special Investigative Topics."
+},
+
+{
+id: "TCOLE_q2444",
+type: "multiple-choice",
+points: 1,
+prompt: "What is the purpose of a Writ of Habeas Corpus?",
+options: [
+{ id: "A", text: "To find out what a person who has been arrested is being charged with" },
+{ id: "B", text: "To gain the release of a person who has been arrested" },
+{ id: "C", text: "To set bail on a person who has been arrested" },
+{ id: "D", text: "To determine what evidence will be used against a defendant at trial" },
+{ id: "E", text: "To test the legality of the detention of a person who has been arrested" }
+],
+answer: "E",
+explain: "A writ of habeas corpus is used to determine whether a person's detention is lawful. Reference: CCP Ch. 11."
+},
+
+{
+id: "TCOLE_q2445",
+type: "multiple-choice",
+points: 1,
+prompt: "Which of the following is not one of the suggested stress reduction techniques?",
+options: [
+{ id: "A", text: "Don't hold everything inside - discuss feelings with others" },
+{ id: "B", text: "Use relaxation techniques and get necessary sleep and rest" },
+{ id: "C", text: "Limit your friends to a close network of police friends" },
+{ id: "D", text: "Exercise" },
+{ id: "E", text: "Avoid smoking and alcoholic beverages" }
+],
+answer: "C",
+explain: "Officers are encouraged to maintain a broad support network rather than limit friendships to law enforcement personnel. Reference: TCOLE Ch. 3."
 }
 
+
 ];
+
