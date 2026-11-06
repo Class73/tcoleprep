@@ -5135,19 +5135,20 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 	  answer: "B",
 	  explain: "Texas Penal Code §1.07(a)(9), Coercion means a threat to commit an offense, inflict bodily injury, expose a person to ridicule, harm reputation, or influence official action."
 	},
+	
 	{
 	  id: "TCOLE_q363",
 	  type: "multiple-choice",
 	  points: 1,
-	  prompt: "Warning shots were discussed in which of the following court cases?",
+	  prompt: "Which court case involved a university security guard whose warning shot struck and killed a fleeing student, resulting in a finding that an intentionally fired warning shot may still constitute negligence?",
 	  options: [
 		{ id: "A", text: "Tennessee v. Garner" },
-		{ id: "B", text: "Carroll v. US" },
+		{ id: "B", text: "Carroll v. United States" },
 		{ id: "C", text: "Jones v. Wittenberg University" },
 		{ id: "D", text: "Florida v. Royer" }
 	  ],
-	  answer: "A",
-	  explain: "Tennessee v. Garner, 471 U.S. 1 (1985), The Supreme Court discussed the use of deadly force against fleeing suspects and referenced warning shots as a less intrusive alternative when feasible."
+	  answer: "C",
+	  explain: "Jones v. Wittenberg University, 534 F.2d 1203 (6th Cir. 1976), involved a university security guard who fired warning shots at a fleeing student. One shot struck and killed the student. The court recognized that although the guard did not intend to shoot the student, the warning shot could still constitute negligence because it was fired in a manner that created a foreseeable risk of injury."
 	},
 
 	{
@@ -14804,15 +14805,15 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q1094",
-  prompt: "A man enters his next-door neighbor's unfenced yard and kills his neighbor's pigs, which are in a pigpen. What offense, if any, did the man commit?",
+  prompt: "Without the owner's effective consent, a man spray paints his nickname on the side of a convenience store. What offense has occurred?",
   options: [
-    { id: "A", text: "Criminal mischief" },
-    { id: "B", text: "Cruelty to animals" },
-    { id: "C", text: "Criminal trespass" },
-    { id: "D", text: "Burglary of habitation" }
+    { id: "A", text: "Criminal Mischief" },
+    { id: "B", text: "Graffiti" },
+    { id: "C", text: "Criminal Trespass" },
+    { id: "D", text: "Disorderly Conduct" }
   ],
-  answer: ["A"],
-  explain: "PC Section 8.15; PC 28.03(a)(1)(b)(4)(C)(i)"
+  answer: ["B"],
+  explain: "Texas Penal Code §28.08(a). A person commits Graffiti if, without the effective consent of the owner, the person intentionally or knowingly makes markings, inscriptions, slogans, drawings, or paintings on the tangible property of the owner with paint, an indelible marker, or a similar device. Because the suspect spray painted a nickname on the wall of the business without consent, the offense is Graffiti."
 },
 
 {
@@ -23256,8 +23257,8 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Robbery" },
     { id: "D", text: "Aggravated Theft" }
   ],
-  answer: ["B"],
-  explain: "Texas Penal Code §31.03 (Theft), theft is normally graded by the value of the property. However, theft is enhanced when property is stolen from the person of another."
+  answer: ["A"],
+  explain: "PC 31.03(a) & (b)(1); PC Section 8.18, page 13 of 32"
 },
 
 {
@@ -27687,16 +27688,17 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q2081",
-  prompt: "A man enters his next door neighbor's unfenced yard and kills his neighbor's pigs, which are in a pig pen. What offense, if any, did the man commit?",
+  prompt: "During a dispute, a man intentionally shoots and kills several goats belonging to his neighbor. What offense has the man committed?",
   options: [
     { id: "A", text: "Criminal Mischief" },
-    { id: "B", text: "Cruelty to animals" },
-    { id: "C", text: "Criminal trespass" },
-    { id: "D", text: "Burglary of habitation" }
+    { id: "B", text: "Cruelty to Non-Livestock Animals" },
+    { id: "C", text: "Theft" },
+    { id: "D", text: "No offense because the animals were not pets" }
   ],
   answer: ["A"],
-  explain: "PC 28.03(a)(1) & (4)(C)(i); PC Section 8.15"
+  explain: "Texas Penal Code §28.03(a)(1) and §8.15. Livestock are considered tangible property. Intentionally killing another person's livestock constitutes Criminal Mischief."
 },
+
 
 {
   id: "TCOLE_q2082",
@@ -31388,7 +31390,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Sexual Assault" },
     { id: "D", text: "Aggravated Rape" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Penal Code §22.011. A person commits Sexual Assault by intentionally or knowingly causing the penetration of another person's anus or sexual organ without that person's consent."
 },
 
@@ -32597,635 +32599,1118 @@ answer: "C",
 explain: "Officers are encouraged to maintain a broad support network rather than limit friendships to law enforcement personnel. Reference: TCOLE Ch. 3."
 },
 
-
 {
   id: "TCOLE_q2446",
-  type: "multiple-choice",
-  points: 1,
-  prompt: "According to the traffic code, an operator may not follow closer than __________ feet from a fire apparatus responding to a fire alarm or drive into or park the vehicle in the block where the fire apparatus has stopped to answer a fire alarm.",
+  prompt: "Under which of the following conditions may a person drive a vehicle over an unprotected fire hose laid down on a street to be used at a fire emergency? (22)",
   options: [
-    { id: "A", text: "200" },
-    { id: "B", text: "300" },
-    { id: "C", text: "400" },
-    { id: "D", text: "500" }
+    { id: "A", text: "No person may ever cross any such fire hose" },
+    { id: "B", text: "Only to enter the private driveway of one's own residence" },
+    { id: "C", text: "Only with permission of the fire department official in charge" },
+    { id: "D", text: "Only with permission of the police officer directing traffic at such a fire emergency" }
   ],
-  answer: "D",
-  explain: "Texas Transportation Code §545.407 prohibits a vehicle from following within 500 feet of a fire apparatus responding to a fire alarm."
+  answer: ["C"],
+  explain: "22. Traffic Code and Crash Investigations (Transportation Code §545.408, Crossing Fire Hose)."
 },
 
 {
   id: "TCOLE_q2447",
-  type: "multiple-choice",
-  points: 1,
-  prompt: "Operation ID encourages citizens to mark their property with their __________ number.",
+  prompt: "According to Sec. 32.21 of the Penal Code, a person commits an offense if he alters, makes, completes, executes, or authenticates a writing so that it purports to be a copy of an original when no original existed. This offense is __________. (8)",
   options: [
-    { id: "A", text: "social security" },
-    { id: "B", text: "driver's license" },
-    { id: "C", text: "vehicle registration" },
-    { id: "D", text: "home address" }
+    { id: "A", text: "Credit card abuse" },
+    { id: "B", text: "Theft" },
+    { id: "C", text: "Forgery" },
+    { id: "D", text: "Fraud" }
   ],
-  answer: "A",
-  explain: "Operation ID is a crime-prevention program that encourages citizens to mark valuables with an identifying number, traditionally the owner's Social Security number, to aid recovery and identification of stolen property."
+  answer: ["C"],
+  explain: "Under Texas Penal Code Section 32.21, a person commits forgery by altering, making, completing, executing, or authenticating a writing so that it purports to be the act of another or a copy of an original when no original existed."
 },
 
 {
   id: "TCOLE_q2448",
-  type: "multiple-choice",
-  points: 1,
-  prompt: "A person commits this offense if, with intent to promote or assist the commission of suicide by another, he aids or attempts to aid the other to commit or attempt to commit suicide.",
+  prompt: "Which of the following is not an exception to the requirement for an arrest warrant? (10)",
   options: [
-    { id: "A", text: "Aiding suicide" },
-    { id: "B", text: "Murder" },
-    { id: "C", text: "Assissted suicide" },
-    { id: "D", text: "Accomplice to suicide" }
+    { id: "A", text: "Any offense reported by a credible citizen" },
+    { id: "B", text: "Any offense occurring in the officer's view" },
+    { id: "C", text: "On the verbal order of a magistrate" },
+    { id: "D", text: "On probable cause to believe a violation of a protective order has occurred" }
   ],
-  answer: "A",
-  explain: "Texas Penal Code §22.08 defines the offense of Aiding Suicide as intentionally aiding or attempting to aid another person in committing or attempting suicide."
+  answer: ["A"],
+  explain: "A warrantless arrest is not authorized merely because a credible citizen reports an offense. Texas law requires specific statutory authority for a warrantless arrest. Recognized exceptions include offenses committed in an officer's presence (CCP Art. 14.01), arrests made on the verbal order of a magistrate (CCP Art. 14.02), and certain protective-order violations supported by probable cause. Therefore, a citizen's report alone does not create an exception to the arrest warrant requirement."
 },
 
 {
   id: "TCOLE_q2449",
-  type: "multiple-choice",
-  points: 1,
-  prompt: "A person who attempts to commit or conspires to commit an act declared by this subtitle to be an offense is guilty of the offense.",
+  prompt: "__________ make up the foundation on which the Wellness Pyramid is built. (3)",
   options: [
-    { id: "A", text: "Offense by officer" },
-    { id: "B", text: "General offense" },
-    { id: "C", text: "Offense by owner" },
-    { id: "D", text: "Inchoate offense" }
+    { id: "A", text: "Self-responsibility and stress management" },
+    { id: "B", text: "Smoking cessation and weight control" },
+    { id: "C", text: "Regular exercise and proper nutrition" },
+    { id: "D", text: "Strength and cardiovascular endurance" }
   ],
-  answer: "D",
-  explain: "An inchoate offense involves conduct directed toward the commission of another crime, including criminal attempt and conspiracy."
+  answer: ["C"],
+  explain: "3. Fitness, Wellness, and Stress Management. The Wellness Pyramid is founded on regular exercise and proper nutrition. These basic health practices support physical fitness, disease prevention, and overall wellness."
 },
 
 {
   id: "TCOLE_q2450",
-  type: "multiple-choice",
-  points: 1,
-  prompt: "According to the Penal Code, a person commits the offense of theft if they __________ appropriate property with intent to deprive the owner of the property.",
+  prompt: "__________ is a firearm or anything manifestly designed, made, or adapted for the purpose of inflicting death or serious bodily injury; or anything that in the manner of its use or intended use is capable of causing death or serious bodily injury. (8)",
   options: [
-    { id: "A", text: "willingly" },
-    { id: "B", text: "intentionally" },
-    { id: "C", text: "unlawfully" },
-    { id: "D", text: "knowingly" }
+    { id: "A", text: "Bludgeon" },
+    { id: "B", text: "Catapult" },
+    { id: "C", text: "Deadly weapon" },
+    { id: "D", text: "Flail" }
   ],
-  answer: "C",
-  explain: "Texas Penal Code §31.03 states that a person commits theft if the person unlawfully appropriates property with intent to deprive the owner of the property."
+  answer: ["C"],
+  explain: "Matches the exact definition found in Penal Code § 1.07(a)(17)."
 },
 
 {
   id: "TCOLE_q2451",
-  type: "multiple-choice",
-  points: 1,
-  prompt: "__________ means an offense so designated by law or punishable by death or confinement in a penitentiary.",
+  prompt: "A person intentionally kills a seven-year-old in the commission of a kidnapping commits __________. (8)",
   options: [
-    { id: "A", text: "Misdemeanor" },
-    { id: "B", text: "Felony" },
-    { id: "C", text: "Criminal activity" },
-    { id: "D", text: "Public intoxication with a deadly weapon" }
+    { id: "A", text: "Murder" },
+    { id: "B", text: "Capital murder" },
+    { id: "C", text: "Manslaughter" },
+    { id: "D", text: "Criminally negligent homicide" }
   ],
-  answer: "B",
-  explain: "Texas Penal Code §12.04 defines a felony as an offense so designated by law or punishable by death or confinement in a penitentiary."
+  answer: ["B"],
+  explain: "Under Texas Penal Code §19.03, a person commits capital murder if they intentionally commit murder while committing or attempting to commit certain felonies, including kidnapping. The intentional killing of a child under specified circumstances may also qualify as capital murder."
 },
 
 {
   id: "TCOLE_q2452",
-  type: "multiple-choice",
-  points: 1,
-  prompt: "Methods of identifying homicide victims include all but which of the following?",
+  prompt: "Factors which may contribute to a vehicular accident include all of the following except __________. (22)",
   options: [
-    { id: "A", text: "tattoos" },
-    { id: "B", text: "asking the victim" },
-    { id: "C", text: "scars or unusual marks" },
-    { id: "D", text: "driver's license" }
+    { id: "A", text: "Weather conditions" },
+    { id: "B", text: "Ample equipment" },
+    { id: "C", text: "Speed" },
+    { id: "D", text: "Improper turning movement" }
   ],
-  answer: "B",
-  explain: "Common victim identification methods include tattoos, scars, unusual marks, fingerprints, dental records, photographs, and identification documents. Asking the victim is not a method of identifying a homicide victim because the victim is deceased."
+  answer: ["B"],
+  explain: "22. Traffic Code and Crash Investigations (Section 22.33, Factors that May Contribute to a Vehicular Crash) Weather conditions, excessive speed, and improper turning movements are common causes of vehicle accidents. Ample equipment is not generally considered a contributing factor to a vehicular accident."
 },
 
 {
   id: "TCOLE_q2453",
-  type: "multiple-choice",
-  points: 1,
-  prompt: "An operator moving around a rotary traffic island shall drive only to the right of the island.",
+  prompt: "Having the victim arrested may also __________ the batterer's actions and may provide the batterer with another tool for controlling the relationship. (20)",
   options: [
-    { id: "A", text: "True" },
-    { id: "B", text: "False" }
+    { id: "A", text: "Discourage" },
+    { id: "B", text: "Stop" },
+    { id: "C", text: "Dissuade" },
+    { id: "D", text: "Reinforce" }
   ],
-  answer: "A",
-  explain: "Texas Transportation Code §545.060 requires a vehicle moving around a rotary traffic island to be driven only to the right of the island unless traffic control devices indicate otherwise."
+  answer: ["D"],
+  explain: "17. Sexual Assault and Family Violence, Arresting the victim may reinforce the batterer's behavior by validating the abuse and providing an additional method of control within the relationship."
 },
 
 {
   id: "TCOLE_q2454",
-  type: "multiple-choice",
-  points: 1,
-  prompt: "The need for force will be evaluated and the feasibility or availability of __________ are considerations.",
+  prompt: "If a peace officer develops probable cause that a criminal violation is about to occur, and there is no time to obtain a warrant, he may __________. (10)",
   options: [
-    { id: "A", text: "Appeals" },
-    { id: "B", text: "Situations" },
-    { id: "C", text: "Back-up" },
-    { id: "D", text: "Alternative" }
+    { id: "A", text: "call for assistance" },
+    { id: "B", text: "contact and advise a magistrate of the situation" },
+    { id: "C", text: "make a lawful arrest without warrant" },
+    { id: "D", text: "take no action" }
   ],
-  answer: "D",
-  explain: "Before using force, officers should evaluate whether reasonable alternatives are available. The feasibility and availability of alternative actions are important considerations in determining the appropriate level of force."
+  answer: ["C"],
+  explain: "10. Arrest Search Seizure discusses probable cause and warrantless arrest authority under CCP Articles 14.01 through 14.05., When probable cause exists and circumstances do not permit obtaining a warrant in time, a peace officer may make a lawful warrantless arrest as authorized by law. poorly worded question"
 },
 
 {
   id: "TCOLE_q2455",
-  type: "multiple-choice",
-  points: 1,
-  prompt: "A __________ is a notice placed on a consumer file that alerts a recipient of the report that the consumer's identity may have been used without the consumer's consent to fraudulently obtain goods and services in the consumer's name.",
+  prompt: "On arrival at a family violence call, you and your partner make a stealthy approach and you hear people yelling at each other inside the residence. You take proper position and knock, but you do not get a response to your knock. You should __________. (17)",
   options: [
-    { id: "A", text: "report tag" },
-    { id: "B", text: "security alert" },
-    { id: "C", text: "consent notice" },
-    { id: "D", text: "sentinel" }
+    { id: "A", text: "leave the premises until you get a return call" },
+    { id: "B", text: "call your supervisor for instructions" },
+    { id: "C", text: "continue to knock until you get a response" },
+    { id: "D", text: "attempt to enter the house" }
   ],
-  answer: "B",
-  explain: "A security alert, often called a fraud alert, is placed on a consumer credit file to warn creditors that the consumer may be a victim of identity theft."
+  answer: ["D"],
+  explain: "17. Sexual Assault and Family Violence specifically notes that officers may enter without consent when exigent circumstances require immediate action. Entry into a residence is a Fourth Amendment issue."
 },
 
 {
   id: "TCOLE_q2456",
-  type: "multiple-choice",
-  points: 1,
-  prompt: "The cycle of abuse usually repeats itself over time and __________.",
+  prompt: "__________ and poor ventilation increase the likelihood of being exposed while at a hazardous materials site. (42)",
   options: [
-    { id: "A", text: "increases in severity" },
-    { id: "B", text: "decreases in severity" },
-    { id: "C", text: "remains the same" },
-    { id: "D", text: "none of the above" }
+    { id: "A", text: "Heat" },
+    { id: "B", text: "Light" },
+    { id: "C", text: "Rain" },
+    { id: "D", text: "Ice" }
   ],
-  answer: "A",
-  explain: "Family violence research and TCOLE family violence training teach that abuse typically escalates over time, becoming more frequent and more severe if intervention does not occur."
+  answer: ["A"],
+  explain: "Heat and poor ventilation increase the risk of exposure at hazardous materials incidents by promoting the release, concentration, and spread of hazardous substances."
 },
 
 {
   id: "TCOLE_q2457",
-  type: "multiple-choice",
-  points: 1,
-  prompt: "Losing weight permanently is the result of a well-balanced diet and __________.",
+  prompt: "A person commits what offense if he intentionally or knowingly leaves a motel without paying his bill of $65? (8)",
   options: [
-    { id: "A", text: "application of \"fad\" diets designed for quick weight loss" },
-    { id: "B", text: "ingestion of foods that are high in calories, saturated fats, and sugar" },
-    { id: "C", text: "physical activity that uses up more calories than are ingested" },
-    { id: "D", text: "use of alcoholic beverages in place of food every other day" }
+    { id: "A", text: "Theft" },
+    { id: "B", text: "Robbery" },
+    { id: "C", text: "Theft of Service" },
+    { id: "D", text: "No offense, the motel will send him a bill by mail" },
+    { id: "E", text: "Disorderly Conduct" }
   ],
-  answer: "C",
-  explain: "Permanent weight loss is achieved through proper nutrition combined with physical activity that burns more calories than are consumed."
+  answer: ["C"],
+  explain: "8. Penal Code, Texas Penal Code §31.04 Theft of Service."
 },
 
 {
   id: "TCOLE_q2458",
-  type: "multiple-choice",
-  points: 1,
-  prompt: "A person commits this offense if he intentionally or knowingly leaves a child in a motor vehicle for longer than five minutes.",
+  prompt: "__________ is to preserve the peace within his jurisdiction by the use of all lawful means; to issue all process intended to aid in preventing and suppressing crime; to cause the arrest of offenders by the use of lawful means in order that they may be brought to punishment. (9)",
   options: [
-    { id: "A", text: "Leaving a child in a vehicle" },
-    { id: "B", text: "Abandonment" },
-    { id: "C", text: "Negligence" },
-    { id: "D", text: "Unfit to parent" }
+    { id: "A", text: "Duty of Magistrate" },
+    { id: "B", text: "Privilege of Legislators" },
+    { id: "C", text: "Outlawry and Transportation" },
+    { id: "D", text: "Trial by Jury" }
   ],
-  answer: "A",
-  explain: "Texas Penal Code §22.10 creates the offense of Leaving a Child in a Vehicle when a person intentionally or knowingly leaves a child younger than seven years of age in a motor vehicle for longer than five minutes unless supervised by someone at least fourteen years old."
+  answer: ["A"],
+  explain: "The duty of every magistrate is to preserve the peace within the magistrate's jurisdiction by the use of all lawful means, issue process to prevent and suppress crime, and cause offenders to be arrested and brought to punishment. Source: Texas Code of Criminal Procedure Art. 2.10."
 },
 
 {
   id: "TCOLE_q2459",
-  type: "multiple-choice",
-  points: 1,
-  prompt: "__________ includes income a person accused or convicted of a crime or the person's representative or assignee receives from: a movie, book, magazine article, tape recording, phonographic record, radio or television presentation, telephone service, electronic media format, including an Internet website, or live entertainment in which the crime was reenacted; or the sale of tangible property the value of which is increased by the notoriety gained from the conviction of an offense by the person accused or convicted of the crime.",
+  prompt: "According to Sec. 22.021 of the Penal Code a person commits the offense of Aggravated Sexual Assault if he commits sexual assault and __________. (8)",
   options: [
-    { id: "A", text: "Currency" },
-    { id: "B", text: "Items of Value" },
-    { id: "C", text: "Proceeds" },
-    { id: "D", text: "Contraband" }
+    { id: "A", text: "The victim is younger than 14 years of age" },
+    { id: "B", text: "The victim is 65 years of age or older" },
+    { id: "C", text: "The person uses or exhibits a deadly weapon in the course of the same criminal episode" },
+    { id: "D", text: "All the above" }
   ],
-  answer: "C",
-  explain: "Under Texas crime victim compensation and forfeiture statutes, proceeds include money or value received from publications, media appearances, reenactments, or property sales that derive value from the notoriety of a criminal offense."
+  answer: ["D"],
+  explain: "8. Penal Code, Section 22.021 Aggravated Sexual Assault. A sexual assault becomes aggravated when certain aggravating circumstances exist, including when the victim is younger than 14, when the victim is elderly, or when the actor uses or exhibits a deadly weapon during the offense."
 },
 
 {
   id: "TCOLE_q2460",
-  type: "multiple-choice",
-  points: 1,
-  prompt: "Motor vehicle refers to which of the following __________.",
+  prompt: "When conducting firearms training, a target should be used that __________. (41)",
   options: [
-    { id: "A", text: "Every device, with wheels, operated upon the highway." },
-    { id: "B", text: "Every vehicle which is self-propelled." },
-    { id: "C", text: "All cars, trucks, bicycles and motorcycles." },
-    { id: "D", text: "Every device, with wheels, except those powered by human energy, operated upon the highway." }
+    { id: "A", text: "Must be a rectangle" },
+    { id: "B", text: "Is at least 3 foot X 4 foot" },
+    { id: "C", text: "Is capable of being scored" },
+    { id: "D", text: "Is obtuse" }
   ],
-  answer: "B",
-  explain: "Texas Transportation Code §541.201 defines a motor vehicle as a self-propelled vehicle. Human-powered devices such as bicycles are not motor vehicles."
+  answer: ["C"],
+  explain: "Firearms training targets should be capable of being scored so that accuracy and performance can be objectively measured and evaluated."
 },
 
 {
   id: "TCOLE_q2461",
-  type: "multiple-choice",
-  points: 1,
-  prompt: "An emotional symptom of stress can be __________.",
+  prompt: "Long-term stress or crisis reactions may be exacerbated or mitigated by the actions of others. When such reactions are exacerbated, the actions of others are called the 'secondary assault,' and the feelings are often described as a 'secondary injury.' Which of the following is a source of the secondary victimization? (20)",
   options: [
-    { id: "A", text: "Fishing" },
-    { id: "B", text: "Retirement" },
-    { id: "C", text: "Depression" },
-    { id: "D", text: "Having a short temper" }
+    { id: "A", text: "The criminal justice system" },
+    { id: "B", text: "The media" },
+    { id: "C", text: "Family, friends, or acquaintances" },
+    { id: "D", text: "Clergy" },
+    { id: "E", text: "Each of the above may be a source" }
   ],
-  answer: "C",
-  explain: "Depression is a recognized emotional symptom of stress. Long-term stress can contribute to sadness, anxiety, depression, and other emotional responses."
+  answer: ["E"],
+  explain: "20. Victims of Crime, Section 20.5, Discuss the potential for secondary victimization by the criminal justice system and how to avoid it."
 },
 
 {
   id: "TCOLE_q2462",
-  type: "multiple-choice",
-  points: 1,
-  prompt: "One or more __________ of a person's breath or blood may be taken if the person is arrested and at the request of a peace officer having reasonable grounds to believe the person while intoxicated was operating a motor vehicle in a public place, or a watercraft; was in violation of Section 106.041, Alcoholic Beverage Code.",
+  prompt: "A defendant may waive any rights in any case except __________. (7)",
   options: [
-    { id: "A", text: "Specimen(s)" },
-    { id: "B", text: "Tests" },
-    { id: "C", text: "Samples" },
-    { id: "D", text: "Biohazard containments" }
+    { id: "A", text: "Class A Misdemeanor" },
+    { id: "B", text: "State jail felony" },
+    { id: "C", text: "Murder" },
+    { id: "D", text: "Capital felony" }
   ],
-  answer: "A",
-  explain: "Texas Transportation Code Chapter 724 uses the term 'specimen' when referring to breath or blood testing under the implied consent law."
+  answer: ["D"],
+  explain: "CCP Art. 1.13: Waiver of Trial by Jury, CCP Art. 1.14: Waiver of Rights, CCP Art. 1.141: Waiver of Indictment for Noncapital FelonyTexas law places special limitations on the waiver of rights in capital felony cases. A defendant may generally waive rights in other criminal cases, but capital felony prosecutions receive additional procedural protections."
 },
 
 {
   id: "TCOLE_q2463",
-  type: "multiple-choice",
-  points: 1,
-  prompt: "What type of entry is required for 'burglary of a vehicle?'",
+  prompt: "A __________ means a notice placed on a consumer file that prohibits a consumer-reporting agency from releasing a consumer report relating to the extension of credit involving the consumer file without the express authorization of the consumer. (12)",
   options: [
-    { id: "A", text: "A breaking must be shown" },
-    { id: "B", text: "The entire body must be within the vehicle" },
-    { id: "C", text: "The taking of an object from outside the vehicle" },
-    { id: "D", text: "Any part of the body or anything attached to the body" }
+    { id: "A", text: "Security alert" },
+    { id: "B", text: "Authorization notice" },
+    { id: "C", text: "Security freeze" },
+    { id: "D", text: "Validation lock" }
   ],
-  answer: "D",
-  explain: "Texas Penal Code §30.04 requires only entry of any part of the body or any physical object connected with the body into the vehicle with the required intent. Full body entry is not required."
+  answer: ["C"],
+  explain: "Chapter 12, Identity Theft Crimes, section 12.11 defines a security freeze as: a notice placed on a consumer file that prohibits a consumer reporting agency from releasing a consumer report relating to the extension of credit involving that consumer file without the express authorization of the consumer."
 },
 
 {
   id: "TCOLE_q2464",
-  type: "multiple-choice",
-  points: 1,
-  prompt: "__________ is/are fixed false beliefs that are maintained despite overwhelming evidence to the contrary.",
+  prompt: "The county courts shall have original jurisdiction of all misdemeanors of which exclusive original jurisdiction is not given to the justice court, and when the fine to be imposed shall exceed __________. (7)",
   options: [
-    { id: "A", text: "Schizophrenia" },
-    { id: "B", text: "Delusions" },
-    { id: "C", text: "Mental illness" },
-    { id: "D", text: "Hallucinations" }
+    { id: "A", text: "1000" },
+    { id: "B", text: "5000" },
+    { id: "C", text: "500" },
+    { id: "D", text: "1500" }
   ],
-  answer: "B",
-  explain: "Delusions are fixed false beliefs that persist despite clear evidence contradicting them. Delusions are commonly associated with certain mental illnesses but are distinct from hallucinations, which involve false sensory perceptions."
+  answer: ["C"],
+  explain: "7. US Texas Constitution Rights and CJ System. County courts have original jurisdiction over misdemeanors not exclusively assigned to justice courts and in cases where the authorized fine exceeds $500."
 },
 
 {
   id: "TCOLE_q2465",
-  type: "multiple-choice",
-  points: 1,
-  prompt: "The Sixth Amendment to the Federal Constitution includes __________.",
+  prompt: "A commitment is a court order __________. (9)",
   options: [
-    { id: "A", text: "Quartering of soldiers" },
-    { id: "B", text: "The right of an accused to counsel for his defense" },
-    { id: "C", text: "The right to keep and bear arms" },
-    { id: "D", text: "Suppression of riots during time of war" },
-    { id: "E", text: "Formation of the Executive Branch of the Federal Government" }
+    { id: "A", text: "to place an accused in jail" },
+    { id: "B", text: "ordering an accused released from custody" },
+    { id: "C", text: "granting an appeal" },
+    { id: "D", text: "no longer issued in Texas" }
   ],
-  answer: "B",
-  explain: "The Sixth Amendment guarantees important rights to criminal defendants, including the right to counsel, a speedy trial, a public trial, an impartial jury, and the right to confront witnesses."
+  answer: ["A"],
+  explain: "CCP Art. 5.04, A commitment is a court order directing that an accused be placed in jail or otherwise held in lawful custody. It provides the legal authority for confinement."
 },
 
 {
   id: "TCOLE_q2466",
-  type: "multiple-choice",
-  points: 1,
-  prompt: "A person breaks into an attached garage, breaks into a vehicle parked in the garage, and steals a $1,500 computer from the back seat. According to the Penal Code, what is the most serious offense committed?",
+  prompt: "Available in emergency situations, __________ can cover enormous area, allows sky view of fleeing persons or vehicles, and are excellent apprehension tool when used with ground units. (35)",
   options: [
-    { id: "A", text: "Burglary-Habitation" },
-    { id: "B", text: "Burglary of a Vehicle" },
-    { id: "C", text: "Theft" },
-    { id: "D", text: "Criminal trespass" }
+    { id: "A", text: "Fixed wing/Helicopter patrol" },
+    { id: "B", text: "Mounted patrol" },
+    { id: "C", text: "Automobile patrol" },
+    { id: "D", text: "Bicycle patrol" }
   ],
-  answer: "A",
-  explain: "An attached garage is considered part of a habitation under Texas law. Entering the garage without consent and committing theft constitutes Burglary of a Habitation, which is the most serious offense listed."
+  answer: ["A"],
+  explain: "Fixed-wing aircraft and helicopter patrol units can rapidly cover large areas, provide aerial observation of fleeing persons and vehicles, and enhance apprehension efforts when coordinated with ground units. Source: TCOLE Basic Peace Officer Course Unit 35 - Patrol."
 },
 
 {
   id: "TCOLE_q2467",
-  type: "multiple-choice",
-  points: 1,
-  prompt: "There are two requirements for a valid abandonment under Texas Law: first, the defendant must intend to abandon the property and second, the decision to abandon must be made __________, not merely the product of police misconduct.",
+  prompt: "Which of the following is the correct order of courtroom testimony? (32)",
   options: [
-    { id: "A", text: "Under coercion" },
-    { id: "B", text: "Freely or voluntary" },
-    { id: "C", text: "Without malice" },
-    { id: "D", text: "On property not his own" }
+    { id: "A", text: "cross, direct, indirect, recross" },
+    { id: "B", text: "direct, cross, redirect, recross" },
+    { id: "C", text: "direct, redirect, cross, recross" },
+    { id: "D", text: "cross, direct, recross, redirect" }
   ],
-  answer: "B",
-  explain: "For abandonment to be legally valid, the person must voluntarily relinquish the property. Property discarded solely because of unlawful police conduct is generally not considered voluntarily abandoned."
+  answer: ["B"],
+  explain: "The standard sequence of witness testimony is direct examination, cross-examination, redirect examination, and recross-examination."
 },
 
 {
   id: "TCOLE_q2468",
-  type: "multiple-choice",
-  points: 1,
-  prompt: "A person in the course of committing theft, and with the intent to obtain or maintain control of property, he intentionally, knowingly, or recklessly places another in fear of imminent bodily injury or death.",
+  prompt: "In Texas, Stephen F. Austin employed a militia group to protect the settlers from Indian and bandit raids. This group later became known as __________. (2)",
   options: [
-    { id: "A", text: "Theft by appropriation" },
-    { id: "B", text: "Theft" },
-    { id: "C", text: "Aggravated Robbery" },
-    { id: "D", text: "Robbery" }
+    { id: "A", text: "Texas Department of Public Safety" },
+    { id: "B", text: "Constables" },
+    { id: "C", text: "Texas Rangers" },
+    { id: "D", text: "The watch and ward system" }
   ],
-  answer: "D",
-  explain: "Texas Penal Code §29.02 defines Robbery as occurring when, in the course of committing theft and with intent to obtain or maintain control of property, a person intentionally, knowingly, or recklessly causes bodily injury to another or places another in fear of imminent bodily injury or death."
+  answer: ["C"],
+  explain: "2. Professional Policing, Stephen F. Austin organized frontier militia groups to protect settlers from raids. These early ranger companies later developed into the Texas Rangers, a historic Texas law enforcement organization."
 },
 
 {
   id: "TCOLE_q2469",
-  type: "multiple-choice",
-  points: 1,
-  prompt: "According to Sec. 43.04 of the Penal Code, a person who knowingly manages a prostitution enterprise that uses two or more prostitutes would be charged with __________.",
+  prompt: "The essentials of a good exercise program must be designed to improve cardiovascular conditioning. Which of the following types of exercise does little to improve the heart and lungs? (3)",
   options: [
-    { id: "A", text: "Promotion of prostitution" },
-    { id: "B", text: "Aggravated promotion of prostitution" },
-    { id: "C", text: "Prostitution" },
-    { id: "D", text: "Compelling prostitution" }
+    { id: "A", text: "Swimming" },
+    { id: "B", text: "Weight lifting" },
+    { id: "C", text: "Jogging" },
+    { id: "D", text: "Athletic exercise such as basketball or handball" },
+    { id: "E", text: "Warm-up exercise that stretches muscles prior to jogging" }
   ],
-  answer: "B",
-  explain: "Texas Penal Code §43.04 states that a person commits Aggravated Promotion of Prostitution if the person knowingly owns, finances, controls, supervises, or manages a prostitution enterprise that uses two or more prostitutes."
+  answer: ["E"],
+  explain: "3. Fitness, Wellness, and Stress Management. Warm-up stretching helps prepare muscles and reduce injury risk, but by itself does little to improve cardiovascular conditioning because it does not significantly increase heart and lung workload."
 },
 
 {
   id: "TCOLE_q2470",
-  type: "multiple-choice",
-  points: 1,
-  prompt: "Which of the following is not one of the three common methods of drug abuse?",
+  prompt: "Peace officers who do not have their Intermediate Certification by the last day of the cycle must take __________. (4)",
   options: [
-    { id: "A", text: "Ingestion" },
-    { id: "B", text: "Puncture" },
-    { id: "C", text: "Injection" },
-    { id: "D", text: "Oral" }
+    { id: "A", text: "Cultural Diversity (3939)" },
+    { id: "B", text: "Crisis Intervention (CIT) (3843)" },
+    { id: "C", text: "Special Investigation Topics (3232)" },
+    { id: "D", text: "De-escalation (1849)" },
+    { id: "E", text: "All of the above" }
   ],
-  answer: "B",
-  explain: "The three commonly taught methods of drug abuse are ingestion (oral use), inhalation, and injection. 'Puncture' is not recognized as a separate method of drug administration in TCOLE materials."
+  answer: ["E"],
+  explain: "Officers who have not obtained Intermediate Certification by the end of the training cycle must complete the TCOLE-mandated continuing education courses required for that cycle. Source: TCOLE Continuing Education Requirements."
 },
 
 {
   id: "TCOLE_q2471",
-  type: "multiple-choice",
-  points: 1,
-  prompt: "__________ is a means a vehicle with or without motive power, other than a pole trailer designed to be drawn by a motor vehicle and to transport persons or property; and constructed so that part of the vehicle's weight and load rests on or is carried by another vehicle.",
+  prompt: "Civil law regulates the conduct of individuals through __________. (14)",
   options: [
-    { id: "A", text: "Semitrailer" },
-    { id: "B", text: "Truck tractor" },
-    { id: "C", text: "Caravan trailer" },
-    { id: "D", text: "Container trailer" }
+    { id: "A", text: "injunctions and the award of money damages." },
+    { id: "B", text: "threats of fine or imprisonment." },
+    { id: "C", text: "mandatory community service." },
+    { id: "D", text: "appropriate negotiations between the district attorney and the defendants." }
   ],
-  answer: "A",
-  explain: "Texas Transportation Code §541.201 defines a semitrailer as a vehicle designed to be drawn by a motor vehicle and constructed so that part of its weight and load rests upon or is carried by another vehicle."
+  answer: ["A"],
+  explain: "14. Civil Process, 8. Penal Code, 9. Code of Criminal Procedure. Civil law regulates conduct primarily through remedies such as injunctions and monetary damages. Unlike criminal law, its purpose is generally to compensate injured parties or prevent harmful conduct rather than punish offenders."
 },
 
 {
   id: "TCOLE_q2472",
-  type: "multiple-choice",
-  points: 1,
-  prompt: "PTSD creates __________.",
+  prompt: "According to the Code of Criminal Procedure, a peace officer who investigates a family violence allegation or who responds to a disturbance call that may involve family violence shall advise any possible adult victim of all reasonable means to prevent further family violence, including __________. (20)",
   options: [
-    { id: "A", text: "minor distress and long-lasting disruptive changes" },
-    { id: "B", text: "major distress and long-lasting disruptive changes" },
-    { id: "C", text: "major distress and short-term disruptive changes" },
-    { id: "D", text: "minor distress and short-term disruptive changes" }
+    { id: "A", text: "making an arrest without a warrant" },
+    { id: "B", text: "calling in assistance from domestic violence experts" },
+    { id: "C", text: "giving written notice of a victim's legal rights" },
+    { id: "D", text: "giving written notice of an offender's legal rights" }
   ],
-  answer: "B",
-  explain: "Post-Traumatic Stress Disorder is characterized by major emotional distress and long-lasting disruptive changes that can affect relationships, work performance, and daily functioning."
+  answer: ["C"],
+  explain: "CCP Art. 5.04(b). requires officers responding to family violence incidents to provide victims with written notice of their legal rights and information about available protections and services."
 },
 
 {
   id: "TCOLE_q2473",
-  type: "multiple-choice",
-  points: 1,
-  prompt: "As a requirement for an intermediate proficiency certificate, an officer must complete an education and training program on racial profiling established by the commission under Section 1701.253(h).",
+  prompt: "__________ includes the manufacturing, planting, cultivating, growing, or harvesting of a controlled substance. (15)",
   options: [
-    { id: "A", text: "True" },
-    { id: "B", text: "False" }
+    { id: "A", text: "Possession" },
+    { id: "B", text: "Carrier" },
+    { id: "C", text: "Production" },
+    { id: "D", text: "Making" }
   ],
-  answer: "A",
-  explain: "Texas Occupations Code §1701.402 and TCOLE proficiency requirements require completion of the racial profiling curriculum as part of the requirements for an Intermediate Proficiency Certificate."
+  answer: ["C"],
+  explain: "Production is defined by the Texas Controlled Substances Act as the manufacture, planting, cultivation, growing, or harvesting of a controlled substance. See Texas Health & Safety Code § 481.002(38)."
 },
 
 {
   id: "TCOLE_q2474",
-  type: "multiple-choice",
-  points: 1,
-  prompt: "Active shooters usually choose __________.",
+  prompt: "Speed, mobility; visibility increases preventive potential; protection of officer; permits officer to carry extra equipment are advantages to a __________. (35)",
   options: [
-    { id: "A", text: "Libraries" },
-    { id: "B", text: "Restrooms" },
-    { id: "C", text: "Schools/offices" },
-    { id: "D", text: "Parties" }
+    { id: "A", text: "Automobile patrol" },
+    { id: "B", text: "Foot patrol" },
+    { id: "C", text: "Fixed wing/Helicopter patrol" },
+    { id: "D", text: "Mounted patrol" }
   ],
-  answer: "C",
-  explain: "TCOLE Active Shooter training notes that active shooters commonly target locations with large concentrations of people, such as schools, office buildings, and similar occupied facilities."
+  answer: ["A"],
+  explain: "Automobile patrol provides speed, mobility, increased visibility, officer protection, and the ability to carry additional equipment. Source: TCOLE Basic Peace Officer Course Unit 35 - Patrol."
 },
 
 {
   id: "TCOLE_q2475",
+  prompt: "__________ means actual care, custody, control, or management. (8)",
+  options: [
+    { id: "A", text: "Possession" },
+    { id: "B", text: "Carrier" },
+    { id: "C", text: "Production" },
+    { id: "D", text: "Making" }
+  ],
+  answer: ["A"],
+  explain: "Possession means actual care, custody, control, or management. Source: Texas Penal Code §1.07(a)(39); Texas Health and Safety Code §481.002."
+},
+
+{
+  id: "TCOLE_q2476",
+  prompt: "One of the advantages of the professional model for law enforcement is the public or client is __________. (1)",
+  options: [
+    { id: "A", text: "Ethical" },
+    { id: "B", text: "Better Served" },
+    { id: "C", text: "Financial rewards" },
+    { id: "D", text: "None of the above" }
+  ],
+  answer: ["B"],
+  explain: "One advantage of the professional model of law enforcement is that the public or client is better served through increased accountability, training, professionalism, and quality of service. Source: TCOLE Basic Peace Officer Course Unit 1 - Professionalism and Ethics."
+},
+
+{
+  id: "TCOLE_q2477",
+  prompt: "If a licensed or certified emergency medical technician-intermediate or emergency medical technician-paramedic takes a blood specimen at the request or order of a peace officer, a peace officer must __________. (23)",
+  options: [
+    { id: "A", text: "Observe the taking of the specimen" },
+    { id: "B", text: "Assist in the taking of the specimen" },
+    { id: "C", text: "Not be present" },
+    { id: "D", text: "Be present but not look" }
+  ],
+  answer: ["A"],
+  explain: "When a licensed or certified emergency medical technician-intermediate or emergency medical technician-paramedic takes a blood specimen at the request or order of a peace officer, the peace officer must observe the taking of the specimen. Source: Texas Transportation Code §724.017(c), Taking of Specimen."
+},
+
+{
+  id: "TCOLE_q2478",
+  prompt: "If the person is younger than 21 years of age and has ________ of alcohol in the person's system, the person's license to operate a motor vehicle will be automatically suspended for not less than 60 days even if the person submits to the taking of the specimen. (23)",
+  options: [
+    { id: "A", text: "0.000001" },
+    { id: "B", text: "0.0008" },
+    { id: "C", text: "Any amount" },
+    { id: "D", text: "0.00001" }
+  ],
+  answer: ["C"],
+  explain: "Texas law establishes a zero-tolerance standard for drivers under 21 years of age. Any detectable amount of alcohol may result in driver's license suspension. Source: Texas Alcoholic Beverage Code §106.041."
+},
+
+{
+  id: "TCOLE_q2479",
+  prompt: "What policy do you follow in regards to back-up (on-duty) weapons? (41)",
+  options: [
+    { id: "A", text: "State policy" },
+    { id: "B", text: "Department policy" },
+    { id: "C", text: "Local policy" },
+    { id: "D", text: "Federal policy" }
+  ],
+  answer: ["B"],
+  explain: "Policies regarding authorized back-up (on-duty) weapons are determined by the employing law enforcement agency. Officers must comply with their department's written firearms and weapons policies concerning the carrying, qualification, inspection, and use of back-up weapons. Source: TCOLE Basic Peace Officer Course Unit 41 - Firearms."
+},
+
+{
+  id: "TCOLE_q2480",
+  prompt: "An officer can employ non-verbal and tonal aspects of their communication to gain a tactical advantage. (27)",
+  options: [
+    { id: "A", text: "True" },
+    { id: "B", text: "False" }
+  ],
+  answer: ["A"],
+  explain: "Officers can use non-verbal communication, body language, posture, facial expressions, eye contact, and vocal tone to enhance officer safety, establish command presence, influence behavior, and gain a tactical advantage during encounters. Source: TCOLE Basic Peace Officer Course Unit 27 - Communication Strategies."
+},
+
+{
+  id: "TCOLE_q2481",
+  prompt: "Actual hands-on training must be done using sedan vehicles of similar type, power, and handling characteristics as are commonly used __________. (34)",
+  options: [
+    { id: "A", text: "By your agency" },
+    { id: "B", text: "City mandate" },
+    { id: "C", text: "National mandate" },
+    { id: "D", text: "International mandate" }
+  ],
+  answer: ["A"],
+  explain: "Emergency Vehicle Operations Course (EVOC) training should be conducted using sedan vehicles with similar type, power, and handling characteristics as those commonly used by the officer's agency. This ensures training closely reflects actual operating conditions and vehicle performance. Source: TCOLE Basic Peace Officer Course Unit 34 - Vehicle Operations and Patrol Vehicle Training."
+},
+
+{
+  id: "TCOLE_q2482",
+  prompt: "___________ is a defense to prosecution. (8)",
+  options: [
+    { id: "A", text: "Voluntary Intoxication" },
+    { id: "B", text: "Mistake of Law" },
+    { id: "C", text: "Mistake of Fact" },
+    { id: "D", text: "None of the above" }
+  ],
+  answer: ["C"],
+  explain: "Mistake of fact is a defense to prosecution if the actor, through a reasonable mistake, formed a belief about a matter of fact that negated the kind of culpability required for commission of the offense. Voluntary intoxication is not a defense to the commission of crime, and mistake of law is generally not a defense. Source: Texas Penal Code §8.02 (Mistake of Fact); §8.04 (Intoxication); §8.03 (Mistake of Law)."
+},
+
+{
+  id: "TCOLE_q2483",
+  prompt: "In physical arrest, the police role is essentially __________. (31)",
+  options: [
+    { id: "A", text: "Offensive" },
+    { id: "B", text: "Defensive" },
+    { id: "C", text: "Meaningless" },
+    { id: "D", text: "Harmless" }
+  ],
+  answer: ["B"],
+  explain: "In a physical arrest situation, the police role is essentially defensive. An officer's objective is to control the subject, protect themselves and others, and overcome resistance using objectively reasonable force rather than to punish or engage in combat. Source: TCOLE Basic Peace Officer Course Unit 31 - Arrest, Search, and Seizure / Defensive Tactics."
+},
+
+{
+  id: "TCOLE_q2484",
+  prompt: "According to the Family Code, an application for a Protective Order may be filed by __________. (17)",
+  options: [
+    { id: "A", text: "An adult member of a family or household" },
+    { id: "B", text: "Any adult for the protection of a child member of a family or household" },
+    { id: "C", text: "The Department of Family and Protective Services for the protection of a member of a family or household" },
+    { id: "D", text: "All the above may file a protective order" }
+  ],
+  answer: ["D"],
+  explain: "The Texas Family Code authorizes an adult member of a family or household, any adult for the protection of a child, and the Department of Family and Protective Services to file an application for a protective order under specified circumstances. Therefore, all of the listed parties may apply for a protective order. Source: Texas Family Code Chapter 82, Application for Protective Order."
+},
+
+{
+  id: "TCOLE_q2485",
+  prompt: "A __________ is a person considered to be directly or indirectly connected with a crime, either by overt act or by planning and/or directing it. (32)",
+  options: [
+    { id: "A", text: "Person of interest" },
+    { id: "B", text: "Suspect" },
+    { id: "C", text: "Witness" },
+    { id: "D", text: "Culprit" }
+  ],
+  answer: ["B"],
+  explain: "A suspect is a person who is believed to be directly or indirectly involved in the commission of a crime, either through overt acts, participation, planning, or direction of the criminal activity. Source: TCOLE Basic Peace Officer Course Unit 32 - Criminal Investigation, Definitions and Roles of Persons Involved in Criminal Activity."
+},
+
+{
+  id: "TCOLE_q2486",
+  prompt: "FITT stands for Frequency, Intensity, Time and __________. (3)",
+  options: [
+    { id: "A", text: "Tension" },
+    { id: "B", text: "Track" },
+    { id: "C", text: "Type" },
+    { id: "D", text: "Treatment" }
+  ],
+  answer: ["C"],
+  explain: "FITT is a widely used exercise prescription principle that stands for Frequency, Intensity, Time, and Type. It is used to design and evaluate fitness programs by identifying how often exercise is performed, how hard it is performed, how long it lasts, and what kind of activity is conducted. Source: TCOLE Basic Peace Officer Course Unit 3 - Fitness, Wellness, and Stress Management."
+},
+
+{
+  id: "TCOLE_q2487",
+  prompt: "When Mr. Adams agrees with one or more persons to engage in a felony offense and one of them carries out the offense, Mr. Adams may be charged with __________. (8)",
+  options: [
+    { id: "A", text: "The offense itself" },
+    { id: "B", text: "Criminal attempt" },
+    { id: "C", text: "A misdemeanor" },
+    { id: "D", text: "Criminal conspiracy" },
+    { id: "E", text: "None of the above" }
+  ],
+  answer: ["D"],
+  explain: "A person commits criminal conspiracy if, with intent that a felony be committed, the person agrees with one or more persons that they or one or more of them engage in conduct constituting the offense and one or more of them performs an overt act in pursuance of the agreement. Source: Texas Penal Code §15.02 (Criminal Conspiracy)."
+},
+
+{
+  id: "TCOLE_q2488",
+  prompt: "Some examples of biological pathogens are __________. (42)",
+  options: [
+    { id: "A", text: "Nerve agents, pesticides, irritants, ricin" },
+    { id: "B", text: "Plague, bacteria, anthrax" },
+    { id: "C", text: "Alpha, beta, gamma, neutron" },
+    { id: "D", text: "Vesicants, insecticides, botulinum toxin" }
+  ],
+  answer: ["B"],
+  explain: "Biological pathogens are disease-causing microorganisms or biological agents. Examples include plague (Yersinia pestis), bacteria, and anthrax (Bacillus anthracis). The other choices primarily contain chemical agents or radiological terms rather than biological pathogens. Source: TCOLE Basic Peace Officer Course Unit 42 - Hazardous Materials Awareness and Weapons of Mass Destruction."
+},
+
+{
+  id: "TCOLE_q2489",
+  prompt: "Which of the following groups or persons does not fall under the jurisdiction of the Transportation Code while upon a roadway? (22)",
+  options: [
+    { id: "A", text: "Motor vehicle" },
+    { id: "B", text: "A person riding an animal" },
+    { id: "C", text: "A person riding a bicycle" },
+    { id: "D", text: "A motor-driven cycle" },
+    { id: "E", text: "All of the above fall under the jurisdiction of the Transportation Code" }
+  ],
+  answer: ["E"],
+  explain: "The Texas Transportation Code applies to operators of motor vehicles, motor-driven cycles, bicycles, and persons riding animals on a roadway unless a specific statute provides otherwise. Therefore, all of the listed persons or vehicles fall under the jurisdiction of the Transportation Code while using a roadway. Source: Texas Transportation Code, Title 7, Subtitle C (Rules of the Road); TCOLE Basic Peace Officer Course Unit 22 - Traffic Law."
+},
+
+{
+  id: "TCOLE_q2490",
+  prompt: "Sometimes a practical appeal is only a __________ solution. (28)",
+  options: [
+    { id: "A", text: "Long term" },
+    { id: "B", text: "Laughable" },
+    { id: "C", text: "Short term" },
+    { id: "D", text: "Legitimate" }
+  ],
+  answer: ["C"],
+  explain: "A practical appeal relies on convincing a person that compliance is in their immediate best interest. While effective in many situations, it may only provide a short-term solution because it does not necessarily change the person's underlying attitudes, beliefs, or future behavior. Source: TCOLE Basic Peace Officer Course Unit 28 - Crisis Intervention and Communications."
+},
+
+{
+  id: "TCOLE_q2491",
+  prompt: "The three learned professions are __________. (1)",
+  options: [
+    { id: "A", text: "Law, medicine, engineering" },
+    { id: "B", text: "Medicine, engineering, divinity" },
+    { id: "C", text: "Engineering, divinity, law" },
+    { id: "D", text: "Law, medicine, divinity" }
+  ],
+  answer: ["D"],
+  explain: "Traditionally, the three learned professions are law, medicine, and divinity (clergy). These occupations historically required extensive formal education, specialized knowledge, ethical standards, and a commitment to public service. Source: TCOLE Basic Peace Officer Course Unit 1 - Professionalism and Ethics."
+},
+
+{
+  id: "TCOLE_q2492",
+  prompt: "The procedural justice perspective argues that the legitimacy of the police is linked to public judgements about the fairness of the processes through which the police make decisions and exercise authority. (2)",
+  options: [
+    { id: "A", text: "True" },
+    { id: "B", text: "False" }
+  ],
+  answer: ["A"],
+  explain: "The procedural justice perspective holds that public trust and the legitimacy of law enforcement are strongly influenced by whether people perceive police actions, decision-making, and treatment of citizens as fair, neutral, respectful, and trustworthy. Source: TCOLE Basic Peace Officer Course Unit 2 - Police-Community Relations; Procedural Justice and Police Legitimacy."
+},
+
+{
+  id: "TCOLE_q2493",
+  prompt: "According to Article 2.12 of the Code of Criminal Procedure, which of the following is not a peace officer? (9)",
+  options: [
+    { id: "A", text: "Reserve deputy" },
+    { id: "B", text: "Railroad peace officer" },
+    { id: "C", text: "Texas game warden" },
+    { id: "D", text: "Border Patrol agent" }
+  ],
+  answer: ["D"],
+  explain: "Article 2.12 of the Texas Code of Criminal Procedure lists persons who are peace officers, including reserve deputies, railroad peace officers, and Texas game wardens. A United States Border Patrol agent is a federal law enforcement officer but is not included among the peace officers enumerated in Article 2.12. Source: Texas Code of Criminal Procedure Art. 2.12 (Who Are Peace Officers)."
+},
+
+{
+  id: "TCOLE_q2494",
+  prompt: "There is no waiting period for accepting missing child reports. (18)",
+  options: [
+    { id: "A", text: "True" },
+    { id: "B", text: "False" }
+  ],
+  answer: ["A"],
+  explain: "Law enforcement agencies must accept a missing child report immediately and may not require a waiting period before taking the report. Prompt reporting and investigation are critical to the safe recovery of missing children. Source: Texas Code of Criminal Procedure Art. 63.009 (Law Enforcement Policy Regarding Missing Children and Missing Persons); TCOLE Basic Peace Officer Course Unit 18 - Missing and Exploited Children."
+},
+
+{
+  id: "TCOLE_q2495",
+  prompt: "A __________ is a person who saw a crime or some part of it being committed or who has relevant information. (32)",
+  options: [
+    { id: "A", text: "Witness" },
+    { id: "B", text: "Suspect" },
+    { id: "C", text: "Culprit" },
+    { id: "D", text: "Person of interest" }
+  ],
+  answer: ["A"],
+  explain: "A witness is a person who observed a crime, part of a crime, or possesses information relevant to the investigation. Witnesses are often a primary source of information for investigators and may provide direct, indirect, or corroborating evidence. Source: TCOLE Basic Peace Officer Course Unit 32 - Criminal Investigation, Witnesses and Sources of Information."
+},
+
+{
+  id: "TCOLE_q2496",
+  prompt: "Force that is intended or known by the actor to cause, or in the manner of its use or intended use is capable of causing death or serious bodily injury is the definition of __________. (28)",
+  options: [
+    { id: "A", text: "Excessive force" },
+    { id: "B", text: "Deadly force" },
+    { id: "C", text: "Hard empty hand control" },
+    { id: "D", text: "None of the above" }
+  ],
+  answer: ["B"],
+  explain: "Deadly force means force that is intended or known by the actor to cause, or in the manner of its use or intended use is capable of causing, death or serious bodily injury. Source: Texas Penal Code §9.01(3); TCOLE Basic Peace Officer Course Unit 28 - Use of Force."
+},
+
+{
+  id: "TCOLE_q2497",
+  prompt: "Joe takes a business client to the motel where he has arranged sexual entertainment for the evening. The next day, the client gives Joe $500 for a wonderful evening. Joe gives the lady $200 and a $50 tip. What offense, if any, has been committed by Joe? (8)",
+  options: [
+    { id: "A", text: "Prostitution" },
+    { id: "B", text: "Promotion of Prostitution" },
+    { id: "C", text: "Aggravated Promotion of Prostitution" },
+    { id: "D", text: "Compelling Prostitution" },
+    { id: "E", text: "Disorderly Conduct" }
+  ],
+  answer: ["B"],
+	explain: "Receiving money from the proceeds of prostitution constitutes Promotion of Prostitution. Source: Texas Penal Code §43.03."
+},
+
+{
+  id: "TCOLE_q2498",
+  prompt: "How long is a search warrant valid? (10)",
+  options: [
+    { id: "A", text: "Until it is served." },
+    { id: "B", text: "Three days, not counting the day of issuance nor the day of execution." },
+    { id: "C", text: "Seven days, not counting the day of issuance nor the day of execution." },
+    { id: "D", text: "Twenty-four hours." }
+  ],
+  answer: ["B"],
+  explain: "A search warrant must generally be executed within three whole days, exclusive of the day of issuance and the day of execution. Source: Texas Code of Criminal Procedure Art. 18.07(a)."
+},
+
+{
+  id: "TCOLE_q2499",
+  prompt: "A person, intending to cause serious bodily injury to any individual, commits an act clearly dangerous to human life and the act causes the death of an individual. (8)",
+  options: [
+    { id: "A", text: "Murder" },
+    { id: "B", text: "Capital murder" },
+    { id: "C", text: "Negligent homicide" },
+    { id: "D", text: "Manslaughter" }
+  ],
+  answer: ["A"],
+  explain: "A person commits murder if, with intent to cause serious bodily injury, the person commits an act clearly dangerous to human life that causes the death of an individual. Source: Texas Penal Code §19.02(b)(2)."
+},
+
+{
+  id: "TCOLE_q2500",
   type: "multiple-choice",
   points: 1,
-  prompt: "A person can restrain a child through movement or confinement even with the child's cooperation as long as the child is under 14 years old and the child's parent, guardian or person acting in loco parentis (such as the state) has not acquiesced.",
+  prompt: "Which of the following is considered an emergency vehicle? (34)",
+  options: [
+    { id: "A", text: "Mayoral vehicle" },
+    { id: "B", text: "Tissue bank vehicle not in an emergency" },
+    { id: "C", text: "Volunteer firefighter not answering alarm" },
+    { id: "D", text: "Police vehicle" }
+  ],
+  answer: "D",
+  explain: "A police vehicle is an authorized emergency vehicle under Texas Transportation Code §541.201. While certain other vehicles may qualify as authorized emergency vehicles under specific circumstances, a volunteer firefighter must be responding to a fire alarm or emergency and a tissue bank vehicle must be engaged in emergency use. A police vehicle is always recognized as an authorized emergency vehicle when operated by a law enforcement agency."
+},
+
+{
+  id: "TCOLE_q2501",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "__________ is defined as an individual who has fantasies, urges or behaviors that involve illegal sexual activity with a prepubescent child or children. (18)",
+  options: [
+    { id: "A", text: "Pedophilia" },
+    { id: "B", text: "Power rapist" },
+    { id: "C", text: "Molesters" },
+    { id: "D", text: "Sadistic rapist" }
+  ],
+  answer: "A",
+  explain: "Pedophilia is a sexual disorder characterized by recurrent fantasies, urges, or behaviors involving sexual activity with a prepubescent child. In TCOLE child abuse and child victimization training, pedophiles are identified by their sexual interest in prepubescent children. The other options describe different offender types and do not specifically refer to sexual attraction to prepubescent children."
+},
+
+{
+  id: "TCOLE_q2502",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Two friends buy a boat together. One of them becomes angry at the other and tears up the boat that they purchased together. What offense, if any, has been committed? (8)",
+  options: [
+    { id: "A", text: "Disorderly conduct" },
+    { id: "B", text: "Criminal mischief" },
+    { id: "C", text: "Assault" },
+    { id: "D", text: "Reckless damage or deconstruction" }
+  ],
+  answer: "B",
+  explain: "Criminal Mischief is the correct answer. Under Texas Penal Code §28.03, a person commits Criminal Mischief if, without the effective consent of the owner, the person intentionally or knowingly damages or destroys the tangible property of the owner. 'Owner' includes a person who has title to, possession of, or a greater right to possession of the property than the actor. Even though the suspect is a co-owner of the boat, the other owner's ownership interest is protected by law. By intentionally damaging the jointly owned boat, the actor commits Criminal Mischief."
+},
+
+{
+  id: "TCOLE_q2503",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "According to the Carroll Doctrine, the reason a vehicle is an exception to the warrant requirement is because it is __________. (10)",
+  options: [
+    { id: "A", text: "Considered a deadly weapon" },
+    { id: "B", text: "Not considered anyone's \"castle\"" },
+    { id: "C", text: "Mobile" },
+    { id: "D", text: "Distinguished from a house" }
+  ],
+  answer: "C",
+  explain: "The Carroll Doctrine, established in Carroll v. United States, creates the automobile exception to the Fourth Amendment warrant requirement. The primary justification is that vehicles are readily mobile and can quickly be moved out of the jurisdiction before a warrant can be obtained. Therefore, if officers have probable cause to believe a vehicle contains contraband or evidence of a crime, they may search it without a warrant. The key factor underlying the exception is the vehicle's mobility."
+},
+
+{
+  id: "TCOLE_q2504",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "In the traditional police service model, most of the workload of patrol officers and detectives consists of handling crimes that have already been committed, disturbances in progress, and traffic violations describes __________. (2)",
+  options: [
+    { id: "A", text: "Incident driven" },
+    { id: "B", text: "Reactive response" },
+    { id: "C", text: "Citizen and employee expectations" },
+    { id: "D", text: "Use of the criminal justice system" }
+  ],
+  answer: "B",
+  explain: "Reactive response is a key characteristic of the traditional police service model. Officers primarily respond to calls for service after crimes have occurred, handle disturbances already in progress, and enforce traffic laws. TCOLE contrasts this reactive approach with proactive and community policing strategies that seek to prevent crime and address underlying community problems before incidents occur."
+},
+
+{
+  id: "TCOLE_q2505",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "A co-worker who is abusing drugs or alcohol can be helped in four ways. These are: Be aware and recognize the problem, encourage the person after they seek help, avoiding the problem will eventually have serious consequences and __________. (3)",
+  options: [
+    { id: "A", text: "Evaluate their problem" },
+    { id: "B", text: "Urge the person to seek help" },
+    { id: "C", text: "Be able to laugh at one's self" },
+    { id: "D", text: "Urge the drinker to check their attitude" }
+  ],
+  answer: "B",
+  explain: "According to TCOLE wellness and stress management training, peers can help a co-worker struggling with alcohol or drug abuse by recognizing the problem, urging the person to seek professional help, encouraging the person after treatment begins, and understanding that ignoring the problem will likely lead to serious consequences. Seeking assistance through employee assistance programs, counseling, or treatment resources is a critical step toward recovery."
+},
+
+{
+  id: "TCOLE_q2506",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "One of the advantages of the rear approach to suspects is __________. (31)",
+  options: [
+    { id: "A", text: "May provoke physical resistance" },
+    { id: "B", text: "Surprise" },
+    { id: "C", text: "Loss of surprise" },
+    { id: "D", text: "Communication" }
+  ],
+  answer: "B",
+  explain: "Surprise is one of the primary advantages of the rear approach to a suspect. TCOLE officer safety training teaches that approaching from the rear can reduce the suspect's awareness of the officer's presence, giving the officer a tactical advantage and more time to assess potential threats. By contrast, loss of surprise is a disadvantage, communication is generally more difficult from the rear, and a rear approach may reduce rather than provoke immediate resistance."
+},
+
+{
+  id: "TCOLE_q2507",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "The IACP Code of Ethics states, \"I will recognize the badge of my office as a symbol of __________.\" (1)",
+  options: [
+    { id: "A", text: "Authority" },
+    { id: "B", text: "Employment" },
+    { id: "C", text: "Public Faith" },
+    { id: "D", text: "My uniform" }
+  ],
+  answer: "C",
+  explain: "The International Association of Chiefs of Police (IACP) Law Enforcement Code of Ethics states: 'I will recognize the badge of my office as a symbol of public faith.' This principle emphasizes that a peace officer's authority is derived from the public's trust and confidence. TCOLE ethics training stresses that officers must safeguard that trust through integrity, professionalism, and ethical conduct both on and off duty."
+},
+
+{
+  id: "TCOLE_q2508",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "An operator may not stop, stand, or park a vehicle within __________ feet of a fire hydrant. (22)",
+  options: [
+    { id: "A", text: "15" },
+    { id: "B", text: "20" },
+    { id: "C", text: "25" },
+    { id: "D", text: "30" }
+  ],
+  answer: "A",
+  explain: "Texas Transportation Code §545.302(a)(3) prohibits an operator from stopping, standing, or parking a vehicle within 15 feet of a fire hydrant. This restriction helps ensure firefighters have immediate access to hydrants during emergencies. Unless otherwise directed by law enforcement or traffic-control devices, vehicles must remain at least 15 feet away from a fire hydrant."
+},
+
+{
+  id: "TCOLE_q2509",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Known as the \"Carroll doctrine\" which holds that a warrantless search of a readily mobile motor vehicle by a peace officer who has probable cause to believe that the vehicle contains incriminating items subject to seizure is not unreasonable under the __________ Amendment. (7)",
+  options: [
+    { id: "A", text: "Fifth" },
+    { id: "B", text: "First" },
+    { id: "C", text: "Fourth" },
+    { id: "D", text: "Fifteenth" }
+  ],
+  answer: "C",
+  explain: "The Carroll Doctrine originated in Carroll v. United States (1925) and is an exception to the Fourth Amendment's warrant requirement. Under this doctrine, a peace officer who has probable cause to believe a readily mobile vehicle contains contraband or evidence of a crime may search the vehicle without first obtaining a warrant. The U.S. Supreme Court held that such searches are reasonable under the Fourth Amendment because of the inherent mobility of vehicles and the reduced expectation of privacy associated with them."
+},
+
+{
+  id: "TCOLE_q2510",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "__________ is a device that a person may ride and that is propelled by human power and has two tandem wheels at least one of which is more than 14 inches in diameter. (22)",
+  options: [
+    { id: "A", text: "Bicycle" },
+    { id: "B", text: "Cycle" },
+    { id: "C", text: "Electric bicycle" },
+    { id: "D", text: "Unicycle" }
+  ],
+  answer: "A",
+  explain: "A bicycle is defined by Texas Transportation Code §541.201 as a device that a person may ride, propelled exclusively by human power, and having two tandem wheels, at least one of which is more than 14 inches in diameter. An electric bicycle is separately defined in the Transportation Code because it is equipped with an electric motor, while a unicycle has only one wheel and 'cycle' is not the specific statutory definition described in the question."
+},
+
+{
+  id: "TCOLE_q2511",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "__________ is the condition of the human organism that consists of its health and disease status and risk potential. (3)",
+  options: [
+    { id: "A", text: "Fitness" },
+    { id: "B", text: "Wellness" },
+    { id: "C", text: "Physical fitness" },
+    { id: "D", text: "Lifestyle" }
+  ],
+  answer: "B",
+  explain: "Wellness is the condition of the human organism that reflects its overall health status, disease status, and risk potential. In TCOLE wellness training, wellness is viewed as a multidimensional concept encompassing physical, emotional, social, intellectual, and occupational well-being. While physical fitness is an important component of wellness, wellness is the broader concept that includes an individual's overall health and quality of life."
+},
+
+{
+  id: "TCOLE_q2512",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Administrative or __________ policy should be at least as restrictive as the law. In many cases it will be stricter than legal restrictions. (28)",
+  options: [
+    { id: "A", text: "Government" },
+    { id: "B", text: "State" },
+    { id: "C", text: "Local" },
+    { id: "D", text: "Departmental" }
+  ],
+  answer: "D",
+  explain: "Departmental policy should be at least as restrictive as applicable law and is often more restrictive. TCOLE ethics and professional conduct training emphasizes that while laws establish the minimum standards for officer behavior, agency policies frequently impose stricter requirements to promote professionalism, reduce liability, and maintain public trust. Officers must comply with both the law and their department's policies, with the stricter standard generally governing conduct."
+},
+
+{
+  id: "TCOLE_q2513",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "__________ means to directly apply a controlled substance by injection, inhalation, ingestion, or other means to the body of a patient. (15)",
+  options: [
+    { id: "A", text: "\"Stick\"" },
+    { id: "B", text: "Infuse" },
+    { id: "C", text: "Shoot up" },
+    { id: "D", text: "Administer" }
+  ],
+  answer: "D",
+  explain: "\"Administer\" is the term defined by Texas Health and Safety Code §481.002. It means the direct application of a controlled substance to the body of a patient or research subject by injection, inhalation, ingestion, or any other means. This definition is frequently tested in TCOLE's Controlled Substances curriculum and is distinct from terms such as manufacture, delivery, dispensing, or possession."
+},
+
+{
+  id: "TCOLE_q2514",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Joe allowed Joan, a 17-year-old runaway to stay at his house for two weeks and did not bother to call the police or her parents, knowing Joan was a runaway. This is __________. (8)",
+  options: [
+    { id: "A", text: "Aiding and abetting" },
+    { id: "B", text: "Harboring a fugitive" },
+    { id: "C", text: "Enticing a child" },
+    { id: "D", text: "Harboring a runaway" }
+  ],
+  answer: "D",
+  explain: "Harboring a Runaway is the correct answer. Under Texas Penal Code §25.06, a person commits an offense if they knowingly harbor a child and fail to promptly report the child's location to a law enforcement agency or the child's parent or guardian. In this scenario, Joe knew Joan was a runaway and allowed her to stay for two weeks without notifying law enforcement or her parents, satisfying the elements of Harboring a Runaway."
+},
+
+{
+  id: "TCOLE_q2515",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Perjury consists of making a false statement. (8)",
+  options: [
+    { id: "A", text: "With intent to deceive" },
+    { id: "B", text: "Under oath" },
+    { id: "C", text: "With knowledge of the statement's meaning" },
+    { id: "D", text: "All of the above" },
+    { id: "E", text: "A & B only" }
+  ],
+  answer: "D",
+  explain: "Under Texas Penal Code §37.02, a person commits Perjury if, with intent to deceive and with knowledge of the statement's meaning, the person makes a false statement under oath or swears to the truth of a false statement previously made. Therefore, all of the listed elements are required: the statement must be made under oath, the actor must intend to deceive, and the actor must know the meaning of the statement. Because all three elements are necessary, 'All of the above' is the correct answer."
+},
+
+{
+  id: "TCOLE_q2516",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "A/an __________ are motivated by a desire to acquire something, for example food riots. (35)",
+  options: [
+    { id: "A", text: "Acquisitive mob" },
+    { id: "B", text: "Escape mob" },
+    { id: "C", text: "Aggressive mob" },
+    { id: "D", text: "None of these" }
+  ],
+  answer: "A",
+  explain: "An acquisitive mob is motivated by the desire to obtain or acquire something, such as food, goods, money, or other resources. TCOLE crowd management training identifies food riots and looting as common examples of acquisitive mob behavior. This differs from an aggressive mob, which is motivated by hostility or violence, and an escape mob, which forms when people attempt to flee from a perceived danger."
+},
+
+{
+  id: "TCOLE_q2517",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Consent is not effective if __________. (8)",
+  options: [
+    { id: "A", text: "Induced by threat, fraud or force" },
+    { id: "B", text: "Given by an intoxicated person" },
+    { id: "C", text: "Given by a person with mental disease or defect" },
+    { id: "D", text: "Any of the above" }
+  ],
+  answer: "D",
+  explain: "Texas Penal Code §1.07(a)(19) defines effective consent and identifies circumstances under which consent is not legally effective. Consent is ineffective if it is induced by force, threat, or fraud; if it is given by a person the actor knows is unable to make reasonable decisions because of mental disease, defect, or intoxication; or if it is given by a person who lacks legal authority to act. Therefore, each of the listed circumstances can make consent ineffective, making 'Any of the above' the correct answer."
+},
+
+{
+  id: "TCOLE_q2518",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Generally, __________ refers to groups of people with common ancestry and physical characteristics. (5)",
+  options: [
+    { id: "A", text: "Ethnicity" },
+    { id: "B", text: "Culture" },
+    { id: "C", text: "Race" },
+    { id: "D", text: "Sub-culture" }
+  ],
+  answer: "C",
+  explain: "Race generally refers to groups of people who share common ancestry and physical characteristics. In TCOLE Cultural Diversity training, race is distinguished from ethnicity, which relates to shared nationality, heritage, language, or cultural traditions. Culture refers to shared beliefs, values, and behaviors, while a subculture is a smaller group within a larger culture that maintains distinct characteristics."
+},
+
+{
+  id: "TCOLE_q2519",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Which of the following is not one of the suggested stress reduction techniques? (3)",
+  options: [
+    { id: "A", text: "Don't hold everything inside - discuss feelings with others" },
+    { id: "B", text: "Use relaxation techniques and get necessary sleep and rest" },
+    { id: "C", text: "Limit your friends to a close network of police friends" },
+    { id: "D", text: "Exercise" },
+    { id: "E", text: "Avoid smoking and alcoholic beverages" }
+  ],
+  answer: "C",
+  explain: "TCOLE wellness training recommends maintaining healthy relationships both inside and outside of law enforcement as part of effective stress management. Suggested stress reduction techniques include discussing feelings with trusted people, using relaxation methods, getting adequate sleep and rest, exercising regularly, and avoiding tobacco, alcohol, and other unhealthy coping mechanisms. Limiting friendships to only police officers can increase isolation and is not considered a recommended stress reduction strategy."
+},
+
+{
+  id: "TCOLE_q2520",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Traditionally police officers handle crimes __________. (2)",
+  options: [
+    { id: "A", text: "Before they are committed" },
+    { id: "B", text: "As they are committed" },
+    { id: "C", text: "After they have been committed" },
+    { id: "D", text: "When they can get to them" }
+  ],
+  answer: "C",
+  explain: "Under the traditional police service model, policing is primarily reactive. TCOLE training teaches that officers typically respond to crimes after they have been committed by investigating offenses, gathering evidence, and identifying suspects. This contrasts with proactive and community policing strategies, which focus on preventing crime and addressing underlying problems before offenses occur."
+},
+
+{
+  id: "TCOLE_q2521",
+  type: "true-false",
+  points: 1,
+  prompt: "Unless revocation is required, the commission may suspend a license or certificate for violating any provision of the Texas Occupations Code, Chapter 1701 or commission rule. (4)",
   options: [
     { id: "A", text: "True" },
     { id: "B", text: "False" }
   ],
   answer: "A",
-  explain: "Texas Penal Code §20.01 provides that a child under 14 years of age cannot legally consent to restraint if the parent, guardian, or person acting in loco parentis has not acquiesced."
+  explain: "Texas Occupations Code Chapter 1701 grants TCOLE disciplinary authority over licensees and certificate holders. Unless a specific violation requires mandatory revocation, the Commission may suspend a license or certificate for violations of Chapter 1701 or TCOLE rules. TCOLE's disciplinary powers include reprimand, suspension, or revocation depending on the nature and severity of the violation."
 },
 
 {
-  id: "TCOLE_q2476",
+  id: "TCOLE_q2522",
   type: "multiple-choice",
   points: 1,
-  prompt: "A man wearing only a mini skirt, fishnet panty hose, and 4 inch heels is walking down the sidewalk of a major roadway during rush hour carrying a loaded shotgun slung over his shoulder. What offense has occurred?",
+  prompt: "A person commits an offense if he intentionally or knowingly abducts another person. This definition would best fit the offense of __________. (8)",
   options: [
-    { id: "A", text: "Indecent Exposure" },
-    { id: "B", text: "Disorderly Conduct - Exposure" },
-    { id: "C", text: "Deadly Conduct" },
-    { id: "D", text: "Unlawful Carrying Weapon" },
-    { id: "E", text: "None of the above" }
-  ],
-  answer: "E",
-  explain: "None of the facts presented establish the elements of indecent exposure, disorderly conduct by exposure, deadly conduct, or unlawful carrying of a weapon. Under the facts given, no listed offense has occurred."
-},
-
-{
-  id: "TCOLE_q2477",
-  type: "multiple-choice",
-  points: 1,
-  prompt: "The concept of the wellness lifestyle can be visualized in terms of a __________.",
-  options: [
-    { id: "A", text: "Food Pyramid" },
-    { id: "B", text: "Wellness Pyramid" },
-    { id: "C", text: "MyPlate" },
-    { id: "D", text: "A Pie Chart" }
+    { id: "A", text: "False imprisonment" },
+    { id: "B", text: "Kidnapping" },
+    { id: "C", text: "Illegal restraint" },
+    { id: "D", text: "Aggravated false imprisonment" },
+    { id: "E", text: "Unlawful detention" }
   ],
   answer: "B",
-  explain: "TCOLE Health and Wellness curriculum illustrates the wellness lifestyle using the Wellness Pyramid, which emphasizes the relationship between physical, emotional, social, and professional well-being."
+  explain: "Kidnapping is defined in Texas Penal Code §20.03 as intentionally or knowingly abducting another person. 'Abduct' means to restrain a person with intent to prevent liberation by secreting or holding the person in a place where they are not likely to be found or by using or threatening deadly force. The other answer choices are not offenses recognized under the Texas Penal Code that match this statutory definition."
 },
 
-{
-  id: "TCOLE_q2478",
-  type: "multiple-choice",
-  points: 1,
-  prompt: "Every aspect of human behavior is influenced by __________.",
-  options: [
-    { id: "A", text: "prejudice" },
-    { id: "B", text: "personal values" },
-    { id: "C", text: "effective innovations" },
-    { id: "D", text: "ethical conduct" }
-  ],
-  answer: "B",
-  explain: "Personal values influence beliefs, attitudes, decisions, perceptions, and behavior. TCOLE Ethics training emphasizes that every aspect of human behavior is affected by an individual's personal value system."
-},
 
 {
-  id: "TCOLE_q2479",
+  id: "TCOLE_q2523",
   type: "multiple-choice",
   points: 1,
-  prompt: "When considering your verbal communication skills, beware of __________, which states that your words and actions are contagious.",
+  prompt: "Which of the following is not a route of exposure to hazardous materials? (42)",
   options: [
-    { id: "A", text: "command presence" },
-    { id: "B", text: "uniform presence" },
-    { id: "C", text: "intellectual contagion" },
-    { id: "D", text: "emotional contagion" }
+    { id: "A", text: "Ingestion" },
+    { id: "B", text: "Inhalation" },
+    { id: "C", text: "Absorption" },
+    { id: "D", text: "Reduction" }
   ],
   answer: "D",
-  explain: "Emotional contagion is the concept that attitudes, emotions, words, and behaviors can spread from one person to another. Officers must remain professional because their demeanor often influences the behavior of others."
+  explain: "Reduction is not a route of exposure to hazardous materials. TCOLE Hazardous Materials training identifies the primary routes of exposure as inhalation (breathing a substance), ingestion (swallowing a substance), absorption (through the skin or eyes), and injection (through punctures or cuts). Reduction is a chemical process, not a method by which hazardous materials enter the body."
 },
 
 {
-  id: "TCOLE_q2480",
+  id: "TCOLE_q2524",
   type: "multiple-choice",
   points: 1,
-  prompt: "Hazards such as __________ should be reported.",
+  prompt: "Which form designates the statement of appointment? (4)",
   options: [
-    { id: "A", text: "Scheduled construction that is blocking a road" },
-    { id: "B", text: "Roadway hazards, dead animals, animals on roadway, traffic control devices, and crime hazards" },
-    { id: "C", text: "Traffic cones on the side of the road" },
-    { id: "D", text: "None of these" }
-  ],
-  answer: "B",
-  explain: "Patrol officers are responsible for identifying and reporting hazards that threaten public safety, including roadway hazards, dead animals, malfunctioning traffic control devices, animals on roadways, and potential crime hazards."
-},
-
-{
-  id: "TCOLE_q2481",
-  type: "multiple-choice",
-  points: 1,
-  prompt: "Investigatory Stops/Detentions: The temporary seizure of a person for __________ based on an officer's reasonable suspicion of criminal activity.",
-  options: [
-    { id: "A", text: "Investigation" },
-    { id: "B", text: "Conversation" },
-    { id: "C", text: "Pleading" },
-    { id: "D", text: "Talking" }
+    { id: "A", text: "L-1" },
+    { id: "B", text: "L-2" },
+    { id: "C", text: "L-3" },
+    { id: "D", text: "L-4" }
   ],
   answer: "A",
-  explain: "An investigatory detention, commonly referred to as a Terry stop, is the temporary seizure of a person for investigation when an officer has reasonable suspicion that criminal activity is occurring."
+  explain: "The TCOLE L-1 form is the Statement of Appointment and is used by a law enforcement agency to report the appointment of a licensed peace officer, county jailer, or telecommunicator. The L-2 is the Medical Condition Declaration, the L-3 is the Psychological and Emotional Health Declaration, and the L-4 is the Report of Separation. Therefore, the Statement of Appointment is designated by the L-1 form."
 },
 
 {
-  id: "TCOLE_q2482",
+  id: "TCOLE_q2525",
   type: "multiple-choice",
   points: 1,
-  prompt: "According to Section 42.02, a riot means the assemblage of __________ or more persons.",
+  prompt: "Section 2.272 of the __________ provides the specific authority an officer has as it relates to the Child Safety Check Alert List. (19)",
   options: [
-    { id: "A", text: "Two" },
-    { id: "B", text: "Four" },
-    { id: "C", text: "Five" },
-    { id: "D", text: "Seven" }
-  ],
-  answer: "D",
-  explain: "Texas Penal Code §42.02 defines a riot as the assemblage of seven or more persons resulting in conduct that creates an immediate danger of damage to property or injury to persons."
-},
-
-{
-  id: "TCOLE_q2483",
-  type: "multiple-choice",
-  points: 1,
-  prompt: "Which of the following best fits the definition? ___________ is a hearing status of such severity that an individual must depend on visual methods to communicate.",
-  options: [
-    { id: "A", text: "Hard of hearing" },
-    { id: "B", text: "Deaf" },
-    { id: "C", text: "Hearing impaired" },
-    { id: "D", text: "All of the above" }
-  ],
-  answer: "B",
-  explain: "A deaf person has a hearing loss so severe that communication primarily depends on visual methods such as sign language, lip reading, written communication, or visual cues."
-},
-
-{
-  id: "TCOLE_q2484",
-  type: "multiple-choice",
-  points: 1,
-  prompt: "Any child under the age of __________ must be transported in a child safety seat.",
-  options: [
-    { id: "A", text: "8 years" },
-    { id: "B", text: "4 years" },
-    { id: "C", text: "3 years" },
-    { id: "D", text: "2 years" },
-    { id: "E", text: "there is no such requirement" }
-  ],
-  answer: "A",
-  explain: "Texas Transportation Code §545.412 requires children younger than 8 years of age to be secured in an appropriate child passenger safety seat unless the child is taller than 4 feet 9 inches."
-},
-
-{
-  id: "TCOLE_q2485",
-  type: "multiple-choice",
-  points: 1,
-  prompt: "__________ is the width between the boundary lines of a publicly maintained way any part of which is open to the public for vehicular travel.",
-  options: [
-    { id: "A", text: "Freeway" },
-    { id: "B", text: "Highway" },
-    { id: "C", text: "Alley" },
-    { id: "D", text: "Driveway" }
-  ],
-  answer: "B",
-  explain: "Texas Transportation Code §541.302 defines a highway or street as the width between the boundary lines of a publicly maintained way any part of which is open to the public for vehicular travel."
-},
-
-{
-  id: "TCOLE_q2486",
-  type: "multiple-choice",
-  points: 1,
-  prompt: "__________ means to transfer, actually or constructively, to another a controlled substance, counterfeit substance, or drug paraphernalia, regardless of whether there is an agency relationship.",
-  options: [
-    { id: "A", text: "Dispense" },
-    { id: "B", text: "Disburse" },
-    { id: "C", text: "Delivery" },
-    { id: "D", text: "Distribute" }
+    { id: "A", text: "Family Code" },
+    { id: "B", text: "Health and Safety Code" },
+    { id: "C", text: "Code of Criminal Procedure" },
+    { id: "D", text: "Penal Code" }
   ],
   answer: "C",
-  explain: "Texas Health and Safety Code §481.002 defines 'delivery' as the actual or constructive transfer of a controlled substance, counterfeit substance, or drug paraphernalia to another person."
+  explain: "Article 2.272 of the Texas Code of Criminal Procedure establishes an officer's authority regarding the Child Safety Check Alert List. The article authorizes peace officers to verify a child's welfare when a child has been entered into the system and to take appropriate action when necessary. TCOLE Missing and Exploited Children training covers this provision as part of Texas procedures for locating and protecting missing, endangered, or runaway children."
 },
 
 {
-  id: "TCOLE_q2487",
+  id: "TCOLE_q2526",
   type: "multiple-choice",
   points: 1,
-  prompt: "According to the Transportation Code, a turn signal lamp mounted on the rear of a vehicle shaft shall emit __________ light.",
+  prompt: "At a police-stop, this is a courtesy we owe to every citizen stopped. Regardless of whether the officers are in a marked car and in uniform, first we should __________. (35)",
   options: [
-    { id: "A", text: "red or amber" },
-    { id: "B", text: "amber or yellow" },
-    { id: "C", text: "red or yellow" },
-    { id: "D", text: "red or white" }
+    { id: "A", text: "Greet and identify the police agency" },
+    { id: "B", text: "Ask for identification" },
+    { id: "C", text: "State of violation committed" },
+    { id: "D", text: "State of rank and name" }
   ],
   answer: "A",
-  explain: "Texas Transportation Code Chapter 547 provides that rear-mounted turn signal lamps must emit either red or amber light visible to other roadway users."
+  explain: "TCOLE's Professional Police Contacts training emphasizes that the first courtesy owed to a citizen during a police stop is to greet the individual and identify the law enforcement agency. This helps establish professionalism, legitimacy, and effective communication from the beginning of the encounter. Before requesting identification or discussing the reason for the stop, officers should make a professional introduction to reduce tension and promote positive citizen interactions."
 }
 
 
 ];
+
 
 
