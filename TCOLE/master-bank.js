@@ -514,7 +514,7 @@
     { id: "D", text: "will" }
   ],
   answer: "B",
-  explain: "The Code of Criminal Procedure states that a peace officer who meets resistance while discharging a lawful duty shall summon a sufficient number of citizens to overcome the resistance, and those summoned are bound to obey. ã€6-7d85baã€‘ã€7-3f2b59ã€‘ã€8-f4f06eã€‘"
+  explain: "The Code of Criminal Procedure states that a peace officer who meets resistance while discharging a lawful duty shall summon a sufficient number of citizens to overcome the resistance, and those summoned are bound to obey."
 },
 {
   id: "TCOLE_q37",
@@ -734,15 +734,15 @@
   id: "TCOLE_q52",
   type: "multiple-choice",
   points: 1,
-  prompt: "Which of the following is an advantage of having the professional model for law enforcement?",
+  prompt: "What is the minimum number of rounds required for fully automatic weapon proficiency?",
   options: [
-    { id: "A", text: "Increased cost of training and development" },
-    { id: "B", text: "Opportunity for educational benefits" },
-    { id: "C", text: "More effective problem solving techniques" },
-    { id: "D", text: "Limited entry-level opportunities for people from lower socioeconomic segments" }
+    { id: "A", text: "30" },
+    { id: "B", text: "50" },
+    { id: "C", text: "100" },
+    { id: "D", text: "25" }
   ],
-  answer: "B",
-  explain: "TCOLE Ethics and Professionalism, the professional model encourages increased education, training, and professional development opportunities."
+  answer: "A",
+  explain: "37 Tex. Admin. Code §218.9 Continuing Firearms Proficiency Requirements requires a minimum of 30 rounds for fully automatic weapons proficiency. Of those rounds, at least 25 must be fired in full automatic mode using short bursts of two or three rounds, and at least five rounds must be fired semi-automatic when possible. The firing course must be conducted at ranges from seven to at least ten yards and include at least one timed reload." 
 },
 {
   id: "TCOLE_q53",
@@ -2825,19 +2825,20 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 	answer: "B",
 	explain: "Service by mail is permitted on Sunday."
 },
+
 {
 	id: "TCOLE_q199",
-	type: "multiple-choice",
-	points: 1,
 	prompt: "__________ means the person who, under court order, is the guardian of the child or the public or private agency with whom the child has been placed by a court.",
 	options: [
-	{ id: "A", text: "Party" },
-	{ id: "B", text: "Custodian" },
-	{ id: "C", text: "Lawyer" },
-	{ id: "D", text: "Guardian" }
-	],
-	answer: "B"
+		{ id: "A", text: "Party" },
+		{ id: "B", text: "Custodian" },
+		{ id: "C", text: "Guardian" },
+		{ id: "D", text: "Lawyer" }
+	  ],
+	answer: "C",
+	explain: "Family Code §51.02(4) defines Guardian as the person who, under court order, is the guardian of the child or the public or private agency with whom the child has been placed by a court. A Custodian is simply the adult with whom the child resides."
 },
+
 {
 	id: "TCOLE_q200",
 	type: "multiple-choice",
@@ -3912,15 +3913,16 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
   points: 1,
   prompt: "Which of the following is/are type(s) of dog aggression?",
   options: [
-    { id: "A", text: "Passive Aggression" },
+    { id: "A", text: "Possessive Aggression" },
     { id: "B", text: "Cowardly Aggression" },
     { id: "C", text: "Territorial Aggression" },
     { id: "D", text: "Back Yard Aggression" },
     { id: "E", text: "All of the Above" }
   ],
   answer: "E",
-  explain: "TCOLE Canine Encounters Training, Passive, cowardly, territorial, and backyard aggression are all recognized forms of canine aggression."
+  explain: " 39.10 List at least four types of dog aggression - dominant, fear, territorial, possissive are all recognized forms of canine aggression."
 	},
+	
 	{
 	  id: "TCOLE_q277",
 	  type: "multiple-choice",
@@ -3935,6 +3937,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 	  answer: "C",
 	  explain: "Texas Disaster and Mass Casualty Training, Reunification is the process of helping displaced disaster survivors reconnect with family and friends."
 	},
+	
 	{
 	  id: "TCOLE_q278",
 	  type: "multiple-choice",
@@ -3949,6 +3952,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 	  answer: "B",
 	  explain: "U.S. Constitution Article II, Establishes the Executive Branch and defines the powers and duties of the President and Vice President."
 	},
+	
 	{
 	  id: "TCOLE_q279",
 	  type: "multiple-choice",
@@ -6370,7 +6374,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Prejudice" },
     { id: "D", text: "Antipathy" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "TCOLE Cultural Diversity / Human Relations Curriculum"
 },
 
@@ -6384,7 +6388,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "The victim of Family Violence" },
     { id: "E", text: "Any of the above" }
   ],
-  answer: ["E"],
+  answer: "E",
   explain: "Texas Family Code §§ 82.002, 82.004, 82.010"
 },
 
@@ -6397,7 +6401,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Significant" },
     { id: "D", text: "Usable" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Texas Health and Safety Code § 481.121"
 },
 
@@ -6411,7 +6415,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Evading Arrest or Detention" },
     { id: "E", text: "None of the above" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Texas Penal Code § 38.03 Resisting Arrest, Search, or Transportation"
 },
 
@@ -6424,7 +6428,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "injury, confinement, intimidation" },
     { id: "D", text: "none of the above" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Texas Human Resources Code Chapter 48; TCOLE Crisis Intervention / Special Needs Population Curriculum"
 },
 
@@ -6438,7 +6442,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "a and b above, but not c" },
     { id: "E", text: "a, b, and c above" }
   ],
-  answer: ["E"],
+  answer: "E",
   explain: "TCOLE Family Violence / Victims of Trauma Curriculum"
 },
 
@@ -6449,7 +6453,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "A", text: "True" },
     { id: "B", text: "False" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "TCOLE History of Policing Curriculum"
 },
 
@@ -6462,7 +6466,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "with criminal negligence" },
     { id: "D", text: "recklessly" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Texas Penal Code § 6.03(a)"
 },
 
@@ -6475,7 +6479,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Reasonable or Necessary force" },
     { id: "D", text: "Unnecessary force" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "TCOLE Use of Force Curriculum; Texas Penal Code Chapter 9"
 },
 
@@ -6486,7 +6490,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "A", text: "True" },
     { id: "B", text: "False" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "TCOLE Animal Cruelty Investigations / Animal Encounters Curriculum"
 },
 
@@ -6499,7 +6503,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "police presence." },
     { id: "D", text: "professional presence." }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Officer Presence is the first level of the Use of Force Continuum. The officer's appearance, identification, and professional demeanor may be sufficient to gain voluntary compliance without the need for additional force. Reference: Force Options, Section 28.5"
 },
 
@@ -6512,7 +6516,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Prostitution" },
     { id: "D", text: "Compelling prostitution" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Texas Penal Code § 43.05 Compelling Prostitution - child younger than 18"
 },
 
@@ -6525,7 +6529,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "School crossing zone" },
     { id: "D", text: "Work zone" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Texas Transportation Code § 541.302(15) School Crossing Zone"
 },
 
@@ -6538,7 +6542,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "4" },
     { id: "D", text: "Any" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Texas Transportation Code § 543.001 Arrest Without Warrant"
 },
 
@@ -6551,7 +6555,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Class B misdemeanor" },
     { id: "D", text: "state jail felony" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Texas Penal Code § 32.51 c 1 Fraudulent Use or Possession of Identifying Information"
 },
 
@@ -6565,7 +6569,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "proximity of holidays or significant life events" },
     { id: "E", text: "media articles about a similar event" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "TCOLE Family Violence / Victim Response to Trauma Curriculum"
 },
 
@@ -6578,7 +6582,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Warm water" },
     { id: "D", text: "Ice water" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "TCOLE Basic First Aid Curriculum; Emergency Care Guidelines for Burns"
 },
 
@@ -6592,7 +6596,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Criminal Negligence" },
     { id: "E", text: "None of the above" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Texas Penal Code § 6.03(c) Reckless"
 },
 
@@ -6605,7 +6609,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Data" },
     { id: "D", text: "Testimony" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Texas Rules of Evidence Rule 401; TCOLE Criminal Investigation Curriculum"
 },
 
@@ -6618,7 +6622,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "3" },
     { id: "D", text: "6" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TCOLE Ethics Curriculum; Josephson Institute Six Pillars of Character"
 },
 
@@ -6631,7 +6635,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Act" },
     { id: "D", text: "Offense" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Texas Penal Code § 1.07(a)(11) Consent"
 },
 
@@ -6644,7 +6648,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "No apparent long term solution" },
     { id: "D", text: "When profanity is directed at the officer" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "TCOLE Use of Force Curriculum; Verbal Direction and De-escalation Principles"
 },
 
@@ -6657,7 +6661,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "write reports" },
     { id: "D", text: "service" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "TCOLE Patrol Curriculum; Sir Robert Peel's Principles of Law Enforcement"
 },
 
@@ -6670,7 +6674,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Financial problems of parents" },
     { id: "D", text: "Both A and B" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TCOLE Professional Police Conduct / Stress Management Curriculum"
 },
 
@@ -6683,7 +6687,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "person believed to have committed a breach of the peace." },
     { id: "D", text: "person believed to have committed a felony offense outside the view of the officer." }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Texas Code of Criminal Procedure Arts. 14.01, 14.03; misdemeanors generally must occur in the officer's presence unless a statutory exception applies."
 },
 
@@ -6694,7 +6698,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "A", text: "True" },
     { id: "B", text: "False" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Terry v. Ohio, 392 U.S. 1 (1968); CCP Art. 14.03. Reasonable suspicion permits a temporary detention and investigation."
 },
 
@@ -6707,7 +6711,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A massive loss of life and damage to property" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "TCOLE Hazardous Materials Awareness Curriculum; FEMA Hazardous Materials Incident Guidance"
 },
 
@@ -6719,7 +6723,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "B", text: "and values change constantly" },
     { id: "C", text: "but values are not easily defined or achieved" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "TCOLE Ethics Curriculum"
 },
 
@@ -6733,7 +6737,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Attitude" },
     { id: "E", text: "Ethnocentrism" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TCOLE Cultural Diversity / Human Relations Curriculum"
 },
 
@@ -6746,7 +6750,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "8th" },
     { id: "D", text: "14th" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "U.S. Constitution Amendment IV; Graham v. Connor, 490 U.S. 386 (1989)"
 },
 
@@ -6759,7 +6763,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "remains the same" },
     { id: "D", text: "none of the above" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "TCOLE Family Violence Curriculum"
 },
 
@@ -6773,7 +6777,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "The service of citation" },
     { id: "E", text: "The motion of plaintiff" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Texas Rules of Civil Procedure Rule 22"
 },
 
@@ -6786,7 +6790,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Criminal law" },
     { id: "D", text: "Health law" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Texas Penal Code § 1.02 Objectives of the Penal Code; TCOLE Criminal Law Curriculum"
 },
 
@@ -6797,7 +6801,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "A", text: "True" },
     { id: "B", text: "False" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Texas Family Code §§ 262.104, 262.110"
 },
 
@@ -6810,7 +6814,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Stop sign" },
     { id: "D", text: "Railroad sign or signal" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Texas Transportation Code § 541.304 Official Traffic-Control Device"
 },
 
@@ -6824,7 +6828,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Murder" },
     { id: "E", text: "No Offense" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Texas Penal Code §§ 9.05, 19.04. Justification is unavailable when force is recklessly used against an innocent third person; reckless killing constitutes Manslaughter."
 },
 
@@ -6837,7 +6841,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "2x" },
     { id: "D", text: "3x" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Texas Transportation Code § 542.404 Construction or Maintenance Work Zone"
 },
 
@@ -6850,7 +6854,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Not, Not be" },
     { id: "D", text: "Indeed, in fact" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Texas Transportation Code § 724.017(c)"
 },
 
@@ -6864,7 +6868,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "7" },
     { id: "E", text: "8" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Texas Penal Code § 42.02 Riot"
 },
 
@@ -6877,7 +6881,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "150" },
     { id: "D", text: "200" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Texas Transportation Code § 545.053(a)(2)"
 },
 
@@ -6891,7 +6895,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "implies that a weapon is in his pocket or jacket, but never exhibits the weapon" },
     { id: "E", text: "both c & d" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Texas Penal Code § 29.03 Aggravated Robbery"
 },
 
@@ -6904,7 +6908,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "roadway" },
     { id: "D", text: "throughway" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Texas Transportation Code § 541.302(5) Highway or Street"
 },
 
@@ -6917,7 +6921,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Objectivity" },
     { id: "D", text: "Profession" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "TCOLE Ethics Curriculum"
 },
 
@@ -6930,7 +6934,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "signs a warrant for" },
     { id: "D", text: "verbally orders" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Texas Code of Criminal Procedure Art. 14.02"
 },
 
@@ -6943,7 +6947,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "analyzing and reporting collected information" },
     { id: "D", text: "all of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Texas Code of Criminal Procedure Art. 2.134"
 },
 
@@ -6956,7 +6960,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "bus" },
     { id: "D", text: "ambulance" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Texas Transportation Code § 541.201(3) Bus"
 },
 
@@ -6969,7 +6973,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Electric unicycle" },
     { id: "D", text: "Farm tractor" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Texas Transportation Code § 541.201(9) Motorcycle"
 },
 
@@ -6982,7 +6986,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Only with permission of the fire department official in charge" },
     { id: "D", text: "Only with permission of the police officer directing traffic at such a fire emergency" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Texas Transportation Code § 545.408 Driving Over Fire Hose"
 },
 
@@ -6995,7 +6999,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Forgery" },
     { id: "D", text: "Fraud" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Texas Penal Code § 32.21 Forgery"
 },
 
@@ -7008,7 +7012,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Triangle killing" },
     { id: "D", text: "Anger killing" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "TCOLE Criminal Investigation Curriculum; Homicide Classifications"
 },
 
@@ -7021,7 +7025,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "On the verbal order of a magistrate" },
     { id: "D", text: "On probable cause to believe a violation of a protective order has occurred" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Texas Code of Criminal Procedure Arts. 14.01, 14.02, 14.03"
 },
 
@@ -7034,7 +7038,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Regular exercise and proper nutrition" },
     { id: "D", text: "Strength and cardiovascular endurance" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Chapter 3. The Wellness Pyramid is built on a foundation of self-responsibility and stress management."
 },
 
@@ -7047,7 +7051,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Deadly weapon" },
     { id: "D", text: "Flail" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Texas Penal Code § 1.07(a)(17) Deadly Weapon"
 },
 
@@ -7060,7 +7064,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "skill-related" },
     { id: "D", text: "mental-related" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "TCOLE Fitness and Wellness Curriculum"
 },
 
@@ -7074,7 +7078,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Serious bodily injury" },
     { id: "E", text: "None of the above" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Texas Penal Code §§ 22.01(a)(1), 22.01(b)"
 },
 
@@ -7088,7 +7092,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Tactical Pause" },
     { id: "E", text: "Tactical Disengagement" }
   ],
-  answer: ["E"],
+  answer: "E",
   explain: "TCOLE Crisis Intervention Training (CIT) and De-escalation Curriculum"
 },
 
@@ -7101,7 +7105,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Manslaughter" },
     { id: "D", text: "Criminally negligent homicide" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Texas Penal Code § 19.03(a)(2), § 19.03(a)(8) Capital Murder"
 },
 
@@ -7114,7 +7118,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Speed" },
     { id: "D", text: "Improper turning movement" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "TCOLE identifies the following factors that may contribute to a vehicular crash: Speed, Fail to yield right-of-way, Improper turning movement, Faulty equipment, and Weather conditions. 'Ample equipment' is not a listed contributing factor."
 },
 
@@ -7127,7 +7131,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Dissuade" },
     { id: "D", text: "Reinforce" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TCOLE Family Violence Curriculum"
 },
 
@@ -7140,7 +7144,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "make a lawful arrest without warrant" },
     { id: "D", text: "take no action" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Texas Code of Criminal Procedure Chapter 14; Warrantless Arrest Authority"
 },
 
@@ -7153,7 +7157,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "prove they could be in danger if they testify" },
     { id: "D", text: "know the defendant" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "U.S. Constitution Amendment VI; TCOLE Constitutional Law Curriculum"
 },
 
@@ -7166,7 +7170,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "continue to knock until you get a response" },
     { id: "D", text: "attempt to enter the house" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TCOLE Family Violence Curriculum; Exigent Circumstances and Victim Protection"
 },
 
@@ -7179,7 +7183,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "bail" },
     { id: "D", text: "bond" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Texas Code of Criminal Procedure Art. 17.01 Bail Defined"
 },
 
@@ -7192,7 +7196,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Rain" },
     { id: "D", text: "Ice" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "TCOLE Hazardous Materials Awareness Curriculum"
 },
 
@@ -7206,7 +7210,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "No offense, the motel will send him a bill by mail" },
     { id: "E", text: "Disorderly Conduct" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Texas Penal Code § 31.04 Theft of Service"
 },
 
@@ -7219,7 +7223,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "full credit check" },
     { id: "D", text: "police report" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TCOLE Identity Theft Investigations Curriculum"
 },
 
@@ -7232,7 +7236,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Outlawry and Transportation" },
     { id: "D", text: "Trial by Jury" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Texas Code of Criminal Procedure Art. 2.09, Art. 2.10 Duties of Magistrates"
 },
 
@@ -7245,7 +7249,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Monitored substance" },
     { id: "D", text: "Monitored materials" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Texas Health and Safety Code § 481.002(7) Counterfeit Substance"
 },
 
@@ -7258,7 +7262,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The person uses or exhibits a deadly weapon in the course of the same criminal episode" },
     { id: "D", text: "All the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Texas Penal Code § 22.021 Aggravated Sexual Assault"
 },
 
@@ -7271,7 +7275,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Is capable of being scored" },
     { id: "D", text: "Is obtuse" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "TCOLE Firearms Proficiency Certification Course Standards"
 },
 
@@ -7285,7 +7289,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Clergy" },
     { id: "E", text: "Each of the above may be a source" }
   ],
-  answer: ["E"],
+  answer: "E",
   explain: "TCOLE Family Violence / Victims of Trauma Curriculum"
 },
 
@@ -7298,7 +7302,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Murder" },
     { id: "D", text: "Capital Felony" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Texas Code of Criminal Procedure Art. 1.14; capital cases have specific non-waivable protections."
 },
 
@@ -7311,7 +7315,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "security freeze" },
     { id: "D", text: "validation lock" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Texas Business & Commerce Code § 20.031 Security Freeze"
 },
 
@@ -7324,7 +7328,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "500" },
     { id: "D", text: "1500" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Texas Code of Criminal Procedure Art. 4.07 County Court Jurisdiction"
 },
 
@@ -7337,7 +7341,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "granting an appeal" },
     { id: "D", text: "no longer issued in Texas" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Texas Code of Criminal Procedure Art. 16.20 Commitment"
 },
 
@@ -7350,7 +7354,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Automobile patrol" },
     { id: "D", text: "Bicycle patrol" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "TCOLE Patrol Functions Curriculum"
 },
 
@@ -7363,7 +7367,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A portable emergency reflector 100 feet in the opposite direction from the disabled vehicle" },
     { id: "D", text: "A red reflector placed on the traffic side of the disabled vehicle not less than 10 feet in the rear and in the direction of traffic" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Texas Transportation Code §§ 547.501-547.504; flares are not required and are generally prohibited around vehicles transporting flammable liquids."
 },
 
@@ -7376,7 +7380,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "criminological" },
     { id: "D", text: "educated" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "TCOLE Patrol Functions Curriculum; Sir Robert Peel's Principles of Policing"
 },
 
@@ -7389,7 +7393,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Texas Rangers" },
     { id: "D", text: "The watch and ward system" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "TCOLE History of Policing Curriculum"
 },
 
@@ -7402,7 +7406,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Evidence" },
     { id: "D", text: "Tools" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "TCOLE BPOC Chapter 32, Criminal Investigation, §32.2(B)(i) definition"
 },
 
@@ -7416,7 +7420,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Athletic exercise such as basketball or handball" },
     { id: "E", text: "Warm-up exercise that stretches muscles prior to jogging" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "TCOLE Fitness and Wellness Curriculum"
 },
 
@@ -7429,7 +7433,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Juvenile court referral" },
     { id: "D", text: "Referral to juvenile court" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Texas Family Code § 51.02(12) Referral to Juvenile Court"
 },
 
@@ -7443,7 +7447,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "De-escalation (1849)" },
     { id: "E", text: "All of the above" }
   ],
-  answer: ["E"],
+  answer: "E",
   explain: "TCOLE Continuing Education Requirements; Texas Occupations Code Chapter 1701"
 },
 
@@ -7456,7 +7460,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Aggravated Robbery" },
     { id: "D", text: "Robbery" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Texas Penal Code § 29.02(a)(2) Robbery"
 },
 
@@ -7469,7 +7473,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "blade 5 1/2 inches or over" },
     { id: "D", text: "blade over 5 1/2 inches" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Texas Penal Code § 46.01(6) Location-Restricted Knife"
 },
 
@@ -7482,7 +7486,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Direction" },
     { id: "D", text: "Attitude" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "TCOLE Use of Force and De-escalation Curriculum"
 },
 
@@ -7495,7 +7499,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "mandatory community service." },
     { id: "D", text: "appropriate negotiations between the district attorney and the defendants." }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "TCOLE Civil Law Curriculum"
 },
 
@@ -7508,7 +7512,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "giving written notice of a victim's legal rights" },
     { id: "D", text: "giving written notice of an offender's legal rights" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Texas Code of Criminal Procedure Art. 5.04 Family Violence Information and Notice to Adult Victims"
 },
 
@@ -7521,7 +7525,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "History of abuse" },
     { id: "D", text: "Male supremacy" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "TCOLE Family Violence Curriculum"
 },
 
@@ -7534,7 +7538,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Production" },
     { id: "D", text: "Making" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Texas Health and Safety Code § 481.002(38) Production"
 },
 
@@ -7547,7 +7551,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "problematic" },
     { id: "D", text: "criminal" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Texas Penal Code §§ 36.08, 36.09 Gift to Public Servant; TCOLE Ethics Curriculum"
 },
 
@@ -7560,7 +7564,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Emergency vehicle speed" },
     { id: "D", text: "All of the above are limitations" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TCOLE Patrol Functions Curriculum; Emergency Vehicle Operations"
 },
 
@@ -7573,8 +7577,8 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Standing" },
     { id: "D", text: "Parking" }
   ],
-  answer: ["C"],
-  explain: "Texas Transportation Code § 541.401(9) Standing"
+  answer: "C",
+  explain: "Texas Transportation Code § 541.401(9) “Stand” or “standing” means to halt an occupied or unoccupied vehicle, other than temporarily while receiving or discharging passengers."
 },
 
 {
@@ -7586,21 +7590,21 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Lock the doors; call your supervisor" },
     { id: "D", text: "Sketch the crime scene; call photo lab" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "TCOLE Criminal Investigation Curriculum; Crime Scene Protection Procedures"
 },
 
 {
   id: "TCOLE_q543",
-  prompt: "According to the Alcoholic Beverage Code, a mixed beverage permittee may normally sell and offer for sale mixed beverages between the hours of __________ on any day except Sunday.",
+  prompt: "According to the Texas Alcoholic Beverage Code, a mixed beverage permittee may normally sell and offer for sale mixed beverages between the hours of __________ on any day except Sunday.",
   options: [
     { id: "A", text: "7 a.m. and midnight" },
     { id: "B", text: "1 a.m. and midnight" },
     { id: "C", text: "10 a.m. and noon" },
     { id: "D", text: "Noon and midnight" }
   ],
-  answer: ["A"],
-  explain: "Texas Alcoholic Beverage Code § 105.03 Hours of Sale: Mixed Beverages"
+  answer: "A",
+  explain: "Alcoholic Beverage Code §105.03(b) states that a mixed beverage permittee may sell and offer for sale mixed beverages between 7:00 a.m. and midnight on any day except Sunday. On Sunday, mixed beverages may be sold between midnight and 1:00 a.m. and between 10:00 a.m. and midnight, provided alcoholic beverages served between 10:00 a.m. and noon are served with food. Because the question asks for the normal hours of sale on any day except Sunday, the correct answer is 7:00 a.m. and midnight."
 },
 
 {
@@ -7612,7 +7616,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "a misdemeanor" },
     { id: "D", text: "criminal mischief at night" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Texas Code of Criminal Procedure Art. 14.03(d)"
 },
 
@@ -8311,7 +8315,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Everyone takes turns" },
     { id: "D", text: "Everyone talk at the same time" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "De-Escalation Strategies, Section 27.16"
 },
 
@@ -8324,7 +8328,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "2 to 4" },
     { id: "D", text: "4 to 6" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "SFST Manual"
 },
 
@@ -8337,7 +8341,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Cadaveric spasm" },
     { id: "D", text: "Post mortem lividity" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Criminal Investigations, Section 32.21"
 },
 
@@ -8350,7 +8354,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Emission and penetration" },
     { id: "D", text: "Force and age of victim" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC Section 8.13; PC 22.011(a)(1)(C)"
 },
 
@@ -8363,7 +8367,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "48 hours" },
     { id: "D", text: "8 hours" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Asset Forfeiture Section 11.7; CCP 59.03(c)"
 },
 
@@ -8376,7 +8380,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "As long as it takes to locate the owner" },
     { id: "D", text: "30 days" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Asset Forfeiture Sections 11.7 & 11.8; CCP Art. 59.04(c)"
 },
 
@@ -8389,7 +8393,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Only new drivers taking driver education courses" },
     { id: "D", text: "All drivers should receive instruction on how to safely interact with law enforcement if there is a firearm inside the passenger compartment of their vehicle." }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Civilian Interaction Training Program, Section 37.1 & 37.5"
 },
 
@@ -8402,7 +8406,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Terminate the confinement when he feels ready" },
     { id: "D", text: "Terminate the confinement as soon as he safely can" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Force Options, Section 28.2, page 2 of 24; PC 9.03"
 },
 
@@ -8415,7 +8419,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Blind" },
     { id: "D", text: "Hard of hearing" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Interacting with Deaf or Hard of Hearing, Section 38.1, page 4 of 10"
 },
 
@@ -8428,7 +8432,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "15 minutes" },
     { id: "D", text: "20 minutes" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 22.10(a); PC 22.10"
 },
 
@@ -8441,7 +8445,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Reasonable cause" },
     { id: "D", text: "Probable suspicion" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CCP Art. 14.03(b); Arrest, Search, and Seizure, Section 10.4"
 },
 
@@ -8454,7 +8458,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Thing" },
     { id: "D", text: "Element" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 20.01 #4; PC Section 8.10"
 },
 
@@ -8467,7 +8471,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Shall" },
     { id: "D", text: "Should" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP Art. 18.06(b); Arrest, Search, and Seizure, Section 10.9"
 },
 {
@@ -8479,7 +8483,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Both the officer and the commissioning authority" },
     { id: "D", text: "Neither the officer nor the commissioning authority because the action was handled in criminal court and no civil case is possible" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Civil Process and Liability Section 14.1"
 },
 
@@ -8492,7 +8496,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Must be informed of his or her constitutional rights" },
     { id: "D", text: "Should be reported to the county or district attorney" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 38.05(a)(1), (2), and (3); PC Section 8.25"
 },
 
@@ -8505,7 +8509,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Decreases" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Professional Police Driving, Section 34.6"
 },
 
@@ -8518,7 +8522,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Through highway" },
     { id: "D", text: "Controlled access highway" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "TC Section 22.3; TC 541.302 #5"
 },
 
@@ -8531,7 +8535,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Removing material from highway" },
     { id: "D", text: "Transferring a motor vehicle" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "TC Section 22.29; TC Section 600.001(b)"
 },
 
@@ -8544,7 +8548,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Ancient" },
     { id: "D", text: "Historical" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Professional Policing, Section 2.1"
 },
 
@@ -8557,7 +8561,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Misdemeanor or felony offense" },
     { id: "D", text: "Felony offense only" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Arrest, Search, and Seizure, Section 10.4; CCP Art. 15.17(b)"
 },
 
@@ -8570,7 +8574,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The permittee sells an alcoholic beverage to someone who is intoxicated" },
     { id: "D", text: "The permittee allowed a person to open a container of alcoholic beverage on an off-premises licensed establishment" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Alcoholic Beverage Code Chapter 11 (Permits), §11.61 Suspension or Cancellation of Original or Renewal Permit, §11.64 Grounds for Suspension or Cancellation"
 },
 
@@ -8583,7 +8587,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Emergency" },
     { id: "D", text: "Disorder" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Verbal Communications, Section 25.4"
 },
 
@@ -8596,7 +8600,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Liable in civil damages" },
     { id: "D", text: "Obligated to act" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Civil Practice and Remedies Code 74.151(a); Civil Process"
 },
 
@@ -8609,7 +8613,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Ethnocentrism" },
     { id: "D", text: "Discrimination" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Multiculturalism, Section 5.1"
 },
 
@@ -8622,7 +8626,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Lack of interpreters" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Human Trafficking, Section 21.29"
 },
 
@@ -8635,7 +8639,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Removing the key from the ignition" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Traffic Code 545.404(a)(1, 2, and 3); TC Section 22.15"
 },
 
@@ -8648,7 +8652,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Aggravated robbery" },
     { id: "D", text: "Deadly assault" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC Section 8.16; Robbery 29.02(a)(1)"
 },
 
@@ -8661,7 +8665,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Cultural differences" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Victims of Crime, Section 20.1, page 5 of 13"
 },
 
@@ -8674,7 +8678,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "20" },
     { id: "D", text: "21" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "TC Section 22.2; TC Sec. 541.001 #5"
 },
 {
@@ -8686,7 +8690,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Oral ingestion" },
     { id: "D", text: "Injection" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "HAZMAT Section 42.7; Quizlet questions by firearcher"
 },
 
@@ -8699,7 +8703,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Corridor" },
     { id: "D", text: "Room" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Criminal Investigation, Section 32.30, page 22 of 52"
 },
 
@@ -8712,7 +8716,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Affect the weight the jury gives the testimony" },
     { id: "D", text: "Reduce the chance of the defense attacking the testimony" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Criminal Investigations, Section 32.51"
 },
 
@@ -8725,7 +8729,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Protection" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Family Code and Juvenile Issues, Section 33.25"
 },
 
@@ -8738,7 +8742,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Knife" },
     { id: "D", text: "Rifle" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 46.02(a)(1)"
 },
 
@@ -8750,7 +8754,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "B", text: "Benefit" },
     { id: "C", text: "Interest" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 1.07 #7; PC Section 8.2"
 },
 
@@ -8763,7 +8767,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Exempted" },
     { id: "D", text: "Presented" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 2.01; PC Section 8.3"
 },
 
@@ -8776,7 +8780,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Disorderly conduct" },
     { id: "D", text: "No offense" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 42.01(a)(10); PC Section 8.27"
 },
 
@@ -8789,7 +8793,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The taking of an object from outside the vehicle" },
     { id: "D", text: "Any part of the body or anything attached to the body reaches inside the vehicle" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 30.04(a)(b)(1 and 2); PC Section 8.17"
 },
 
@@ -8802,7 +8806,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Requiring commitment" },
     { id: "D", text: "To bring a person before a magistrate and show just cause for detention" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CCP Art. 11.01; US & TX Constitution 7.1"
 },
 {
@@ -8814,7 +8818,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Dedication to protecting rights of all people" },
     { id: "D", text: "A, B, and C" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Professionalism & Ethics, Section 1.3 â€“ Code of Ethics"
 },
 
@@ -8827,7 +8831,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Arresting persons engaged" },
     { id: "D", text: "Both A & C" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CCP Section 9.6; CCP Art. 8.04"
 },
 
@@ -8840,7 +8844,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "District clerk" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CCP Section 9.2; Art. 2.12"
 },
 
@@ -8853,7 +8857,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "11th Amendment" },
     { id: "D", text: "14th Amendment" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "US & TX Constitution, 7.1"
 },
 
@@ -8866,7 +8870,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "To avoid a collision" },
     { id: "D", text: "All of the above are true" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TC 545.058(a)(1, 2, and 7); TC Section 22.9"
 },
 
@@ -8879,7 +8883,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Forgery" },
     { id: "D", text: "Issuance of bad check" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC Section 8.19; PC 32.21(b)(d)(e)"
 },
 
@@ -8892,7 +8896,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Identification of driver and check of conditions of violator and vehicle" },
     { id: "D", text: "Statement of action to be taken" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Patrol Skills, Section 35.15, page 11 of 38"
 },
 
@@ -8905,7 +8909,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A corrections or detention officer or county or municipal jailer employed or appointed by a municipal, county, or state penal institution in this state" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TX Admin. Code 229.1(a)(1, 2, and 3); TCOLE Rules Overview Section 4.10"
 },
 
@@ -8918,7 +8922,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Determined the driver's race or ethnicity" },
     { id: "D", text: "Determined the stop will meet their quota requirements" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Racial Profiling, Section 6.2"
 },
 
@@ -8931,7 +8935,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Rights" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Force Options, Section 28.6, page 7 of 24"
 },
 {
@@ -8943,7 +8947,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Crime victim liaison" },
     { id: "D", text: "District attorney" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Arrest, Search and Seizure, Section 10.12; Victims of Crime Sections 20.7 & 20.10; CCP Art. 56A.204 a"
 },
 
@@ -8956,7 +8960,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "High risk" },
     { id: "D", text: "Mid risk" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Patrol Skills, Section 35.13, page 10 of 38"
 },
 
@@ -8969,7 +8973,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Unlawful carrying of handgun by licensed holder" },
     { id: "D", text: "No offense" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 46.035(b)(1); PC Section 8.30"
 },
 
@@ -8982,7 +8986,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Immediate and swiftly running away from the dog" },
     { id: "D", text: "Speaking calmly to the dog, simultaneously scanning the surroundings for escape routes in case of an escalated event" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Canine Encounters, Section 39.15, page 30 of 41"
 },
 
@@ -8995,7 +8999,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Subsides" },
     { id: "D", text: "Increases" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Family Violence & RAO, Section 17.3, page 5 of 14"
 },
 
@@ -9008,7 +9012,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Three" },
     { id: "D", text: "Four" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC Section 43.04(a); Missing and Exploited Children Section 18.11"
 },
 
@@ -9021,7 +9025,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "36" },
     { id: "D", text: "48" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CCP Art. 2.27(a); CCP Section 9.3"
 },
 
@@ -9034,7 +9038,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Monetary liability" },
     { id: "D", text: "Criminal lawsuit" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Force Options, Section 28.18, page 22 of 24"
 },
 
@@ -9047,7 +9051,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Peers" },
     { id: "D", text: "Community" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Family Code and Juvenile Issues, Section 33.24"
 },
 
@@ -9060,7 +9064,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Sexual assault" },
     { id: "D", text: "Indecent exposure" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 22.011(a)(2); PC Section 8.13"
 },
 {
@@ -9072,7 +9076,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Arrest supplements" },
     { id: "D", text: "US DOJ Supplements" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Written Communications, Section 24.11"
 },
 
@@ -9085,7 +9089,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Unlawfully carrying a weapon" },
     { id: "D", text: "Arson" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 28.02(a-1); PC Section 8.15"
 },
 
@@ -9098,7 +9102,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Ninth and Tenth" },
     { id: "D", text: "Fifth and Fourteenth" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "US & TX Constitution, 7.1"
 },
 
@@ -9111,7 +9115,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Negate" },
     { id: "D", text: "Refuse" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 2.02(b); PC Section 8.2"
 },
 
@@ -9124,7 +9128,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Use a side approach (on foot)" },
     { id: "D", text: "Observe the subject's eyes" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Arrest and Control, Section 31.11"
 },
 
@@ -9137,7 +9141,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "An officer who serves the public with courtesy, service, and protection" },
     { id: "D", text: "Divinity, law, and medicine" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Professionalism & Ethics, Section 1.2"
 },
 
@@ -9150,7 +9154,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Tennessee v. Garner" },
     { id: "D", text: "Gates v. Illinois" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Patrol Skills, Section 35.18; Force Options, Section 28.3"
 },
 
@@ -9163,7 +9167,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Building character, making individuals self-reliant, and building friendships" },
     { id: "D", text: "Reinforce appreciation of uniqueness, encouraging respect, and understanding of diversity" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Multiculturalism, Section 5.4"
 },
 
@@ -9176,7 +9180,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Not an official traffic control device and not enforceable" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Per Sgt. Jackson; TC 544.010, Section 22.8"
 },
 
@@ -9189,7 +9193,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Article II, Section 8" },
     { id: "D", text: "Article II, Section 22" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "US & TX Constitution, Section 7.1"
 },
 {
@@ -9201,7 +9205,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Harm" },
     { id: "D", text: "Activism" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Civil Process and Liability, Section 14.2"
 },
 
@@ -9214,7 +9218,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "When a pedestrian involved in a crash was mentally unstable" },
     { id: "D", text: "When a pedestrian involved in a crash was intoxicated" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CR-100 Instructions to Police for Reporting Crashes"
 },
 
@@ -9227,7 +9231,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Identify options and determine best course of action" },
     { id: "D", text: "Assess situation, threats, and risks" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "De-escalation Strategies, Sections 27.2 and 27.15"
 },
 
@@ -9240,7 +9244,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The side" },
     { id: "D", text: "The sitting position" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Arrest and Control Procedures, Section 31.14"
 },
 
@@ -9253,7 +9257,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Peace officers should fire their handguns with intent to kill the suspect in order to prevent escape" },
     { id: "D", text: "Peace officers should fire a warning shot in the air to alert the offender that further attempts to escape may result in officers using handguns to stop the fleeing offender" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 9.51(a); Force Options Section 28.2"
 },
 
@@ -9266,7 +9270,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The Sheriff" },
     { id: "D", text: "The County Judge" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP Art. 2.17; CCP Section 9.3"
 },
 
@@ -9279,7 +9283,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Making future plans" },
     { id: "D", text: "Making conversation" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "De-escalation Strategies, Section 27.19"
 },
 
@@ -9292,7 +9296,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Stabilizing or destabilizing" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CIT Section 29.53"
 },
 
@@ -9305,7 +9309,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "200" },
     { id: "D", text: "500" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "TC 545.056(a)(1); TC Section 22.9"
 },
 
@@ -9318,7 +9322,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "6" },
     { id: "D", text: "7" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 42.02(a); Patrol Skills, Section 35.29"
 },
 {
@@ -9330,7 +9334,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Forgery" },
     { id: "D", text: "Possession of a controlled substance" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 32.21(a)(2) & (b); PC Section 8.19"
 },
 
@@ -9343,7 +9347,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Coercion of public servant" },
     { id: "D", text: "Retaliation" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 36.06(a)(1)(A) & (B); Professionalism & Ethics Section 1.6; Family Violence & RAO Section 17.6"
 },
 
@@ -9356,7 +9360,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Weaponless strategies" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Force Options, Section 28.8"
 },
 
@@ -9369,7 +9373,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "400, 100" },
     { id: "D", text: "500, 300" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "TC 547.324(e)(1) & (2); TC Section 22.17"
 },
 
@@ -9382,7 +9386,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Within 72 hours" },
     { id: "D", text: "At the officer's convenience" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CCP 15.16(a); Arrest, Search and Seizure Section 10.7"
 },
 
@@ -9395,7 +9399,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Sexual assault" },
     { id: "D", text: "Aggravated sexual assault" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 22.011(a)(1) & (b)(3); Family Violence & RAO Section 17.6"
 },
 
@@ -9408,7 +9412,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "\"LNU FNU\"" },
     { id: "D", text: "None; it is left blank" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CCP 15.05(1); Arrest, Search, and Seizure Section 10.11"
 },
 
@@ -9421,7 +9425,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Particular description of the place to be searched and things to be seized" },
     { id: "D", text: "Right to a speedy and public trial" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "US & TX Constitution Section 7.1. The Fourth Amendment protects against unreasonable searches and seizures and requires warrants to be supported by probable cause and particularity. The right to a speedy and public trial is a Sixth Amendment right."
 },
 
@@ -9434,7 +9438,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Prosecution of offenses" },
     { id: "D", text: "Punishment of offenses" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CCP Art. 1.03(1), (3) & (6); CCP Section 9.1"
 },
 {
@@ -9446,7 +9450,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Neighborhood decay" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Professional Policing, Section 2.6"
 },
 
@@ -9459,7 +9463,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "90" },
     { id: "D", text: "120" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "TC 521.029(a)(2), (b); TC Section 22.7"
 },
 
@@ -9472,7 +9476,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Comfort" },
     { id: "D", text: "Resistance" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Force Options, Section 28.10, page 11 of 24"
 },
 
@@ -9485,7 +9489,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Reckless conduct" },
     { id: "D", text: "Delinquent behavior" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 28.03(a)(1); PC Section 8.15"
 },
 
@@ -9498,7 +9502,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Two months" },
     { id: "D", text: "Two years" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CIT, Section 29.19, page 16 of 49"
 },
 
@@ -9511,7 +9515,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Read or speak" },
     { id: "D", text: "Write or speak" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Interacting with Deaf or Hard of Hearing, Section 38.3"
 },
 
@@ -9524,21 +9528,21 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "HDL (high density lipoproteins)" },
     { id: "D", text: "Smoking cigarettes" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Fitness, Section 3.7, page 11 of 49"
 },
 
 {
   id: "TCOLE_q688",
-  prompt: "_____ means to restrict a person's movements without consent, so as to interfere substantially with the person's liberty.",
+  prompt: "__________ means to restrain a person with the intent to prevent their liberation by secreting or holding them in a place where they are not likely to be found, or by using or threatening deadly force.",
   options: [
     { id: "A", text: "Abduct" },
     { id: "B", text: "Restrain" },
     { id: "C", text: "Coerce" },
     { id: "D", text: "Kidnap" }
   ],
-  answer: ["B"],
-  explain: "PC 20.01 #1; PC Section 8.10"
+  answer: "A",
+  explain: "Texas Penal Code definition of abduct under §20.01."
 },
 
 {
@@ -9550,7 +9554,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Family members" },
     { id: "D", text: "Friends" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Criminal Investigations, Section 32.16, page 12 of 52"
 },
 
@@ -9563,7 +9567,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Reckless conduct" },
     { id: "D", text: "Aggravated assault with a motor vehicle" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 49.07(a)(1); PC Section 8.33"
 },
 
@@ -9576,7 +9580,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Red or amber or a color between white and amber" },
     { id: "D", text: "Amber, white, or a color between red and amber" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "TC 547.323(d); TC Section 22.17 page 11"
 },
 
@@ -9589,7 +9593,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Class B misdemeanor" },
     { id: "D", text: "Class C misdemeanor" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "TC 472.022(a)(d)(2); TC Section 22.28"
 },
 
@@ -9602,7 +9606,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Rigid" },
     { id: "D", text: "Apathetic" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Verbal Communication, Section 25.2"
 },
 
@@ -9615,7 +9619,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "10 years to life and a fine not to exceed $10,000" },
     { id: "D", text: "10 years to life and a fine not to exceed $20,000" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 12.32(a) & (b); PC Section 8.6"
 },
 
@@ -9628,7 +9632,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Close relative of a deceased victim" },
     { id: "D", text: "Initial peace officer investigating the alleged criminal offense committed" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP 56A.051(a)(2), (4)(A); Arrest, Search, and Seizure Section 10.12"
 },
 
@@ -9641,7 +9645,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Is delivered to the patrol supervisor" },
     { id: "D", text: "Is processed, then the prints and negatives are delivered to the magistrate" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CCP 18.021(d); Arrest, Search, and Seizure Section 10.9"
 },
 
@@ -9654,7 +9658,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "4" },
     { id: "D", text: "3" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Human Trafficking Section 21.7, pages 16-18"
 },
 
@@ -9667,7 +9671,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Disorderly conduct" },
     { id: "D", text: "Criminal mischief" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 28.03(a)(4)(C)(i); PC Section 8.15"
 },
 
@@ -9680,7 +9684,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The legal representation of the person to whom the search warrant was delivered" },
     { id: "D", text: "The estimated cost of damages incurred during the execution of the search warrant" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CCP 18.10(a); Arrest, Search, and Seizure Section 10.9"
 },
 
@@ -9693,7 +9697,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Check credit histories and bank records frequently and look for signs of inaccurate or suspicious activity" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Identity Crimes, Section 12.15"
 },
 {
@@ -9705,7 +9709,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Public lewdness" },
     { id: "D", text: "Disorderly conduct" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 21.12(a)(1); Missing and Exploited Children pages 61 & 87; PC Section 8.12"
 },
 
@@ -9718,7 +9722,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Friendly and helpful" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CIT Section 29.47, page 39 of 49"
 },
 
@@ -9731,7 +9735,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "15" },
     { id: "D", text: "17" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 21.11(a)(1); Missing and Exploited Children pages 61, 90, & 116; PC Section 8.12"
 },
 
@@ -9744,7 +9748,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Cadaveric spasm" },
     { id: "D", text: "Post mortem lividity" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Criminal Investigation Section 32.21"
 },
 
@@ -9757,7 +9761,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Ensuring a fair trial" },
     { id: "D", text: "Providing reading material, food, or medicine" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Patrol Skills, Section 35.41"
 },
 
@@ -9770,7 +9774,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Unlawful restraint" },
     { id: "D", text: "Assault" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 20.04(a)(4); PC Section 8.10; Family Violence & RAO Section 17.6; Missing and Exploited Children pages 10, 90, & 114"
 },
 
@@ -9783,7 +9787,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "To protect against the other's use or attempted use of unlawful force" },
     { id: "D", text: "When the actor provokes the other's use of unlawful force" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 9.31(a); Force Options, Section 28.3, page 4 of 24"
 },
 
@@ -9796,7 +9800,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "U.S. v. Mendenhall" },
     { id: "D", text: "Brinegar v. United States" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Arrest, Search, and Seizure Section 10.2"
 },
 
@@ -9809,7 +9813,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Sexual intercourse" },
     { id: "D", text: "Sexual harassment" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 43.01 #4; PC Section 8.28"
 },
 
@@ -9822,7 +9826,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Unconcern" },
     { id: "D", text: "Vacate" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 22.041(a); PC Section 8.13"
 },
 {
@@ -9834,7 +9838,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Intoxication manslaughter" },
     { id: "D", text: "Assembling or operating an amusement ride while intoxicated" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 49.08(a)(1) & (2); PC Section 8.33"
 },
 
@@ -9847,7 +9851,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Tennessee v. Garner" },
     { id: "D", text: "Canton v. Harris" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Patrol Skills Section 35.18"
 },
 
@@ -9860,7 +9864,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Reconstruction of Equilibrium" },
     { id: "D", text: "Acceptance of Criminal Responsibility" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Victims of Crime, Section 20.1. The psychological response stages of a crisis reaction are: Shock, Disbelief, and Denial; Cataclysm of Emotions; and Reconstruction of Equilibrium."
 },
 
@@ -9873,7 +9877,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A possible threat of serious bodily injury exists" },
     { id: "D", text: "An immediate threat of death or serious bodily injury exists" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 9.51(c)(2); Force Options Section 28.2"
 },
 
@@ -9886,7 +9890,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Manslaughter" },
     { id: "D", text: "Criminally negligent homicide" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 19.02(b)(2); Family Violence & RAO Section 17.6; PC Section 8.9"
 },
 
@@ -9899,7 +9903,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Tourniquet" },
     { id: "D", text: "Wound packing" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Emergency Medical Assistance Section 40.3"
 },
 
@@ -9912,7 +9916,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Strips of cloth" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Arrest and Control Procedures Section 31.12"
 },
 
@@ -9925,7 +9929,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Push the ratchet into the double cheek plates of the cuff" },
     { id: "D", text: "Double-lock the handcuffs" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Arrest and Control Section 31.12"
 },
 
@@ -9938,7 +9942,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Will" },
     { id: "D", text: "Should" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CCP 2.18; CCP Section 9.3"
 },
 
@@ -9951,7 +9955,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Weapon" },
     { id: "D", text: "Dangerous weapon" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 1.07 #17(A) & (B); PC Section 8.2"
 },
 
@@ -9964,7 +9968,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Reckless conduct" },
     { id: "D", text: "No offense" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 28.02(a)(2)(D); PC Section 8.15"
 },
 
@@ -9977,7 +9981,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Incorporated the separation of powers" },
     { id: "D", text: "Was ratified in 1788" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "U.S. Constitution - Bill of Rights"
 },
 
@@ -9990,7 +9994,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Notify the dispatcher you have arrived" },
     { id: "D", text: "All of the above are correct" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Family Violence & RAO, Section 17.15"
 },
 
@@ -10003,7 +10007,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "24 hours" },
     { id: "D", text: "48 hours" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CCP 15.17(a); Arrest, Search, and Seizure Section 10.4"
 },
 
@@ -10016,7 +10020,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Arrests" },
     { id: "D", text: "Conversation" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Arrest, Search, and Seizure Section 10.2"
 },
 
@@ -10029,7 +10033,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "End point nystagmus" },
     { id: "D", text: "Distinct and sustained nystagmus at maximum deviation" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "SFST Manual"
 },
 
@@ -10042,7 +10046,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Loco parentis" },
     { id: "D", text: "Out of state pursuit" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CCP 14.051(a); Arrest, Search, and Seizure Section 10.4"
 },
 
@@ -10055,7 +10059,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Place them in recovery position" },
     { id: "D", text: "Sit them up to assist with breathing" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Emergency Medical Assistance Section 40.7: An unresponsive person who is breathing should be placed in the recovery position to help maintain an open airway and reduce the risk of choking on vomit, blood, or other fluids. Rescue breathing is not needed when normal breathing is present."
 },
 
@@ -10068,7 +10072,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A law enforcement-initiated action based solely on criminal activity" },
     { id: "D", text: "Law enforcement contacting an individual based on the area being a high drug area" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Racial Profiling Section 6.1"
 },
 {
@@ -10080,7 +10084,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Require a representative of the Department of Family and Protective Services to respond to the encounter" },
     { id: "D", text: "Request information from the child and the other person regarding the person's safety, well-being, and current residence" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Child Alert Checklist, Section 19.4"
 },
 
@@ -10093,7 +10097,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Unlawful carrying of handgun by license holder" },
     { id: "D", text: "Prohibited weapon" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 46.02(a-1)(1); PC Section 8.30"
 },
 
@@ -10106,7 +10110,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Instruction and walking" },
     { id: "D", text: "Instruction and counting" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "23. Intoxicated Driver, SFST Manual"
 },
 
@@ -10119,7 +10123,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Make lawful arrests of violators" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CCP 5.04(a); CCP Section 9.4"
 },
 
@@ -10132,7 +10136,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Empathy" },
     { id: "D", text: "Safety" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Verbal Communications, Section 25.5"
 },
 
@@ -10145,7 +10149,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Are prosecuted only in felony cases" },
     { id: "D", text: "May be charged and convicted for the same offense as the principal offender" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Law of Parties; PC Section 7"
 },
 
@@ -10158,7 +10162,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Vienna Convention on Consular Relations (VCCR)" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Patrol Skills, Section 35.40"
 },
 
@@ -10171,7 +10175,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "20 mph" },
     { id: "D", text: "25 mph" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "TC 545.361(b); TC Section 22.14"
 },
 
@@ -10184,7 +10188,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Yellow" },
     { id: "D", text: "Black" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Patrol Skills, Section 35.3"
 },
 
@@ -10197,7 +10201,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Resisting arrest" },
     { id: "D", text: "Aggravated robbery" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 20.04(a)(2); PC Section 8.10"
 },
 
@@ -10210,7 +10214,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The actor is a public servant who coerces the other person to submit or participate" },
     { id: "D", text: "A, B, and C" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 22.011(b)(3), (5), and (8); PC Section 8.13"
 },
 
@@ -10223,7 +10227,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Drug abuse" },
     { id: "D", text: "Intellectual disability" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CIT Section 29.19, page 16 of 49"
 },
 
@@ -10236,7 +10240,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Allows officers to own their beats" },
     { id: "D", text: "Encourages decentralized command structures" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Professional Policing, Section 2.5"
 },
 
@@ -10249,7 +10253,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Summarized" },
     { id: "D", text: "Indistinctly" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Arrest, Search, and Seizure, Section 10.6"
 },
 
@@ -10262,7 +10266,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "17" },
     { id: "D", text: "18" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 22.041(b); PC Section 8.13"
 },
 
@@ -10275,7 +10279,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Mob" },
     { id: "D", text: "Aggressive crowd" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Patrol Skills, Section 35.28, page 22 of 38"
 },
 
@@ -10288,7 +10292,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Seventh Amendment" },
     { id: "D", text: "First Amendment" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "US & TX Constitution, Section 7.1"
 },
 
@@ -10301,7 +10305,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Kid" },
     { id: "D", text: "Juvenile" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 33.021(c); PC Section 8.21; Missing & Exploited Children"
 },
 
@@ -10314,7 +10318,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Intellectual disorders" },
     { id: "D", text: "Mental illnesses" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CIT Section 29.22"
 },
 
@@ -10327,7 +10331,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Poppy straw" },
     { id: "D", text: "Opiates" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Health and Safety Code â€“ Controlled Substance Act, Section 15.1; HSC 481.002 #29"
 },
 
@@ -10340,7 +10344,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Public servant" },
     { id: "D", text: "Civil servant" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 1.07 #41; PC Section 8.2"
 },
 
@@ -10353,7 +10357,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Post-arrest" },
     { id: "D", text: "Jail" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CIT Section 29.59, page 48 of 49"
 },
 
@@ -10366,7 +10370,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Any fellow officers" },
     { id: "D", text: "The Sheriff" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CCP 18.08; Arrest, Search and Seizure, Section 10.9"
 },
 
@@ -10379,7 +10383,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Controlled" },
     { id: "D", text: "Acute" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "HazMat Section 42.2"
 },
 
@@ -10392,7 +10396,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Verdicts" },
     { id: "D", text: "Recesses" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Criminal Investigation Section 32.59"
 },
 
@@ -10405,7 +10409,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Pedestrian" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "TC 552A.0101(b)"
 },
 
@@ -10418,7 +10422,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Subject to a mortgage or other security interest" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 28.02(a)(2)(A), (B) & (C); PC Section 8.15"
 },
 
@@ -10431,7 +10435,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Luck" },
     { id: "D", text: "Draw" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 47.01 #1; PC Section 8.31"
 },
 
@@ -10444,7 +10448,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Assault and battery with a weapon" },
     { id: "D", text: "Attempted murder" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 29.03(a)(3)(A); PC Section 8.16"
 },
 
@@ -10457,7 +10461,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "3rd Degree felony" },
     { id: "D", text: "A civil violation" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "HSC 365.012(d-1); TC Section 22.5"
 },
 
@@ -10470,7 +10474,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "With knowledge of the statement's meaning" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 37.02(a)(1); Explanation: A person commits Perjury if, with intent to deceive and with knowledge of the statement's meaning, the person makes a false statement under oath or swears to the truth of a previously made false statement under oath. All of the listed elements are required."
 },
 
@@ -10483,7 +10487,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Sixth" },
     { id: "D", text: "Fourteenth" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "US & TX Constitution, Section 7.1"
 },
 
@@ -10496,7 +10500,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "They always receive sensitivity training at the academy" },
     { id: "D", text: "Their actions will likely be videotaped" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Multiculturalism, Section 5.5"
 },
 
@@ -10509,7 +10513,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Misdemeanor" },
     { id: "D", text: "Any Felony" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Force Options, Section 28.3, page 5 of 24"
 },
 
@@ -10522,7 +10526,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "25%" },
     { id: "D", text: "10%" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "TBI Section 30.10"
 },
 
@@ -10535,7 +10539,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Penalty Group 1A" },
     { id: "D", text: "Penalty Group 1" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "HSC 481.112 and 481.115; HSC Section 15.3"
 },
 
@@ -10548,7 +10552,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Resisting Arrest" },
     { id: "D", text: "Evading Arrest or Detention" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 38.04(a); PC Section 8.25; Civilian Interaction Section 37.6; Traffic Section 22.16; TC 545.421"
 },
 
@@ -10561,7 +10565,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Self-Control" },
     { id: "D", text: "Calmness" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Force Options, Section 28.5, page 7 of 24"
 },
 
@@ -10574,7 +10578,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Dispense" },
     { id: "D", text: "Production" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "HSC 481.002 #43; HSC Section 15.1"
 },
 
@@ -10587,7 +10591,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Terry v. Ohio" },
     { id: "D", text: "Ferris v. State" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Patrol Skills, Section 35.18; Racial Profiling, Section 6.2; Arrest, Search, and Seizure Section 10.2"
 },
 
@@ -10600,7 +10604,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Shall" },
     { id: "D", text: "Should" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP 15.20(a); Arrest, Search and Seizure Section 10.7"
 },
 
@@ -10613,7 +10617,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Policy of the department" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Force Options, Section 28.18, page 22 of 24"
 },
 
@@ -10626,7 +10630,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Special Agents of the Criminal Investigation Division of the IRS" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CCP 2.122(a)(2), (7), and (9); CCP Section 9.2"
 },
 
@@ -10639,7 +10643,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Brown v. Board" },
     { id: "D", text: "Garrity v. New Jersey" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Force Options Section 28.16"
 },
 
@@ -10652,7 +10656,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Temporary detention" },
     { id: "D", text: "Fine" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CCP 15.26; Arrest, Search, and Seizure Section 10.7"
 },
 
@@ -10665,7 +10669,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Maximum" },
     { id: "D", text: "Any" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Force Options, Section 28.1"
 },
 
@@ -10678,7 +10682,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Public property" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TC 502.140; TC Section 22.26 page 18"
 },
 
@@ -10691,7 +10695,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "What people hear" },
     { id: "D", text: "What people know" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Verbal Communication, Section 25.5"
 },
 
@@ -10704,7 +10708,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Robbery" },
     { id: "D", text: "Burglary" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 30.02(a)(1) & (3); PC Section 8.17"
 },
 
@@ -10717,7 +10721,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Move out of the line of force" },
     { id: "D", text: "Use your strength as an advantage over an assailant's weakness" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Arrest and Control Procedures, Section 31.1"
 },
 
@@ -10730,7 +10734,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "No action should be taken, it is a civil matter" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Criminal Investigations, Section 32.11, page 9 of 52"
 },
 
@@ -10743,7 +10747,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Landlord" },
     { id: "D", text: "Holder" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 1.07 #35(A) & (B); PC Section 8.2"
 },
 
@@ -10756,7 +10760,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Hold" },
     { id: "D", text: "Charge" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 38.01 #1(A); Arrest, Search, and Seizure Section 10.4"
 },
 
@@ -10769,7 +10773,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Adequate proof" },
     { id: "D", text: "Any level of proof" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 2.01; Civil Process and Liability Section 14.2"
 },
 
@@ -10782,7 +10786,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Tactics" },
     { id: "D", text: "Strength" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "De-escalation Strategies Section 27.17"
 },
 
@@ -10795,7 +10799,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "4-Methods of Influence" },
     { id: "D", text: "4-Characteristics of Negotiation" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Verbal Communication, Section 25.5 page 7 of 31"
 },
 
@@ -10808,7 +10812,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Misdemeanor or felony" },
     { id: "D", text: "Federal offense" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP 18.22(a); Arrest, Search, and Seizure"
 },
 
@@ -10821,7 +10825,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A person operating a pickup with farm truck license plates" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TC 545.413; TC Section 22.15"
 },
 
@@ -10834,7 +10838,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Accomplice to Robbery" },
     { id: "D", text: "No charge, he did not commit the robbery" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 29.02(a)(1); PC Section 8.16"
 },
 
@@ -10847,7 +10851,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "40" },
     { id: "D", text: "50" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "TC 545.352(a)(1); TC Section 22.14"
 },
 
@@ -10860,7 +10864,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Criminal mischief" },
     { id: "D", text: "Unlawfully carrying a weapon" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 22.05(b)(2); PC Section 8.13"
 },
 
@@ -10873,7 +10877,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Increasing peer support and access to specialized mental health providers" },
     { id: "D", text: "A and C" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CIT Section 29.43"
 },
 
@@ -10886,7 +10890,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "5" },
     { id: "D", text: "1" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "TCOLE Rules Overview Section 4.9; TCOLE Handbook Rule 211.27"
 },
 
@@ -10899,7 +10903,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A private vehicle of a volunteer firefighter responding to a fire alarm or medical emergency" },
     { id: "D", text: "A private security vehicle designated by a municipality" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TC 541.201(1)(A), (D), & (G); Professional Police Driving Section 34.1"
 },
 
@@ -10912,7 +10916,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Anger" },
     { id: "D", text: "Smell" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Written Communications Section 24.6"
 },
 
@@ -10925,7 +10929,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Awareness" },
     { id: "D", text: "Emotional control" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Arrest and Control Procedures Section 31.1"
 },
 
@@ -10938,7 +10942,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The impoundment of a vehicle" },
     { id: "D", text: "The suspect's rights" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "SFST Section 23.3"
 },
 
@@ -10951,7 +10955,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Run or bolt from a safe environment" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Missing and Exploited Children, Section 18.6, page 50"
 },
 
@@ -10964,7 +10968,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Suspected Serious Injury" },
     { id: "D", text: "Not Injured" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "TC Section 22.35"
 },
 
@@ -10977,7 +10981,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Texas Commission on Law Enforcement Field Services Section" },
     { id: "D", text: "Texas Division of Emergency Management" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Radio Communications / Alerts / TCIC-TLETS Section 36.4"
 },
 
@@ -10990,7 +10994,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Know the information you have" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Criminal Investigations Section 32.44, page 32 of 52"
 },
 
@@ -11003,7 +11007,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Security Freeze" },
     { id: "D", text: "Theft Freeze" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Identity Crimes Section 12.11"
 },
 
@@ -11016,7 +11020,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Both A and B" },
     { id: "D", text: "Neither A nor B" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "US & TX Constitution Section 7.1"
 },
 
@@ -11029,7 +11033,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Barratry" },
     { id: "D", text: "Bigamy" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 25.01(a)(1)(B); PC Section 8.14"
 },
 
@@ -11042,7 +11046,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Beginning" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Patrol Skills Section 35.12"
 },
 
@@ -11055,7 +11059,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The investigator suspects intoxication was a factor in the crash" },
     { id: "D", text: "The results should always be shown regardless of alcohol levels" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TC Section 22.35"
 },
 
@@ -11068,7 +11072,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Ethics" },
     { id: "D", text: "Character" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Professionalism & Ethics, Section 1.5"
 },
 
@@ -11081,7 +11085,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Prevent the other person from causing death or serious bodily injury to another" },
     { id: "D", text: "Prevent the other from committing suicide or inflicting serious bodily injury to himself" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CCP 9.34(a); Force Options Section 28.3, page 4 of 24"
 },
 
@@ -11094,7 +11098,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Projectionism" },
     { id: "D", text: "Buck passing" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Multiculturalism Section 5.1"
 },
 
@@ -11107,7 +11111,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Stop" },
     { id: "D", text: "Disregard" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CCP 6.06; CCP Section 9.5"
 },
 
@@ -11120,7 +11124,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Compliance with applicable statutes and/or policy" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Professional Police Driving Section 34.16"
 },
 
@@ -11133,7 +11137,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "To provide a simple judicial process" },
     { id: "D", text: "All of the above are purposes of the code" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Family Code 51.01(1), (4), & (6); FC & JI Section 33.1"
 },
 
@@ -11146,7 +11150,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A motor vehicle with a seating capacity of 12 persons" },
     { id: "D", text: "All of the above would require the CMV section" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TC Section 22.35"
 },
 
@@ -11159,7 +11163,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The legislative branch of government" },
     { id: "D", text: "The U.S. Department of Justice" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Constitutional Law; Judicial Review"
 },
 
@@ -11172,7 +11176,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Pole trailer" },
     { id: "D", text: "School bus" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TC 548.051 & 548.052; TC Section 22.17, page 13"
 },
 
@@ -11185,7 +11189,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The-Moms" },
     { id: "D", text: "The-List" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Missing and Exploited Children, page 15, Section 18.1"
 },
 
@@ -11198,7 +11202,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Maintain an assured clear distance (safe distance)" },
     { id: "D", text: "At least three car lengths" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "TC 545.062(a); TC Section 22.9"
 },
 
@@ -11211,7 +11215,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Speeding, a violation of the open container law, or texting while driving" },
     { id: "D", text: "Speeding only" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "TC 543.004(a)(1)(A), (B), and (C); TC Section 22.20"
 },
 
@@ -11224,7 +11228,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A private vehicle of a volunteer firefighter returning from a fire" },
     { id: "D", text: "A private ambulance returning from an accident" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "TC 541.201 #1; Professional Police Driving Section 34.1"
 },
 
@@ -11237,7 +11241,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Civil, Criminal, Courts" },
     { id: "D", text: "Cash, Counsel, Courts" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Criminal Justice System Components"
 },
 
@@ -11250,7 +11254,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Shove your hand as far into their mouth as you can" },
     { id: "D", text: "Begin running" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Canine Encounters, Section 39.23, page 39 of 41"
 },
 
@@ -11263,7 +11267,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Silenced" },
     { id: "D", text: "Sequestered" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Criminal Investigation, Section 32.57, page 43 of 52"
 },
 
@@ -11276,7 +11280,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Modus Operandi" },
     { id: "D", text: "Mode" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Criminal Investigation, Section 32.1, page 2 of 52"
 },
 
@@ -11289,7 +11293,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Abuse" },
     { id: "D", text: "Neglect" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "FC 261.001 #4(A)(i); Family Code and Juvenile Issues Section 33.13"
 },
 
@@ -11302,7 +11306,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "30, 20" },
     { id: "D", text: "40, 20" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "TC 545.352(b)(1); TC Section 22.14"
 },
 
@@ -11315,7 +11319,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Suspect's mental attitude" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Arrest and Control Procedures Section 31.10"
 },
 
@@ -11328,7 +11332,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "This is her third child" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "EMA Section 40.10"
 },
 
@@ -11341,7 +11345,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Improper Influence" },
     { id: "D", text: "Bribery" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 36.03(a)(1); Professionalism & Ethics Section 1.6"
 },
 
@@ -11354,7 +11358,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The right to consent to the child's marriage" },
     { id: "D", text: "All of the above are rights and duties" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "FC 151.001(a)(1), (3), & (6); Family Code and Juvenile Issues Section 33.12"
 },
 
@@ -11367,7 +11371,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A reduction of referrals into mental health treatment and an increase in incarceration in jails and prisons" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CIT Section 29.54"
 },
 
@@ -11380,7 +11384,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "They are not required to see a magistrate for an out-of-county warrant" },
     { id: "D", text: "Any county between Lubbock County and Nueces County" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Arrest, Search & Seizure Section 10.7; CCP Art. 15.18"
 },
 
@@ -11393,7 +11397,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "60/30" },
     { id: "D", text: "90/20" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "De-escalation, Section 27.10"
 },
 
@@ -11406,7 +11410,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "DWI" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 49.01(2)(A); PC Section 8.33"
 },
 
@@ -11419,7 +11423,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Harm" },
     { id: "D", text: "Mutilation" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 1.07 #25; PC Section 8.2"
 },
 
@@ -11432,7 +11436,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Summarized" },
     { id: "D", text: "Indistinctly" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Arrest, Search, & Seizure, Section 10.6"
 },
 
@@ -11445,7 +11449,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Mind over matter" },
     { id: "D", text: "Strength" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Arrest and Control Section 31.1"
 },
 
@@ -11458,7 +11462,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Name, address, date of birth, and telephone number" },
     { id: "D", text: "Name, address, date of birth, social security number, and telephone number" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Civilian Interaction Section 37.6; page 10 of 12"
 },
 
@@ -11471,7 +11475,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Is a mere acquiescence to authority claimed by the officer" },
     { id: "D", text: "Revoked by the person granting consent" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Arrest, Search and Seizure; Quizlet tstrain172 1/56"
 },
 
@@ -11484,7 +11488,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Ask them to read or write a simple statement" },
     { id: "D", text: "Ask them to complete a Sudoku puzzle" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CIT Section 29.29"
 },
 
@@ -11497,7 +11501,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Report the collision only if the damage exceeds $1,000" },
     { id: "D", text: "Remain at the scene until a peace officer arrives" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "TC 550.024. The operator of a vehicle that damages an unattended vehicle shall immediately locate the owner/operator and provide identifying information, or leave a written notice in a conspicuous place. Traffic Section 22.30."
 },
 
@@ -11510,7 +11514,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Picking up each item of evidence and examining it" },
     { id: "D", text: "Preparing a complete and accurate report" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Criminal Investigation Section 32.17"
 },
 
@@ -11523,7 +11527,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Symbolizes one's affiliation with a more dominant group" },
     { id: "D", text: "Affords a convenient grouping for people of whom one is ignorant" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Multiculturalism, Section 5.1"
 },
 
@@ -11536,7 +11540,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Neurology" },
     { id: "D", text: "Kinesiology" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Canine Encounters, Section 39.7"
 },
 
@@ -11549,7 +11553,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Operate from one state to another state" },
     { id: "D", text: "Operate the vehicle from one dealership to another dealership" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Traffic Section 22.26; TC 503.062(a)(1) & (2)"
 },
 
@@ -11562,7 +11566,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Council meeting" },
     { id: "D", text: "Official proceeding" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Civil Process & Liability; CPRC 27.001 #8"
 },
 
@@ -11575,7 +11579,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Ethnocentrism" },
     { id: "D", text: "Bias" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Multiculturalism Section 5.1"
 },
 
@@ -11588,7 +11592,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Property found on a person who was arrested" },
     { id: "D", text: "Any kind of drug" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Asset Forfeiture, Section 11.6; CCP Art. 59.01 #2"
 },
 
@@ -11601,7 +11605,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "As long as it takes to locate the owner" },
     { id: "D", text: "30 days" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Asset Forfeiture, Section 11.8; CCP Art. 59.04"
 },
 
@@ -11614,7 +11618,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "August Vollmer" },
     { id: "D", text: "J. J. Walker" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Professional Policing Section 2.2"
 },
 
@@ -11627,7 +11631,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "County" },
     { id: "D", text: "State" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Family Violence & RAO Section 17.8; FC 82.003"
 },
 
@@ -11640,7 +11644,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Four or more" },
     { id: "D", text: "Four or more if it is a classified hate group" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Patrol Skills Section 35.29; PC 42.02"
 },
 
@@ -11653,7 +11657,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Admitted to bail" },
     { id: "D", text: "Ordered to appear at the proper office of the county where the offense is alleged to have been committed" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Arrest, Search & Seizure Section 10.7; CCP Arts. 15.21 & 15.19"
 },
 
@@ -11666,7 +11670,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Distance and cover" },
     { id: "D", text: "Tactical pause" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "De-Escalation Section 27.17"
 },
 
@@ -11679,7 +11683,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "97 percent" },
     { id: "D", text: "75 percent" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Force Options, Section 28.11"
 },
 
@@ -11692,7 +11696,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "19" },
     { id: "D", text: "18" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Traffic Section 22.15; TC 545.414(a)"
 },
 
@@ -11705,7 +11709,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Need not" },
     { id: "D", text: "Should" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Arrest, Search & Seizure Section 10.7; CCP Art. 15.26"
 },
 
@@ -11718,7 +11722,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Date and verification" },
     { id: "D", text: "Office" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Arrest, Search & Seizure Section 10.9; CCP Art. 18.07(b)"
 },
 
@@ -11731,7 +11735,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "George is guilty of murder; Henry is guilty of conspiracy to commit aggravated robbery" },
     { id: "D", text: "George is guilty of capital murder; Henry does not have any culpability because he did not enter the bank" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC Section 8.5; PC 7.01(a)(b); PC 19.03(a)(2)"
 },
 
@@ -11744,7 +11748,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Protects citizens from unreasonable searches and seizures" },
     { id: "D", text: "Protects citizens from being compelled to be witnesses against themselves" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "US & TX Constitution Section 7.1"
 },
 
@@ -11757,7 +11761,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The arrest is for a felony offense" },
     { id: "D", text: "The arrest is for a misdemeanor offense" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Arrest, Search & Seizure Section 10.4; CCP Art. 14.05(1) & (2)"
 },
 
@@ -11770,7 +11774,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Neglecting to Execute Process" },
     { id: "D", text: "Failure to Obey a Lawful Order" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Civil Process and Liability Section 14.1; CCP Art. 2.16"
 },
 
@@ -11783,7 +11787,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Deviant behavior" },
     { id: "D", text: "Aberrant intercourse" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 21.01 #1"
 },
 
@@ -11796,7 +11800,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Implies that a weapon is in a jacket pocket but never exhibits the weapon" },
     { id: "D", text: "Uses or exhibits a deadly weapon" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC Section 8.16; PC 29.03(a)(2)"
 },
 
@@ -11809,7 +11813,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Cultural Differences" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Victims of Crime Section 20.1, page 5 of 13"
 },
 
@@ -11822,7 +11826,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Seven" },
     { id: "D", text: "Ten" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Missing and Exploited Children, page 120; PC 43.04"
 },
 
@@ -11835,7 +11839,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Third" },
     { id: "D", text: "Fifth" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "US & TX Constitution, Section 7.1"
 },
 
@@ -11848,7 +11852,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Retaliation" },
     { id: "D", text: "Tampering with Witness" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC Section 8.23; PC 36.05(a)(1) & (2)"
 },
 
@@ -11861,7 +11865,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Security of facility" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Criminal Investigation Section 32.45"
 },
 
@@ -11874,7 +11878,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Code of Criminal Procedure" },
     { id: "D", text: "U.S. Supreme Court decisions" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Criminal Investigation Section 32.45"
 },
 
@@ -11887,7 +11891,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Misdemeanor" },
     { id: "D", text: "Any felony" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Force Options, Section 28.3"
 },
 
@@ -11900,7 +11904,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Domestic Servitude" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Human Trafficking Section 21.3, page 10"
 },
 
@@ -11913,7 +11917,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The owner consented to the reporting of the crash" },
     { id: "D", text: "A wrecker was available to remove the involved motor vehicles" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Traffic Section 22.32; TC 550.041; CR100 page 21"
 },
 
@@ -11926,7 +11930,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Cohesive" },
     { id: "D", text: "Aggressive" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Patrol Skills Section 35.28"
 },
 
@@ -11939,7 +11943,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Modified Romberg Balance" },
     { id: "D", text: "Walk and Turn" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "SFST Manual 2018, Section 23.1"
 },
 
@@ -11952,7 +11956,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Within 72 hours" },
     { id: "D", text: "At the officer's convenience" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Arrest, Search, & Seizure Section 10.7; CCP Art. 15.16"
 },
 
@@ -11965,7 +11969,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Assault" },
     { id: "D", text: "No offense has been committed because they are married" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Family Violence & RAO Section 17.6; PC 22.01(a)(1)"
 },
 
@@ -11978,7 +11982,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Fraud" },
     { id: "D", text: "Theft of service" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC Section 8.18; PC 31.03(a)(b)(1)"
 },
 
@@ -11991,7 +11995,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Corrections" },
     { id: "D", text: "Legislature" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "US & TX Constitution, Section 7.2. The three components of the criminal justice system are Law Enforcement, Courts, and Corrections. The Legislature creates laws but is not one of the three components of the criminal justice system. 【1-79a2d4】"
 },
 
@@ -12004,7 +12008,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Summarized" },
     { id: "D", text: "Indistinctly" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Arrest, Search, & Seizure Section 10.6"
 },
 
@@ -12017,7 +12021,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Mind over matter" },
     { id: "D", text: "Strength" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Arrest and Control Section 31.1"
 },
 
@@ -12030,7 +12034,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Name, address, date of birth, and telephone number" },
     { id: "D", text: "Name, address, date of birth, social security number, and telephone number" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Civilian Interaction Section 37.6; page 10 of 12"
 },
 
@@ -12043,7 +12047,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Is a mere acquiescence to authority claimed by the officer" },
     { id: "D", text: "Revoked by the person granting consent" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Civilian Interaction, Section 37.4"
 },
 
@@ -12056,7 +12060,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Ask them to read or write a simple statement" },
     { id: "D", text: "Ask them to complete a Sudoku puzzle" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CIT Section 29.29"
 },
 
@@ -12069,7 +12073,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The insurance company requires a report for claims settlement" },
     { id: "D", text: "The crash occurred on private property" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Traffic Section 22.31; TC 550.062"
 },
 
@@ -12082,7 +12086,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Picking up each item of evidence and examining it" },
     { id: "D", text: "Preparing a complete and accurate report" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Criminal Investigation Section 32.17"
 },
 
@@ -12095,7 +12099,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Symbolizes one's affiliation with a more dominant group" },
     { id: "D", text: "Affords a convenient grouping for people of whom one is ignorant" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Multiculturalism, Section 5.1"
 },
 
@@ -12108,7 +12112,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Neurology" },
     { id: "D", text: "Kinesiology" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Canine Encounters, Section 39.7"
 },
 
@@ -12121,7 +12125,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Operate from one state to another state" },
     { id: "D", text: "Operate the vehicle from one dealership to another dealership" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Traffic Section 22.26; TC 503.062(a)(1) & (2)"
 },
 
@@ -12134,7 +12138,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Council meeting" },
     { id: "D", text: "Official proceeding" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Civil Process & Liability; CPRC 27.001 #8"
 },
 
@@ -12147,7 +12151,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Ethnocentrism" },
     { id: "D", text: "Bias" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Multiculturalism Section 5.1"
 },
 
@@ -12160,7 +12164,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Property that was on a person who was arrested" },
     { id: "D", text: "Any kind of drug" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Asset Forfeiture, Section 11.6; CCP Art. 59.01 #2"
 },
 
@@ -12173,7 +12177,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "As long as it takes to locate the owner" },
     { id: "D", text: "30 days" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Asset Forfeiture, Section 11.8; CCP Art. 59.04"
 },
 
@@ -12186,7 +12190,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "August Vollmer" },
     { id: "D", text: "J. J. Walker" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Professional Policing Section 2.2"
 },
 
@@ -12199,7 +12203,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "County" },
     { id: "D", text: "State" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Family Violence & RAO Section 17.8; FC 82.003"
 },
 
@@ -12212,7 +12216,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Four or more" },
     { id: "D", text: "Four or more if it is a classified hate group" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Patrol Skills Section 35.29; PC 42.02"
 },
 
@@ -12225,7 +12229,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Admitted to bail" },
     { id: "D", text: "Ordered to appear at the proper office of the county where the offense is alleged to have been committed" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Arrest, Search & Seizure Section 10.7; CCP Arts. 15.21 & 15.19"
 },
 
@@ -12238,7 +12242,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Distance and cover" },
     { id: "D", text: "Tactical pause" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "De-Escalation Section 27.17"
 },
 
@@ -12251,7 +12255,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "97 percent" },
     { id: "D", text: "75 percent" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Force Options, Section 28.11"
 },
 
@@ -12264,7 +12268,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "19" },
     { id: "D", text: "18" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Traffic Section 22.15; TC 545.414(a)"
 },
 
@@ -12277,7 +12281,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Need not" },
     { id: "D", text: "Should" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Arrest, Search & Seizure Section 10.7; CCP Art. 15.26"
 },
 
@@ -12290,7 +12294,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Date and verification" },
     { id: "D", text: "Office" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Arrest, Search & Seizure Section 10.9; CCP Art. 18.07(b)"
 },
 
@@ -12303,7 +12307,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "George is guilty of murder; Henry is guilty of conspiracy to commit aggravated robbery" },
     { id: "D", text: "George is guilty of capital murder; Henry has no culpability because he did not enter the bank" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC Section 8.5; PC 7.01(a)(b); PC 19.03(a)(2)"
 },
 
@@ -12316,7 +12320,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Protects citizens from unreasonable searches and seizures" },
     { id: "D", text: "Protects citizens from being compelled to be witnesses against themselves" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "US & TX Constitution Section 7.1"
 },
 
@@ -12329,7 +12333,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Security Officers commissioned by the Texas Board of Private Security" },
     { id: "D", text: "All of the above are peace officers" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Municipal Park and Recreational Patrolmen and Arson Investigators are peace officers under CCP Art. 2.12(a)(12) and (7). Security Officers commissioned by the Texas Board of Private Security are not listed as peace officers in the CCP and are regulated under Occupations Code Chapter 1702.",
   reference: "CCP Art. 2.12(a)(7), (12); Occupations Code Ch. 1702"
 },
@@ -12342,7 +12346,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The arrest is for a felony offense" },
     { id: "D", text: "The arrest is for a misdemeanor offense" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Arrest, Search & Seizure Section 10.4; CCP Art. 14.05(1) & (2)"
 },
 
@@ -12355,7 +12359,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Neglecting to Execute Process" },
     { id: "D", text: "Failure to Obey a Lawful Order" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Civil Process and Liability Section 14.1; CCP Art. 2.16"
 },
 
@@ -12368,7 +12372,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Deviant behavior" },
     { id: "D", text: "Aberrant intercourse" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 21.01 #1"
 },
 
@@ -12381,7 +12385,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Implies that a weapon is in a jacket pocket but never exhibits the weapon" },
     { id: "D", text: "Uses or exhibits a deadly weapon" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC Section 8.16; PC 29.03(a)(2)"
 },
 
@@ -12394,7 +12398,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Cultural Differences" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Victims of Crime Section 20.1, page 5 of 13"
 },
 
@@ -12407,7 +12411,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Seven" },
     { id: "D", text: "Ten" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Missing and Exploited Children, page 120; PC 43.04"
 },
 
@@ -12420,7 +12424,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Third" },
     { id: "D", text: "Fifth" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "US & TX Constitution, Section 7.1"
 },
 
@@ -12433,7 +12437,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Retaliation" },
     { id: "D", text: "Tampering with Witness" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC Section 8.23; PC 36.05(a)(1) & (2)"
 },
 
@@ -12446,7 +12450,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Security of facility" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Criminal Investigation Section 32.45"
 },
 
@@ -12459,7 +12463,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Code of Criminal Procedure" },
     { id: "D", text: "U.S. Supreme Court decisions" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Criminal Investigation Section 32.45"
 },
 
@@ -12472,7 +12476,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Misdemeanor" },
     { id: "D", text: "Any felony" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Force Options, Section 28.3"
 },
 
@@ -12485,7 +12489,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Domestic Servitude" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Human Trafficking Section 21.3, page 10"
 },
 
@@ -12498,7 +12502,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A vehicle requiring a tow truck" },
     { id: "D", text: "A request for a report from a witness" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Traffic Section 22.32; TC 550.041 authorizes a peace officer to investigate a motor vehicle collision resulting in injury, death, or apparent property damage of at least $1,000."
 },
 
@@ -12511,7 +12515,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Ex Post Facto Law" },
     { id: "D", text: "Double Jeopardy" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "US & TX Constitution, Section 7.1"
 },
 
@@ -12524,7 +12528,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Necessary Force" },
     { id: "D", text: "Deadly Force" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Force Options Section 28.01; PC 9.01 #3"
 },
 
@@ -12537,7 +12541,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "High risk" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Patrol Skills Section 35.13"
 },
 
@@ -12550,7 +12554,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Road Rage" },
     { id: "D", text: "Aggravated Assault" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Law Enforcement Crash Report Coding Manual, page 197"
 },
 
@@ -12563,7 +12567,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Necessary" },
     { id: "D", text: "Required" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Force Options, Section 28.9"
 },
 
@@ -12576,7 +12580,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "30, 20" },
     { id: "D", text: "40, 20" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Traffic Section 22.14; TC 545.352(b)(1)"
 },
 
@@ -12589,7 +12593,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Projectionism" },
     { id: "D", text: "Buck-passing" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Multiculturalism, Section 5.1"
 },
 
@@ -12602,7 +12606,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Identify options and determine best course of action" },
     { id: "D", text: "Assess situation, threats, and risks" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "De-Escalation, Section 27.15"
 },
 
@@ -12615,7 +12619,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Satisfaction" },
     { id: "D", text: "Recognition" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Verbal Communication, Section 25.9"
 },
 
@@ -12628,7 +12632,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Fifth" },
     { id: "D", text: "Eighth" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "US & TX Constitution, Section 7.1"
 },
 
@@ -12641,7 +12645,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Strips of cloth" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Arrest and Control Procedures, Section 31.11"
 },
 
@@ -12654,7 +12658,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "9" },
     { id: "D", text: "12" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CR-80, page 9"
 },
 
@@ -12667,7 +12671,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Exploitation" },
     { id: "D", text: "Sexual Assault" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC Section 8.29; PC 43.25(a)(1)"
 },
 
@@ -12680,7 +12684,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Adults" },
     { id: "D", text: "Males" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Multiculturalism, Section 5.1"
 },
 
@@ -12693,7 +12697,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Uneven pupil size in the eyes" },
     { id: "D", text: "Fixed stare of the eyes" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "SFST"
 },
 
@@ -12706,7 +12710,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A runaway child" },
     { id: "D", text: "A child who commits three Class C misdemeanors" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Family Code Section 33.3; FC 51.03(a)(2)"
 },
 
@@ -12719,7 +12723,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Corporation" },
     { id: "D", text: "Government" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 1.07 #3; PC Section 8.2"
 },
 
@@ -12732,7 +12736,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Authoritarianism" },
     { id: "D", text: "Officer awareness" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Verbal Communication, Section 25.13"
 },
 
@@ -12745,7 +12749,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Science of morality governing an individual or group" },
     { id: "D", text: "Continuing education and lifelong learning" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Professionalism & Ethics, Section 1.2"
 },
 
@@ -12758,7 +12762,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Ancient" },
     { id: "D", text: "Historical" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Professional Policing, Section 2.1"
 },
 
@@ -12771,7 +12775,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Bodily injury" },
     { id: "D", text: "Serious bodily injury" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 22.01; PC Section 8.13"
 },
 
@@ -12784,7 +12788,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A stationary TXDOT vehicle not separated from the roadway by a traffic control-channelizing device and using required signals" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Traffic Section 22.11; TC 545.157(a)(1), (2), and (3)"
 },
 
@@ -12797,7 +12801,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Reckless conduct" },
     { id: "D", text: "Aggravated assault with a motor vehicle" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Traffic Section 21.31; PC Section 8.33; PC 49.07(a)(1)"
 },
 
@@ -12810,7 +12814,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Perfection" },
     { id: "D", text: "Objectivity" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Criminal Investigation Section 32.6"
 },
 
@@ -12823,7 +12827,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "To protect the third person he seeks to protect" },
     { id: "D", text: "To prolong the other's life" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 9.33(2); Force Options, Section 28.3"
 },
 
@@ -12836,7 +12840,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Criminal mischief" },
     { id: "D", text: "Deadly conduct" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Family Code and Juvenile Issues, Section 33.17; CCP 15.27(h)(1); PC 22.05"
 },
 
@@ -12849,7 +12853,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Search warrant" },
     { id: "D", text: "Photograph warrant" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Arrest, Search & Seizure Section 10.9; CCP 18.02(a)(1,3,5,8,9 & 11)"
 },
 
@@ -12862,7 +12866,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Approval" },
     { id: "D", text: "Consent" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC Section 8.2; PC 1.07 #11"
 },
 
@@ -12875,7 +12879,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Excessive" },
     { id: "D", text: "No" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Force Options, Section 28.9"
 },
 
@@ -12888,7 +12892,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Decreased productivity" },
     { id: "D", text: "Reduced stress and health risks" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Fitness, Wellness, Stress Management Section 3.1"
 },
 
@@ -12901,7 +12905,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Red or white, or a color between red and white" },
     { id: "D", text: "Red or yellow, or a color between red and yellow" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Traffic Section 22.17; TC 547.324(d)(1)"
 },
 
@@ -12914,7 +12918,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Random Violence" },
     { id: "D", text: "Interpersonal Violence" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CIT Section 29.36"
 },
 
@@ -12927,7 +12931,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Officers who feel they are an integral part of their communities are less likely to resort to physical force to resolve crisis situations that could be verbally diffused and de-escalated." },
     { id: "D", text: "The two words 'information' and 'communication' can be used interchangeably." }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Verbal Communication, Section 25.1"
 },
 
@@ -12940,7 +12944,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Hands in the back, palms facing away from each other" },
     { id: "D", text: "Hands in front, palms facing away from each other" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Arrest & Control, Section 31.12"
 },
 
@@ -12953,7 +12957,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Only police officers" },
     { id: "D", text: "Certain family members" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Family Code & Juvenile Issues, Section 33.13; FC 261.101(a)"
 },
 
@@ -12966,7 +12970,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Remain at the scene until the operator complies with the requirements of 550.023" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Traffic, Section 21.31; TC 550.022(a)(1), (2), & (3)"
 },
 
@@ -12979,7 +12983,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Sex trafficking" },
     { id: "D", text: "Holding hands" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Missing & Exploited Children, Section 18.7"
 },
 
@@ -12992,7 +12996,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Deals well with stress" },
     { id: "D", text: "Acts the same at home and in public" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Family Violence & Related Assaultive Offenses, Section 17.2"
 },
 
@@ -13005,7 +13009,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Meet the requirements for reactivation if the individual is currently licensed" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TCOLE Rules Overview 4.7; Texas Administrative Code 219.1(b)(1), (2), & (3)"
 },
 
@@ -13018,7 +13022,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Antenna" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Health & Safety Code â€“ Controlled Substance Act, Section 15.11"
 },
 
@@ -13031,7 +13035,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "With witnesses present" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Criminal Investigation Section 32.43"
 },
 
@@ -13044,7 +13048,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Preparation to testify" },
     { id: "D", text: "Relationship with the judge" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Criminal Investigation, Section 32.52"
 },
 
@@ -13057,7 +13061,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Robbery" },
     { id: "D", text: "Burglary" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC Section 8.17; PC 30.02(a)(1)"
 },
 
@@ -13070,7 +13074,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "36" },
     { id: "D", text: "48" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CCP Art. 2.27(a); CCP Section 9.3; Family Code & Juvenile Issues Section 33.13"
 },
 
@@ -13083,7 +13087,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Criminal Solicitation" },
     { id: "D", text: "Criminal Interception" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC Section 8.8; PC 15.03(a)"
 },
 
@@ -13096,7 +13100,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Mistake of Fact" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC Section 8.5; PC 8.02(a)"
 },
 
@@ -13109,7 +13113,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Noun" },
     { id: "D", text: "Verb" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Written Communication, Section 24.1"
 },
 
@@ -13122,7 +13126,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Decision / Reaction" },
     { id: "D", text: "Braking" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Professional Police Driving, Section 34.20"
 },
 
@@ -13135,7 +13139,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A possible threat of serious bodily injury exists" },
     { id: "D", text: "An immediate threat of death or serious bodily injury exists" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Force Options, Section 28.2; PC 9.51(c)"
 },
 
@@ -13148,7 +13152,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Acquisition" },
     { id: "D", text: "Transfer" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Identity Crimes Section 12.2"
 },
 
@@ -13161,7 +13165,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Manslaughter" },
     { id: "D", text: "Criminally negligent homicide" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC Section 8.9; PC 19.02(b)(1)"
 },
 
@@ -13174,7 +13178,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Under restraint" },
     { id: "D", text: "Under medical observation" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Arrest, Search & Seizure Section 10.7; CCP 15.22"
 },
 
@@ -13187,7 +13191,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Action - something we do" },
     { id: "D", text: "Possession - something we own or offer" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Verbal Communication, Section 24.5"
 },
 
@@ -13200,7 +13204,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Gluten sensitivity, softening of fingernails, loss of hair, and detached retinas" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CIT Section 29.15"
 },
 
@@ -13213,7 +13217,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Misrepresentation of age by a minor" },
     { id: "D", text: "Attempt to purchase alcohol by a minor" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "ABC Section 16.4; ABC 106.025"
 },
 
@@ -13226,7 +13230,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A Class C misdemeanor" },
     { id: "D", text: "Criminal conspiracy" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC Section 8.8; PC 15.02(a)(1)"
 },
 
@@ -13239,7 +13243,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "May not" },
     { id: "D", text: "May" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CCP Section 9.6; CCP Art. 8.05"
 },
 
@@ -13252,7 +13256,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "With one or two hands on the lower half of the breastbone" },
     { id: "D", text: "Two hands in the center of the breastbone" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Emergency Medical Assistance (CPR)"
 },
 
@@ -13265,7 +13269,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Conditions" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Patrol Skills, Section 35.2"
 },
 
@@ -13278,7 +13282,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Child Protective Services" },
     { id: "D", text: "National Crime Information Center" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "FC 261.301(i); Child Alert Checklist Section 19.3"
 },
 
@@ -13291,7 +13295,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Arson" },
     { id: "D", text: "Criminal mischief" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC Section 8.15; PC 28.02(a-1)"
 },
 
@@ -13304,7 +13308,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "When someone fails to survive an event" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CIT Section 29.43"
 },
 
@@ -13317,7 +13321,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Writ of habeas corpus" },
     { id: "D", text: "Writ of capias" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "US & TX Constitution Section 7.1"
 },
 
@@ -13330,7 +13334,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "FBI" },
     { id: "D", text: "DPS" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Radio Communications / TCIC-TLETS Section 36.9"
 },
 
@@ -13343,7 +13347,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The crushing of outer garments to feel for objects that may be weapons" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC Section 8.30; PC 46.05"
 },
 
@@ -13356,7 +13360,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Temporary detention" },
     { id: "D", text: "Fine" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Arrest, Search, and Seizure Section 10.7; CCP 15.26"
 },
 
@@ -13369,7 +13373,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Control" },
     { id: "D", text: "Optional choice" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Force Options Section 28.5"
 },
 
@@ -13382,7 +13386,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Kidneys" },
     { id: "D", text: "Pituitary Gland" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CIT Section 29.24"
 },
 
@@ -13395,7 +13399,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "24 hours" },
     { id: "D", text: "48 hours" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Arrest, Search, and Seizure Section 10.4; CCP Art. 14.06(a)"
 },
 
@@ -13408,7 +13412,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Lying" },
     { id: "D", text: "Disorderly conduct" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 37.03(a)(2); Professionalism & Ethics Section 1.6; PC Section 8.24"
 },
 
@@ -13421,7 +13425,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Triangle killing" },
     { id: "D", text: "Anger killing" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Criminal Investigation, Section 32.15"
 },
 
@@ -13434,7 +13438,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Lawful arrest; search must take place at the time of the arrest; the arrestee may not have the possibility of access" },
     { id: "D", text: "Lawful detention; search must take place at the time of the detention; the detainee must have the possibility of access; or there is not a likelihood of discovering offense-related evidence" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Case Law Handout"
 },
 
@@ -13447,7 +13451,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Victims may deny or minimize the impact of the assault or crime they have been subjected to" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Victims of Crime, Section 20.4"
 },
 
@@ -13460,7 +13464,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Provide supportive care" },
     { id: "D", text: "Have the person minimize exertion" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "40. Emergency Medical Assistance. Appropriate actions include calling EMS, providing supportive care, and minimizing exertion. Laying the person down may worsen breathing difficulties."
 },
 
@@ -13473,7 +13477,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Sixteenth" },
     { id: "D", text: "Twenty-sixth" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "US & TX Constitution, Section 7.1"
 },
 
@@ -13486,7 +13490,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Tail tucked" },
     { id: "D", text: "Ears pulled back and mouth showing teeth" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Canine Encounters, Section 39.9, page 17 of 41"
 },
 
@@ -13499,7 +13503,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "4" },
     { id: "D", text: "5" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 71.01(a); PC Section 8.34"
 },
 
@@ -13512,7 +13516,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Protection" },
     { id: "D", text: "Patrol" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Patrol Skills Section 35.1, page 1 of 38"
 },
 
@@ -13525,7 +13529,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "17" },
     { id: "D", text: "18" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC Section 8.13; PC 22.041"
 },
 
@@ -13538,7 +13542,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Theft under $20" },
     { id: "D", text: "Criminal trespass of a vending machine" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC Section 8.17; PC 30.03"
 },
 
@@ -13551,7 +13555,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A zero to seven-point scale" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CR-80 page 3; Traffic Section 22.35"
 },
 
@@ -13564,7 +13568,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Disorderly conduct" },
     { id: "D", text: "Criminal mischief" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC Section 8.15; PC 28.03(5)(B)"
 },
 
@@ -13577,7 +13581,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Magistrate" },
     { id: "D", text: "Special Agent" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Arrest, Search & Seizure Section 10.7; CCP Art. 15.03"
 },
 
@@ -13590,7 +13594,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Blind" },
     { id: "D", text: "Hard of hearing" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Interacting with the Deaf and Hard of Hearing, Section 38.1"
 },
 
@@ -13603,7 +13607,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "U.S. Postal Service" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Identity Crimes, Section 12.13"
 },
 
@@ -13616,7 +13620,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Inhalation" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "HazMat Section 42.7"
 },
 
@@ -13629,7 +13633,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The actor is a public servant who coerces the other person to submit or participate" },
     { id: "D", text: "Any of the above are without consent" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC Section 8.13; PC 22.011(b)"
 },
 
@@ -13642,7 +13646,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Move out of the line of force" },
     { id: "D", text: "Use your strength as an advantage over an assailant's weakness" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Arrest & Control Procedures, Section 31.1"
 },
 
@@ -13655,7 +13659,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Negative symptom" },
     { id: "D", text: "Mood symptom" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CIT, Section 29.35, page 31 of 49"
 },
 
@@ -13668,7 +13672,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Probable cause for arrests" },
     { id: "D", text: "Right to a jury trial" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "US & TX Constitution, Section 7.1"
 },
 
@@ -13681,7 +13685,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Osabutey v. Welch" },
     { id: "D", text: "Garrity v. New Jersey" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Force Options, Section 28.16"
 },
 
@@ -13694,7 +13698,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Preventative" },
     { id: "D", text: "Protective" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Force Options, Section 28.5"
 },
 
@@ -13707,7 +13711,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "CIA" },
     { id: "D", text: "ATF" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Force Options, Section 28.17"
 },
 
@@ -13720,7 +13724,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Refer to a notebook until a good answer comes to mind" },
     { id: "D", text: "Simply say, 'I don't know'" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Criminal Investigations, Section 32.56"
 },
 
@@ -13733,7 +13737,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Gambling" },
     { id: "D", text: "No offense has been committed" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC Section 8.31; PC 47.03"
 },
 
@@ -13746,7 +13750,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Legal authority" },
     { id: "D", text: "Do I take immediate action?" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "De-escalation, Section 27.2"
 },
 
@@ -13759,7 +13763,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Ensuring the defendant's appearance for trial" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Arrest, Search & Seizure Section 10.12; CCP Art. 17.152(b)"
 },
 
@@ -13772,7 +13776,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Area" },
     { id: "D", text: "Point-to-point" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Criminal Investigation, Section 32.30"
 },
 
@@ -13785,7 +13789,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Crowd Management" },
     { id: "D", text: "Crowd Control" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Patrol Skills, Section 35.26"
 },
 
@@ -13798,7 +13802,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Barratry" },
     { id: "D", text: "False identification as peace officer" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC Section 8.24; PC 37.11(a)(2)"
 },
 
@@ -13811,7 +13815,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Fairness" },
     { id: "D", text: "Judgmental mindset" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Professional Policing, Section 2.7"
 },
 
@@ -13824,7 +13828,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Class A misdemeanor" },
     { id: "D", text: "No offense" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC Section 8.27; PC 42.13(a) & (c); Criminal Investigation Section 32.45"
 },
 
@@ -13837,7 +13841,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Personal compensatory, punitive civil and criminal actions, as well as personal rights violations" },
     { id: "D", text: "Only agency liability under the master-servant rule" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Force Options, Sections 28.17 & 28.18"
 },
 
@@ -13850,7 +13854,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Attachment" },
     { id: "D", text: "Detainer" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Civil Process, Section 14.6"
 },
 
@@ -13863,7 +13867,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Picking a target" },
     { id: "D", text: "Disposal of property" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Criminal Investigation, Section 32.7"
 },
 
@@ -13876,7 +13880,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Light truck" },
     { id: "D", text: "Neighborhood electric vehicle" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "A Class M license authorizes the operation of a motorcycle. A motorcycle is a motor vehicle, other than a tractor or moped, equipped with a rider's saddle and designed to travel on not more than three wheels.",
   reference: "TC §521.084, 541.201(9)"
 },
@@ -13890,7 +13894,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Drones" },
     { id: "D", text: "Both A & B" }
   ],
- answer: ["D"],
+ answer: "D",
   explain: "Civilian Interaction, Section 37.7"
 },
 
@@ -13903,7 +13907,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Lineage" },
     { id: "D", text: "Household" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Family Violence & Related Assaultive Offenses, Section 17.7; FC 71.003"
 },
 
@@ -13916,7 +13920,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The driver and passengers are questioned about matters that do not relate to the traffic violation" },
     { id: "D", text: "All of the above are typical of racial profiling stops" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Racial Profiling, Section 6.4"
 },
 
@@ -13929,7 +13933,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Capital murder" },
     { id: "D", text: "Manslaughter" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC Section 8.9; PC 19.05"
 },
 
@@ -13942,7 +13946,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "20 mph" },
     { id: "D", text: "25 mph" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "TC 545.361; Traffic Section 22.14"
 },
 
@@ -13955,7 +13959,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Improper Influence" },
     { id: "D", text: "Interference with Public Duty" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Professionalism & Ethics, Section 1.6; PC 36.02(a)(3)"
 },
 
@@ -13968,7 +13972,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "To obtain proof beyond a reasonable doubt" },
     { id: "D", text: "To identify all involved parties for later investigation" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Arrest, Search & Seizure, Section 10.3"
 },
 
@@ -13981,7 +13985,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Sixth Amendment" },
     { id: "D", text: "Tenth Amendment" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "US & TX Constitution, Section 7.1"
 },
 
@@ -13994,7 +13998,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Professional" },
     { id: "D", text: "Facilitator" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Verbal Communication, Section 25.2"
 },
 
@@ -14007,7 +14011,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Manslaughter" },
     { id: "D", text: "Murder" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Criminal Investigation Section 32.15; PC 19.05"
 },
 
@@ -14020,7 +14024,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "10" },
     { id: "D", text: "5" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Interacting with Deaf and Hard of Hearing, Section 38.1"
 },
 
@@ -14033,7 +14037,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Prosecution of offenses" },
     { id: "D", text: "Punishment of offenses" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CCP Art. 1.03; CCP Section 9.1"
 },
 
@@ -14046,7 +14050,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Attempted murder" },
     { id: "D", text: "Attempted manslaughter" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 15.01 & 19.02; PC Sections 8.8 & 8.9"
 },
 
@@ -14059,7 +14063,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "16" },
     { id: "D", text: "17" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "TC 521.223; Traffic Section 22.7"
 },
 
@@ -14072,7 +14076,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Stopped" },
     { id: "D", text: "Effective Custody" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC Section 8.25; PC 38.01 #1"
 },
 
@@ -14085,7 +14089,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "14" },
     { id: "D", text: "15" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC Section 8.13; PC 22.041(b)"
 },
 
@@ -14098,7 +14102,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Obstruction/Retaliation" },
     { id: "D", text: "Bribery" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC Section 8.23; PC 36.06(a)(2)(A)"
 },
 
@@ -14111,7 +14115,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Concise" },
     { id: "D", text: "Complete" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Written Communications, Section 23.10"
 },
 
@@ -14124,7 +14128,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Can be either felony or misdemeanor depending on the relationship" },
     { id: "D", text: "Civil matter" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC Section 8.12; PC 21.12(b)"
 },
 
@@ -14137,7 +14141,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Call for medical assistance" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Criminal Investigation, Section 32.49"
 },
 
@@ -14163,7 +14167,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "District Clerk" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CCP Section 9.2; CCP 2.12"
 },
 
@@ -14176,7 +14180,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Deputy Sheriff" },
     { id: "D", text: "Police Officer" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Traffic Section 22.2; TC 541.002"
 },
 
@@ -14189,7 +14193,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "750" },
     { id: "D", text: "1,000" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Traffic Section 22.5; HSC 365.012(a)"
 },
 
@@ -14202,7 +14206,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Harbor, build, entice" },
     { id: "D", text: "Educate, obtain, transport" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Missing & Exploited Children, page 105; Section 18.11"
 },
 
@@ -14215,7 +14219,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A constable" },
     { id: "D", text: "Only the Sheriff" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Arrest, Search, & Seizure Section 10.4; CCP 18.16"
 },
 
@@ -14228,7 +14232,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Hostility and resentment" },
     { id: "D", text: "Professional confidence" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Victims of Crime, Section 20.1. The range of the crisis reaction includes shock, depression and loneliness, panic, hostility and resentment, hope, emotion, physical symptoms of distress, guilt, inability to resume normal activities, and affirming reality."
 },
 
@@ -14241,7 +14245,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The passenger compartment of a motor vehicle may be searched incident to arrest of an occupant only if the officer can demonstrate reason to believe evidence of the crime of arrest will be found in the vehicle" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Arrest, Search & Seizure Section 10.9; CCP 18.01"
 },
 
@@ -14254,7 +14258,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Drivers and passengers should be advised that an officer may conduct a non-consensual search based on an officer's investigation that the subject has committed or is about to commit a criminal act" },
     { id: "D", text: "Drivers, passengers, and other citizens should receive instruction on how to respond if they believe that an officer has acted inappropriately during a traffic stop or other officer/citizen encounter" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Civilian Interaction, Section 37.6"
 },
 
@@ -14267,7 +14271,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Psychosis" },
     { id: "D", text: "Bipolar Disorder" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CIT, Section 29.20"
 },
 
@@ -14280,7 +14284,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Stolen vehicle reports" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Criminal Investigation, Section 32.14"
 },
 
@@ -14293,7 +14297,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Red or amber or a color between white and amber" },
     { id: "D", text: "Amber or white or a color between red and amber" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "TC 547.323(d); Traffic Section 22.17"
 },
 
@@ -14306,7 +14310,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "CDL B" },
     { id: "D", text: "CDL A" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TC 522.003 #3 & #5; Traffic Section 22.7"
 },
 
@@ -14319,7 +14323,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Any place the signal is visible" },
     { id: "D", text: "No longer legally allowed to give hand and arm signals" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "TC 545.107(1); Traffic Section 22.10"
 },
 
@@ -14332,7 +14336,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Criminal Mischief" },
     { id: "D", text: "Criminal Trespass" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC Section 8.17; PC 30.05(a)(b)(2)(B)"
 },
 
@@ -14345,7 +14349,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Race or ethnicity" },
     { id: "D", text: "Nationality" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Racial Profiling Section 6.1; TC 543.202(a)"
 },
 
@@ -14358,7 +14362,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "6, 5, 3" },
     { id: "D", text: "3, 3, 6" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Traffic Section 22.15; TC 545.412(a)"
 },
 
@@ -14371,7 +14375,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "States' Rights" },
     { id: "D", text: "Writ of Habeas Corpus" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "US & TX Constitution Section 7.1; Article I, Section 9, Clause 2; CCP Art. 1.08"
 },
 
@@ -14384,7 +14388,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Might" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Consular Notification, Section 13.1"
 },
 
@@ -14397,7 +14401,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Inconsistent" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CIT Section 29.19"
 },
 
@@ -14410,7 +14414,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Status offense" },
     { id: "D", text: "Delinquent conduct" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "FC & JI, Section 33.3; FC 51.03(1)"
 },
 
@@ -14423,7 +14427,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "To compel by physical, moral, or intellectual means" },
     { id: "D", text: "The minimum amount of lawful aggression sufficient to achieve legitimate law enforcement objectives" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Force Options, Section 28.1"
 },
 
@@ -14436,7 +14440,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The entire person" },
     { id: "D", text: "Any of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC Section 8.17; PC 30.04(b)"
 },
 
@@ -14449,7 +14453,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Improper Influence" },
     { id: "D", text: "Bribery" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC Section 8.17; PC 36.03(a)(1)"
 },
 
@@ -14462,7 +14466,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Conducting oneself in a manner that promotes public trust" },
     { id: "D", text: "Using personal opinions or biases to influence official decisions" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Professionalism & Ethics, Section 1.3. Professionalism requires ethical conduct, competence, accountability, and maintaining public trust. Personal bias should not influence official actions."
 },
 
@@ -14475,7 +14479,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Public lewdness" },
     { id: "D", text: "Disorderly conduct" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC Section 8.12; PC 21.12(a)(1)"
 },
 
@@ -14488,7 +14492,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Texas Commission on Law Enforcement Field Services Section" },
     { id: "D", text: "Texas Division of Emergency Management" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "TCIC/TLETS Section 36.4"
 },
 
@@ -14501,7 +14505,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "45" },
     { id: "D", text: "50" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Traffic Section 22.1; TC 541.201 #8"
 },
 
@@ -14514,7 +14518,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "11 whole days" },
     { id: "D", text: "15 whole days" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Arrest, Search & Seizure Section 10.9; CCP 18.07(a)(1)"
 },
 
@@ -14527,7 +14531,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Responsible" },
     { id: "D", text: "Immune" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Family Code & Related Assaultive Offenses, Section 17.14; FC 262.003"
 },
 
@@ -14540,7 +14544,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The Sheriff" },
     { id: "D", text: "The County Judge" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP Section 9.3; CCP Art. 2.17"
 },
 
@@ -14553,7 +14557,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The intrusion of any part of the body or any physical object attached to the body" },
     { id: "D", text: "A bullet is fired into a building or residence" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC Section 8.17; PC 30.02(b)(1) & (2)"
 },
 
@@ -14566,7 +14570,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Evidence search" },
     { id: "D", text: "Trace search" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Criminal Investigations, Section 32.28"
 },
 
@@ -14579,7 +14583,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Arson" },
     { id: "D", text: "Graffiti" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC Section 8.15; PC 28.08(a)(1), (2), & (3)"
 },
 
@@ -14592,7 +14596,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Search the seating or carrying area before and after transporting" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Arrest & Control, Section 31.16; Civil Process, Section 14.1"
 },
 
@@ -14605,7 +14609,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Divide" },
     { id: "D", text: "Focus" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "SFST Manual; TDCAA"
 },
 
@@ -14618,7 +14622,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Arresting the person protected by a court order who invites the prohibited person to her residence in violation of the protective order" },
     { id: "D", text: "A man named in a protective order returns to his home and wants to speak to his wife in violation of a protective order" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Family Violence & RAO Section 17.6; CCP Art. 14.03"
 },
 
@@ -14631,7 +14635,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Driver's Date of Birth" },
     { id: "D", text: "None of the Above" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Traffic Section 22.35"
 },
 
@@ -14644,7 +14648,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Forgery" },
     { id: "D", text: "Counterfeiting" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC Section 8.19; PC 32.21"
 },
 
@@ -14657,7 +14661,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Assault and battery with a weapon" },
     { id: "D", text: "Attempted murder" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC Section 8.16; PC 29.03"
 },
 {
@@ -14669,7 +14673,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Intoxication manslaughter" },
     { id: "D", text: "Assembling or operating an amusement ride while intoxicated" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC Section 8.33; PC 49.08(a)(1)(2)"
 },
 
@@ -14682,7 +14686,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Arresting persons engaged" },
     { id: "D", text: "Both A & C" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CCP Section 9.6; Patrol Skills Section 35.29; CCP Art. 8.04"
 },
 
@@ -14695,7 +14699,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Pre-flight inspection" },
     { id: "D", text: "Pre-shift vehicle inspection" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Professional Police Driving, Section 34.8"
 },
 
@@ -14708,7 +14712,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Terry v. Ohio" },
     { id: "D", text: "Payton v. New York" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Arrest, Search & Seizure, Section 10.1"
 },
 
@@ -14721,7 +14725,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "As part of an agreed settlement to a commission action" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TCOLE Rules 4.8; Texas Administrative Code 223.13(a)(1)(2)(3)"
 },
 
@@ -14734,7 +14738,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Disfigurement or deformity" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Criminal Investigation Section 32.15; PC Section 8.13; PC 22.04"
 },
 
@@ -14747,7 +14751,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Poor balance" },
     { id: "D", text: "Inattention" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "TBI Section 30.16, page 12 of 34"
 },
 
@@ -14760,7 +14764,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Rights" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Force Options, Section 28.6"
 },
 
@@ -14773,7 +14777,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "4000" },
     { id: "D", text: "5000" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Professional Policing, Section 2.6; Government Code Chapter 28.003(a); US & TX Constitution Section 7.5"
 },
 
@@ -14786,7 +14790,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "4th" },
     { id: "D", text: "7th" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Force Options, Section 28.2"
 },
 
@@ -14799,7 +14803,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Near" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Patrol Skills, Section 35.9"
 },
 
@@ -14812,7 +14816,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Criminal Trespass" },
     { id: "D", text: "Disorderly Conduct" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Texas Penal Code §28.08(a). A person commits Graffiti if, without the effective consent of the owner, the person intentionally or knowingly makes markings, inscriptions, slogans, drawings, or paintings on the tangible property of the owner with paint, an indelible marker, or a similar device. Because the suspect spray painted a nickname on the wall of the business without consent, the offense is Graffiti."
 },
 
@@ -14825,7 +14829,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Unreasonable" },
     { id: "D", text: "Deadly" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Force Options, Section 28.1; PC 9.01 #3"
 },
 
@@ -14838,7 +14842,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Equal Protection" },
     { id: "D", text: "A & C are correct" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "US & TX Constitution, Section 7.1"
 },
 
@@ -14851,7 +14855,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Jail" },
     { id: "D", text: "Penitentiary" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC Section 8.2; PC 1.07 #37"
 },
 
@@ -14864,7 +14868,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Sheriffs and constables only" },
     { id: "D", text: "A magistrate" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Arrest, Search & Seizure, Section 10.4; CCP Art. 14.02"
 },
 
@@ -14877,7 +14881,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Reckless" },
     { id: "D", text: "Criminal intent" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC Section 8.4; PC 6.03"
 },
 
@@ -14890,7 +14894,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Do not give food or drink" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Emergency Medical Assistance, Section 40.5"
 },
 
@@ -14903,7 +14907,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "5th Amendment" },
     { id: "D", text: "2nd Amendment" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Human Trafficking, Section 21.4"
 },
 
@@ -14916,7 +14920,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Green" },
     { id: "D", text: "White" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Traffic Section 22.1; TC 541.201; Texas Administrative Code Rule 14.52(b)(1)"
 },
 
@@ -14929,7 +14933,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Chemistry, Biology, Radiology, Nuclear, Explosive" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "HazMat, Section 42.1"
 },
 
@@ -14942,7 +14946,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Driving in Violation of Restriction" },
     { id: "D", text: "None of the above, since the driver has a valid license" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Traffic Section 22.7; TC 521.025"
 },
 
@@ -14955,7 +14959,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "No Contest" },
     { id: "D", text: "Mistrial" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "US & TX Constitution Section 7.1; CCP Art. 1.10"
 },
 
@@ -14968,7 +14972,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "When a farm tractor strikes a motor vehicle parked on the shoulder of a roadway" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Traffic Section 22.31; TC 550.041 & 550.062"
 },
 
@@ -14981,7 +14985,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "13" },
     { id: "D", text: "16" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC Section 8.5; PC 8.07"
 },
 
@@ -14994,7 +14998,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "AMBER" },
     { id: "D", text: "SILVER" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Radio Communications / TCIC-TLETS, Section 36.6"
 },
 
@@ -15007,7 +15011,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Drug abuse" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Health & Safety Code Section 15.1; HSC 481.002 #21"
 },
 
@@ -15020,7 +15024,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Place in recovery position" },
     { id: "D", text: "Wait for EMS" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Emergency Medical Assistance, Section 40.3"
 },
 
@@ -15033,7 +15037,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Class A Misdemeanor" },
     { id: "D", text: "State Jail Felony" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Traffic Section 21.31; TC 550.024(b)(2)"
 },
 
@@ -15046,7 +15050,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Fairness" },
     { id: "D", text: "Judgmental mindset" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Professional Policing, Section 2.7"
 },
 
@@ -15059,7 +15063,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Class A misdemeanor" },
     { id: "D", text: "No offense" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC Section 8.27; PC 42.13(a) & (c); Criminal Investigation Section 32.45"
 },
 
@@ -15072,7 +15076,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Condition Orange" },
     { id: "D", text: "Condition Red" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Patrol Skills, Section 35.3. Condition Yellow means an officer is alert to surroundings and paying attention to noises, movement, smells, and the actions of others. The course specifically states that Condition Yellow is a lifetime commitment for peace officers."
 },
 
@@ -15085,7 +15089,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Personal compensatory, punitive civil and criminal actions, as well as personal rights violations" },
     { id: "D", text: "Only agency liability under the master-servant rule" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Force Options, Sections 28.17 & 28.18"
 },
 
@@ -15098,7 +15102,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Attachment" },
     { id: "D", text: "Detainer" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Civil Process, Section 14.6"
 },
 
@@ -15111,7 +15115,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Picking a target" },
     { id: "D", text: "Disposal of property" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Criminal Investigation, Section 32.7"
 },
 
@@ -15124,7 +15128,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Motorcycle and moped" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Traffic Section 22.7; TC 521.084 & 521.224"
 },
 
@@ -15137,7 +15141,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Drones" },
     { id: "D", text: "Both A & B" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Civilian Interaction, Section 37.7"
 },
 
@@ -15150,7 +15154,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Lineage" },
     { id: "D", text: "Household" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Family Violence & Related Assaultive Offenses, Section 17.7; FC 71.003"
 },
 
@@ -15163,7 +15167,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The driver and passengers are questioned about matters unrelated to the traffic violation" },
     { id: "D", text: "All of the above are typical of racial profiling stops" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Racial Profiling, Section 6.4"
 },
 
@@ -15176,7 +15180,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Capital murder" },
     { id: "D", text: "Manslaughter" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC Section 8.9; PC 19.05"
 },
 
@@ -15189,7 +15193,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "20 mph" },
     { id: "D", text: "25 mph" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "TC 545.361; Traffic Section 22.14"
 },
 
@@ -15202,7 +15206,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Improper Influence" },
     { id: "D", text: "Interference with public duty" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Professionalism & Ethics, Section 1.6; PC 36.02(a)(3)"
 },
 
@@ -15215,7 +15219,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "To obtain proof beyond a reasonable doubt" },
     { id: "D", text: "To identify all involved parties for later investigation" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Arrest, Search & Seizure, Section 10.3"
 },
 
@@ -15228,7 +15232,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Sixth Amendment" },
     { id: "D", text: "Tenth Amendment" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "US & TX Constitution, Section 7.1"
 },
 
@@ -15241,7 +15245,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Professional" },
     { id: "D", text: "Facilitator" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Verbal Communication, Section 25.2"
 },
 
@@ -15254,7 +15258,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Manslaughter" },
     { id: "D", text: "Murder" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Criminal Investigation Section 32.15; PC 19.05"
 },
 
@@ -15267,7 +15271,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "10" },
     { id: "D", text: "5" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Interacting with Deaf & Hard of Hearing, Section 38.1"
 },
 
@@ -15280,7 +15284,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Prosecution of offenses" },
     { id: "D", text: "Punishment of offenses" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CCP Art. 1.03; CCP Section 9.1"
 },
 
@@ -15293,7 +15297,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Attempted murder" },
     { id: "D", text: "Attempted manslaughter" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 15.01 & 19.02; PC Sections 8.8 & 8.9"
 },
 
@@ -15306,7 +15310,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "16" },
     { id: "D", text: "17" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "TC 521.223; Traffic Section 22.7"
 },
 
@@ -15319,7 +15323,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Stopped" },
     { id: "D", text: "Effective Custody" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC Section 8.25; PC 38.01 #1"
 },
 
@@ -15332,7 +15336,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Fourteen" },
     { id: "D", text: "Fifteen" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC Section 8.13; PC 22.041(b)"
 },
 
@@ -15345,7 +15349,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Obstruction/Retaliation" },
     { id: "D", text: "Bribery" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC Section 8.23; PC 36.06(a)(2)(A)"
 },
 
@@ -15358,7 +15362,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Concise" },
     { id: "D", text: "Complete" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Written Communications, Section 23.10"
 },
 
@@ -15371,7 +15375,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Can be either felony or misdemeanor depending on relationship" },
     { id: "D", text: "Civil matter" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC Section 8.12; PC 21.12(b)"
 },
 
@@ -15384,7 +15388,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Call for medical assistance" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Criminal Investigation, Section 32.49"
 },
 
@@ -15397,7 +15401,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "No offense" },
     { id: "D", text: "An infraction" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "ABC 106.03(c) provides that the offense of Sale to Minors is a Class A misdemeanor."
 },
 
@@ -15410,7 +15414,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "District Clerk" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CCP Section 9.2; CCP 2.12"
 },
 
@@ -15423,7 +15427,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Deputy Sheriff" },
     { id: "D", text: "Police Officer" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Traffic Section 22.2; TC 541.002"
 },
 
@@ -15436,7 +15440,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "750" },
     { id: "D", text: "1,000" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Traffic Section 22.5; HSC 365.012(a)"
 },
 
@@ -15449,7 +15453,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Harbor, build, entice" },
     { id: "D", text: "Educate, obtain, transport" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Missing & Exploited Children, page 105; Section 18.11"
 },
 
@@ -15462,7 +15466,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A constable" },
     { id: "D", text: "Only the Sheriff" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Arrest, Search & Seizure, Section 10.4; CCP 18.16"
 },
 
@@ -15475,7 +15479,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Poor judgment" },
     { id: "D", text: "Improved decision-making ability" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Victims of Crime, Section 20.1. Additional psychological responses to trauma include memory problems, intrusive thoughts, flashbacks, poor judgment, and difficulty making decisions."
 },
 
@@ -15488,7 +15492,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The passenger compartment of a motor vehicle may be searched incident to arrest if the officer has reason to believe evidence of the offense may be found" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Arrest, Search & Seizure, Section 10.9; CCP 18.01"
 },
 
@@ -15501,7 +15505,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "An officer may conduct a non-consensual search when facts support criminal activity" },
     { id: "D", text: "Drivers, passengers, and citizens should receive instruction on how to respond if they believe an officer acted inappropriately" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Civilian Interaction, Section 37.6"
 },
 
@@ -15514,7 +15518,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Psychosis" },
     { id: "D", text: "Bipolar Disorder" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CIT, Section 29.20"
 },
 
@@ -15527,7 +15531,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Stolen vehicle reports" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Criminal Investigation, Section 32.14"
 },
 
@@ -15540,7 +15544,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Red or amber or a color between white and amber" },
     { id: "D", text: "Amber or white or a color between red and amber" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "TC 547.323(d); Traffic Section 22.17"
 },
 
@@ -15553,7 +15557,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "CDL B" },
     { id: "D", text: "CDL A" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TC 522.003 #3 & #5; Traffic Section 22.7"
 },
 
@@ -15566,7 +15570,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Any place the signal is visible" },
     { id: "D", text: "No longer legally allowed to give hand and arm signals" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "TC 545.107(1); Traffic Section 22.10"
 },
 
@@ -15579,7 +15583,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Criminal Mischief" },
     { id: "D", text: "Criminal Trespass" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC Section 8.17; PC 30.05(a)(b)(2)(B)"
 },
 
@@ -15592,7 +15596,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Race or ethnicity" },
     { id: "D", text: "Nationality" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Racial Profiling Section 6.1; TC 543.202(a)"
 },
 
@@ -15605,7 +15609,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "6, 5, 3" },
     { id: "D", text: "3, 3, 6" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Traffic Section 22.15; TC 545.412(a)"
 },
 
@@ -15618,7 +15622,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "States' Rights" },
     { id: "D", text: "Writ of Habeas Corpus" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "US & TX Constitution Section 7.1; Article I, Section 9, Clause 2; CCP Art. 1.08"
 },
 
@@ -15631,7 +15635,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Might" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Consular Notification, Section 13.1"
 },
 
@@ -15644,7 +15648,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Inconsistent" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CIT Section 29.19"
 },
 
@@ -15657,7 +15661,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Status offense" },
     { id: "D", text: "Delinquent conduct" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Family Code & Juvenile Issues, Section 33.3; FC 51.03(1)"
 },
 
@@ -15670,7 +15674,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "To compel by physical, moral, or intellectual means" },
     { id: "D", text: "The minimum amount of lawful aggression sufficient to achieve legitimate law enforcement objectives" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Force Options, Section 28.1"
 },
 
@@ -15683,7 +15687,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The entire person" },
     { id: "D", text: "Any of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC Section 8.17; PC 30.04(b)"
 },
 
@@ -15696,7 +15700,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Improper Influence" },
     { id: "D", text: "Bribery" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC Section 8.17; PC 36.03(a)(1)"
 },
 
@@ -15709,7 +15713,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The occupation that one professes to be skilled in and to follow" },
     { id: "D", text: "None of the above defines ethics" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Professionalism & Ethics, Section 1.3"
 },
 
@@ -15722,7 +15726,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Public lewdness" },
     { id: "D", text: "Disorderly conduct" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC Section 8.12; PC 21.12(a)(1)"
 },
 
@@ -15735,7 +15739,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Texas Commission on Law Enforcement Field Services Section" },
     { id: "D", text: "Texas Division of Emergency Management" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "TCIC/TLETS Section 36.4"
 },
 
@@ -15748,7 +15752,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "45" },
     { id: "D", text: "50" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Traffic Section 22.1; TC 541.201 #8"
 },
 
@@ -15761,7 +15765,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "11 whole days" },
     { id: "D", text: "15 whole days" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Arrest, Search, & Seizure Section 10.9; CCP 18.07(a)(1)"
 },
 
@@ -15774,7 +15778,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Responsible" },
     { id: "D", text: "Immune" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Family Code & Related Assaultive Offenses Section 17.14; FC 262.003"
 },
 
@@ -15787,7 +15791,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The Sheriff" },
     { id: "D", text: "The County Judge" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP Section 9.3; CCP Art. 2.17"
 },
 
@@ -15800,7 +15804,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The intrusion of any part of the body or any physical object attached to the body" },
     { id: "D", text: "A bullet is fired into a building or residence" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC Section 8.17; PC 30.02(b)(1) & (2)"
 },
 
@@ -15813,7 +15817,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Evidence search" },
     { id: "D", text: "Trace search" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Criminal Investigations, Section 32.28"
 },
 
@@ -15826,7 +15830,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Arson" },
     { id: "D", text: "Graffiti" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC Section 8.15; PC 28.08(a)(1), (2), & (3)"
 },
 
@@ -15839,7 +15843,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Search the seating or carrying area before and after transporting" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Arrest & Control, Section 31.16; Civil Process, Section 14.1"
 },
 
@@ -15852,7 +15856,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Divide" },
     { id: "D", text: "Focus" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "SFST Manual; TDCAA"
 },
 
@@ -15865,7 +15869,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Arresting the person protected by a court order who invites the prohibited person to her residence in violation of the protective order" },
     { id: "D", text: "A man named in a protective order returns to his home and wants to speak to his wife in violation of the protective order" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Family Violence & RAO Section 17.6; PC 25.07; CCP Art. 14.03"
 },
 
@@ -15878,7 +15882,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Driver's Date of Birth" },
     { id: "D", text: "None of the Above" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Traffic Section 22.35"
 },
 
@@ -15891,7 +15895,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Forgery" },
     { id: "D", text: "Counterfeiting" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC Section 8.19; PC 32.21"
 },
 
@@ -15904,7 +15908,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Assault and battery with a weapon" },
     { id: "D", text: "Attempted murder" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC Section 8.16; PC 29.03"
 },
 
@@ -15917,7 +15921,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Theft of service" },
     { id: "D", text: "No offense because there was a rental contract" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC Section 8.18; PC 31.04(a)(3)"
 },
 
@@ -15930,7 +15934,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Intoxication manslaughter" },
     { id: "D", text: "Assembling or operating an amusement ride while intoxicated" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC Section 8.33; PC 49.08(a)(1)(2)"
 },
 
@@ -15943,7 +15947,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Arresting persons engaged" },
     { id: "D", text: "Both A & C" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CCP Section 9.6; Patrol Skills Section 35.29; CCP Art. 8.04"
 },
 
@@ -15956,7 +15960,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Pre-flight inspection" },
     { id: "D", text: "Pre-shift vehicle inspection" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Professional Police Driving, Section 34.8"
 },
 
@@ -15969,7 +15973,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Terry v. Ohio" },
     { id: "D", text: "Payton v. New York" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Arrest, Search & Seizure, Section 10.1"
 },
 
@@ -15982,7 +15986,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "As part of an agreed settlement to a commission action" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TCOLE Rules 4.8; Texas Administrative Code 223.13(a)(1), (2), & (3)"
 },
 
@@ -15995,7 +15999,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Disfigurement or deformity" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Criminal Investigation Section 32.15; PC Section 8.13; Family Violence & RAO Section 17.6; PC 22.04"
 },
 
@@ -16008,7 +16012,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Poor balance" },
     { id: "D", text: "Inattention" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "TBI Section 30.16, page 12 of 34"
 },
 
@@ -16021,7 +16025,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Rights" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Force Options, Section 28.6"
 },
 
@@ -16034,7 +16038,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "4000" },
     { id: "D", text: "5000" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Professional Policing, Section 2.6; Government Code Chapter 28.003(a); US & TX Constitution Section 7.5"
 },
 
@@ -16047,7 +16051,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "4th Amendment" },
     { id: "D", text: "7th Amendment" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Force Options, Section 28.2"
 },
 
@@ -16060,7 +16064,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Near" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Patrol Skills, Section 35.9"
 },
 
@@ -16073,7 +16077,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Criminal trespass" },
     { id: "D", text: "Burglary of habitation" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC Section 8.15; PC 28.03(a)(1)(b)(4)(C)(i)"
 },
 
@@ -16086,7 +16090,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Unreasonable" },
     { id: "D", text: "Deadly" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Force Options, Section 28.1; PC 9.01 #3"
 },
 
@@ -16099,7 +16103,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Equal Protection" },
     { id: "D", text: "A & C are correct" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "US & TX Constitution, Section 7.1"
 },
 
@@ -16112,7 +16116,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Jail" },
     { id: "D", text: "Penitentiary" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC Section 8.2; PC 1.07 #37"
 },
 
@@ -16125,7 +16129,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Sheriffs and constables only" },
     { id: "D", text: "A magistrate" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Arrest, Search & Seizure, Section 10.4; CCP Art. 14.02"
 },
 
@@ -16138,7 +16142,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Reckless" },
     { id: "D", text: "Criminal intent" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC Section 8.4; PC 6.03"
 },
 
@@ -16151,7 +16155,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Do not give food or drink" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Emergency Medical Assistance, Section 40.5"
 },
 
@@ -16164,7 +16168,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "5th Amendment" },
     { id: "D", text: "2nd Amendment" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Human Trafficking, Section 21.4"
 },
 
@@ -16177,7 +16181,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Green" },
     { id: "D", text: "White" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Traffic Section 22.1; TC 541.201; Texas Administrative Code Rule 14.52(b)(1)"
 },
 
@@ -16190,7 +16194,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Chemistry, Biology, Radiology, Nuclear, Explosive" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "HazMat, Section 42.1"
 },
 
@@ -16203,7 +16207,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Driving in Violation of Restriction" },
     { id: "D", text: "None of the above, since the driver has a valid license" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Traffic Section 22.7; TC 521.025"
 },
 
@@ -16216,7 +16220,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "No Contest" },
     { id: "D", text: "Mistrial" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "US & TX Constitution Section 7.1; CCP Art. 1.10"
 },
 
@@ -16229,7 +16233,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "When a farm tractor strikes a motor vehicle parked on the shoulder of a roadway" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Traffic Section 22.31; TC 550.041 & 550.062"
 },
 
@@ -16242,7 +16246,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "13" },
     { id: "D", text: "16" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC Section 8.5; PC 8.07"
 },
 
@@ -16255,7 +16259,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "AMBER" },
     { id: "D", text: "SILVER" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Radio Communications / TCIC-TLETS, Section 36.6"
 },
 
@@ -16268,7 +16272,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Drug abuse" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Health & Safety Code Section 15.1; HSC 481.002 #21"
 },
 
@@ -16281,7 +16285,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Place in recovery position" },
     { id: "D", text: "Wait for EMS" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Emergency Medical Assistance, Section 40.3"
 },
 
@@ -16294,7 +16298,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Class A Misdemeanor" },
     { id: "D", text: "State Jail Felony" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Traffic Section 21.31; TC 550.024(b)(2)"
 },
 
@@ -16307,7 +16311,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The surrounding environment, background, buildings, and vehicles" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Arrest and Control Procedures, Section 31.8; PC 9.32, 9.33, 9.51(a), 9.51(g); Force Options 28.3; Tennessee v. Garner"
 },
 
@@ -16320,7 +16324,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "400" },
     { id: "D", text: "500" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TC 545.102; Traffic Section 22.10"
 },
 
@@ -16333,7 +16337,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "May" },
     { id: "D", text: "At his discretion" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CCP Art. 59.05(e); Asset Forfeiture Section 11.2"
 },
 
@@ -16346,7 +16350,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Use the Taser when you are unable to use deadly force due to surroundings and the potential for hitting bystanders" },
     { id: "D", text: "All are true and correct statements" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Canine Encounters, Section 39.13"
 },
 
@@ -16359,7 +16363,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Within 72 hours" },
     { id: "D", text: "At the officer's convenience" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CCP Art. 15.16(a); Arrest, Search, and Seizure Section 10.7"
 },
 
@@ -16372,7 +16376,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Investigation" },
     { id: "D", text: "At the officer's convenience" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Arrest, Search, and Seizure Section 10.5"
 },
 
@@ -16385,7 +16389,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The sibling of an unborn child" },
     { id: "D", text: "The ancestor of an unborn child" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 19.06; PC 19.02; PC Section 8.9"
 },
 
@@ -16398,7 +16402,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Right to bear arms" },
     { id: "D", text: "Quartering of soldiers" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "US & TX Constitution, Section 7.1"
 },
 
@@ -16411,7 +16415,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Consider police powers and agency policy" },
     { id: "D", text: "Act, review, and re-assess" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "De-Escalation Strategies, Section 27.2"
 },
 
@@ -16424,7 +16428,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Direct patrol" },
     { id: "D", text: "Indirect patrol" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Professional Policing, Section 2.5"
 },
 
@@ -16437,7 +16441,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Hands in the back, palms facing away from each other" },
     { id: "D", text: "Hands in front, palms facing away from each other" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Arrest and Control, Section 31.12"
 },
 
@@ -16450,7 +16454,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Body movements" },
     { id: "D", text: "Direct meaning" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Verbal Communications, Section 25.13"
 },
 
@@ -16463,7 +16467,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Restrain" },
     { id: "D", text: "Compel" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 20.01 #2; PC Section 8.10"
 },
 
@@ -16476,7 +16480,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Driving while intoxicated" },
     { id: "D", text: "Assault" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 49.04; PC Section 8.33"
 },
 
@@ -16489,7 +16493,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Default" },
     { id: "D", text: "Diligent effort" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Civil Process and Liability, Section 14.6"
 },
 
@@ -16502,7 +16506,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "First" },
     { id: "D", text: "Second" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "US & TX Constitution, Section 7.1"
 },
 
@@ -16515,7 +16519,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Suspect's mental attitude" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Arrest and Control, Section 31.10"
 },
 
@@ -16528,7 +16532,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Intersection" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "TC Section 22.3; TC 541.303(a)"
 },
 
@@ -16541,7 +16545,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Shall" },
     { id: "D", text: "Should" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP Art. 17.21; Arrest, Search, and Seizure, Section 10.12"
 },
 
@@ -16554,7 +16558,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "13th Amendment" },
     { id: "D", text: "14th Amendment" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Human Trafficking, Section 21.4; pages 11, 42, and 43"
 },
 
@@ -16567,7 +16571,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Are prosecuted only in felony cases" },
     { id: "D", text: "May be charged and convicted for the same offense as the principal offender" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 7.01(a), (b), & (c)"
 },
 
@@ -16580,7 +16584,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Unlawful Possession of Firearm" },
     { id: "D", text: "No Offense" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 46.03(a)(1); PC Section 8.30"
 },
 
@@ -16593,7 +16597,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The right to indictment by a grand jury before trial" },
     { id: "D", text: "The right to be free from self-incrimination" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "US & TX Constitution Section 7.1"
 },
 
@@ -16606,7 +16610,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Request a blood specimen" },
     { id: "D", text: "Verify vehicle registration and insurance" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "SFST Training. Detection and apprehension of the intoxicated driver involves three phases: Vehicle in Motion, Personal Contact, and Pre-Arrest Screening. During Pre-Arrest Screening, the officer uses observations and standardized field sobriety testing to determine whether probable cause exists for a DWI arrest. 【1-ebb21c】"
 },
 
@@ -16619,7 +16623,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The actor is a public servant who coerces the other person to submit or participate" },
     { id: "D", text: "Any of the above are without consent" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 22.011(b)(1), (4), & (8); PC Section 8.13"
 },
 
@@ -16632,7 +16636,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Evidence" },
     { id: "D", text: "Expert Opinions" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Criminal Investigation, Section 32.1"
 },
 
@@ -16645,7 +16649,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Dangerous but not illegal" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "TC 545.419; Traffic Section 22.15"
 },
 
@@ -16658,7 +16662,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Mental Health Court" },
     { id: "D", text: "Appellate Court" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CIT Section 29.60"
 },
 
@@ -16671,7 +16675,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Civilly liable for determining whether to provide the assistance" },
     { id: "D", text: "Not civilly liable for the failure to exercise due care in deciding whether to arrest an offender" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CCP Section 9.4; CCP Art. 5.045"
 },
 
@@ -16684,7 +16688,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Photo lineups only" },
     { id: "D", text: "Any and all situations" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Criminal Investigation, Section 32.19"
 },
 
@@ -16697,7 +16701,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A reduction of referrals into mental health treatment and an increase in incarceration in jails and prisons" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CIT Section 29.54, page 44 of 49"
 },
 
@@ -16710,7 +16714,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The right to consent to the child's marriage" },
     { id: "D", text: "All of the above are rights and duties" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Family Code and Juvenile Issues Section 33.12; FC 151.001(a)(1), (3), & (6)"
 },
 
@@ -16723,7 +16727,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Lawful arrest; search must take place at the time of the arrest; the arrestee may not have the possibility of access" },
     { id: "D", text: "Lawful detention; search must take place at the time of the detention; the detainee must have the possibility of access; or there is not a likelihood of discovering offense-related evidence" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Case Law to Know Handout"
 },
 
@@ -16736,7 +16740,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Idiosyncrasy" },
     { id: "D", text: "Discrimination" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Multiculturalism & Human Relations, Section 5.1"
 },
 
@@ -16749,7 +16753,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Unlawful restraint" },
     { id: "D", text: "Endangering a child" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC Section 8.10; PC 20.04(a)(1)"
 },
 
@@ -16762,7 +16766,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Civil Matter" },
     { id: "D", text: "Federal offense" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Identity Crimes Section 12.9; PC 32.51"
 },
 
@@ -16775,7 +16779,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Unlawfully carrying a weapon" },
     { id: "D", text: "Arson" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC Section 8.15; PC 28.02(a)"
 },
 
@@ -16788,7 +16792,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Agency" },
     { id: "D", text: "Department" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 1.07 #3; PC Section 8.2"
 },
 
@@ -16801,7 +16805,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "60" },
     { id: "D", text: "120" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "37 Tex. Admin. Code 223.15 - License Suspension "
 },
 
@@ -16814,7 +16818,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Left-sided abdominal pain" },
     { id: "D", text: "The urgency to urinate" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "American Red Cross, American Heart Association, and Traffic Safety Association First Aid Courses"
 },
 
@@ -16827,7 +16831,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Direct Object" },
     { id: "D", text: "Indirect Object" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Written Communications, Section 24.1"
 },
 
@@ -16840,7 +16844,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Treason" },
     { id: "D", text: "Cruel & Unusual Punishment" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "US & TX Constitution, Section 7.1"
 },
 
@@ -16853,7 +16857,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "48 hours" },
     { id: "D", text: "72 hours" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP 14.06(a); Arrest, Search, and Seizure, Section 10.4"
 },
 
@@ -16866,7 +16870,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Cultural Differences" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Victims of Crime, Section 20.1"
 },
 
@@ -16879,7 +16883,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Attitude and distaste" },
     { id: "D", text: "Indifference and casualness" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Civilian Interaction, Section 37.4"
 },
 
@@ -16892,7 +16896,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The same thing as 'serious bodily injury' in the Penal Code" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Traffic Code 541.401 #7; TC Section 22.4"
 },
 
@@ -16905,7 +16909,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Unreasonable" },
     { id: "D", text: "Deadly" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 9.01 #3; Force Options Section 28.1"
 },
 
@@ -16918,7 +16922,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Passion" },
     { id: "D", text: "Violence" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Criminal Investigations, Section 32.15"
 },
 
@@ -16931,7 +16935,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Preserve the Peace" },
     { id: "D", text: "Serve with Honor" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Patrol Skills, Section 35.1"
 },
 
@@ -16944,7 +16948,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Color, year, modifications, body damage, any information, license plate state" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Radio Communications / Alerts / TCIC-TLETS, Section 36.3"
 },
 
@@ -16957,7 +16961,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Mental quickness, speed, rest, and nutrition" },
     { id: "D", text: "Stress relief and relaxation" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Fitness, Wellness, and Stress Management Section 3.1"
 },
 
@@ -16970,7 +16974,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "11 whole days" },
     { id: "D", text: "15 whole days" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CCP 18.07; Arrest, Search, and Seizure Section 10.9"
 },
 
@@ -16983,7 +16987,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The age of the child" },
     { id: "D", text: "The height of the child" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Traffic Section 22.15; TC 545.412"
 },
 
@@ -16996,7 +17000,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The Sheriff" },
     { id: "D", text: "The County Judge" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP 2.17; CCP Section 9.3"
 },
 
@@ -17009,7 +17013,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Road tractor" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "TC 541.301; TC Section 22.3"
 },
 
@@ -17022,7 +17026,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Messy" },
     { id: "D", text: "Hidden" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Force Options, Section 28.10"
 },
 
@@ -17035,7 +17039,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Legal authority" },
     { id: "D", text: "Do I take immediate action?" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "De-escalation Strategies, Section 27.2"
 },
 
@@ -17048,7 +17052,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Compliant" },
     { id: "D", text: "Career criminals" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CIT Section 29.5"
 },
 
@@ -17061,7 +17065,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "L" },
     { id: "D", text: "A" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Arrest and Control Procedures, Section 31.11"
 },
 
@@ -17074,7 +17078,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Enticing a child" },
     { id: "D", text: "Indecent Exposure" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 21.11(a)(2)(A); Missing and Exploited Children pages 61, 90, and 116; PC Section 8.12"
 },
 
@@ -17087,7 +17091,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "18" },
     { id: "D", text: "24" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "TC 545.303(b); Traffic Section 22.13"
 },
 
@@ -17100,7 +17104,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Fifth" },
     { id: "D", text: "Eighth" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "US & TX Constitution, Section 7.1"
 },
 
@@ -17113,7 +17117,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Fight or Flight reaction" },
     { id: "D", text: "Nail-Biting" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Victims of Crime, Section 20.1"
 },
 {
@@ -17125,7 +17129,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Rights not identified in the Constitution" },
     { id: "D", text: "Rights of the President of the United States" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "US & TX Constitution, Section 7.1"
 },
 {
@@ -17137,7 +17141,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Flash the lights, blow the horn, and move quickly into the flow of traffic" },
     { id: "D", text: "None of the above is required" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "TC 545.256(1), (2), and (3); Traffic Section 22.12"
 },
 {
@@ -17149,7 +17153,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Sexual deviance" },
     { id: "D", text: "Indecent exposure" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC Section 8.12; PC 21.08"
 },
 
@@ -17162,7 +17166,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Shall" },
     { id: "D", text: "Should" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CCP Art. 18.03; Arrest, Search, and Seizure, Section 10.9"
 },
 
@@ -17175,7 +17179,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Silver Alerts" },
     { id: "D", text: "Blue Alerts" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Radio Communications/Alerts/TCIC-TLETS, Section 36.8"
 },
 
@@ -17188,7 +17192,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "10 years to life and a fine not to exceed $10,000" },
     { id: "D", text: "10 years to life and a fine not to exceed $20,000" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 12.32; PC Section 8.6"
 },
 
@@ -17201,7 +17205,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Be aware of possible ethnic beliefs" },
     { id: "D", text: "Be aware of possible political beliefs" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Emergency Medical Assistance, Section 40.14"
 },
 
@@ -17214,7 +17218,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Vandalism" },
     { id: "D", text: "Domestic Violence" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Force Options, Section 28.14"
 },
 
@@ -17227,7 +17231,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Shall" },
     { id: "D", text: "Should" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP Art. 15.20(a); Arrest, Search, and Seizure Section 10.7"
 },
 
@@ -17240,7 +17244,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Cross-fire" },
     { id: "D", text: "Surrounding" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Patrol Skills Section 35.9"
 },
 
@@ -17253,7 +17257,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Red or amber or a color between white and amber" },
     { id: "D", text: "Amber or white or a color between red and amber" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "TC 547.323(d)(1) and (2); TC Section 22.18"
 },
 
@@ -17266,7 +17270,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Paraphernalia" },
     { id: "D", text: "Counterfeit substance" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Health and Safety Code Controlled Substance Act, Section 15.1; HSC 481.002 #16(B)"
 },
 
@@ -17279,7 +17283,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Culture" },
     { id: "D", text: "Attitude" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Multiculturalism & Human Relations, Section 5.1"
 },
 
@@ -17292,7 +17296,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Contains information obtained from a court-ordered wiretap that has not expired at the time the attorney requests the sealing of the affidavit" },
     { id: "D", text: "Both B & C" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CCP Art. 18.011(a)(1) & (2); Arrest, Search, and Seizure Section 10.9"
 },
 
@@ -17305,7 +17309,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Ask the operator to step out of the vehicle" },
     { id: "D", text: "Arrest the operator" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "SFST Manual Instructor Guide, DWI Detection Phase 2"
 },
 
@@ -17318,7 +17322,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Licensed social worker or professional counselor" },
     { id: "D", text: "Other qualified professionals" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CIT Section 29.9"
 },
 
@@ -17331,7 +17335,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Post-arrest" },
     { id: "D", text: "Jail" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CIT Section 29.59"
 },
 
@@ -17344,7 +17348,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Issue" },
     { id: "D", text: "Distribute" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Health and Safety Code Controlled Substance Act Section 15.1; HSC 481.002 #1"
 },
 
@@ -17357,7 +17361,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Notify the Department of Public Safety of the actual identity of the person arrested" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CCP Section 9.3; CCP Art. 2.28(1)(A), (2)(A), & (2)(B)"
 },
 
@@ -17370,7 +17374,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "4th" },
     { id: "D", text: "7th" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Force Options Section 28.2"
 },
 
@@ -17383,7 +17387,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Red or amber, or a color between red and amber" },
     { id: "D", text: "Yellow or white, or a color between yellow and white" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Traffic Section 22.17; TC 547.324(d)(2)"
 },
 
@@ -17396,7 +17400,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Resisting Arrest" },
     { id: "D", text: "Escape" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 38.03(a); PC Section 8.25"
 },
 
@@ -17409,7 +17413,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Penal Code" },
     { id: "D", text: "TABC Code" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 1.07 #30; PC Section 8.2"
 },
 
@@ -17422,7 +17426,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "To compel by physical, moral, or intellectual means" },
     { id: "D", text: "The minimum amount of lawful aggression sufficient to achieve legitimate law enforcement objectives" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Force Options, Section 28.1"
 },
 
@@ -17435,7 +17439,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Persons in custody make a res gestae statement admitting commission of a felony" },
     { id: "D", text: "Persons in custody waive their right to remain silent" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Arrest, Search, & Seizure, Section 10.6"
 },
 
@@ -17448,7 +17452,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Duct tape" },
     { id: "D", text: "Jail cell" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Arrest and Control Procedures, Section 31.12"
 },
 
@@ -17461,7 +17465,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Harm" },
     { id: "D", text: "Mutilation" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 1.07 #25; PC Section 8.2"
 },
 
@@ -17474,7 +17478,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Obstruction of meeting" },
     { id: "D", text: "Retaliation" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 42.05(a); PC Section 8.27"
 },
 
@@ -17487,7 +17491,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Victim's name" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Criminal Investigation Section 32.37"
 },
 
@@ -17500,7 +17504,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Tail lamp" },
     { id: "D", text: "Windshield" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "TC 547.501(a); TC Section 22.17"
 },
 
@@ -17513,7 +17517,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Quickly" },
     { id: "D", text: "Slowly" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Patrol Skills, Section 35.30"
 },
 
@@ -17527,7 +17531,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Signed by a magistrate and the magistrate's office named in the body of the warrant" },
     { id: "E", text: "All of the above are requisites of a warrant of arrest" }
   ],
-  answer: ["E"],
+  answer: "E",
   explain: "CCP 15.05(1-4); Arrest, Search, and Seizure Section 10.11"
 },
 
@@ -17540,7 +17544,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Ability to know when to move from words to force" },
     { id: "D", text: "Ability to write a report" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Force Options Section 28.15"
 },
 
@@ -17553,7 +17557,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A child of the owner may give consent" },
     { id: "D", text: "A person located in the place regardless of relationship to the property may give consent" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Arrest, Search, and Seizure"
 },
 
@@ -17566,7 +17570,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Is a mere acquiescence to authority claimed by the officer" },
     { id: "D", text: "Revoked by the person granting consent" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Arrest, Search, and Seizure"
 },
 
@@ -17579,7 +17583,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Approval" },
     { id: "D", text: "Consent" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 1.07 #11; PC Section 8.2"
 },
 
@@ -17592,7 +17596,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Is achieved through training and practice both on and off the job" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Force Options, Section 28.5"
 },
 
@@ -17605,7 +17609,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Tennessee v. Garner" },
     { id: "D", text: "Graham v. Connor" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Arrest, Search, and Seizure, Section 10.6"
 },
 
@@ -17618,7 +17622,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Freedom from self-incrimination" },
     { id: "D", text: "Trial by impartial jury" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "US & TX Constitution, Section 7.1"
 },
 
@@ -17631,7 +17635,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Public Lewdness" },
     { id: "D", text: "Indecent Exposure" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC Section 8.12; PC 21.11"
 },
 
@@ -17644,7 +17648,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The suspect uses force to avoid apprehension in resisting but merely runs away in evading" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC Section 8.25; PC 38.03 and PC 38.04"
 },
 
@@ -17657,7 +17661,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "When a child under 16 years of age is present in a crosswalk within 1000 feet of a school" },
     { id: "D", text: "When a device is actively controlling the flow of traffic including a reduced speed limit sign with applicable times" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Traffic Section 22.35; CR-100 Instructions, A child simply being present in a crosswalk within 1,000 feet of a school does not by itself make the school zone active."
 },
 
@@ -17670,7 +17674,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The individual voluntarily consents to treatment for chemical dependency in a treatment facility" },
     { id: "D", text: "All of the above are viable options" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CCP Art. 14.031(a); Arrest, Search, and Seizure, Section 10.4"
 },
 
@@ -17683,7 +17687,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "To ensure a fair trial" },
     { id: "D", text: "The certain execution of the sentence of the law when declared" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 1.02(1)(A), (B), & (C); PC Section 8.1"
 },
 
@@ -17696,7 +17700,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Take all parties involved immediately before a magistrate" },
     { id: "D", text: "Attempt to arbitrate the dispute" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CCP Art. 5.04(a); CCP Section 9.4"
 },
 
@@ -17709,7 +17713,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "20 years" },
     { id: "D", text: "Both A & B" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 12.31(a); PC Section 8.6"
 },
 
@@ -17722,7 +17726,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Giving people voice, a chance to tell their side of the story" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Professionalism & Ethics, Section 1.2"
 },
 
@@ -17735,7 +17739,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Double locking handcuffs" },
     { id: "D", text: "Radio operation" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Fitness, Wellness, Stress Management, Section 3.14"
 },
 
@@ -17748,7 +17752,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The report remains in the TCIC for twelve months" },
     { id: "D", text: "Both B & C" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Child Alert Checklist, Section 19.2"
 },
 
@@ -17761,7 +17765,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Voluntarily" },
     { id: "D", text: "Involuntarily" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC Section 8.5; PC Section 7.01"
 },
 
@@ -17774,7 +17778,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Aggravated robbery" },
     { id: "D", text: "Burglary" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 31.03(a), (b); PC Section 8.18"
 },
 
@@ -17787,7 +17791,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Emergency" },
     { id: "D", text: "Disorder" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Verbal Communication, Section 25.4"
 },
 
@@ -17800,7 +17804,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Engaging in sexual intercourse in a public place" },
     { id: "D", text: "Fighting with another in a public place" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 42.01(a)"
 },
 
@@ -17813,7 +17817,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The vehicle operator only" },
     { id: "D", text: "The child's parents even if they are not present" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "TC 545.413(a)(1), (b); TC Section 22.15"
 },
 
@@ -17826,7 +17830,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Ethnicity" },
     { id: "D", text: "Ethnocentrism" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Multiculturalism, Section 5.1"
 },
 
@@ -17839,7 +17843,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Vandalism" },
     { id: "D", text: "Graffiti" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 28.03(a)(2); PC Section 8.15"
 },
 
@@ -17852,7 +17856,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Sexual intercourse" },
     { id: "D", text: "Sexual harassment" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 43.01 #4; PC Section 8.28"
 },
 
@@ -17865,7 +17869,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "End Point Nystagmus" },
     { id: "D", text: "Distinct and Sustained Nystagmus at Maximum Deviation" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "SFST Manual"
 },
 
@@ -17878,7 +17882,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Excessive bail and cruel and unusual punishment" },
     { id: "D", text: "Extradition" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "US & TX Constitution, Section 7.1"
 },
 
@@ -17891,7 +17895,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Key role" },
     { id: "D", text: "Weapon" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "De-Escalation Strategies, Section 27.16"
 },
 
@@ -17904,7 +17908,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Intoxication" },
     { id: "D", text: "Entrapment" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 8.04(a); PC Section 8.5"
 },
 
@@ -17917,7 +17921,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The First Investigation Commission" },
     { id: "D", text: "The National Commission on Law Observance and Enforcement" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Professional Policing, Section 2.2"
 },
 
@@ -17930,7 +17934,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "25" },
     { id: "D", text: "30" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "TC 545.352(b)(1); TC Section 22.14"
 },
 
@@ -17943,7 +17947,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Extreme prejudice" },
     { id: "D", text: "Stupidity" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Multiculturalism, Section 5.1"
 },
 
@@ -17956,7 +17960,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Resource Management" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "HazMat Awareness/ICS, Section 42.12"
 },
 
@@ -17969,7 +17973,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Peace officer" },
     { id: "D", text: "Deputy Constable" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 1.07 #36; PC Section 8.2"
 },
 
@@ -17982,7 +17986,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Aggravated assault" },
     { id: "D", text: "Disorderly conduct" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC Section 8.13; PC 22.02(a)(2)"
 },
 
@@ -17995,7 +17999,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Compliance with applicable statutes and/or policy" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Professional Police Driving, Section 34.16"
 },
 
@@ -18008,7 +18012,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Liking" },
     { id: "D", text: "Consensus" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Verbal Communication, Section 25.15"
 },
 
@@ -18021,7 +18025,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "ID Crime Service Report" },
     { id: "D", text: "US Secret Service Detainer" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Identity Crimes, Section 12.11"
 },
 
@@ -18034,7 +18038,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Poor balance" },
     { id: "D", text: "Inattention" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Traumatic Brain Injury, Section 30.16, page 12 of 34"
 },
 
@@ -18047,7 +18051,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "U.S. v. Mendenhall" },
     { id: "D", text: "Brinegar v. United States" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Arrest, Search, and Seizure Section 10.2"
 },
 
@@ -18060,7 +18064,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "May not" },
     { id: "D", text: "May" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CCP Art. 8.05; Patrol Skills Section 35.29; CCP Section 9.6"
 },
 
@@ -18073,7 +18077,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Sequential" },
     { id: "D", text: "Interrelationship" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Written Communications Section 24.12"
 },
 
@@ -18086,7 +18090,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Gooseneck or fifth-wheel trailers" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TC 545.410; Texas Administrative Code Rule 21.5(a)(b)"
 },
 
@@ -18099,7 +18103,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "National Center for Missing and Exploited Citizens" },
     { id: "D", text: "National Center for Missing and Exploited Children" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Missing and Exploited Children, Section 18.2"
 },
 
@@ -18112,7 +18116,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Trap and roll" },
     { id: "D", text: "All the listed are ground techniques" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Arrest and Control Procedures, Section 31.2"
 },
 
@@ -18125,7 +18129,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Habitation" },
     { id: "D", text: "Homestead" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 30.01 #1; PC Section 8.17"
 },
 
@@ -18138,7 +18142,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Phrase of Agreement" },
     { id: "D", text: "Reassuring Phrase" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Verbal Communication, Section 25.11"
 },
 
@@ -18151,7 +18155,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "U.S. v. Mendenhall" },
     { id: "D", text: "Miranda v. Arizona" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Arrest, Search, and Seizure, Section 10.6"
 },
 
@@ -18164,7 +18168,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Yes or no questions" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Leading questions suggest the desired answer."
 },
 
@@ -18177,7 +18181,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Raised hackles can mean that a dog is extremely confident" },
     { id: "D", text: "Raised hackles can mean a dog is afraid, angry, insecure, or nervous" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Canine Encounters, Section 39.8"
 },
 
@@ -18190,7 +18194,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "5" },
     { id: "D", text: "1" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "TCOLE Rules Overview, Section 4.9; Texas Administrative Code 211.27"
 },
 
@@ -18203,7 +18207,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Liable" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CCP Art. 2.16; CCP Section 9.3"
 },
 
@@ -18216,7 +18220,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Misdemeanor and felony" },
     { id: "D", text: "Federal offenses" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CCP 17.20(a); Arrest, Search, and Seizure, Section 10.12"
 },
 
@@ -18229,7 +18233,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Amount of blood alcohol" },
     { id: "D", text: "An autopsy provides all the above listed data" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Criminal Investigation, Section 32.20"
 },
 
@@ -18242,7 +18246,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "12, 8" },
     { id: "D", text: "16, 4" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Texas Administrative Code Rule 21.4; TC 547.606"
 },
 
@@ -18255,7 +18259,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "EMS should handle all mental health calls" },
     { id: "D", text: "Mental health crises are only a problem for social workers" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CIT Section 29.2"
 },
 
@@ -18268,7 +18272,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "With one or two hands, lower half of breastbone" },
     { id: "D", text: "Two hands, center of breastbone" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CPR Manual; Medical Instructor"
 },
 
@@ -18281,7 +18285,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Copulation" },
     { id: "D", text: "Assault" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 21.01 #2; PC Section 8.12"
 },
 
@@ -18294,7 +18298,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Under no circumstances" },
     { id: "D", text: "Only if the other person is a juvenile" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 7.02(a)(1); PC Section 8.5"
 },
 
@@ -18307,7 +18311,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Obstruction" },
     { id: "D", text: "Family Violence" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 42.062; Family Violence and Related Assaultive Offenses, Section 17.6"
 },
 
@@ -18320,7 +18324,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Osabutey v. Welch" },
     { id: "D", text: "Garrity v. New Jersey" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Force Options, Section 28.16"
 },
 
@@ -18336,7 +18340,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "It is in plain sight" },
     { id: "D", text: "Never" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CCP Art. 59.03(b)(1)-(4); Asset Forfeiture Section 11.6"
 },
 
@@ -18349,7 +18353,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Move out of the line of force" },
     { id: "D", text: "Use your strength as an advantage" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Arrest and Control Procedures, Section 31.1"
 },
 
@@ -18362,7 +18366,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Debris on roadway" },
     { id: "D", text: "Nighttime" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "IRG22 §22.32, distracted driving is a driver factor/behavior"
 },
 
@@ -18375,7 +18379,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Gives or makes available an alcoholic beverage to a minor with criminal negligence" },
     { id: "D", text: "Leaves alcohol unattended where a child can acquire it and a minor consumes it" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "TABC Section 16.4; ABC 106.06(b)(1)"
 },
 
@@ -18388,7 +18392,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Control" },
     { id: "D", text: "Optional choice" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Force Options, Section 28.5"
 },
 
@@ -18401,7 +18405,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A motor vehicle that is designed to transport 15 or fewer passengers, including the driver" },
     { id: "D", text: "Is transporting hazardous materials and is required to be placarded under 49 C.F.R. Part 172, Subpart F" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TC 522.003 #5(D); Traffic Section 22.7"
 },
 
@@ -18414,7 +18418,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "5" },
     { id: "D", text: "6" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "HazMat Section 42.1"
 },
 
@@ -18427,7 +18431,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "30" },
     { id: "D", text: "45" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Property Code Chapter 24; Sec. 24.005(b)"
 },
 
@@ -18440,7 +18444,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Might" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Consular Notification Section 13.1"
 },
 
@@ -18453,7 +18457,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Criminal mischief" },
     { id: "D", text: "Bestiality" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 42.10(a)(1); PC Section 8.27"
 },
 
@@ -18466,7 +18470,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Unlawful influence" },
     { id: "D", text: "Official oppression" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 39.03; Professionalism & Ethics Sections 1.6, 1.7, 1.8"
 },
 
@@ -18479,7 +18483,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "15" },
     { id: "D", text: "10" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Missing and Exploited Children, page 124"
 },
 
@@ -18492,7 +18496,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Quiet circumstances" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Family Violence and Related Assaultive Offenses, Section 17.15"
 },
 
@@ -18505,7 +18509,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Light truck" },
     { id: "D", text: "Motor vehicle" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Transportation Code 522.101(a): CDL holders may not operate a commercial motor vehicle with any measurable or detectable alcohol in their system. This is stricter than the standard DWI laws and applies specifically to CMVs."
 },
 
@@ -18518,7 +18522,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "No more" },
     { id: "D", text: "Less or greater" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Force Options Section 28.9"
 },
 
@@ -18531,7 +18535,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Unlawful carrying of handgun by license holder" },
     { id: "D", text: "Prohibited weapon" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC Chapter 46; PC 46.02, 46.03, 46.035"
 },
 
@@ -18544,7 +18548,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Magistrate" },
     { id: "D", text: "Special Agent" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP Art. 15.03(a)(1), (2), & (3); Arrest, Search, and Seizure Section 10.7"
 },
 
@@ -18572,7 +18576,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "\"medicated\"" },
     { id: "D", text: "\"noticed\"" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CIT Section 29.28"
 },
 
@@ -18585,7 +18589,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A and B are correct answers" },
     { id: "D", text: "None are correct answers" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 39.06(a); PC Section 8.26"
 },
 
@@ -18598,7 +18602,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Writ of habeas corpus" },
     { id: "D", text: "Writ of capias" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "US & TX Constitution, Section 7.1"
 },
 
@@ -18611,7 +18615,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Forgery" },
     { id: "D", text: "Fraud" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 32.31(b)(4); PC Section 8.19"
 },
 
@@ -18624,7 +18628,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Unlawful restraint" },
     { id: "D", text: "Abduction" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 20.04(a)(1); PC Section 8.10; Family Violence & RAO Section 17.6; Missing & Exploited Children"
 },
 
@@ -18637,7 +18641,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Stressful" },
     { id: "D", text: "Frightening" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Victims of Crime Section 20.1"
 },
 
@@ -18650,7 +18654,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "An agency of the federal government that can assist a person in need" },
     { id: "D", text: "A group of people that are allowed to arrest other people" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CCP 2.132(a)(1); Racial Profiling Section 6.1"
 },
 
@@ -18663,7 +18667,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The investigator suspects intoxication was a factor in the crash" },
     { id: "D", text: "The results should always be shown regardless of the alcohol levels" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TC CR-3 Form; Traffic Section 22.35"
 },
 
@@ -18676,7 +18680,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Quick Response" },
     { id: "D", text: "Immediate Response" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Patrol Skills, Section 35.23"
 },
 
@@ -18689,7 +18693,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Dirty license plates on a clean vehicle" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Criminal Investigations, Section 32.12"
 },
 
@@ -18702,7 +18706,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "50 to 60 percent" },
     { id: "D", text: "25 to 50 percent" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Verbal Communication, Section 25.17"
 },
 
@@ -18715,7 +18719,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Actual Seizure" },
     { id: "D", text: "Understanding" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Arrest, Search, and Seizure, Section 10.4"
 },
 
@@ -18728,7 +18732,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "By sight and sound" },
     { id: "D", text: "In another building" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Family Code and Juvenile Issues, Section 33.5; FC 51.12(f)"
 },
 
@@ -18741,7 +18745,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Preserving the crime scene in the same condition as it was left by the criminal" },
     { id: "D", text: "Searching for trace evidence" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Criminal Investigation, Section 32.27"
 },
 
@@ -18754,7 +18758,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Theft under $20" },
     { id: "D", text: "Criminal trespass of a vending machine" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 30.03(a); PC Section 8.17"
 },
 
@@ -18767,7 +18771,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Distracted" },
     { id: "D", text: "Aggressive" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Health and Safety Code - Controlled Substances, Section 15.12"
 },
 
@@ -18780,7 +18784,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Stopped" },
     { id: "D", text: "Effective Custody" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 38.01 #1(A); Arrest, Search, and Seizure Section 10.4"
 },
 
@@ -18793,7 +18797,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Disabled Driver Awareness" },
     { id: "D", text: "Deaf Driver Awareness" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Interacting with Deaf or Hard of Hearing, Section 38.6"
 },
 
@@ -18806,7 +18810,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A statement allowing officers to disregard racial profiling" },
     { id: "D", text: "A definition that allows profiling with limited complaint rights" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CCP 2.132(b); Racial Profiling Section 6.1"
 },
 
@@ -18819,7 +18823,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Grand juries are required in all federal cases" },
     { id: "D", text: "Grand juries issue indictments or no-bills" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Grand jury proceedings result in indictments or no-bills."
 },
 
@@ -18832,7 +18836,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Stolen vehicle reports" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Criminal Investigations, Section 32.14"
 },
 
@@ -18845,7 +18849,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A tire deflation device" },
     { id: "D", text: "A rifle that is 26 inches long" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 46.05; PC Section 8.30"
 },
 
@@ -18858,7 +18862,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Misrepresentation of age by a minor" },
     { id: "D", text: "Attempt to purchase alcohol by a minor" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "ABC 106.025: A minor commits the offense of Attempt to Purchase Alcohol if, with the intent to purchase alcohol, the minor performs an act amounting to more than mere preparation but fails to complete the purchase. Because the sale was never completed, the offense is Attempt to Purchase Alcohol by a Minor."
 },
 
@@ -18871,7 +18875,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Head to Toe" },
     { id: "D", text: "Back to Front" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Written Communications, Section 24.7"
 },
 
@@ -18884,7 +18888,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Calm down!" },
     { id: "D", text: "What can I do to help you?" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "De-Escalation Strategies, Section 27.13"
 },
 
@@ -18897,7 +18901,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Kidnapping" },
     { id: "D", text: "Tampering with child custody" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Texas Penal Code §25.04 is titled 'Enticing a Child.' The offense concerns persuading or taking a child from lawful custody with intent to interfere with that custody. 'Tampering with child custody' is not the title of a Texas Penal Code offense."
 },
 
@@ -18910,7 +18914,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Deviate sexual intercourse" },
     { id: "D", text: "Disorderly conduct" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 21.07(a)(1); PC Section 8.12"
 },
 
@@ -18923,7 +18927,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "There are no suspects at the scene" },
     { id: "D", text: "When all evidence is collected" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Criminal Investigations, Section 32.18"
 },
 
@@ -18936,7 +18940,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Not an official traffic control device in the state of Texas" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "TC 544.008; TC Section 22.8"
 },
 
@@ -18949,7 +18953,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Only hazardous waste" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Health and Safety Code 365.011 #5; TC Section 22.5"
 },
 
@@ -18962,7 +18966,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Lineage" },
     { id: "D", text: "Household" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Family Code 71.003; Family Violence and RAO Section 17.7"
 },
 
@@ -18975,7 +18979,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Education" },
     { id: "D", text: "Mental condition" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Patrol Skills, Section 35.2"
 },
 
@@ -18988,7 +18992,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Social isolation" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Professional Policing, Section 2.9"
 },
 
@@ -19001,7 +19005,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "2, 24" },
     { id: "D", text: "4, 12" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TC 547.382(a) & (b)(1); TC Section 22.17"
 },
 
@@ -19014,7 +19018,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Disorderly Conduct" },
     { id: "D", text: "Tampering with Governmental Record" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 37.09(d)(2); Professionalism & Ethics Section 1.6"
 },
 
@@ -19027,7 +19031,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Cadaveric spasm" },
     { id: "D", text: "Post mortem lividity" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Criminal Investigation, Section 32.21"
 },
 
@@ -19040,7 +19044,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Immigration" },
     { id: "D", text: "Travel" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Human Trafficking, Section 21.1"
 },
 
@@ -19053,7 +19057,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "5000" },
     { id: "D", text: "4500" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TC 547.402(a)(3); TC Section 22.18"
 },
 
@@ -19066,7 +19070,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Hazards" },
     { id: "D", text: "Targets" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Patrol Skills, Section 35.4"
 },
 
@@ -19079,7 +19083,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Establish a system of intrastate communication" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Missing and Exploited Children, Sections 18.2 & 18.4; CCP 63.0041(a) & (b)"
 },
 
@@ -19092,7 +19096,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Non-punitive interaction with the public" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Patrol Skills, Section 35.33"
 },
 
@@ -19105,7 +19109,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Only a promise to appear in court" },
     { id: "D", text: "Acknowledgement of culpability for the offense" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "TC 543.005; TC Section 22.20"
 },
 
@@ -19118,7 +19122,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "At the point nearest the intersecting roadway where there is a view of approaching traffic if no stop line or crosswalk exists" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TC 544.010(c). A driver must stop at a clearly marked stop line, before the crosswalk if no stop line exists, or at the nearest point with a view of approaching traffic if neither exists."
 },
 
@@ -19131,7 +19135,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "American Sign Language" },
     { id: "D", text: "All Signing Language" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Interacting with Deaf or Hard of Hearing, Section 38.3"
 },
 
@@ -19157,7 +19161,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Send" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TC 545.4251(b); TC Section 22.15"
 },
 
@@ -19170,7 +19174,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Sexual assault" },
     { id: "D", text: "Indecent exposure" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 22.011(a)(2)(D); PC Section 8.13"
 },
 
@@ -19183,7 +19187,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Intoxication assault" },
     { id: "D", text: "Intoxication manslaughter" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 49.08(a)(1) & (2); PC Section 8.33"
 },
 
@@ -19196,7 +19200,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "E-mailing" },
     { id: "D", text: "Signaling" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Missing and Exploited Children, Section 18.9"
 },
 
@@ -19209,7 +19213,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Conditions" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Patrol Skills, Section 35.2"
 },
 
@@ -19222,7 +19226,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Tourniquet" },
     { id: "D", text: "Wound packing" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "EMA, Section 40.3"
 },
 
@@ -19235,7 +19239,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Secure detention facility" },
     { id: "D", text: "County jail" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Family Code and Juvenile Issues Section 33.7; CCP 45.058(c),(d)(2)"
 },
 
@@ -19248,7 +19252,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Divorce, separation, or child custody" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CIT Section 29.7"
 },
 
@@ -19261,7 +19265,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Prostitution" },
     { id: "D", text: "Compelling prostitution" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 43.03(a)(2); PC Section 8.28"
 },
 
@@ -19274,7 +19278,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Obscene display or distribution" },
     { id: "D", text: "Aggravated promotion of prostitution" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 43.04; Missing & Exploited Children"
 },
 
@@ -19287,7 +19291,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Center mass of legs" },
     { id: "D", text: "Abdomen" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Arrest and Control Procedures, Section 31.4"
 },
 
@@ -19300,7 +19304,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The impoundment of a vehicle" },
     { id: "D", text: "The suspect's rights" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "SFST Section 23.3"
 },
 
@@ -19313,7 +19317,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Awareness" },
     { id: "D", text: "Emotional control" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Arrest and Control Procedures, Section 31.1"
 },
 
@@ -19326,7 +19330,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Proper behavior for civilians and peace officers during interactions" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Civilian Interaction Section 37.2"
 },
 
@@ -19339,7 +19343,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Officer negligent conduct created a danger for himself or others" },
     { id: "D", text: "A non-supervisory officer has an affirmative duty to intervene to stop officers and/or supervisors who are engaging in excessive force in his presence" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Force Options, Section 28.18"
 },
 
@@ -19352,7 +19356,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Party" },
     { id: "D", text: "Guardian ad litem" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Family Code and Juvenile Issues Section 33.2; FC 51.02 #3"
 },
 
@@ -19365,7 +19369,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Push the ratchet into the double cheek plates of the cuff" },
     { id: "D", text: "Double-lock the handcuffs" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Arrest and Control Procedures Section 31.12"
 },
 
@@ -19378,7 +19382,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Zip gun" },
     { id: "D", text: "Firearm silencer" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 46.05(a); PC Section 8.30"
 },
 
@@ -19391,7 +19395,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "17" },
     { id: "D", text: "18" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 9.61(a)(2); Force Options Section 28.4"
 },
 
@@ -19404,7 +19408,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Not be admissible" },
     { id: "D", text: "Determined on a case by case basis" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Arrest, Search, and Seizure, Section 10.5"
 },
 
@@ -19417,7 +19421,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "4" },
     { id: "D", text: "1" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 71.01(a); PC Section 8.34"
 },
 
@@ -19430,7 +19434,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Sixth Amendment" },
     { id: "D", text: "Tenth Amendment" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "US & TX Constitution, Section 7.1"
 },
 
@@ -19443,7 +19447,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "9 percent" },
     { id: "D", text: "3 percent" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Force Options, Section 28.11"
 },
 
@@ -19456,7 +19460,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Sexual abuse" },
     { id: "D", text: "Disorderly conduct" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 42.01(a)(1); Patrol Skills Section 35.29; Family Violence & RAO Section 17.6"
 },
 
@@ -19469,7 +19473,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Left hand turns" },
     { id: "D", text: "Unsafe speed for conditions" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Professional Police Driving, Section 34.15"
 },
 
@@ -19482,7 +19486,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Ignore the feelings of others" },
     { id: "D", text: "Show a cold and uncaring demeanor" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Multiculturalism, Section 5.6"
 },
 
@@ -19495,7 +19499,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "To decelerate before making a right turn" },
     { id: "D", text: "To allow a faster moving vehicle to pass" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "TC 545.058; TC Section 22.9"
 },
 
@@ -19508,7 +19512,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Protection against mandatory self-incrimination" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "US & TX Constitution, Section 7.1"
 },
 
@@ -19521,7 +19525,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A shotgun that is less than 26 inches long" },
     { id: "D", text: "A rifle that is 26 inches long" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 46.01 #10; PC Section 8.30"
 },
 
@@ -19534,7 +19538,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Active listening" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Verbal Communication, Section 25.10"
 },
 
@@ -19547,7 +19551,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Arguing, ignoring, and answering questions" },
     { id: "D", text: "Level of comprehension, behavior, and emotion" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CIT, Section 29.45"
 },
 
@@ -19560,7 +19564,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "An actor strikes his spouse with his fists and causes a bruise" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 22.02(a)(1), (b)(2)(B)"
 },
 
@@ -19573,7 +19577,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Sixth" },
     { id: "D", text: "Fifth" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "US & TX Constitution, Section 7.1"
 },
 
@@ -19586,7 +19590,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "It is not a violation of the Transportation Code for a person to leave a door on the side of a vehicle next to moving traffic open for longer than is necessary to load or unload a passenger" },
     { id: "D", text: "None of the above statements are true" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "TC 545.418(2); TC Section 22.15"
 },
 
@@ -19599,7 +19603,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Burglary of building" },
     { id: "D", text: "Burglary of habitation" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 31.03(a), (b)(1), (e)(4)(C); PC Section 8.18"
 },
 
@@ -19612,7 +19616,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "License plates must have at least 12 inches of clearance from the ground to the bottom of the plate" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Traffic Code requirements for passenger vehicle license plate display."
 },
 
@@ -19625,7 +19629,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Status offender" },
     { id: "D", text: "Non-offender" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "FC 51.02 #2(A); Family Code and Juvenile Issues Section 33.2"
 },
 
@@ -19638,7 +19642,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Notify the Department of Public Safety of the actual identity of the person arrested" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CCP 2.28(1)(A), (2)(A) & (B); CCP Section 9.3"
 },
 
@@ -19651,7 +19655,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A vehicle becoming disabled on the roadway" },
     { id: "D", text: "A traffic citation being issued" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "TC 550.062(a). A peace officer shall make a written crash report if the accident resulted in injury or death of a person, or damage to property of any one person to the apparent extent of $1,000 or more. Traffic Section 22.30."
 },
 
@@ -19664,7 +19668,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "U.S. v. Mendenhall" },
     { id: "D", text: "Brinegar v. United States" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Arrest, Search, and Seizure Section 10.1"
 },
 
@@ -19677,7 +19681,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Are prosecuted only in felony cases" },
     { id: "D", text: "May be charged and convicted for the same offense as the principal offender" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 7.01(c); PC Section 8.5"
 },
 
@@ -19690,7 +19694,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Oppression" },
     { id: "D", text: "Duress" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 1.07 #9; PC Section 8.2"
 },
 
@@ -19703,7 +19707,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Third Degree Felony" },
     { id: "D", text: "Second Degree Felony" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TC 550.021(c)(1)(A); Traffic Section 22.31"
 },
 
@@ -19716,7 +19720,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "2-1-1 Texas" },
     { id: "D", text: "The Office of Traumatic Brain Injury" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Traumatic Brain Injury, Section 30.28, page 31 of 34"
 },
 
@@ -19729,7 +19733,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Impeding an investigation" },
     { id: "D", text: "Perjury" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 38.02(a), (b)(3); PC Section 8.25"
 },
 
@@ -19742,7 +19746,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Center / rear" },
     { id: "D", text: "Right / left" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Patrol Skills, Section 35.30, page 26 of 38"
 },
 
@@ -19755,7 +19759,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Participative" },
     { id: "D", text: "Engaged" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Verbal Communication, Section 25.2, page 2 of 31"
 },
 
@@ -19768,7 +19772,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Liable" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CCP 2.16; Civil Process and Liability, Section 14.1"
 },
 
@@ -19781,7 +19785,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "11 whole days" },
     { id: "D", text: "15 whole days" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CCP 18.07(a)(1); Arrest, Search, and Seizure, Section 10.9"
 },
 
@@ -19794,7 +19798,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "U.S. v. Mendenhall" },
     { id: "D", text: "Brinegar v. United States" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Arrest, Search, and Seizure, Section 10.2, page 3 of 11"
 },
 
@@ -19807,7 +19811,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "County" },
     { id: "D", text: "State" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP 13.38; CCP Section 9.4, page 2 of 4"
 },
 
@@ -19820,7 +19824,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Place them in recovery position" },
     { id: "D", text: "Sit them up to assist with breathing" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Emergency Medical Assistance Section 40.7: An unresponsive person who is breathing should be placed in the recovery position to help maintain an open airway and reduce the risk of choking on vomit, blood, or other fluids. Rescue breathing is not needed when normal breathing is present."
 },
 
@@ -19833,7 +19837,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Walking beats" },
     { id: "D", text: "Mobility" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Professional Policing, Section 2.2, page 1 of 16"
 },
 
@@ -19846,7 +19850,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "No right" },
     { id: "D", text: "A right to decide whether or not" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CCP 6.06; CCP Section 9.5, page 3 of 4"
 },
 
@@ -19859,7 +19863,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Post mortem lividity" },
     { id: "D", text: "Cadaveric spasm" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Criminal Investigation, Section 32.21, page 17 of 52"
 },
 
@@ -19872,7 +19876,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "On the side of the road" },
     { id: "D", text: "Wherever the officer wants" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Criminal Investigation, Section 32.45, page 36 of 52"
 },
 
@@ -19885,7 +19889,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "For three (3) whole days, exclusive of the day of issuance and the day of its execution" },
     { id: "D", text: "For any subsequent searches of the same residence, even though it has been executed previously" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP 18.07(a)(3); Arrest, Search, and Seizure, Section 10.9, page 10 of 11"
 },
 
@@ -19898,7 +19902,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Declines" },
     { id: "D", text: "Stops" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "De-Escalation Strategies, Section 27.8, page 5 of 8"
 },
 
@@ -19911,7 +19915,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Intentionally" },
     { id: "D", text: "Negligently" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Education Code 37.125(a); Patrol Skills, Section 35.29"
 },
 
@@ -19924,7 +19928,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Autopsy" },
     { id: "D", text: "Dissection" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Criminal Investigation, Section 32.20"
 },
 
@@ -19937,7 +19941,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Stun Gun" },
     { id: "D", text: "All of the above are listed" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 38.14(b); PC Section 8.25"
 },
 
@@ -19950,7 +19954,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Deals well with stress" },
     { id: "D", text: "Acts the same at home and in public" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Family Violence and Related Assaultive Offenses, Section 17.2"
 },
 
@@ -19963,7 +19967,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Actions" },
     { id: "D", text: "Gut instincts" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Force Options, Section 28.13, page 14 of 24"
 },
 
@@ -19976,7 +19980,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Aggressive" },
     { id: "D", text: "Reasonable" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Force Options, Section 28.18, page 20 of 24"
 },
 
@@ -19989,7 +19993,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Remove the tourniquet in place" },
     { id: "D", text: "Leave the tourniquet in place" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Emergency Medical Assistance, Section 40.3; TECC Guidelines"
 },
 
@@ -20002,7 +20006,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Actual Seizure" },
     { id: "D", text: "Understanding" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Arrest, Search, and Seizure, Section 10.4"
 },
 
@@ -20015,7 +20019,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Verbal skills" },
     { id: "D", text: "Driving" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Force Options, Section 28.11"
 },
 
@@ -20028,7 +20032,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "48 months" },
     { id: "D", text: "6 months" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Child Alert Checklist, Section 19.2, page 4 of 7"
 },
 
@@ -20041,7 +20045,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Weaponless Strategies" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Force Options, Section 28.9, page 9 of 24"
 },
 
@@ -20054,7 +20058,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A person uses explosives and causes the implosion of a building in the city limits" },
     { id: "D", text: "A person has a permit to burn open land" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 28.02(a)(2); PC Section 8.15, page 11 of 32"
 },
 
@@ -20067,7 +20071,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "An educational institution in which the child is enrolled" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "FC 32.001(a)(2), (4), & (8); Family Violence and RAO, Section 17.13, page 10 of 14"
 },
 
@@ -20080,7 +20084,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Building character, making individuals self-reliant, and building friendships" },
     { id: "D", text: "Reinforcing appreciation of uniqueness, encouraging respect, and understanding diversity" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Multiculturalism, Section 5.4"
 },
 
@@ -20093,7 +20097,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Criminal conspiracy" },
     { id: "D", text: "Recklessly" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 6.03(a-d); PC Section 8.4, page 1 of 32"
 },
 
@@ -20106,7 +20110,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Demonstration Control" },
     { id: "D", text: "Riot Control" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Patrol Skills, Section 35.26, page 19 of 38"
 },
 
@@ -20119,7 +20123,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Burglary of building" },
     { id: "D", text: "Criminal trespass and theft" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 30.02(a)(1); PC Section 8.17, page 12 of 32"
 },
 
@@ -20132,7 +20136,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Peers" },
     { id: "D", text: "Community" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Family Code and Juvenile Issues, Section 33.24, page 6 of 19"
 },
 
@@ -20145,7 +20149,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Sexual assault" },
     { id: "D", text: "Indecent exposure" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 22.011(a)(1), (2); (c)(1); (e)(2)(A); PC Section 8.13, page 7 of 32"
 },
 
@@ -20158,7 +20162,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Response" },
     { id: "D", text: "Strategy" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Verbal Communication, Section 25.4, page 3 of 31"
 },
 
@@ -20171,7 +20175,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Preventative" },
     { id: "D", text: "Protective" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Force Options, Section 28.5, page 6 of 24"
 },
 
@@ -20184,7 +20188,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Left hand turns" },
     { id: "D", text: "Unsafe speed for conditions" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Professional Police Driving, Section 34.15, page 6 of 10"
 },
 
@@ -20197,7 +20201,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Younger than eighteen years of age unless juvenile court waives jurisdiction" },
     { id: "D", text: "Younger than fifteen years of age unless juvenile court waives jurisdiction" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 8.07(a)(1), (b); PC Section 8.5, page 1 of 32"
 },
 
@@ -20210,7 +20214,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Program eligibility criteria" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CIT, Section 29.61, page 49 of 49"
 },
 
@@ -20223,7 +20227,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Place in recovery position" },
     { id: "D", text: "Wait for EMS" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "EMA, Section 40.3, pages 1-2 of 7"
 },
 
@@ -20236,7 +20240,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "1.5 liters" },
     { id: "D", text: "2.5 liters" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "EMA; confirmed by lead EMA instructor"
 },
 
@@ -20249,7 +20253,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Use of deadly force to stop a fleeing misdemeanant" },
     { id: "D", text: "When a suspect in a crowd waves a gun near a peace officer" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 9.05; Force Options, Section 28.2"
 },
 
@@ -20262,7 +20266,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Problem Solving" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CIT, Section 29.44, pages 36-37 of 49"
 },
 
@@ -20275,7 +20279,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "CR-80" },
     { id: "D", text: "CR-3" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "TC Section 22.35, page 25"
 },
 
@@ -20288,7 +20292,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Emotional Wellness" },
     { id: "D", text: "Common communication blunders" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Verbal Communication, Section 25.17"
 },
 
@@ -20301,7 +20305,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The passenger compartment of a motor vehicle may be searched incident to arrest if there is reason to believe evidence of the offense will be found" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Asset Forfeiture, Section 11.6, page 7 of 9"
 },
 
@@ -20314,7 +20318,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Decide whether to arrest the driver" },
     { id: "D", text: "Administer standardized field sobriety tests" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "DWI Detection Phase 1 is 'Vehicle in Motion.' During this phase, the officer observes driving behavior and vehicle operation for cues of possible impairment before initiating contact with the driver. Detection consists of three phases: Vehicle in Motion, Personal Contact, and Pre-Arrest Screening."
 },
 
@@ -20327,7 +20331,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Special Agents of the Criminal Investigation Division of the IRS" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CCP 2.122(a)(2), (7), & (9); CCP Section 9.2"
 },
 
@@ -20340,7 +20344,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "0.06" },
     { id: "D", text: "0.10" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 49.01 #2(B); PC Section 8.33"
 },
 
@@ -20353,7 +20357,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Heart disease" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CIT, Section 29.11"
 },
 
@@ -20366,7 +20370,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "6th" },
     { id: "D", text: "8th" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "US & TX Constitution, Section 7.1"
 },
 
@@ -20379,7 +20383,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Felony" },
     { id: "D", text: "Misdemeanor or felony" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CCP 14.01(b); Arrest, Search, and Seizure, Section 10.4"
 },
 
@@ -20392,7 +20396,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Arson" },
     { id: "D", text: "Criminal mischief" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 28.02(a)(2)(F); PC Section 8.15"
 },
 
@@ -20405,7 +20409,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "90" },
     { id: "D", text: "120" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "TC 502.040(a); TC Section 22.26, page 17"
 },
 
@@ -20418,7 +20422,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "State's attorney on behalf of the People" },
     { id: "D", text: "Either party may appeal" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Civil Process, Section 14.5, page 6 of 8"
 },
 
@@ -20431,7 +20435,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Aggravated robbery" },
     { id: "D", text: "Theft from person" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 29.03(a)(1); PC Section 8.16"
 },
 
@@ -20444,7 +20448,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Treason" },
     { id: "D", text: "Arrest, Search, and Seizure" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "US & TX Constitution, Section 7.1"
 },
 
@@ -20457,7 +20461,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Thefts" },
     { id: "D", text: "Stolen vehicles" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Asset Forfeiture, Section 11.9, page 9 of 9"
 },
 
@@ -20470,7 +20474,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Aggravated Promotion of Prostitution" },
     { id: "D", text: "Compelling Prostitution" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 43.02(a); PC Section 8.28"
 },
 
@@ -20483,7 +20487,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Class A misdemeanor" },
     { id: "D", text: "No offense" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 42.13(a) & (c); PC Section 8.27"
 },
 
@@ -20496,7 +20500,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Can be held in contempt of court" },
     { id: "D", text: "Receives an automatic fine of $500" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP 2.16; CCP Section 9.3, page 1 of 4"
 },
 
@@ -20509,7 +20513,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "First" },
     { id: "D", text: "Fifth" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "US & TX Constitution, Section 7.1"
 },
 
@@ -20522,7 +20526,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Identification of driver and check of conditions of violator and vehicle" },
     { id: "D", text: "Statement of action to be taken" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Patrol Skills, Section 35.15"
 },
 
@@ -20535,7 +20539,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Crisis Intervention Training" },
     { id: "D", text: "Child Abuse Training" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Texas Administrative Code 218.3(c)(1); TCOLE Rules Handbook"
 },
 
@@ -20548,7 +20552,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Arrests" },
     { id: "D", text: "Seizures" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Arrest, Search, and Seizure, Section 10.2"
 },
 
@@ -20561,7 +20565,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "750" },
     { id: "D", text: "1000" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "TC Section 22.5; HSC 365.012(a)"
 },
 
@@ -20574,7 +20578,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "4" },
     { id: "D", text: "3" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Human Trafficking, Section 21.6"
 },
 
@@ -20587,7 +20591,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "False imprisonment" },
     { id: "D", text: "Kidnapping" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 20.02(a), (c)(2)(A); PC Section 8.10"
 },
 
@@ -20600,7 +20604,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "EMS should handle all mental health calls" },
     { id: "D", text: "Mental health crises are only a problem for social workers" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CIT, Section 29.2"
 },
 
@@ -20613,7 +20617,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Customs" },
     { id: "D", text: "State court decisions" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Constitutional Law; Case Law"
 },
 
@@ -20626,7 +20630,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Write" },
     { id: "D", text: "All the Above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Consular Notification, Section 13.4"
 },
 
@@ -20639,7 +20643,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "7, 5 feet" },
     { id: "D", text: "8, 4 feet 9 inches" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TC 545.412(a); TC Section 22.15, page 9"
 },
 
@@ -20652,7 +20656,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Flasher signal" },
     { id: "D", text: "All are warning devices" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Traffic Code Section 22.32, page 23"
 },
 
@@ -20665,7 +20669,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Greatly decreases" },
     { id: "D", text: "Is not measurable" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Missing and Exploited Children, Section 18.5, page 40"
 },
 
@@ -20678,7 +20682,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The crushing of outer garments to feel for objects that may be weapons" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC Section 8.30; Civilian Interaction Section 37.6"
 },
 
@@ -20691,7 +20695,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Knowingly" },
     { id: "D", text: "Unlawfully" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 31.03(a); PC Section 8.18, page 13 of 32"
 },
 
@@ -20704,7 +20708,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A driver may never legally cross striping designed to mark a no-passing zone" },
     { id: "D", text: "A driver may not legally make a left turn into or out of an alley, private road, or driveway if crossing a no-passing zone" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "TC 545.055(b); TC Section 22.9, page 7"
 },
 
@@ -20717,7 +20721,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "FBI" },
     { id: "D", text: "DPS" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Radio Communications / Alerts / TCIC-TLETS, Section 36.9, page 6 of 7"
 },
 
@@ -20730,7 +20734,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Complete Fats" },
     { id: "D", text: "Saturated Fats" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Fitness, Section 3.7, page 11 of 49"
 },
 
@@ -20743,7 +20747,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Forgery" },
     { id: "D", text: "Issuance of Bad Check" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 32.21(b) & (d); PC Section 8.19, page 14 of 32"
 },
 
@@ -20757,7 +20761,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
         { id: "C", text: "12 breaths per minute" },
         { id: "D", text: "As many breaths as possible" }
     ],
-    answer: ["C"],
+    answer: "C",
     explain: "Basic Life Support (BLS). Adult rescue breathing should be provided at a rate of approximately 1 breath every 5 to 6 seconds, or about 10-12 breaths per minute."
 },
 
@@ -20770,7 +20774,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Lack of confidence" },
     { id: "D", text: "All of the Above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Verbal Communication, Section 25.3, page 3 of 31"
 },
 
@@ -20783,7 +20787,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Class C misdemeanor" },
     { id: "D", text: "Third-degree felony" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "HSC 481.121; Health & Safety Code Section 15.3, page 2 of 6"
 },
 
@@ -20796,7 +20800,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The taking of an object from outside the vehicle" },
     { id: "D", text: "Any part of the body or anything attached to the body" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 30.04(b)(1) & (2); PC Section 8.17, page 12 of 32"
 },
 
@@ -20809,7 +20813,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "94%" },
     { id: "D", text: "97%" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Force Options, Section 28.11, page 11 of 24"
 },
 
@@ -20822,7 +20826,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Mind over matter" },
     { id: "D", text: "Strength" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Arrest and Control Procedures, Section 31.1, page 1 of 13"
 },
 
@@ -20835,7 +20839,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Contact Team" },
     { id: "D", text: "Response Team" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Patrol Skills, Section 35.24, page 18 of 38"
 },
 
@@ -20848,7 +20852,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Shall" },
     { id: "D", text: "Should" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP 17.21; Arrest, Search, and Seizure, Section 10.12"
 },
 
@@ -20861,7 +20865,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Limited to situations where the officer or an innocent third party is physically threatened" },
     { id: "D", text: "A matter of departmental policy and authorized only with specific supervisory permission in each case" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 9.33(1) & (2); Force Options, Section 28.3; Tennessee v. Garner"
 },
 
@@ -20875,7 +20879,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "20th" },
     { id: "E", text: "30th" }
   ],
-  answer: ["E"],
+  answer: "E",
   explain: "TC 502.407(a); TC Section 22.26"
 },
 
@@ -20888,7 +20892,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Unless the child has been reported missing by a parent" },
     { id: "D", text: "Unless the child is under age 15" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Family Code 58.008(b)(3), (f)"
 },
 
@@ -20901,7 +20905,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Prevent the other person from causing death or serious bodily injury to another" },
     { id: "D", text: "Prevent the other from committing suicide or inflicting serious bodily injury to himself" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 9.34(a); Force Options, Section 28.3"
 },
 
@@ -20914,7 +20918,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Semi-trailer" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Safety chains are required as a secondary means of attachment for trailers being towed. House trailers, farm trailers, and semitrailers are all trailer-type vehicles that must be securely connected while in tow. TC § 545.410; Traffic Code and Crash Investigations, Section 22.18."
 },
 
@@ -20927,7 +20931,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Give a warning signal to drivers" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Traffic Code, Section 22.39"
 },
 
@@ -20940,7 +20944,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The victim a ride to the prison" },
     { id: "D", text: "A press release to the media" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CCP 42.21(a); Victims of Crime, Section 20.9, page 12 of 13"
 },
 
@@ -20953,7 +20957,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Putrefaction" },
     { id: "D", text: "Post mortem lividity" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Criminal Investigation, Section 32.21, pages 17-18 of 52"
 },
 
@@ -20966,7 +20970,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Missing Person" },
     { id: "D", text: "Disabled" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Radio Communications / Alerts / TCIC-TLETS, Section 36.8, page 5 of 7"
 },
 
@@ -20979,7 +20983,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Criminal Trespass - Building" },
     { id: "D", text: "Criminal Trespass - Habitation" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 42.01(a)(11)(C); PC Section 8.27, page 25 of 32"
 },
 
@@ -20992,7 +20996,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "When an individual is physically assaulting a law enforcement officer" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Arrest and Control Procedures, Section 31.4, pages 3-4 of 13"
 },
 
@@ -21005,7 +21009,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Control" },
     { id: "D", text: "Optional choice" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Force Options, Section 28.5, page 7 of 24"
 },
 
@@ -21018,7 +21022,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Professional thief" },
     { id: "D", text: "Con Artist" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Criminal Investigation, Section 32.7, page 5 of 52"
 },
 
@@ -21031,7 +21035,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Any fellow officers" },
     { id: "D", text: "The sheriff" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CCP 18.08; Arrest, Search, and Seizure, Section 10.9, page 10 of 11"
 },
 
@@ -21044,7 +21048,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Against another who is in the imminent commission of arson" },
     { id: "D", text: "Against another who is fleeing immediately after committing the crime of arson" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 9.42(2)(B); Force Options, Section 28.3"
 },
 
@@ -21057,7 +21061,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Church bus" },
     { id: "D", text: "Security patrol vehicle" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TC 547.305(d)(1), (2), and (3); TC Section 22.17"
 },
 
@@ -21070,7 +21074,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Aggravated robbery" },
     { id: "D", text: "Aggravated theft" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 29.02"
 },
 
@@ -21083,7 +21087,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Stressful" },
     { id: "D", text: "Frightening" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Victims of Crime, Section 20.1, page 7 of 13"
 },
 
@@ -21096,7 +21100,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Aggravated Promotion of Prostitution" },
     { id: "D", text: "Compelling Prostitution" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 43.03(a)(1); PC Section 8.28"
 },
 
@@ -21110,7 +21114,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "5, 5" },
     { id: "E", text: "10, 10" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 42.055(b); PC Section 8.27; Patrol Skills Section 35.29"
 },
 
@@ -21123,7 +21127,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The individual verbally consents to voluntary treatment for chemical dependency in a treatment facility" },
     { id: "D", text: "All of the above are viable options" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CCP 14.031; Arrest, Search, and Seizure, Section 10.4, page 5 of 11"
 },
 
@@ -21136,7 +21140,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Modulating your tone of voice" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "De-Escalation Strategies, Section 27.11, page 6 of 8"
 },
 
@@ -21149,7 +21153,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Forgery" },
     { id: "D", text: "Credit Card Laundering" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 32.31(b)(1) & (8); PC Section 8.19, page 14 of 32"
 },
 
@@ -21162,7 +21166,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Bribery" },
     { id: "D", text: "Acceptance of honorarium" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 36.07(a); Professionalism & Ethics, Section 1.6; PC Section 8.23"
 },
 
@@ -21175,7 +21179,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "U.S. v. Mendenhall" },
     { id: "D", text: "Miranda v. Arizona" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Arrest, Search, and Seizure, Section 10.7, page 7 of 11"
 },
 
@@ -21188,7 +21192,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Reckless" },
     { id: "D", text: "Criminal Negligence" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 6.03(c); PC Section 8.4, page 1 of 32"
 },
 
@@ -21201,7 +21205,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Make a run for it" },
     { id: "D", text: "Face the dog directly" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Canine Encounters, Section 39.15, page 30 of 41"
 },
 
@@ -21214,7 +21218,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "U.S. v. Mendenhall" },
     { id: "D", text: "Brinegar v. United States" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Arrest, Search, and Seizure, Section 10.2, page 3 of 11"
 },
 
@@ -21227,7 +21231,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "County" },
     { id: "D", text: "State" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP 13.38; CCP Section 9.4, page 2 of 4"
 },
 
@@ -21240,7 +21244,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Place them in recovery position" },
     { id: "D", text: "Sit them up to assist with breathing" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Emergency Medical Assistance Section 40.7: An unresponsive person who is breathing should be placed in the recovery position to help maintain an open airway and reduce the risk of choking on vomit, blood, or other fluids. Rescue breathing is not needed when normal breathing is present."
 },
 
@@ -21253,7 +21257,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Walking beats" },
     { id: "D", text: "Mobility" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Professional Policing, Section 2.2, page 1 of 16"
 },
 
@@ -21266,7 +21270,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "No right" },
     { id: "D", text: "A right to decide whether or not" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CCP 6.06; CCP Section 9.5, page 3 of 4"
 },
 
@@ -21279,7 +21283,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Post mortem lividity" },
     { id: "D", text: "Cadaveric spasm" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Criminal Investigation, Section 32.21, page 17 of 52"
 },
 
@@ -21292,7 +21296,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "On the side of the road" },
     { id: "D", text: "Wherever the officer wants" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Criminal Investigation, Section 32.45, page 36 of 52"
 },
 
@@ -21305,7 +21309,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "For three (3) whole days, exclusive of the day of issuance and the day of its execution" },
     { id: "D", text: "For any subsequent searches of the same residence, even though it has been executed previously" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP 18.07(a)(3); Arrest, Search, and Seizure, Section 10.9, page 10 of 11"
 },
 
@@ -21318,7 +21322,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Intentionally" },
     { id: "D", text: "Negligently" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Education Code 37.125(a); Patrol Skills, Section 35.29"
 },
 
@@ -21331,7 +21335,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Autopsy" },
     { id: "D", text: "Dissection" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Criminal Investigation, Section 32.20"
 },
 
@@ -21344,7 +21348,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Stun Gun" },
     { id: "D", text: "All of the above are listed" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 38.14(b); PC Section 8.25"
 },
 
@@ -21357,7 +21361,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Deals well with stress" },
     { id: "D", text: "Acts the same at home and in public" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Family Violence and Related Assaultive Offenses, Section 17.2"
 },
 
@@ -21370,7 +21374,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Actions" },
     { id: "D", text: "Gut instincts" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Force Options, Section 28.13"
 },
 
@@ -21383,7 +21387,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Aggressive" },
     { id: "D", text: "Reasonable" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Force Options, Section 28.18"
 },
 
@@ -21396,7 +21400,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Remove the tourniquet in place" },
     { id: "D", text: "Leave the tourniquet in place" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "EMA, Section 40.3; TECC Guidelines"
 },
 
@@ -21409,7 +21413,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Actual Seizure" },
     { id: "D", text: "Understanding" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Arrest, Search, and Seizure, Section 10.4"
 },
 
@@ -21422,7 +21426,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Verbal skills" },
     { id: "D", text: "Driving" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Force Options, Section 28.11"
 },
 
@@ -21435,7 +21439,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "48 months" },
     { id: "D", text: "6 months" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Child Alert Checklist, Section 19.2"
 },
 
@@ -21448,7 +21452,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Weaponless Strategies" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Force Options, Section 28.9, page 9 of 24"
 },
 
@@ -21461,7 +21465,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A person uses explosives and causes the implosion of a building in the city limits" },
     { id: "D", text: "A person has a permit to burn open land" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 28.02(a)(2); PC Section 8.15, page 11 of 32"
 },
 
@@ -21474,7 +21478,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "An educational institution in which the child is enrolled" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "FC 32.001(a)(2), (8), and (4); Family Violence and RAO, Section 17.13, page 10 of 14"
 },
 
@@ -21487,7 +21491,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Building character, making individuals self-reliant, and building friendships" },
     { id: "D", text: "Reinforce appreciation of uniqueness, encouraging respect, and understanding of diversity" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Multiculturalism, Section 5.4"
 },
 
@@ -21500,7 +21504,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Criminal conspiracy" },
     { id: "D", text: "Recklessly" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 6.03(a-d); PC Section 8.4, page 1 of 32"
 },
 
@@ -21513,7 +21517,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Demonstration Control" },
     { id: "D", text: "Riot Control" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Patrol Skills, Section 35.26, page 19 of 38"
 },
 
@@ -21526,7 +21530,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Burglary of building" },
     { id: "D", text: "Criminal trespass and theft" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 30.02(a)(1); PC Section 8.17, page 12 of 32"
 },
 
@@ -21539,7 +21543,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Peers" },
     { id: "D", text: "Community" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Family Code and Juvenile Issues, Section 33.24, page 6 of 19"
 },
 
@@ -21552,7 +21556,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Sexual assault" },
     { id: "D", text: "Indecent exposure" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 22.011(a)(1), (2); (c)(1); (e)(2)(A); PC Section 8.13, page 7 of 32"
 },
 
@@ -21565,7 +21569,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Response" },
     { id: "D", text: "Strategy" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Verbal Communication, Section 25.4, page 3 of 31"
 },
 
@@ -21578,7 +21582,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Preventative" },
     { id: "D", text: "Protective" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Force Options, Section 28.5, page 6 of 24"
 },
 
@@ -21591,7 +21595,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Left hand turns" },
     { id: "D", text: "Unsafe speed for conditions" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Professional Police Driving, Section 34.15, page 6 of 10"
 },
 
@@ -21604,7 +21608,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Younger than eighteen years of age unless juvenile court waives jurisdiction" },
     { id: "D", text: "Younger than fifteen years of age unless juvenile court waives jurisdiction" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 8.07(a)(1), (b); PC Section 8.5, page 1 of 32"
 },
 
@@ -21617,7 +21621,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Program eligibility criteria" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CIT, Section 29.61, page 49 of 49"
 },
 
@@ -21630,7 +21634,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Place in recovery position" },
     { id: "D", text: "Wait for EMS" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "EMA, Section 40.3, pages 1 & 2 of 7"
 },
 
@@ -21643,7 +21647,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "1.5 liters" },
     { id: "D", text: "2.5 liters" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "EMA; confirmed by lead EMA instructor"
 },
 
@@ -21656,7 +21660,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Use of deadly force to stop a fleeing misdemeanant" },
     { id: "D", text: "When a suspect in a crowd waves a gun near a peace officer" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 9.05; Force Options, Section 28.2, pages 1-2 of 24"
 },
 
@@ -21669,7 +21673,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Problem Solving" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CIT, Section 29.44, pages 36-37 of 49"
 },
 
@@ -21682,7 +21686,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "CR-80" },
     { id: "D", text: "CR-3" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "TC Section 22.35, page 25"
 },
 
@@ -21695,7 +21699,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Emotional Wellness" },
     { id: "D", text: "Common communication blunders" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Verbal Communication, Section 25.17, pages 23-24 of 31"
 },
 
@@ -21708,7 +21712,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The passenger compartment of a motor vehicle may be searched incident to arrest if there is reason to believe evidence of the offense will be found" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Asset Forfeiture, Section 11.6, page 7 of 9"
 },
 
@@ -21721,7 +21725,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "4 phases" },
     { id: "D", text: "5 phases" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "SFST Training. The detection and apprehension process is divided into three phases: Phase One - Vehicle in Motion, Phase Two - Personal Contact, and Phase Three - Pre-Arrest Screening. During each phase, the officer gathers information to determine whether further investigation or enforcement action is appropriate."
 },
 
@@ -21734,7 +21738,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Civilian Special Agents of the Criminal Investigation Division of the IRS" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CCP 2.122(a)(2), (7), & (9); CCP Section 9.2"
 },
 
@@ -21747,7 +21751,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "0.06" },
     { id: "D", text: "0.10" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 49.01 #2(B); PC Section 8.33, page 30 of 32"
 },
 
@@ -21760,7 +21764,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Heart disease" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CIT, Section 29.11, page 10 of 49"
 },
 
@@ -21773,7 +21777,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "6th" },
     { id: "D", text: "8th" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "US & TX Constitution, Section 7.1, page 1 of 8"
 },
 
@@ -21786,7 +21790,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Felony" },
     { id: "D", text: "Misdemeanor or felony" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CCP 14.01(b); Arrest, Search, and Seizure, Section 10.4, page 4 of 11"
 },
 
@@ -21799,7 +21803,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Arson" },
     { id: "D", text: "Criminal mischief" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 28.02(a)(2)(F); PC Section 8.15, page 11 of 32"
 },
 
@@ -21812,7 +21816,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "90" },
     { id: "D", text: "120" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "TC 502.040(a); TC Section 22.26, page 17"
 },
 
@@ -21825,7 +21829,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "State's attorney on behalf of the People" },
     { id: "D", text: "Either party may appeal" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Civil Process, Section 14.5, page 6 of 8"
 },
 
@@ -21838,7 +21842,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Aggravated robbery" },
     { id: "D", text: "Theft from person" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 29.03(a)(1); PC Section 8.16, page 12 of 32"
 },
 
@@ -21851,7 +21855,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Treason" },
     { id: "D", text: "Arrest, Search, & Seizure" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "US & TX Constitution, Section 7.1, page 1 of 8"
 },
 
@@ -21864,7 +21868,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Thefts" },
     { id: "D", text: "Stolen vehicles" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Asset Forfeiture, Section 11.9, page 9 of 9"
 },
 
@@ -21877,7 +21881,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Aggravated Promotion of Prostitution" },
     { id: "D", text: "Compelling Prostitution" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 43.02(a); PC Section 8.28, page 27 of 32"
 },
 
@@ -21890,7 +21894,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Class A misdemeanor" },
     { id: "D", text: "No offense" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 42.13(a) & (c); PC Section 8.27, page 25 of 32"
 },
 
@@ -21903,7 +21907,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Can be held in contempt of court" },
     { id: "D", text: "Receives an automatic fine of $500" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP 2.16; CCP Section 9.3, page 1 of 4"
 },
 
@@ -21916,7 +21920,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "First" },
     { id: "D", text: "Fifth" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "US & TX Constitution, Section 7.1, page 1 of 8"
 },
 
@@ -21929,7 +21933,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Identification of driver and check of conditions of violator and vehicle" },
     { id: "D", text: "Statement of action to be taken" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Patrol Skills, Section 35.15"
 },
 
@@ -21942,7 +21946,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Crisis Intervention Training" },
     { id: "D", text: "Child Abuse Training" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Texas Administrative Code 218.3(c)(1); Rules Handbook 2-1-2020"
 },
 
@@ -21955,7 +21959,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Arrests" },
     { id: "D", text: "Seizures" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Arrest, Search, and Seizure, Section 10.2, page 3 of 11"
 },
 
@@ -21968,7 +21972,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "750" },
     { id: "D", text: "1000" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "TC Section 22.5; HSC 365.012(a)"
 },
 
@@ -21981,7 +21985,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "4" },
     { id: "D", text: "3" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Human Trafficking, Section 21.6, pages 15-18"
 },
 
@@ -21994,7 +21998,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "False imprisonment" },
     { id: "D", text: "Kidnapping" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 20.02(a), (c)(2)(A); PC Section 8.10, page 3 of 32"
 },
 
@@ -22007,7 +22011,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Assault" },
     { id: "D", text: "Reckless damage or destruction" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 28.03(a)(1); PC Section 8.15, page 11 of 32"
 },
 
@@ -22020,7 +22024,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "EMS should handle all mental health calls" },
     { id: "D", text: "Mental health crises are only a problem for social workers" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CIT, Section 29.2, page 4 of 49"
 },
 
@@ -22033,7 +22037,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Customs" },
     { id: "D", text: "State court decisions" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Constitutional law and judicial interpretation"
 },
 
@@ -22046,7 +22050,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Write" },
     { id: "D", text: "All the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Consular Notification, Section 13.4, page 3 of 5"
 },
 
@@ -22059,7 +22063,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "7, 5 feet" },
     { id: "D", text: "8, 4 feet 9 inches" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TC 545.412(a); TC Section 22.15, page 9"
 },
 
@@ -22072,7 +22076,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Flasher signal" },
     { id: "D", text: "All are warning devices" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Traffic Code Section 22.32, page 23"
 },
 
@@ -22085,7 +22089,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Greatly decreases" },
     { id: "D", text: "Is not measurable" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Missing and Exploited Children, Section 18.5, page 40"
 },
 
@@ -22098,7 +22102,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The crushing of outer garments to feel for objects that may be weapons" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Comprehensive Scenario 46.05; Civilian Interaction Section 37.6"
 },
 
@@ -22111,7 +22115,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Knowingly" },
     { id: "D", text: "Unlawfully" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 31.03(a); PC Section 8.18"
 },
 
@@ -22124,7 +22128,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A driver may never legally cross striping designed to mark a no-passing zone." },
     { id: "D", text: "A driver may not legally make a left turn into or out of an alley or private road or driveway if they must cross a no-passing zone." }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "TC 545.055(b); TC Section 22.9"
 },
 
@@ -22137,7 +22141,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "FBI" },
     { id: "D", text: "DPS" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Radio Communications / Alerts / TCIC-TLETS Section 36.9"
 },
 
@@ -22150,7 +22154,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Complete Fats" },
     { id: "D", text: "Saturated Fats" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Fitness, Section 3.7"
 },
 
@@ -22163,7 +22167,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Forgery" },
     { id: "D", text: "Issuance of Bad Check" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 32.21(b) & (d); PC Section 8.19"
 },
 
@@ -22176,7 +22180,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Read or speak" },
     { id: "D", text: "Write or speak" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Interacting with Deaf or Hard of Hearing, Section 38.3"
 },
 
@@ -22189,7 +22193,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Lack of confidence" },
     { id: "D", text: "All of the Above" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Verbal Communication, Section 25.3"
 },
 
@@ -22202,7 +22206,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Class C misdemeanor" },
     { id: "D", text: "Third-degree felony" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Health & Safety Code, HSC 481.121; Section 15.3, page 2 of 6"
 },
 
@@ -22215,7 +22219,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The taking of an object from outside the vehicle" },
     { id: "D", text: "Any part of the body or anything attached to the body" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 30.04(b)(1) & (2); PC Section 8.17, page 12 of 32"
 },
 
@@ -22228,7 +22232,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "94%" },
     { id: "D", text: "97%" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Force Options, Section 28.11, page 11 of 24"
 },
 
@@ -22241,7 +22245,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Mind over matter" },
     { id: "D", text: "Strength" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Arrest and Control Procedures, Section 31.1, page 1 of 13"
 },
 
@@ -22254,7 +22258,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Contact Team" },
     { id: "D", text: "Response Team" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Patrol Skills, Section 35.24, page 18 of 38"
 },
 
@@ -22267,7 +22271,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Shall" },
     { id: "D", text: "Should" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP 17.21; Arrest, Search, and Seizure, Section 10.12, page 11 of 11"
 },
 
@@ -22280,7 +22284,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Limited to situations where the officer or an innocent third party is physically threatened" },
     { id: "D", text: "A matter of departmental policy and authorized only with specific supervisory permission in each case" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 9.33(1) & (2); Force Options, Section 28.3, page 4 of 24"
 },
 
@@ -22294,7 +22298,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "20th" },
     { id: "E", text: "30th" }
   ],
-  answer: ["E"],
+  answer: "E",
   explain: "TC 502.407(a); TC Section 22.26, page 18"
 },
 
@@ -22307,7 +22311,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Indecent Assault" },
     { id: "D", text: "Public Lewdness" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "A person commits Indecent Assault if, without the other person's consent and with intent to arouse or gratify the sexual desire of any person, the actor touches the breast of another person. The conduct described falls squarely within the elements of Indecent Assault.",
   reference: "PC § 22.012(a)(1)"
 },
@@ -22321,7 +22325,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Unless the child has been reported missing by a parent" },
     { id: "D", text: "Unless the child is under age 15" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Family Code 58.008(b)(3), (f)"
 },
 
@@ -22334,7 +22338,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Prevent the other person from causing death or serious bodily injury to another" },
     { id: "D", text: "Prevent the other from committing suicide or inflicting serious bodily injury to himself" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 9.34(a); Force Options, Section 28.3, page 4 of 24"
 },
 
@@ -22347,7 +22351,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Give a warning signal to drivers" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Traffic Code, Section 22.39, page 28"
 },
 
@@ -22360,7 +22364,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The victim a ride to the prison" },
     { id: "D", text: "A press release to the media" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CCP 42.21(a); Victims of Crime, Section 20.9, page 12 of 13"
 },
 
@@ -22373,7 +22377,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Putrefaction" },
     { id: "D", text: "Post mortem lividity" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Criminal Investigation, Section 32.21, The three classic postmortem changes commonly used in the initial estimation of time of death are algor mortis (body temperature), rigor mortis, and livor mortis (postmortem lividity). Putrefaction is a later decomposition process and is not one of these three classic indicators."
 },
 
@@ -22386,7 +22390,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Missing Person" },
     { id: "D", text: "Disabled" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Radio Communications / Alerts / TCIC-TLETS, Section 36.8, page 5 of 7"
 },
 
@@ -22399,7 +22403,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Criminal Trespass â€“ Building" },
     { id: "D", text: "Criminal Trespass â€“ Habitation" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 42.01(a)(11)(C); PC Section 8.27, page 25 of 32"
 },
 
@@ -22412,7 +22416,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "When an individual is physically assaulting a law enforcement officer" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Arrest and Control Procedures, Section 31.4, pages 3-4 of 13"
 },
 
@@ -22425,7 +22429,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Control" },
     { id: "D", text: "Optional choice" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Force Options, Section 28.5, page 7 of 24"
 },
 
@@ -22438,7 +22442,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Professional thief" },
     { id: "D", text: "Con Artist" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Criminal Investigation, Section 32.7, page 5 of 52"
 },
 
@@ -22451,7 +22455,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Any fellow officers" },
     { id: "D", text: "The sheriff" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CCP 18.08; Arrest, Search, and Seizure, Section 10.9, page 10 of 11"
 },
 
@@ -22464,7 +22468,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Against another who is in the imminent commission of arson" },
     { id: "D", text: "Against another who is fleeing immediately after committing the crime of arson" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 9.42(2)(B); Force Options, Section 28.3, page 4 of 24"
 },
 
@@ -22477,7 +22481,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Church bus" },
     { id: "D", text: "Security patrol vehicle" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TC 547.305(d)(1), (2), and (3); TC Section 22.17, page 11"
 },
 
@@ -22490,7 +22494,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Aggravated robbery" },
     { id: "D", text: "Aggravated theft" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 29.02(2)"
 },
 
@@ -22503,7 +22507,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Stressful" },
     { id: "D", text: "Frightening" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Victims of Crime, Section 20.1, page 7 of 13"
 },
 
@@ -22516,7 +22520,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Aggravated Promotion of Prostitution" },
     { id: "D", text: "Compelling Prostitution" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 43.03(a)(1); PC Section 8.28, page 27 of 32"
 },
 
@@ -22529,7 +22533,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Sexual conduct" },
     { id: "D", text: "Sexual contact" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 21.01 #2; PC Section 8.12, page 5 of 32"
 },
 
@@ -22542,7 +22546,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The individual verbally consents to voluntary treatment for chemical dependency in a treatment facility" },
     { id: "D", text: "All of the above are viable options" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CCP 14.031; Arrest, Search, and Seizure, Section 10.4, page 5 of 11"
 },
 
@@ -22555,7 +22559,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Modulating your tone of voice" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "De-Escalation Strategies, Section 27.11, page 6 of 8"
 },
 
@@ -22568,7 +22572,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Forgery" },
     { id: "D", text: "Credit Card Laundering" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 32.31(b)(1) & (8); PC Section 8.19, page 14 of 32"
 },
 
@@ -22581,7 +22585,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Bribery" },
     { id: "D", text: "Acceptance of honorarium" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 36.07(a); Professionalism & Ethics Section 1.6; PC Section 8.23, page 19 of 32"
 },
 
@@ -22594,7 +22598,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "U.S. v. Mendenhall" },
     { id: "D", text: "Miranda v. Arizona" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Arrest, Search, and Seizure, Section 10.7, page 7 of 11"
 },
 
@@ -22607,7 +22611,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Reckless" },
     { id: "D", text: "Criminal Negligence" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 6.03(c); PC Section 8.4, page 1 of 32"
 },
 
@@ -22620,7 +22624,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Make a run for it" },
     { id: "D", text: "Face the dog directly" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Canine Encounters, Section 39.15, page 30 of 41"
 },
 
@@ -22633,7 +22637,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Intersection" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "TC 541.303(a); TC Section 22.3, page 2"
 },
 
@@ -22646,7 +22650,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Digital ID" },
     { id: "D", text: "Conscript" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Written Communications, Section 24.15, page 20 of 35"
 },
 
@@ -22659,7 +22663,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Suspect" },
     { id: "D", text: "Thief" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Criminal Investigation, Section 32.1, page 1 of 52"
 },
 
@@ -22672,7 +22676,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "By a preponderance of the evidence" },
     { id: "D", text: "To the level of probable cause" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 2.01; Civil Process and Liability, Section 14.2, page 4 of 8"
 },
 
@@ -22685,7 +22689,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "3 Mirrors" },
     { id: "D", text: "4 Mirrors" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "TC 547.602; TC Section 22.17, page 12"
 },
 
@@ -22698,7 +22702,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Understanding" },
     { id: "D", text: "Improved performance" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Multiculturalism, Section 5.6, page 6 of 11"
 },
 
@@ -22711,7 +22715,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Race or ethnicity" },
     { id: "D", text: "Nationality" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Racial Profiling, TC 543.202(a)(1-5); Section 6.1, page 3 of 8"
 },
 
@@ -22724,7 +22728,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Consider police powers and agency policy" },
     { id: "D", text: "Act, review, and re-assess" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "De-Escalation Strategies, Section 27.2, page 4 of 8"
 },
 
@@ -22737,7 +22741,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Luck" },
     { id: "D", text: "Draw" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 47.01 #1; PC Section 8.31, page 30 of 32"
 },
 
@@ -22750,7 +22754,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Resisting Arrest" },
     { id: "D", text: "Escape" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 38.03(a); PC Section 8.25, page 22 of 32"
 },
 
@@ -22763,7 +22767,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Article II, Section 8" },
     { id: "D", text: "Article II, Section 22" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "US & TX Constitution, Section 7.1, page 1 of 8"
 },
 
@@ -22776,7 +22780,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A constable" },
     { id: "D", text: "Only the Sheriff" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CCP 18.16; Arrest, Search, and Seizure, Section 10.4, page 5 of 11"
 },
 
@@ -22789,21 +22793,21 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Bicycle" },
     { id: "D", text: "Vehicle" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TC 541.201 #23(A); Professional Police Driving, Section 34.1, page 1 of 10"
 },
 
 {
   id: "TCOLE_q1707",
-  prompt: "In accordance with ABC 105.06(b), while in a standard hour area, a person commits an offense if he or she consumes or possesses with intent to consume an alcoholic beverage in a public place at any time on Sunday between the hours of:",
+  prompt: "According to Alcoholic Beverage Code §105.06(b), in a standard-hours area, a person commits an offense if they consume or possess with intent to consume an alcoholic beverage in a public place on Sunday during which prohibited hours?",
   options: [
-    { id: "A", text: "1:00 A.M. and 6:00 A.M." },
-    { id: "B", text: "1:15 A.M. and 12:00 P.M." },
-    { id: "C", text: "1:30 A.M. and 1:00 P.M." },
-    { id: "D", text: "2:15 A.M. and 7:00 A.M." }
+    { id: "A", text: "1:00 A.M. to 6:00 A.M." },
+    { id: "B", text: "1:15 A.M. to 12:00 P.M." },
+    { id: "C", text: "1:30 A.M. to 1:00 P.M." },
+    { id: "D", text: "2:15 A.M. to 7:00 A.M." }
   ],
-  answer: ["B"],
-  explain: "TABC, Section 16.5, page 4 of 5"
+  answer: "B",
+  explain: "Alcoholic Beverage Code §105.06(b) states that in a standard-hours area, a person may not consume or possess with intent to consume an alcoholic beverage in a public place on Sunday between 1:15 A.M. and 12:00 noon. Officers should distinguish public consumption restrictions from licensed-premises sales hours, which are governed by separate provisions in the Alcoholic Beverage Code. The prohibited Sunday consumption period in a public place is specifically 1:15 A.M. through 12:00 P.M., making option B the correct answer. See TCOLE Chapter 16, Objective 16.5 Hours of Sale and Consumption. "
 },
 
 {
@@ -22815,7 +22819,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Necessary" },
     { id: "D", text: "Required" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Force Options, Section 28.2, page 2 of 24"
 },
 
@@ -22828,7 +22832,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Increased arousal and reactivity" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CIT, Sections 29.31 and 29.32, page 29 of 49"
 },
 
@@ -22841,7 +22845,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Manslaughter" },
     { id: "D", text: "Criminally negligent homicide" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 19.02(b)(1); PC Section 8.9, page 2 of 32"
 },
 
@@ -22854,7 +22858,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Left eye" },
     { id: "D", text: "Either eye could be tested first" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "SFST / HGN procedure"
 },
 
@@ -22867,7 +22871,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Movie house" },
     { id: "D", text: "Within 20 feet of public buildings" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 48.01(a-1); PC Section 8.32, page 30 of 32"
 },
 
@@ -22880,7 +22884,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Slowing down" },
     { id: "D", text: "Cover" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "De-Escalation Strategies, Section 27.17, page 8 of 8"
 },
 
@@ -22893,7 +22897,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "3" },
     { id: "D", text: "4" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "SFST Manual"
 },
 
@@ -22906,7 +22910,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Crime" },
     { id: "D", text: "Offense" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 1.07 #23; PC Section 8.2, page 1 of 32"
 },
 
@@ -22919,7 +22923,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Tampering with a witness" },
     { id: "D", text: "Obstruction or retaliation" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 36.06(a)(1)(A); PC Section 8.23, page 19 of 32"
 },
 
@@ -22932,7 +22936,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Determined the driver's race or ethnicity" },
     { id: "D", text: "Determined the stop will meet quota requirements" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Racial Profiling, Section 6.2, page 4 of 8"
 },
 
@@ -22945,7 +22949,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "I" },
     { id: "D", text: "A" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Arrest and Control Procedures, Section 31.11, page 7 of 13"
 },
 
@@ -22958,7 +22962,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Abandoned buildings" },
     { id: "D", text: "Homeless shelters" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CCP 14.03(a)(1); Arrest, Search, and Seizure Section 10.4, page 4 of 11"
 },
 
@@ -22971,7 +22975,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Poppy straw" },
     { id: "D", text: "Opiates" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "HSC 481.002 #29; Health & Safety Code Section 15.1, page 1 of 6"
 },
 
@@ -22984,7 +22988,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Prostitution" },
     { id: "D", text: "Compelling prostitution" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 43.05(a)(2); Human Trafficking, Section 21.21, page 53"
 },
 
@@ -22997,7 +23001,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Discretion" },
     { id: "D", text: "Choice" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CCP 8.04; Patrol Skills, Section 35.29, page 24 of 38"
 },
 
@@ -23010,7 +23014,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A Class C misdemeanor" },
     { id: "D", text: "Criminal conspiracy" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 15.02(a)(2); PC Section 8.8, page 2 of 32"
 },
 
@@ -23023,7 +23027,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Bodily injury" },
     { id: "D", text: "Serious bodily injury" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 22.01(a)(1-3), (b); PC Section 8.13, page 7 of 32"
 },
 
@@ -23036,7 +23040,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The child may be a danger to himself or herself" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "FC 53.02(b)(1), (3), and (4); Family Code and Juvenile Issues, Section 33.8, page 2 of 19"
 },
 
@@ -23049,7 +23053,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "I" },
     { id: "D", text: "A" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Arrest and Control Procedures, Section 31.11, page 7 of 13"
 },
 
@@ -23062,7 +23066,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Abandoned buildings" },
     { id: "D", text: "Homeless shelters" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CCP 14.03(a)(1); Arrest, Search, and Seizure Section 10.4, page 4 of 11"
 },
 
@@ -23075,7 +23079,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Poppy straw" },
     { id: "D", text: "Opiates" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "HSC 481.002 #29; Health & Safety Code Section 15.1, page 1 of 6"
 },
 
@@ -23088,7 +23092,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Prostitution" },
     { id: "D", text: "Compelling prostitution" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 43.05(a)(2); Human Trafficking, Section 21.21, page 53"
 },
 
@@ -23101,7 +23105,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Discretion" },
     { id: "D", text: "Choice" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CCP 8.04; Patrol Skills, Section 35.29, page 24 of 38"
 },
 
@@ -23114,7 +23118,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A Class C misdemeanor" },
     { id: "D", text: "Criminal conspiracy" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 15.02(a)(2); PC Section 8.8, page 2 of 32"
 },
 
@@ -23127,7 +23131,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Bodily injury" },
     { id: "D", text: "Serious bodily injury" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 22.01(a)(1-3), (b); PC Section 8.13, page 7 of 32"
 },
 
@@ -23140,7 +23144,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The child may be a danger to himself or herself" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "FC 53.02(b)(1), (3), and (4); Family Code and Juvenile Issues, Section 33.8, page 2 of 19"
 },
 
@@ -23153,7 +23157,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Sexual abuse" },
     { id: "D", text: "Disorderly conduct" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 42.01(a)(1); Patrol Skills Section 35.29; PC Section 8.27"
 },
 
@@ -23166,7 +23170,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Dirty license plates on a clean vehicle" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Criminal Investigation, Section 32.12, page 9 of 52"
 },
 
@@ -23179,7 +23183,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Direct patrol" },
     { id: "D", text: "Indirect patrol" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Professional Policing, Section 2.5, page 5 of 16"
 },
 
@@ -23192,7 +23196,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Victim Rules" },
     { id: "D", text: "Pacific Protocol" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Human Trafficking, Section 21.10, page 25"
 },
 
@@ -23205,7 +23209,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Carroll v. United States" },
     { id: "D", text: "U.S. v. Sokolow" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Arrest, Search, and Seizure, Section 10.1, page 1 of 11"
 },
 
@@ -23218,7 +23222,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "17" },
     { id: "D", text: "18" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 49.045(a)(2); PC Section 8.33, page 30 of 32"
 },
 
@@ -23231,7 +23235,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The attorney representing the state" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CCP 17.292(a); Arrest, Search, and Seizure, Section 10.12, page 11 of 11"
 },
 
@@ -23244,7 +23248,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Call for medical assistance" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Criminal Investigation, Section 32.49, page 39 of 52"
 },
 
@@ -23257,7 +23261,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Robbery" },
     { id: "D", text: "Aggravated Theft" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 31.03(a) & (b)(1); PC Section 8.18, page 13 of 32"
 },
 
@@ -23270,7 +23274,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Discrimination" },
     { id: "D", text: "Ethnicity" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Multiculturalism, Section 5.1, page 1 of 11"
 },
 
@@ -23283,7 +23287,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A volunteer firefighter responding to a house fire in a personal vehicle with a flashing red emergency light" },
     { id: "D", text: "Both B and C" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TC 546.003 & 546.004; TxDOT CR-100 Texas Peace Officer's Crash Report Instructions"
 },
 
@@ -23296,7 +23300,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Lack of support system or connection to loved ones" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CIT"
 },
 
@@ -23309,7 +23313,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "District Clerk" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CCP 2.12; CCP Section 9.2, page 1 of 4"
 },
 
@@ -23322,7 +23326,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A way for people to get away with committing crimes with no consequences" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CIT, Section 29.60, page 48 of 49"
 },
 
@@ -23335,7 +23339,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Driving in Violation of Restriction" },
     { id: "D", text: "None of the above, since the driver has a valid license" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "TC 521.025; Traffic Section 22.7, page 4"
 },
 
@@ -23361,7 +23365,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The intrusion of any part of the body or any physical object attached to the body" },
     { id: "D", text: "A bullet is fired into a building or residence" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 30.02(a)(3); PC Section 8.17, page 12 of 32"
 },
 
@@ -23374,7 +23378,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "48 hours" },
     { id: "D", text: "8 hours" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Asset Forfeiture, Section 11.7, page 8 of 9"
 },
 
@@ -23387,7 +23391,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Hate Crime" },
     { id: "D", text: "Burglary" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP 42.014(a); Criminal Investigation, Section 32.15, page 12 of 52"
 },
 
@@ -23400,7 +23404,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Recover the weapon as quickly as possible if the weapon is on the floor" },
     { id: "D", text: "Allow the suspect to gain control of the weapon" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Mechanics of Arrest; officer safety principles"
 },
 
@@ -23413,7 +23417,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Any offense committed in the magistrate's presence or view" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CCP 14.02; Arrest, Search, and Seizure, Section 10.4, page 4 of 11"
 },
 
@@ -23426,7 +23430,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Frisk" },
     { id: "D", text: "Arrest" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Force Options, Section 28.5, page 7 of 24"
 },
 
@@ -23439,7 +23443,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Always stop and yield right of way to traffic coming from the right" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "TC 545.059(c); TC Section 22.9, page 7"
 },
 
@@ -23452,7 +23456,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Court of Appeals" },
     { id: "D", text: "U.S. Magistrate Court" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP 4.03; US & TX Constitution, Section 7.5, page 7 of 8"
 },
 
@@ -23465,7 +23469,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Library of verbiage" },
     { id: "D", text: "Sentence fragments and run-on sentences" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Written Communications, Section 24.2, page 2 of 35"
 },
 
@@ -23478,7 +23482,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Actual Seizure" },
     { id: "D", text: "Understanding" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Arrest, Search, and Seizure, Section 10.4, page 4 of 11"
 },
 
@@ -23491,7 +23495,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "All elements of the criminal justice system" },
     { id: "D", text: "The judicial system" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Professional Policing, Section 2.5, page 5 of 16"
 },
 
@@ -23504,7 +23508,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Shall" },
     { id: "D", text: "Should" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP 18.06(b); Arrest, Search, and Seizure, Section 10.9, page 10 of 11"
 },
 
@@ -23517,7 +23521,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Middle of streets" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "TC 541.302 #2(B); TC Section 22.3, page 2"
 },
 
@@ -23530,7 +23534,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Illicit beverage, containers, and packaging" },
     { id: "D", text: "Beer and wine, but not spirits" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "ABC 103.03(1); TABC Section 16.2, page 1 of 5"
 },
 
@@ -23543,7 +23547,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Only detainees who are in the country legally" },
     { id: "D", text: "Only detainees from certain countries" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Patrol Skills, Section 35.38, page 32 of 38"
 },
 
@@ -23556,7 +23560,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Tampering with Witness" },
     { id: "D", text: "Requirements of Order Applying to Person who Committed Family Violence" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 25.07(a)(3), (d); Family Violence and Related Assaultive Offenses, Section 17.6, page 8 of 14"
 },
 
@@ -23569,7 +23573,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Right to confront witnesses" },
     { id: "D", text: "Protection against unreasonable searches and seizures" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "US & TX Constitution, Section 7.1. The Sixth Amendment includes the right to a speedy and public trial, impartial jury, confrontation of witnesses, compulsory process, and assistance of counsel. Protection against unreasonable searches and seizures is found in the Fourth Amendment."
 },
 
@@ -23582,7 +23586,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Animals" },
     { id: "D", text: "Driver" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Professional Police Driving, Section 34.18, pages 7-8 of 10"
 },
 
@@ -23595,7 +23599,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Tennessee v. Garner" },
     { id: "D", text: "Gates v. Illinois" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Force Options, Section 28.3, page 5 of 24"
 },
 
@@ -23608,7 +23612,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Aggravated robbery" },
     { id: "D", text: "Assault" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 29.02(a)(2); PC Section 8.16, page 12 of 32"
 },
 
@@ -23621,7 +23625,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Hand blocks" },
     { id: "D", text: "Trap and roll" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Arrest and Control Procedures, Section 31.2, page 2 of 13"
 },
 
@@ -23634,7 +23638,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Rights not identified in the Constitution" },
     { id: "D", text: "Right not to have excessive bail" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "US & TX Constitution, Section 7.1, page 2 of 8"
 },
 
@@ -23647,7 +23651,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Pressure points" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Arrest and Control Procedures, Section 31.2, page 2 of 13"
 },
 
@@ -23660,7 +23664,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Excessive" },
     { id: "D", text: "No" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Force Options, Section 28.8, page 9 of 24"
 },
 
@@ -23673,7 +23677,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Writ of habeas corpus" },
     { id: "D", text: "Writ of capias" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP 11.01, 11.02, 11.03, and 11.04; US & TX Constitution Section 7.1"
 },
 
@@ -23686,7 +23690,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Acquisition" },
     { id: "D", text: "Transfer" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Identity Crimes, Section 12.2, page 3 of 16"
 },
 
@@ -23699,7 +23703,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Raise a reasonable doubt as to any element of the offense" },
     { id: "D", text: "Present some evidence and require the State to disprove the defense by clear and convincing evidence" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Texas Penal Code § 2.04(d) provides that the defendant must prove an affirmative defense by a preponderance of the evidence."
 },
 
@@ -23712,7 +23716,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Coercion of a public servant" },
     { id: "D", text: "Restitution" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 36.06(a)(1)(A)(B), (2)(A)(B); PC Section 8.23, page 19 of 32"
 },
 
@@ -23725,7 +23729,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A sketch" },
     { id: "D", text: "Measurements" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Criminal Investigation, Section 32.35, page 26 of 52"
 },
 
@@ -23738,7 +23742,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Advanced Proficiency Certificate" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TCOLE Rules Overview, Section 4.6; TAC 221.3"
 },
 
@@ -23751,7 +23755,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "20-25%" },
     { id: "D", text: "12-15%" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Fitness, Section 3.7, page 10 of 49"
 },
 
@@ -23764,7 +23768,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Awareness" },
     { id: "D", text: "Emotional control" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Arrest and Control Procedures, Section 31.1, page 1 of 13"
 },
 
@@ -23777,7 +23781,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Allow item to air dry before packaging" },
     { id: "D", text: "Get the evidence to the lab before it dries" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Criminal Investigation, Section 32.41, page 30 of 52"
 },
 
@@ -23790,7 +23794,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Employment Harmful to Children" },
     { id: "D", text: "Trafficking" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 43.251(b)(1) & (2); PC Section 8.29, page 27 of 32"
 },
 
@@ -23803,7 +23807,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Local Law Enforcement" },
     { id: "D", text: "Attorneys" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Rights of Crime Victims; Victims of Crime Sections 20.7 & 20.10"
 },
 
@@ -23816,7 +23820,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "400" },
     { id: "D", text: "500" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TC 547.331(b)(2); TC Section 22.17, page 11"
 },
 
@@ -23829,7 +23833,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Forgery" },
     { id: "D", text: "Smoking Tobacco" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 71.02(a)(1); PC Section 8.34, page 31 of 32"
 },
 
@@ -23842,7 +23846,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Uses or exhibits a deadly weapon" },
     { id: "D", text: "Implies that a weapon is in a jacket pocket but never exhibits the weapon" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 29.03(a)(2); PC Section 8.16, page 12 of 32"
 },
 
@@ -23855,7 +23859,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Emergency Command System" },
     { id: "D", text: "Electronic Command System" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "HazMat Awareness/ICS, Section 42.13, page 9 of 13"
 },
 
@@ -23868,7 +23872,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Tail lamps" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TC 547.322, 547.323, and 547.324; TC Section 22.17, page 11"
 },
 
@@ -23881,7 +23885,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Subject to a mortgage or other security interest" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 28.02(a)(1) & (2)(A)(B)(C); PC Section 8.15, page 11 of 32"
 },
 
@@ -23894,7 +23898,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Chemical" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "HazMat Awareness, Section 42.5, page 4 of 13"
 },
 
@@ -23907,7 +23911,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Burglary of Habitation" },
     { id: "D", text: "Attempted Burglary of Habitation" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 30.02(a)(1); PC Section 8.17, page 12 of 32"
 },
 
@@ -23920,7 +23924,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Social Security number" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Identity Crimes, Section 12.4, page 4 of 16"
 },
 
@@ -23933,7 +23937,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Electric bicycles" },
     { id: "D", text: "All of the above may not be registered" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TC 502.143; TC Section 22.26, page 18"
 },
 
@@ -23946,7 +23950,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "American Sign Language" },
     { id: "D", text: "All Signing Language" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Interacting with Deaf or Hard of Hearing, Section 38.3, page 6 of 10"
 },
 
@@ -23959,7 +23963,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "9" },
     { id: "D", text: "12" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Vehicle Damage Guide for Traffic Crash Investigators (CR-80), page 8; TC Section 22.35, page 25"
 },
 
@@ -23972,7 +23976,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Lawful arrest; search must take place at the time of arrest; the arrestee may not have the possibility of access" },
     { id: "D", text: "Lawful detention; search must take place at the time of detention; the detainee must have the possibility of access; or there is not a likelihood of discovering offense related evidence" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Arizona v. Gant; Case Law to Know Handout"
 },
 
@@ -23985,7 +23989,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "By a preponderance of the evidence" },
     { id: "D", text: "Without a shadow of doubt" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP 17.152(b); Arrest, Search, and Seizure Section 10.12"
 },
 
@@ -23998,7 +24002,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Probable Cause" },
     { id: "D", text: "Habeas Corpus" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Civil Process and Liability, Section 14.2"
 },
 
@@ -24011,7 +24015,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Steroids" },
     { id: "D", text: "Vitamins" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "The six major categories of controlled substances are narcotics, depressants, stimulants, hallucinogens, marihuana, and simulated controlled substances."
 },
 
@@ -24024,7 +24028,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "AMBER" },
     { id: "D", text: "SILVER" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Radio Communications / Alerts / TCIC-TLETS, Section 36.6"
 },
 
@@ -24037,7 +24041,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Several at once" },
     { id: "D", text: "One at a time" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "De-Escalation Strategies, Section 27.12"
 },
 
@@ -24050,7 +24054,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Commits someone to prison" },
     { id: "D", text: "Commands that a person be brought before a magistrate and show just cause for detention" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Writ of Habeas Corpus"
 },
 
@@ -24063,7 +24067,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Excessive bail and cruel and unusual punishment" },
     { id: "D", text: "Extradition" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "US & TX Constitution, Section 7.1"
 },
 
@@ -24076,7 +24080,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Physical security (locks, alarms, lights)" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Patrol Skills, Section 35.36"
 },
 
@@ -24089,7 +24093,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Students attending public high schools in Texas" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Civilian Interaction, Section 37.3"
 },
 
@@ -24102,7 +24106,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "An animal drawn vehicle" },
     { id: "D", text: "A passenger car" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "TC 547.703(c); TC Section 22.17, page 13"
 },
 
@@ -24115,7 +24119,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "On a busy street" },
     { id: "D", text: "At the scene of the crime" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Criminal Investigation, Section 32.44, page 31 of 52"
 },
 
@@ -24128,7 +24132,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A club" },
     { id: "D", text: "A zip gun" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 46.05(a)(1)(4); PC Section 8.30, page 29 of 32"
 },
 
@@ -24141,7 +24145,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "11th Amendment" },
     { id: "D", text: "14th Amendment" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "US & TX Constitution, Section 7.1, page 2 of 8"
 },
 
@@ -24154,7 +24158,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Sobriety tasks requested" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Texas Administrative Code Rule 17.4; SFST Section 23.3"
 },
 
@@ -24167,7 +24171,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Emotional Control, Balance, Awareness" },
     { id: "D", text: "Self-Control, Balance, Awareness" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Arrest and Control Procedures, Section 31.1, page 1 of 13"
 },
 
@@ -24180,7 +24184,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Avoiding conflict by deflecting" },
     { id: "D", text: "Both A and B above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Force Options, Section 28.5, page 6 of 24"
 },
 
@@ -24193,7 +24197,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Aggravated sexual assault" },
     { id: "D", text: "Indecency with a child" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 21.11(a)(2)(A); PC Section 8.12, page 5 of 32"
 },
 
@@ -24206,7 +24210,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Require a representative of DFPS to respond to the encounter" },
     { id: "D", text: "Request information from the child and the other person regarding safety, well-being, and residence" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Child Alert Checklist, Section 19.4, page 5 of 7"
 },
 
@@ -24219,7 +24223,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Awareness" },
     { id: "D", text: "Emotional control" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Arrest and Control Procedures, Section 31.1, page 1 of 13"
 },
 
@@ -24232,7 +24236,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Burglary of building" },
     { id: "D", text: "Criminal trespass and theft" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 30.02(a)(1)(3); PC Section 8.17, page 12 of 32"
 },
 
@@ -24245,7 +24249,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Quadrant search" },
     { id: "D", text: "Aerial search" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "The quadrant search method divides an outdoor crime scene into smaller sections that can be searched systematically, making it one of the most effective methods for outside searches. Criminal Investigation, Section 32.30, page 22 of 52"
 },
 
@@ -24258,7 +24262,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Businesses" },
     { id: "D", text: "Corporation" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 1.07 #13; PC Section 8.2, page 1 of 32"
 },
 
@@ -24271,7 +24275,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "7 years old but not yet 16 years old" },
     { id: "D", text: "10 years old but not yet 17 years old" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "FC 51.02 #2; Family Code and Juvenile Issues, Section 33.2, page 1 of 19"
 },
 
@@ -24284,7 +24288,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "67 milliliters of urine" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "SFST Manual"
 },
 
@@ -24297,7 +24301,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "None are correct" },
     { id: "D", text: "Both are correct" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Written Communications, Section 24.3, page 4 of 35"
 },
 
@@ -24310,7 +24314,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The right-of-way is a subset of the roadway" },
     { id: "D", text: "All of the above are true" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "TC 545.051; TC Section 22.9, page 7"
 },
 
@@ -24323,7 +24327,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Robbery" },
     { id: "D", text: "Aggravated robbery" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 29.03(a)(3)(A); PC Section 8.16, page 12 of 32"
 },
 
@@ -24336,7 +24340,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Move out of the line of force" },
     { id: "D", text: "Use your strength as an advantage over an assailant's weakness" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Arrest & Control, Section 31.1, page 1 of 13"
 },
 
@@ -24349,7 +24353,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Confinement for not more than twenty years nor less than five years, and may be fined not more than $10,000" },
     { id: "D", text: "Confinement for not more than five years nor less than two years, and may be fined not more than $10,000" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 12.34(a)(b); PC Section 8.6, page 2 of 32"
 },
 
@@ -24362,7 +24366,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "18" },
     { id: "D", text: "21" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "In accordance with 42 USC 5779(a), a point of confusion, 'Other' includes a person 'under age 21 and declared emancipated.' "
 },
 
@@ -24375,7 +24379,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Prohibited weapon" },
     { id: "D", text: "Unlawful transfer of weapon" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 46.01 #10; PC Section 8.30, Page 29 of 32"
 },
 
@@ -24388,7 +24392,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "August Vollmer" },
     { id: "D", text: "J. J. Walker" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Professional Policing, Section 2.2, Page 1 of 16"
 },
 
@@ -24401,7 +24405,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Shy, Nervous, Quiet, and Introverted" },
     { id: "D", text: "Friendly, Funny, Silly, and Ridiculous" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CIT Section 29.18, page 14 of 49"
 },
 
@@ -24414,7 +24418,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Lineage" },
     { id: "D", text: "Household" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Family Code 71.003; Family Violence & RAO Section 17.7, Page 8 of 14"
 },
 
@@ -24427,7 +24431,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "An officer arrives at the scene" },
     { id: "D", text: "The use of deadly force is justified" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 9.04; Force Options, Section 28.2, Page 2 of 24"
 },
 
@@ -24440,7 +24444,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "13" },
     { id: "D", text: "17" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CR-100; TC Section 22.35"
 },
 
@@ -24453,7 +24457,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Control" },
     { id: "D", text: "Optional choice" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Force Options, Section 28.5, page 7 of 24"
 },
 
@@ -24466,7 +24470,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The victim would seek out the detained person" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CCP 17.291(b)(1) & (2); Arrest, Search, and Seizure, Section 10.12, Page 11 of 11"
 },
 
@@ -24479,7 +24483,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Ten" },
     { id: "D", text: "Twelve" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Congress proposed 12 amendments in 1789; 10 were later ratified as the Bill of Rights."
 },
 
@@ -24492,7 +24496,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The evaluation system" },
     { id: "D", text: "The response system" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Professional Policing, Section 2.2, page 3 of 16"
 },
 
@@ -24505,7 +24509,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Interaction" },
     { id: "D", text: "Understanding" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Verbal Communications, Section 25.7, page 9 of 31"
 },
 
@@ -24518,7 +24522,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Under the rules of parole" },
     { id: "D", text: "Under the rules of probation" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CCP 15.22; Arrest, Search, and Seizure, Section 10.4, page 4 of 11"
 },
 
@@ -24531,7 +24535,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "36" },
     { id: "D", text: "48" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CCP 2.27(a); Family Code and Juvenile Issues, Section 33.13, page 3 of 19"
 },
 
@@ -24544,7 +24548,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Prostitution" },
     { id: "D", text: "Compelling prostitution" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 43.05(a)(1)(2); Missing & Exploited Children, Page 120"
 },
 
@@ -24557,7 +24561,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Insurance approved" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CIT Section 29.57, page 47 of 49"
 },
 
@@ -24570,7 +24574,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Responsible" },
     { id: "D", text: "Immune" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "FC 262.003; Family Code and Juvenile Issues, Section 33.15, Page 4 of 19"
 },
 
@@ -24583,7 +24587,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Seven" },
     { id: "D", text: "Ten" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 43.04(a); Missing & Exploited Children, page 120"
 },
 
@@ -24596,7 +24600,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The chief of police" },
     { id: "D", text: "The district attorney" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CCP 15.20(b); Arrest, Search, and Seizure, Section 10.7, Page 6 of 11"
 },
 
@@ -24609,7 +24613,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Liable" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CCP 2.16; CCP Section 9.3, Page 1 of 4"
 },
 
@@ -24622,7 +24626,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Subpoena" },
     { id: "D", text: "Summons" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CCP 15.03(b); Arrest, Search, and Seizure, Section 10.7, Page 6 of 11"
 },
 
@@ -24635,7 +24639,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "U.S. Department of Treasury" },
     { id: "D", text: "District Court" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CCP 59.02; Asset Forfeiture, Section 11.4, Page 5 of 9"
 },
 
@@ -24648,7 +24652,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Purchases or possesses" },
     { id: "D", text: "Knowingly or intentionally" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "HSC 481.124(a); HSC Section 15.3, Page 2 of 6"
 },
 
@@ -24661,7 +24665,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Aggravated assault" },
     { id: "D", text: "Arson" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 28.02(a)(2)(F); PC Section 8.15, page 11 of 32"
 },
 
@@ -24674,7 +24678,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Poor judgment" },
     { id: "D", text: "Exceptional decision-making skills" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Victims of Crime, Section 20.1. Additional psychological responses include memory problems, flashbacks of a previous trauma, intrusive thoughts, poor judgment, and difficulty making decisions."
 },
 
@@ -24690,7 +24694,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "An agency of the federal government that can assist with helping a person in need" },
     { id: "D", text: "A group of people that are allowed to arrest other people" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CCP 2.132(1); Racial Profiling Section 6.1, page 3 of 8"
 },
 
@@ -24703,7 +24707,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The reason(s) for its gathering" },
     { id: "D", text: "Whether they have a permit to gather" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Patrol Skills, Section 35.30, page 25 of 38"
 },
 
@@ -24716,7 +24720,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Possession and consumption" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "ABC 1.06; TABC Overview"
 },
 
@@ -24729,7 +24733,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "10 and 10" },
     { id: "D", text: "10 and 9" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "SFST Manual"
 },
 
@@ -24742,7 +24746,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Abuse of official capacity for receiving a benefit while using government property and while on duty" },
     { id: "D", text: "Coercion of public servant" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 39.02(a)(2); Professionalism & Ethics, Section 1.6, page 17 of 25"
 },
 
@@ -24755,7 +24759,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The need for gratitude and accolades" },
     { id: "D", text: "A willingness to bend the rules or skip established protocols" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CIT, Section 29.36, page 32 of 49"
 },
 
@@ -24768,7 +24772,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Unlawful carrying of handgun by license holder" },
     { id: "D", text: "Prohibited weapon" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC Chapter 46; PC Section 8.30, page 29 of 32"
 },
 
@@ -24781,7 +24785,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Neglect" },
     { id: "D", text: "Assault" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 25.08(a)(2); PC Section 8.14, page 9 of 32"
 },
 
@@ -24794,7 +24798,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "What people hear" },
     { id: "D", text: "What people know" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Verbal Communication, Section 25.5, page 7 of 31"
 },
 
@@ -24807,7 +24811,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Criminal mischief" },
     { id: "D", text: "Unlawfully carrying a weapon" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 22.05; PC Section 8.27, page 25 of 32"
 },
 
@@ -24820,7 +24824,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "CIA" },
     { id: "D", text: "ATF" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Force Options, Section 28.17, page 19 of 24"
 },
 
@@ -24833,7 +24837,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Foot and Mouth Disease" },
     { id: "D", text: "All of the Above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "HazMat Section 42.3, page 3 of 13"
 },
 
@@ -24846,7 +24850,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Street Services" },
     { id: "D", text: "Law Enforcement" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Radio Communications / Alerts / TCIC-TLETS, Section 36.1"
 },
 
@@ -24859,7 +24863,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Sometimes" },
     { id: "D", text: "Never" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CCP 2.132(b)(2); Racial Profiling, Section 6.1, page 3 of 8"
 },
 
@@ -24872,7 +24876,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "120 compressions" },
     { id: "D", text: "150 compressions" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "EMA; AHA CPR; Section 40.1, page 1 of 7"
 },
 
@@ -24885,7 +24889,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "U.S. Border Patrol Agents" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CCP 2.125(e)(4); CCP Section 9.2, page 1 of 4"
 },
 
@@ -24898,7 +24902,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Aggravated Promotion of Prostitution" },
     { id: "D", text: "Compelling Prostitution" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 43.03(a)(1); Missing and Exploited Children, pages 119-120"
 },
 
@@ -24912,7 +24916,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Discounted Favor" },
     { id: "E", text: "No offense has been committed" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 39.03(a)(3), (c); Professionalism & Ethics, Section 1.6, page 17 of 25"
 },
 
@@ -24925,7 +24929,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "At the rear of a combination of vehicles at least two stop lamps must be displayed that are visible from at least 1,000 feet from the rear of the vehicle" },
     { id: "D", text: "All motor vehicles must be equipped with at least two stop lamps visible in normal sunlight at a distance of at least 500 feet from the rear of the vehicle" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "TC 547.323(b); TC Section 22.17, page 11"
 },
 
@@ -24938,7 +24942,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "EMS should handle all mental health calls" },
     { id: "D", text: "Mental health crises are only a problem for social workers" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CIT, Section 29.2, page 4 of 49"
 },
 
@@ -24951,7 +24955,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "CR-80" },
     { id: "D", text: "CR-3" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "TC Section 22.35, page 25"
 },
 
@@ -24964,7 +24968,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Article II, Section 8" },
     { id: "D", text: "Article II, Section 22" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "US & TX Constitution, Section 7.1"
 },
 
@@ -24977,7 +24981,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Specialized" },
     { id: "D", text: "Super" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Professional Policing, Section 2.2, page 2 of 16"
 },
 
@@ -24990,7 +24994,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Arresting persons engaged" },
     { id: "D", text: "Both A and C" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CCP 8.04; CCP Section 9.6, page 3 of 4"
 },
 
@@ -25003,7 +25007,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Patently offensive material" },
     { id: "D", text: "Display of harmful material to a minor" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 43.22(a); PC Section 8.29, page 27 of 32"
 },
 
@@ -25016,7 +25020,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Emotional wellness" },
     { id: "D", text: "Common communication blunders" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Verbal Communication, Section 25.17, pages 23-24 of 31"
 },
 
@@ -25029,7 +25033,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Who took custody and marked it" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Criminal Investigation, Section 32.38, pages 28-29 of 52"
 },
 
@@ -25042,7 +25046,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Credit/debit card abuse" },
     { id: "D", text: "No offense unless he uses the card" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 32.31(b)(4) & (7); PC Section 8.19, page 14 of 32"
 },
 
@@ -25055,7 +25059,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Criminal trespass" },
     { id: "D", text: "Theft from vehicle of $1,000" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 30.02(a)(1); PC Section 8.17, page 12 of 32"
 },
 
@@ -25068,7 +25072,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Misdemeanor or felony offense" },
     { id: "D", text: "Felony offense only" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CCP 15.17(b); Arrest, Search, and Seizure, Section 10.4, page 4 of 11"
 },
 
@@ -25081,7 +25085,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Probable cause requirement for arrests and searches" },
     { id: "D", text: "Right to confront witnesses against you" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "US & TX Constitution, Section 7.1, page 2 of 8"
 },
 
@@ -25094,7 +25098,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Color, year, modifications, body damage, any information, license plate state" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Radio Communications / Alerts / TCIC-TLETS, Section 36.3, page 3 of 7"
 },
 
@@ -25107,7 +25111,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Both are correct" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Written Communications; affects = to influence."
 },
 
@@ -25120,7 +25124,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Symbolizes one's affiliation with a more dominant group" },
     { id: "D", text: "Affords a convenient grouping for people of whom one is ignorant" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Multiculturalism, Section 5.1, page 2 of 11"
 },
 
@@ -25133,7 +25137,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Vandalism" },
     { id: "D", text: "Graffiti" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 28.03(a)(2); PC Section 8.15, page 11 of 32"
 },
 
@@ -25146,7 +25150,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "100" },
     { id: "D", text: "50" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Patrol Skills, Section 35.23, page 15 of 38"
 },
 
@@ -25159,7 +25163,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Ripple effect" },
     { id: "D", text: "Family effect" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Victims of Crime, Section 20.3, page 8 of 13"
 },
 
@@ -25172,7 +25176,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A sketch" },
     { id: "D", text: "Measurements" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Criminal Investigation, Section 32.35, page 26 of 52"
 },
 
@@ -25185,7 +25189,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Suspect's mental attitude" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Arrest and Control Procedures, Section 31.10, page 7 of 13"
 },
 
@@ -25198,7 +25202,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Will" },
     { id: "D", text: "Should" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CCP 2.18; CCP Section 9.3, page 1 of 4"
 },
 
@@ -25211,7 +25215,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "8th" },
     { id: "D", text: "14th" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Arrest, Search, and Seizure, Section 10.6, page 6 of 11"
 },
 
@@ -25224,7 +25228,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Carroll v. United States" },
     { id: "D", text: "U.S. v. Sokolow" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Arrest, Search, and Seizure, Section 10.1, page 1 of 11"
 },
 
@@ -25237,7 +25241,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Manslaughter" },
     { id: "D", text: "Murder" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 19.05 and 6.03(d); PC Section 8.9, page 2 of 32"
 },
 
@@ -25250,7 +25254,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Qualified technician" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TC 724.017(a)(1), (2), & (3); SFST Section 23.2, page 1 of 2"
 },
 
@@ -25263,7 +25267,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Aggravated robbery" },
     { id: "D", text: "Theft from person" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 29.03(a)(1); PC Section 8.16"
 },
 
@@ -25276,7 +25280,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Ex Post Facto Law" },
     { id: "D", text: "Right to Liberty" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "US & TX Constitution, Section 7.1, page 2 of 8"
 },
 
@@ -25289,7 +25293,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Forgery" },
     { id: "D", text: "Issuance of Bad Check" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 32.21(a)(1)(A)(iii), (b); PC Section 8.19, page 14 of 32"
 },
 
@@ -25302,7 +25306,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "County" },
     { id: "D", text: "State" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP 13.38; CCP Section 9.4, page 2 of 4"
 },
 
@@ -25315,7 +25319,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "17" },
     { id: "D", text: "18" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 22.041(b); PC Section 8.13, page 7 of 32"
 },
 
@@ -25328,7 +25332,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Retaliation" },
     { id: "D", text: "Tampering with Witness" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 36.05(a)(1); Professionalism & Ethics Section 1.6"
 },
 
@@ -25341,7 +25345,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Excessive" },
     { id: "D", text: "No" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Force Options, Section 28.9, page 9 of 24"
 },
 
@@ -25367,7 +25371,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "U.S. Postal Service" },
     { id: "D", text: "Social Security Administration" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Identity Crimes, Section 12.13, page 9 of 16"
 },
 
@@ -25380,7 +25384,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Obstruction" },
     { id: "D", text: "Family Violence" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 42.062(b); PC Section 8.27, page 25 of 32"
 },
 
@@ -25393,7 +25397,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Ask for driver's license" },
     { id: "D", text: "Greeting" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Patrol Skills, Section 35.15, page 11 of 38"
 },
 
@@ -25406,7 +25410,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Committed in front of a credible witness" },
     { id: "D", text: "Committed in the presence of a magistrate" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "A peace officer shall arrest, without a warrant, a person the officer has probable cause to believe committed an offense under PC § 25.07 when the offense is committed in the officer's presence.",
   reference: "CCP Art. 14.03(b); PC § 25.07"
 },
@@ -25420,7 +25424,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Probable cause for arrests" },
     { id: "D", text: "Right to a jury trial" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "US & TX Constitution, Section 7.1, page 1 of 8"
 },
 
@@ -25433,7 +25437,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Officer must be knowledgeable of the elements of hate crimes" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Criminal Investigation, Section 32.15, page 12 of 52"
 },
 
@@ -25446,7 +25450,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Vienna Convention on Consular Relations (VCCR)" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Patrol Skills, Section 35.40, page 32 of 38"
 },
 
@@ -25459,7 +25463,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Unnecessary force" },
     { id: "D", text: "Confinement" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Force Options, Section 28.1, page 1 of 24"
 },
 
@@ -25472,7 +25476,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "May not" },
     { id: "D", text: "May" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CCP 8.05; Patrol Skills, Section 35.29, page 25 of 38"
 },
 
@@ -25485,7 +25489,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Foreign governments" },
     { id: "D", text: "State or local governments" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Civil Process and Liability, Section 14.2, page 4 of 8"
 },
 
@@ -25498,7 +25502,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "As permitted or required by an official traffic-control device" },
     { id: "D", text: "All of the above are true" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TC 545.058(a)(2), (4), & (6); TC Section 22.9, page 7"
 },
 
@@ -25511,7 +25515,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Preventative" },
     { id: "D", text: "Protective" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Force Options, Section 28.5, page 6 of 24"
 },
 
@@ -25524,7 +25528,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Zip gun" },
     { id: "D", text: "Firearm silencer" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 46.05(a)(1), (1)(B), & (4); PC Section 8.30, page 29 of 32"
 },
 
@@ -25537,7 +25541,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Weapons trafficking" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Identity Crimes, Section 12.3, page 3 of 16"
 },
 
@@ -25550,7 +25554,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Custodian" },
     { id: "D", text: "Guardian ad litem" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "FC 51.02 #9; Family Code and Juvenile Issues, Section 33.2, page 1 of 19"
 },
 
@@ -25563,7 +25567,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "An actor in the imminent commission of theft during the daytime" },
     { id: "D", text: "An actor fleeing immediately after committing criminal mischief during the nighttime" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 9.42(2)(B); Force Options, Section 28.3, page 4 of 24"
 },
 
@@ -25577,7 +25581,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Drivers should be advised that an officer may approach their vehicle from the passenger side for reasons of safety" },
     { id: "E", text: "When their vehicle is stopped a driver should place the vehicle in park and engage the emergency brake" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Civilian Interaction, Section 37.6, page 9 of 12"
 },
 
@@ -25590,7 +25594,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "FAST" },
     { id: "D", text: "RIP" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "TBI, Section 30.23, page 22 of 34"
 },
 
@@ -25603,7 +25607,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Deadly force" },
     { id: "D", text: "Active engagement" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 9.01 #3; Force Options, Section 28.1; Canine Encounters, Section 39.1"
 },
 
@@ -25616,7 +25620,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Tag it and place it in the property room" },
     { id: "D", text: "Take it immediately to the magistrate who issued the warrant" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CCP 18.021(d); Arrest, Search, and Seizure, Section 10.9, page 10 of 11"
 },
 
@@ -25629,7 +25633,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Followed too Closely" },
     { id: "D", text: "Failed to Drive in Single Lane" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CR-100 / Crash Reporting Contributing Factors"
 },
 
@@ -25642,7 +25646,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Vandalism" },
     { id: "D", text: "Domestic Violence" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Force Options, Section 28.14, page 16 of 24"
 },
 
@@ -25655,7 +25659,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Driver records and history" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "TC Section 22.34, page 25"
 },
 
@@ -25668,7 +25672,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The deputy should place Billy in protective custody." },
     { id: "D", text: "The deputy must arrest Bob. He now has no choice in the matter." }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CCP 6.05, 6.06, and 6.07; CCP Section 9.5, page 3 of 4"
 },
 
@@ -25681,7 +25685,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "CINS child" },
     { id: "D", text: "Status offender" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Family Code 51.02 #15; Family Code and Juvenile Issues, Section 33.2, page 1 of 19"
 },
 
@@ -25694,7 +25698,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Emission and penetration" },
     { id: "D", text: "Force and age of the victim" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 22.021; Family Violence and RAO, Section 17.6, pages 7-8 of 14"
 },
 
@@ -25707,7 +25711,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "District Clerk" },
     { id: "D", text: "None of the Above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CCP 2.12; CCP Section 9.2, page 1 of 4"
 },
 
@@ -25720,7 +25724,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Avoiding questions" },
     { id: "D", text: "Only A and B above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Force Options, Section 28.13, page 13 of 24"
 },
 
@@ -25733,7 +25737,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Cause: Choking; Treatment: Back blows" },
     { id: "D", text: "Cause: Low blood sugar; Treatment: Force feeding the victim" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "EMA, Section 40.7, page 3 of 7"
 },
 
@@ -25746,7 +25750,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Opens the scene to invasion" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Criminal Investigation, Section 32.30, page 21 of 52"
 },
 
@@ -25759,7 +25763,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Be transported from the county" },
     { id: "D", text: "Be committed to a holding facility in the county" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CCP 15.19(a); Arrest, Search, and Seizure, Section 10.7, page 6 of 11"
 },
 
@@ -25772,7 +25776,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Robbery" },
     { id: "D", text: "Bribery" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 19.03(a)(2); PC Section 8.9, page 2 of 32"
 },
 
@@ -25785,21 +25789,21 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "$15,000 / $25,000 / $15,000" },
     { id: "D", text: "$20,000 / $25,000 / $25,000" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "TC 601.072(a-1); TC Section 22.7, page 5"
 },
 
 {
-  id: "TCOLE_q1936",
-  prompt: "In accordance with ABC 105.06(b), while in a standard hour area, a person commits an offense if he or she consumes or possesses with intent to consume an alcoholic beverage in a public place at any time on Sunday between the hours of:",
+  id: "TCOLE_q1605",
+  prompt: "According to Alcoholic Beverage Code §105.03(b), during normal operating hours, a mixed beverage permittee may sell and offer for sale mixed beverages between what hours on any day except Sunday?",
   options: [
-    { id: "A", text: "1:00 A.M. and 6:00 A.M." },
-    { id: "B", text: "1:15 A.M. and 12:00 P.M." },
-    { id: "C", text: "1:30 A.M. and 1:00 P.M." },
-    { id: "D", text: "2:15 A.M. and 7:00 A.M." }
+    { id: "A", text: "7:00 A.M. and Midnight" },
+    { id: "B", text: "1:00 A.M. and Midnight" },
+    { id: "C", text: "10:00 A.M. and Noon" },
+    { id: "D", text: "Noon and Midnight" }
   ],
-  answer: ["B"],
-  explain: "ABC 105.06(b); TABC Section 16.5, page 4 of 5"
+  answer: "A",
+  explain: "Alcoholic Beverage Code §105.03(b) states that a mixed beverage permittee may sell and offer for sale mixed beverages between 7:00 A.M. and midnight on any day except Sunday. On Sunday, sales are permitted between midnight and 1:00 A.M. and between 10:00 A.M. and midnight, provided that alcoholic beverages served between 10:00 A.M. and noon are served with food. Therefore, the normal hours of sale on days other than Sunday are 7:00 A.M. to midnight. See TCOLE Chapter 16.5 Hours of Sale: Mixed Beverages."
 },
 
 {
@@ -25811,7 +25815,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Probable cause" },
     { id: "D", text: "Good faith" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 1.07(a)(42); Arrest, Search, and Seizure, Section 10.1, page 1 of 11"
 },
 
@@ -25824,7 +25828,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Social" },
     { id: "D", text: "Physiological" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Fitness, Section 3.10, page 18 of 49"
 },
 
@@ -25837,7 +25841,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Yes or No questions" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Criminal Investigation, Section 32.44, page 32 of 52"
 },
 
@@ -25850,7 +25854,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Disorderly Conduct" },
     { id: "D", text: "Interference with Duties of Public Servants" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 42.06; PC Section 8.27; Family Violence and RAO, Section 17.6"
 },
 
@@ -25863,7 +25867,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Commits someone to a prison" },
     { id: "D", text: "Commands that a person be brought before a magistrate and show just cause for detention" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "US & TX Constitution, Section 7.1"
 },
 
@@ -25876,7 +25880,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Orange" },
     { id: "D", text: "Red" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Patrol Skills, Section 35.3, page 4 of 38"
 },
 
@@ -25889,7 +25893,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Noun" },
     { id: "D", text: "All of the Above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Written Communications, Section 24.1, page 1 of 35"
 },
 
@@ -25902,7 +25906,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Organizes the decision making process" },
     { id: "D", text: "Assists officers in explaining their actions after the incident" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "De-Escalation Strategies, Section 27.3, page 4 of 8"
 },
 
@@ -25915,7 +25919,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Aggravated Robbery" },
     { id: "D", text: "Assault" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 29.02(a)(2); PC Section 8.16, page 12 of 32"
 },
 
@@ -25928,7 +25932,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Policy of the department" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Force Options, Section 28.18, page 22 of 24"
 },
 
@@ -25941,7 +25945,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "For the period stated in the order, not to exceed two years" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Family Violence and Related Assaultive Offenses, Section 17.9, page 9 of 14"
 },
 
@@ -25954,7 +25958,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "6th" },
     { id: "D", text: "8th" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "US & TX Constitution, Section 7.1, page 2 of 8"
 },
 
@@ -25967,7 +25971,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Extend only to counties adjacent to the county in which it was issued" },
     { id: "D", text: "Extend only to the city limits of the municipality in which the warrant was issued" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CCP 15.06; Arrest, Search, and Seizure, Section 10.7, page 6 of 11"
 },
 
@@ -25980,7 +25984,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Search warrant" },
     { id: "D", text: "Photograph warrant" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP 18.02(a)(1,3,5,8,9,&10); Arrest, Search, and Seizure, Section 10.9"
 },
 
@@ -25993,7 +25997,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Trust neither words nor actions" },
     { id: "D", text: "Discuss the problem with the person exhibiting the behavior" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Force Options, Section 28.13, page 14 of 24"
 },
 
@@ -26006,7 +26010,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Green" },
     { id: "D", text: "White" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Texas Administrative Code Rule 14.52(b)(1); TC 541.201(11-a)"
 },
 
@@ -26019,7 +26023,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Criminal Trespass" },
     { id: "D", text: "No offense has been committed" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 30.06(a)(1)(2) & (c)(3)(A)(B); PC Section 8.17, page 12 of 32"
 },
 
@@ -26032,7 +26036,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Sometimes" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "TC 546.005; TC Section 22.16, page 10"
 },
 
@@ -26045,7 +26049,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Weapons trafficking" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Identity Crimes, Section 12.3, page 3 of 16"
 },
 
@@ -26058,7 +26062,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The sibling of an unborn child" },
     { id: "D", text: "The ancestor of an unborn child" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 19.06; PC Section 8.9, page 2 of 32"
 },
 
@@ -26071,7 +26075,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Eighth" },
     { id: "D", text: "Tenth" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "US & TX Constitution, Section 7.1, page 2 of 8"
 },
 
@@ -26084,7 +26088,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Suspected Serious Injury" },
     { id: "D", text: "Not Injured" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "TC Section 22.35, page 25"
 },
 
@@ -26097,7 +26101,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Make lawful arrests of violators" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CCP 5.04(a); CCP Section 9.4, page 2 of 4"
 },
 
@@ -26110,7 +26114,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Older than 8 years of age and the child is taller than four feet nine inches" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "TC 545.412(a); TC Section 22.15, page 9"
 },
 
@@ -26123,7 +26127,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Pedestrians" },
     { id: "D", text: "Type of vehicles" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Professional Police Driving, Section 34.17, page 7 of 10"
 },
 
@@ -26136,7 +26140,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Class C" },
     { id: "D", text: "None of the Above" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "TC 502.475(a)(4), (d); TC Section 22.26, page 18"
 },
 
@@ -26149,7 +26153,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Blind" },
     { id: "D", text: "Hard of hearing" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Interacting with Deaf or Hard of Hearing, Section 38.1, page 4 of 10"
 },
 
@@ -26162,7 +26166,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Five" },
     { id: "D", text: "Seven" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 42.02(a); Patrol Skills, Section 35.29, page 24 of 38"
 },
 
@@ -26175,7 +26179,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "17" },
     { id: "D", text: "18" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TC 545.424(a); TC Section 22.15, page 9"
 },
 
@@ -26188,7 +26192,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "6" },
     { id: "D", text: "7" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 42.02(a); PC Section 8.27, page 25 of 32"
 },
 
@@ -26201,7 +26205,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Family members" },
     { id: "D", text: "Friends" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Criminal Investigation, Section 32.15, page 12 of 52"
 },
 
@@ -26214,7 +26218,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Proper behavior for civilians and peace officers during interactions" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Civilian Interaction, Section 37.2, page 4 of 12"
 },
 
@@ -26227,7 +26231,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Symbolizes one's affiliation with a more dominant group" },
     { id: "D", text: "Affords a convenient grouping for people of whom one is ignorant" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Multiculturalism, Section 5.1, page 2 of 11"
 },
 
@@ -26240,7 +26244,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Improper Influence" },
     { id: "D", text: "Bribery" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 36.03; Professionalism & Ethics, Section 1.6, page 16 of 25"
 },
 
@@ -26253,7 +26257,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Search the seating or carrying area before and after transporting" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Arrest and Control Procedures, Section 31.16, page 11 of 13"
 },
 
@@ -26266,7 +26270,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Stepping across a facade without placing the entire body inside a building" },
     { id: "D", text: "Any part of the body or anything attached to the body" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 30.05(b)(1); PC Section 8.17, page 12 of 32"
 },
 
@@ -26279,7 +26283,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Road tractor" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "TC 541.301; TC Section 22.3, page 2"
 },
 
@@ -26292,7 +26296,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Emotional intelligence issues (depression, anger, fatigue, worry)" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Verbal Communication, Section 25.3, page 3 of 31"
 },
 
@@ -26305,7 +26309,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "May" },
     { id: "D", text: "Can" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CCP 2.132; Racial Profiling, Section 6.1, page 3 of 8"
 },
 
@@ -26318,7 +26322,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Criminal mischief" },
     { id: "D", text: "Indecent exposure" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 42.01(a)(1); PC Section 8.27, page 25 of 32"
 },
 
@@ -26331,7 +26335,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Disorderly conduct" },
     { id: "D", text: "No offense" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 42.01(a)(10); PC Section 8.27, page 25 of 32"
 },
 
@@ -26344,7 +26348,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Pursuit" },
     { id: "D", text: "Out of state pursuit" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CCP 14.051(b); Arrest, Search, and Seizure, Section 10.4, page 5 of 11"
 },
 
@@ -26357,7 +26361,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Third Degree Felony" },
     { id: "D", text: "Second Degree Felony" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TC 545.420(h); TC Section 22.15, page 9"
 },
 
@@ -26370,7 +26374,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Be different" },
     { id: "D", text: "Take others property" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Multiculturalism, Section 5.3, page 3 of 11"
 },
 
@@ -26383,7 +26387,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Check to ensure that the extremity is in perfect alignment" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "EMA, Section 40.6, pages 2-3 of 7"
 },
 
@@ -26396,7 +26400,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Exempted" },
     { id: "D", text: "Presented" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Criminal Investigation, Sections 32.1 and 32.5"
 },
 
@@ -26409,7 +26413,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Reasonable doubt" },
     { id: "D", text: "Reasonable suspicion" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 1.07 #42; PC Section 8.2, page 1 of 32"
 },
 
@@ -26422,7 +26426,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Recover the weapon as quickly as possible if the weapon is on the floor" },
     { id: "D", text: "Allow the suspect to gain control of the weapon" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Officer safety principles"
 },
 
@@ -26435,7 +26439,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Acquaintances or family members" },
     { id: "D", text: "Terrorists" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Missing and Exploited Children, Section 18.1, page 6"
 },
 
@@ -26448,7 +26452,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Ethical Presence" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Force Options, Section 28.12, pages 12-13 of 24"
 },
 
@@ -26461,7 +26465,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "9" },
     { id: "D", text: "12" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CR-80 Vehicle Damage Guide; TC Section 22.35, page 25"
 },
 
@@ -26474,7 +26478,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Traffic" },
     { id: "D", text: "Occupation" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 9.51(a)(1) & (2); Force Options, Section 28.2, page 2 of 24"
 },
 
@@ -26487,7 +26491,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Is achieved through training and practice both on and off the job" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Arrest and Control Procedures; Concept of Control"
 },
 
@@ -26500,7 +26504,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "One-officer patrol" },
     { id: "D", text: "Directive patrol" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Patrol Skills, Section 35.7, pages 6-7 of 38"
 },
 
@@ -26513,7 +26517,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Date and verification" },
     { id: "D", text: "Office" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CCP 18.07(b); Arrest, Search, and Seizure, Section 10.9, page 10 of 11"
 },
 
@@ -26526,7 +26530,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Williams v. Texas (1965)" },
     { id: "D", text: "Tennessee v. Garner" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Case Law to Know Handout"
 },
 
@@ -26539,7 +26543,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Any felony offense" },
     { id: "D", text: "Any offense" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP 15.25; Arrest, Search, and Seizure, Section 10.7, page 6 of 11"
 },
 
@@ -26552,7 +26556,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Provide HAZMAT response and containment" },
     { id: "D", text: "Both B and C" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "TC 550.062(a) and 550.041(a); Traffic Section 21.31, page 21"
 },
 
@@ -26565,7 +26569,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Slowing down" },
     { id: "D", text: "Cover" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "De-Escalation Strategies, Section 27.17, page 8 of 8"
 },
 
@@ -26578,7 +26582,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Shall be equipped with at least one tail lamp plainly visible at a distance of 1,000 feet from the rear of the vehicle" },
     { id: "D", text: "Shall be equipped with at least two tail lamps plainly visible from a distance of 500 feet from the rear of the vehicle" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "TC 547.322(a), (b), & (d); TC Section 22.17, page 11"
 },
 
@@ -26591,7 +26595,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Texas Certification on Law Enforcement" },
     { id: "D", text: "Texas Certification Overseeing Law Enforcement" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "TCOLE Rules Overview, Section 4.1, page 1 of 5"
 },
 
@@ -26604,7 +26608,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Weapon" },
     { id: "D", text: "Dangerous Weapon" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 1.07 #17; PC Section 8.2, page 1 of 32"
 },
 
@@ -26617,7 +26621,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Is only good if it is voluntary" },
     { id: "D", text: "Excuses criminal responsibility if the defense is proven by evidence" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Texas Penal Code §2.04 provides that the defendant bears the burden of proving an affirmative defense by a preponderance of the evidence. If established, the affirmative defense excuses criminal responsibility."
 },
 
@@ -26630,7 +26634,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Public servant" },
     { id: "D", text: "Civil servant" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 1.07 #41; PC Section 8.2, page 1 of 32"
 },
 
@@ -26643,7 +26647,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Not in Commerce" },
     { id: "D", text: "All of the above are options" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CR-3 Section 28 Code Sheet; CR-100 Instructions, page 19; TC Section 22.35, page 25"
 },
 
@@ -26656,7 +26660,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Impeding an investigation" },
     { id: "D", text: "Perjury" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 38.02(b)(3); Verbal Communication, Section 25.18, page 30 of 31; PC Section 8.25, page 22 of 32"
 },
 
@@ -26669,7 +26673,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Frisk" },
     { id: "D", text: "Arrest" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Force Options, Section 28.5, page 7 of 24"
 },
 
@@ -26682,7 +26686,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Always stop and yield right of way to traffic coming from the right" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "TC 545.059(c); TC Section 22.9, page 7"
 },
 
@@ -26695,7 +26699,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Court of Appeals" },
     { id: "D", text: "U.S. Magistrates Court" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP 4.03; US & TX Constitution, Section 7.5, page 7 of 8"
 },
 
@@ -26708,7 +26712,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Library of verbiage" },
     { id: "D", text: "Sentence fragments and run-on sentences" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Written Communications, Section 24.2, page 2 of 35"
 },
 
@@ -26721,7 +26725,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Actual Seizure" },
     { id: "D", text: "Understanding" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Arrest, Search, and Seizure, Section 10.4, page 4 of 11"
 },
 
@@ -26734,7 +26738,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "All elements of the criminal justice system" },
     { id: "D", text: "The judicial system" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Professional Policing, Section 2.5, page 5 of 16"
 },
 
@@ -26747,7 +26751,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Shall" },
     { id: "D", text: "Should" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP 18.06(b); Arrest, Search, and Seizure, Section 10.9, page 10 of 11"
 },
 
@@ -26760,7 +26764,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Middle of streets" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "TC 541.302(2)(B); TC Section 22.3, page 2"
 },
 
@@ -26773,7 +26777,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Illicit beverage, containers, and packaging" },
     { id: "D", text: "Beer and wine, but not spirits" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "ABC 103.03(1); TABC Section 16.2, page 1 of 5"
 },
 
@@ -26786,7 +26790,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Only detainees who are in the country legally" },
     { id: "D", text: "Only detainees from certain countries" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Patrol Skills, Section 35.38, page 32 of 38"
 },
 
@@ -26799,7 +26803,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Freedom of press" },
     { id: "D", text: "None of the above â€“ each is a First Amendment right" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "US & TX Constitution, Section 7.1, page 1 of 8"
 },
 
@@ -26812,7 +26816,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Animals" },
     { id: "D", text: "Driver" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Professional Police Driving, Section 34.18, pages 7-8 of 10"
 },
 
@@ -26825,7 +26829,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Failure to Execute Process" },
     { id: "D", text: "Failure to Obey a Lawful Order" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP 2A.055; CCP Section 9.3 (Duties of Peace Officers), https://texas.public.law/statutes/tex._code_of_crim._proc._article_2a.055"
 },
 
@@ -26838,7 +26842,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Tennessee v. Garner" },
     { id: "D", text: "Gates v. Illinois" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Force Options, Section 28.3, page 5 of 24"
 },
 
@@ -26851,7 +26855,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Aggravated robbery" },
     { id: "D", text: "Assault" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 29.02(a)(2); PC Section 8.16, page 12 of 32"
 },
 
@@ -26864,7 +26868,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Hand blocks" },
     { id: "D", text: "Trap and roll" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Arrest and Control Procedures, Section 31.2, page 2 of 13"
 },
 
@@ -26877,7 +26881,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Rights not identified in the Constitution" },
     { id: "D", text: "Right not to have excessive bail" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "US & TX Constitution, Section 7.1, page 2 of 8"
 },
 
@@ -26890,7 +26894,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Pressure points" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Arrest and Control Procedures, Section 31.2, page 2 of 13"
 },
 
@@ -26903,7 +26907,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Excessive" },
     { id: "D", text: "No" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Force Options, Section 28.8, page 9 of 24"
 },
 
@@ -26916,7 +26920,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Writ of habeas corpus" },
     { id: "D", text: "Writ of capias" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP 11.01, 11.02, 11.03, and 11.04; US & TX Constitution Section 7.1"
 },
 
@@ -26929,7 +26933,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Acquisition" },
     { id: "D", text: "Transfer" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Identity Crimes, Section 12.2, page 3 of 16"
 },
 
@@ -26942,7 +26946,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Coercion of a public servant" },
     { id: "D", text: "Restitution" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 36.06(a)(1)(A)(B), (2)(A)(B); PC Section 8.23, page 19 of 32"
 },
 
@@ -26955,7 +26959,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A sketch" },
     { id: "D", text: "Measurements" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Criminal Investigation, Section 32.35, page 26 of 52"
 },
 
@@ -26968,7 +26972,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Advanced Proficiency Certificate" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TCOLE Rules Overview; TAC 221.3; Section 4.6, page 4 of 5"
 },
 
@@ -26981,7 +26985,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "U.S. Border Patrol Agents" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CCP 2.125(b); CCP 2.122(a)(1) & (c); CCP Section 9.2, page 1 of 4"
 },
 
@@ -26994,7 +26998,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "20-25%" },
     { id: "D", text: "12-15%" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Fitness, Section 3.7, page 10 of 49"
 },
 
@@ -27007,7 +27011,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Awareness" },
     { id: "D", text: "Emotional control" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Arrest and Control Procedures, Section 31.1, page 1 of 13"
 },
 
@@ -27020,7 +27024,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Allow item to air dry before packaging" },
     { id: "D", text: "Get the evidence to the lab before it dries" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Criminal Investigation, Section 32.41, page 30 of 52"
 },
 
@@ -27033,7 +27037,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Employment Harmful to Children" },
     { id: "D", text: "Trafficking" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 43.251(b)(1) & (2); PC Section 8.29, page 27 of 32"
 },
 
@@ -27046,7 +27050,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Local Law Enforcement" },
     { id: "D", text: "Attorneys" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Rights of Crime Victims, CCP 56A.051; Victims of Crime, Sections 20.7 & 20.10"
 },
 
@@ -27059,7 +27063,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "400" },
     { id: "D", text: "500" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TC 547.331(b)(2); TC Section 22.17, page 11"
 },
 
@@ -27072,7 +27076,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Forgery" },
     { id: "D", text: "Smoking Tobacco" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 71.02(a)(1); PC Section 8.34, page 31 of 32"
 },
 
@@ -27085,7 +27089,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Uses or exhibits a deadly weapon" },
     { id: "D", text: "Implies that a weapon is in the pocket of a jacket but never exhibits the weapon" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 29.03(a)(2); PC Section 8.16, page 12 of 32"
 },
 
@@ -27098,7 +27102,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Emergency Command System" },
     { id: "D", text: "Electronic Command System" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "HazMat Awareness/ICS, Section 42.13, page 9 of 13"
 },
 
@@ -27111,7 +27115,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Tail lamps" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TC 547.322, 547.323, and 547.324; TC Section 22.17, page 11"
 },
 
@@ -27124,7 +27128,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Subject to a mortgage or other security interest" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 28.02(a)(1) & (2)(A)(B)(C); PC Section 8.15, page 11 of 32"
 },
 
@@ -27137,7 +27141,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Chemical" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "HazMat Awareness, Section 42.5, page 4 of 13"
 },
 
@@ -27150,7 +27154,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Burglary of Habitation" },
     { id: "D", text: "Attempted Burglary of Habitation" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 30.02(a)(1); PC Section 8.17, page 12 of 32"
 },
 
@@ -27163,7 +27167,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Social Security number" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Identity Crimes, Section 12.4, page 4 of 16"
 },
 
@@ -27176,7 +27180,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Electric bicycles" },
     { id: "D", text: "All of the above may not be registered" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TC 502.143; TC Section 22.26, page 18"
 },
 
@@ -27189,7 +27193,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "American Sign Language" },
     { id: "D", text: "All Signing Language" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Interacting with Deaf or Hard of Hearing, Section 38.3, page 6 of 10"
 },
 
@@ -27202,7 +27206,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "9" },
     { id: "D", text: "12" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Vehicle Damage Guide for Traffic Crash (CR-80), page 8; TC Section 22.35, page 25"
 },
 
@@ -27227,7 +27231,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
       text: "Lawful detention; search must take place at the time of detention; the detainee must have the possibility of access; or there is not a likelihood of discovering offense-related evidence"
     }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Arizona v. Gant; Case Law to Know Handout"
 },
 
@@ -27240,7 +27244,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "By a preponderance of the evidence" },
     { id: "D", text: "Without a shadow of doubt" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP 17.152(b); Arrest, Search, and Seizure, Section 10.12, page 11 of 11"
 },
 
@@ -27253,7 +27257,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Probable Cause" },
     { id: "D", text: "Habeas Corpus" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Civil Process and Liability, Section 14.2, page 4 of 8"
 },
 
@@ -27266,7 +27270,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Antenna" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Health and Safety Code Controlled Substance Act, Section 15.11, page 5 of 6"
 },
 
@@ -27279,7 +27283,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "AMBER" },
     { id: "D", text: "SILVER" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Radio Communications / Alerts / TCIC-TLETS, Section 36.6, page 4 of 7"
 },
 
@@ -27292,7 +27296,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Several at once" },
     { id: "D", text: "One at a time" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "De-Escalation Strategies, Section 27.12, page 6 of 8"
 },
 
@@ -27305,7 +27309,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Commits someone to a prison" },
     { id: "D", text: "Commands that a person be brought before a magistrate and show just cause for detention" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "US & TX Constitution, Section 7.1, page 1 of 8"
 },
 
@@ -27318,7 +27322,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Excessive bail, cruel and unusual punishment" },
     { id: "D", text: "Extradition" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "US & TX Constitution, Section 7.1, page 2 of 8"
 },
 
@@ -27331,7 +27335,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Physical security (locks, alarms, lights)" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Patrol Skills, Section 35.36, page 30 of 38"
 },
 
@@ -27344,7 +27348,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Students attending public high schools in Texas" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Civilian Interaction, Section 37.3, page 7 of 12"
 },
 
@@ -27357,7 +27361,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "If the property was stolen after the illegal act and was used with the consent of the owner" },
     { id: "D", text: "A & B" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Asset Forfeiture Section 11.2; CCP Art. 59.02(h)(1) & (h)(1)(A)"
 },
 
@@ -27370,7 +27374,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Ten" },
     { id: "D", text: "Twelve" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Congress proposed 12 amendments in 1789; 10 were later ratified as the Bill of Rights."
 },
 
@@ -27383,7 +27387,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Manslaughter" },
     { id: "D", text: "Murder" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 19.05(a); PC Section 8.9"
 },
 
@@ -27396,7 +27400,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "No action should be taken, it is a civil matter" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Criminal Investigation, Section 32.11"
 },
 
@@ -27409,7 +27413,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Infrastructure Impacts" },
     { id: "D", text: "None of the above / all are effects" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "HazMat Awareness, Section 42.8"
 },
 
@@ -27422,7 +27426,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Restraint" },
     { id: "D", text: "Constructive custody" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP 11.22; Arrest, Search, and Seizure, Section 10.4"
 },
 
@@ -27435,7 +27439,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "No Contest" },
     { id: "D", text: "Mistrial" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Texas Constitution Art. I, Sec. 14; US & TX Constitution, Section 7.1, page 2 of 8"
 },
 
@@ -27448,7 +27452,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A motorcycle rider loses control of the motorcycle and slides down the road injuring his leg" },
     { id: "D", text: "All of the above are reportable to TXDOT" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TC Chapter 550; TC Section 21.31"
 },
 
@@ -27461,7 +27465,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Benefit" },
     { id: "D", text: "Solicitation" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 36.01(3); Professionalism & Ethics, Section 1.6"
 },
 
@@ -27474,7 +27478,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Proceeds from illegal activities (property, vehicles, boats, jewelry, and money)" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Asset Forfeiture, Section 11.3"
 },
 
@@ -27487,7 +27491,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A deer" },
     { id: "D", text: "A farm" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CR-3 Form; TC Section 22.35"
 },
 
@@ -27500,7 +27504,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Treason" },
     { id: "D", text: "Arrest, Search and Seizure" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "US & TX Constitution, Section 7.1"
 },
 
@@ -27513,7 +27517,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "36" },
     { id: "D", text: "48" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TC 683.002(a)(5); TC Section 22.25"
 },
 
@@ -27526,7 +27530,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Terry v. Ohio" },
     { id: "D", text: "Payton v. New York" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Arrest, Search, and Seizure, Section 10.1"
 },
 
@@ -27539,7 +27543,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Domestic Violence" },
     { id: "D", text: "Commercial Violence" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "FC 71.0021(a)(1)(A); Family Violence and Related Assaultive Offenses, Section 17.7"
 },
 
@@ -27552,7 +27556,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Should" },
     { id: "D", text: "Can" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CCP Art. 14.03(b); Arrest, Search, and Seizure, Section 10.4"
 },
 
@@ -27565,7 +27569,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "3rd Degree Felony" },
     { id: "D", text: "A civil violation" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "HSC 365.012(a), (d-1); TC Section 22.5"
 },
 
@@ -27578,7 +27582,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "National governmental organization" },
     { id: "D", text: "Native governmental organization" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Human Trafficking, Section 21.8"
 },
 
@@ -27591,7 +27595,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Both A and B" },
     { id: "D", text: "Neither A nor B" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "US & TX Constitution, Section 7.1"
 },
 
@@ -27604,7 +27608,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Personal equipment" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Patrol Skills, Section 35.2"
 },
 
@@ -27617,7 +27621,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Arresting the person protected by a court order who invites the prohibited person to her residence in violation of the protective order" },
     { id: "D", text: "A man named in a protective order returns to his home and wants to speak to his wife in violation of a protective order" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 25.07(a)(3); Family Violence & RAO Sections 17.6, 17.11, & 17.12"
 },
 
@@ -27630,7 +27634,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Usually thrown at specific rioters" },
     { id: "D", text: "An ideal hand weapon" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Arrest and Control Procedures, Section 31.4"
 },
 
@@ -27643,7 +27647,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "25" },
     { id: "D", text: "30" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "TC 545.352(b)(1); TC Section 22.14"
 },
 
@@ -27656,7 +27660,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Feeling of empowerment" },
     { id: "D", text: "Feel like they have nowhere to go" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Family Violence and Related Assaultive Offenses, Section 17.1"
 },
 
@@ -27669,7 +27673,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Fourteen" },
     { id: "D", text: "Fifteen" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 22.041(b); PC Section 8.13"
 },
 
@@ -27682,7 +27686,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Anywhere in the State of Texas" },
     { id: "D", text: "Only if he is in uniform" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CCP 2.13(a); CCP Section 9.3"
 },
 
@@ -27695,7 +27699,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Theft" },
     { id: "D", text: "No offense because the animals were not pets" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Texas Penal Code §28.03(a)(1) and §8.15. Livestock are considered tangible property. Intentionally killing another person's livestock constitutes Criminal Mischief."
 },
 
@@ -27709,7 +27713,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Ethnocentrism" },
     { id: "D", text: "Prejudice" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Multiculturalism, Section 5.1"
 },
 
@@ -27737,7 +27741,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "94%" },
     { id: "D", text: "97%" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Force Options, Section 28.11"
 },
 
@@ -27750,7 +27754,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Statements" },
     { id: "D", text: "Information" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Criminal Investigation, Section 32.2"
 },
 
@@ -27763,7 +27767,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "On the side of the road" },
     { id: "D", text: "Wherever the officer wants" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Criminal Investigation, Section 32.45"
 },
 
@@ -27776,7 +27780,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "16 YOA" },
     { id: "D", text: "15 YOA" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 71.022(a-1)(d)(1); PC Section 8.34"
 },
 
@@ -27789,7 +27793,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Pryor v. State" },
     { id: "D", text: "New York v. Belton" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Verbal Communication, Section 25.18, page 27 of 31"
 },
 
@@ -27802,7 +27806,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Can be held in contempt of court" },
     { id: "D", text: "Receives an automatic fine of $500" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP 2.16; CCP Section 9.3"
 },
 
@@ -27815,7 +27819,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Established the due process of law doctrine" },
     { id: "D", text: "Provides the right to bail" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "US & TX Constitution, Section 7.1"
 },
 
@@ -27828,7 +27832,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Manslaughter" },
     { id: "D", text: "Criminal Negligent Homicide" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 19.02(b)(2); PC Section 8.9"
 },
 
@@ -27841,7 +27845,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Include the topic of implicit bias in your review of the incident" },
     { id: "D", text: "The purpose is to improve future performance" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "De-Escalation Strategies, Section 27.18"
 },
 
@@ -27854,7 +27858,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Mounted Patrol" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Patrol Skills, Section 35.6"
 },
 
@@ -27867,7 +27871,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Homeless" },
     { id: "D", text: "Introverted" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CIT Section 29.55, page 45 of 49"
 },
 
@@ -27880,7 +27884,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Red or amber or a color between white and amber" },
     { id: "D", text: "Amber or white or a color between red and amber" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "TC 547.323(d)(1) & (2); TC Section 22.17, page 11"
 },
 
@@ -27893,7 +27897,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Criminal Trespass" },
     { id: "D", text: "Burglary of Vehicle" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 30.04(a)(b)(1) & (2); PC Section 8.17"
 },
 
@@ -27906,7 +27910,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Victims may deny or minimize the impact of the assault or crime they've been subjected to" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Victims of Crime, Section 20.4, page 9 of 13"
 },
 
@@ -27919,7 +27923,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Keeping a Gambling Place" },
     { id: "D", text: "Any of the above" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 47.02(a)(1); PC Section 8.31"
 },
 
@@ -27933,7 +27937,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "A minor who consumes an alcoholic beverage in the visible presence of an adult parent, guardian, or spouse" },
     { id: "E", text: "A person knowingly selling an alcoholic beverage to a minor" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "ABC 106.05(b)(2); TABC Section 16.4, page 2 of 5"
 },
 
@@ -27946,7 +27950,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Slowing down" },
     { id: "D", text: "Cover" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "De-Escalation Strategies, Section 27.17, page 8 of 8"
 },
 
@@ -27959,7 +27963,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Comportment" },
     { id: "D", text: "Deed" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 1.07 #10; PC Section 8.2"
 },
 
@@ -27972,7 +27976,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Discrimination" },
     { id: "D", text: "Ethnicity" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Multiculturalism, Section 5.1"
 },
 
@@ -27985,7 +27989,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Front, up" },
     { id: "D", text: "Back, up" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Patrol Skills, Section 35.4"
 },
 
@@ -27998,7 +28002,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Maintaining control" },
     { id: "D", text: "All the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Arrest and Control Procedures, Section 30.18"
 },
 
@@ -28011,7 +28015,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Magistrate" },
     { id: "D", text: "Stenographer" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP 14.02; Arrest, Search, and Seizure, Section 10.4"
 },
 
@@ -28024,7 +28028,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Avoiding conflict by deflecting" },
     { id: "D", text: "Both A and B Above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Force Options, Section 28.5"
 },
 
@@ -28037,7 +28041,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Limited to situations where the officer or an innocent third party is physically threatened" },
     { id: "D", text: "A matter of departmental policy and authorized only with specific supervisory permission in each case" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 9.33(a)(1) & (2); Force Options, Section 28.3"
 },
 
@@ -28050,7 +28054,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Trafficking of persons" },
     { id: "D", text: "Theft of service" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 20A.02(a)(1); PC Section 8.11; Missing & Exploited Children, Section 18.11"
 },
 
@@ -28063,7 +28067,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Williams v. Texas (1965)" },
     { id: "D", text: "Tennessee v. Garner" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Case Law to Know Handout"
 },
 
@@ -28076,7 +28080,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Awareness" },
     { id: "D", text: "Emotional control" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Arrest and Control Procedures, Section 31.1"
 },
 
@@ -28089,7 +28093,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Court of Appeals" },
     { id: "D", text: "U.S. Magistrates Court" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP 11.07 Sec. 3(a) & (b); CCP 4.03; US & TX Constitutions, Section 7.5"
 },
 
@@ -28102,7 +28106,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "36 hours" },
     { id: "D", text: "8 hours" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CCP 15.27(a); Arrest, Search, & Seizure Section 10.7; Family Code and Juvenile Issues, Section 33.17"
 },
 
@@ -28115,7 +28119,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Stopped" },
     { id: "D", text: "Effective Custody" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 36.01 #1(B); PC Section 8.23; Professionalism & Ethics Section 1.6"
 },
 
@@ -28128,7 +28132,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Left-hand turns" },
     { id: "D", text: "Unsafe speed for conditions" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Professional Police Driving, Section 34.15"
 },
 
@@ -28141,7 +28145,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The threatening weapon's capabilities" },
     { id: "D", text: "None of the above (each has a significant impact on an officer's decision to use deadly force)" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 9.32, 9.33, 9.51(a), 9.51(g); Arrest and Control Procedures Section 31.8; Force Options Section 28.18"
 },
 
@@ -28157,7 +28161,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A statement allowing officers to completely disregard racial profiling laws" },
     { id: "D", text: "Defined acts constituting racial profiling that allows officers to engage in profiling with possible complaints" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CCP 2.132; Racial Profiling Section 6.1"
 },
 
@@ -28170,7 +28174,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Treason" },
     { id: "D", text: "Cruel and Unusual Punishment" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "US & TX Constitution, Section 7.1"
 },
 
@@ -28183,7 +28187,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Felony" },
     { id: "D", text: "Misdemeanor or felony" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CCP 14.01(a); Arrest, Search, and Seizure Section 10.4"
 },
 
@@ -28196,7 +28200,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Swift" },
     { id: "D", text: "Stern" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Identity Crimes, Section 12.14"
 },
 
@@ -28209,7 +28213,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Disorderly Conduct" },
     { id: "D", text: "Violation of Verbal Order" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 30.05(a)(1) & (2); PC Section 8.17"
 },
 
@@ -28222,7 +28226,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Tag it and place it in the property room" },
     { id: "D", text: "Take it immediately to the magistrate who issued the warrant" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CCP 18.021(d); Arrest, Search, and Seizure, Section 10.9"
 },
 
@@ -28235,7 +28239,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Get their attention" },
     { id: "D", text: "Walk softly" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Interacting with Deaf or Hard of Hearing, Section 38.3"
 },
 
@@ -28248,7 +28252,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "EMS should handle all mental health calls" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CIT Section 29.2, page 4 of 49"
 },
 
@@ -28261,7 +28265,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Vow" },
     { id: "D", text: "Pledge" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Patrol Skills, Section 35.11"
 },
 
@@ -28274,7 +28278,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "County" },
     { id: "D", text: "State" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP 13.38; CCP Section 9.4"
 },
 
@@ -28287,7 +28291,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Preventive enforcement" },
     { id: "D", text: "Selective patrol" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Patrol Skills, Section 35.5"
 },
 
@@ -28300,7 +28304,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Bring a person charged with an offense before a magistrate" },
     { id: "D", text: "Prevent harm to society" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "US & TX Constitution, Section 7.4"
 },
 
@@ -28313,7 +28317,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Kidneys" },
     { id: "D", text: "Pituitary Gland" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CIT Section 29.24"
 },
 
@@ -28326,7 +28330,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Disorderly Conduct" },
     { id: "D", text: "Interference with Duties of Public Servants" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 42.06; Family Violence & RAO Section 17.6; PC Section 8.13"
 },
 
@@ -28339,7 +28343,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Use the Taser when you are unable to use deadly force due to surroundings and potential for hitting bystanders" },
     { id: "D", text: "All are true and correct statements" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Canine Encounters, Section 39.13"
 },
 
@@ -28352,7 +28356,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Female advises this is her 3rd child" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "EMA, Section 40.10"
 },
 
@@ -28365,7 +28369,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Law Enforcement" },
     { id: "D", text: "Government" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "TCOLE Rules Overview, Section 4.1"
 },
 
@@ -28378,7 +28382,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Class A Misdemeanor" },
     { id: "D", text: "State Jail Felony" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "TC 504.945(a)(4) and (e); TC Section 22.26, page 19"
 },
 
@@ -28391,7 +28395,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Avoiding questions" },
     { id: "D", text: "Only A and B above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Force Options, Section 28.13"
 },
 
@@ -28404,7 +28408,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Divide" },
     { id: "D", text: "Focus" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "SFST Manual"
 },
 
@@ -28417,7 +28421,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Active listening" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CIT Section 29.49, page 41 of 49"
 },
 
@@ -28430,7 +28434,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Keeping a gambling place" },
     { id: "D", text: "Gambling promotion" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 47.03(a)(1-5); PC Section 8.31"
 },
 
@@ -28443,7 +28447,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Viral diseases" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "EMA Section 40.11"
 },
 
@@ -28456,7 +28460,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Dishonesty" },
     { id: "D", text: "Uncertainty" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Force Options, Section 28.5"
 },
 
@@ -28481,7 +28485,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
       text: "Request information from the child and the other person regarding the person's safety, well-being, and current residence"
     }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CCP 2.272(a)(1); Child Alert Checklist Section 19.7"
 },
 
@@ -28503,7 +28507,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Interacting with Deaf or Hard of Hearing, Section 38.2"
 },
 
@@ -28516,7 +28520,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "El Paso Validation Study" },
     { id: "D", text: "San Diego SFST Validation Study" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "SFST Manual"
 },
 
@@ -28529,7 +28533,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Burglary of Building" },
     { id: "D", text: "Burglary of Habitation" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 31.03(a)(b)(1) and (e)(4)(C); PC Section 8.18"
 },
 
@@ -28542,7 +28546,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Verdicts" },
     { id: "D", text: "Recess" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Criminal Investigation, Section 32.59"
 },
 
@@ -28555,7 +28559,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Credit/debit card abuse" },
     { id: "D", text: "No offense unless he uses the card" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 32.31(b)(4); PC Section 8.19"
 },
 
@@ -28568,7 +28572,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Arrested" },
     { id: "D", text: "Under restraint" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 38.01(1)(A); PC Section 8.25"
 },
 
@@ -28581,7 +28585,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Self-incrimination" },
     { id: "D", text: "Double jeopardy" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "US & TX Constitution, Section 7.1"
 },
 
@@ -28594,7 +28598,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Allows officers to 'own' their beats" },
     { id: "D", text: "Encourages decentralized command structures" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Professional Policing, Section 2.5"
 },
 
@@ -28607,7 +28611,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Three fingers" },
     { id: "D", text: "Two fingers" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "EMA Section 40.7"
 },
 
@@ -28620,7 +28624,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Make lawful arrests of violators" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CCP 5.04(a); CCP Section 9.4"
 },
 
@@ -28633,7 +28637,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "May be transferred to multiple counties from the county" },
     { id: "D", text: "Will be removed from the county" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CCP 18.10(a); Arrest, Search, and Seizure Section 10.9"
 },
 
@@ -28646,7 +28650,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Recover the weapon as quickly as possible if the weapon is on the floor" },
     { id: "D", text: "Allow the suspect to gain control of the weapon" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Officer safety principles"
 },
 
@@ -28659,7 +28663,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Body Movements" },
     { id: "D", text: "Direct Meaning" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Verbal Communication Sections 25.14 & 25.17"
 },
 
@@ -28672,7 +28676,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Places an obstruction on a railroad track or causes a train to derail" },
     { id: "D", text: "All of the above can constitute a crime" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 28.07(2)(A)(B)(C); PC Section 8.15"
 },
 
@@ -28685,7 +28689,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Care for the detainee's family" },
     { id: "D", text: "Monitor conditions of confinement" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Patrol Skills Section 35.41"
 },
 
@@ -28698,7 +28702,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Acquisition" },
     { id: "D", text: "Transfer" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Identity Crimes, Section 12.2"
 },
 
@@ -28711,7 +28715,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Compliant" },
     { id: "D", text: "Career criminals" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CIT Section 29.5"
 },
 
@@ -28724,7 +28728,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Arson" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 28.02(a)(1); PC Section 8.15"
 },
 
@@ -28737,7 +28741,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Fairness" },
     { id: "D", text: "Judgmental mindset" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Professional Policing, Section 2.8"
 },
 
@@ -28750,7 +28754,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A recreational vehicle that is driven for personal use" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TC 522.003 #3 and #5; TC 522.041; TC Section 22.7, page 6"
 },
 
@@ -28763,7 +28767,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Three" },
     { id: "D", text: "Four" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Missing and Exploited Children, Section 18.3, page 91"
 },
 
@@ -28776,7 +28780,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Lying" },
     { id: "D", text: "Obstruction" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 37.03(a)(2); PC Section 8.24"
 },
 
@@ -28789,7 +28793,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Unlawful restraint" },
     { id: "D", text: "Assault" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 20.04(a)(1),(5); PC Section 8.10"
 },
 
@@ -28802,7 +28806,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Act" },
     { id: "D", text: "Identify options" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "De-Escalation Strategies, Section 27.2"
 },
 
@@ -28815,7 +28819,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "11 whole days" },
     { id: "D", text: "15 whole days" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CCP 18.07(a)(1); Arrest, Search, and Seizure Section 10.9"
 },
 
@@ -28828,7 +28832,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "750" },
     { id: "D", text: "1,000" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TC 550.062(a); Traffic Section 21.31, page 21"
 },
 
@@ -28841,7 +28845,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "17" },
     { id: "D", text: "18" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TC 545.424(a); TC Section 22.15, page 10"
 },
 
@@ -28854,7 +28858,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Not an official traffic control device and not enforceable" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "TC 544.010; TC Section 22.8"
 },
 
@@ -28867,7 +28871,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Penal Code" },
     { id: "D", text: "TABC Code" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 1.07 #30; PC Section 8.2"
 },
 
@@ -28880,7 +28884,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The actor is a public servant who coerces the other person to submit or participate" },
     { id: "D", text: "A, B, and C" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 22.011(a)(b)(3),(5),&(8); PC Section 8.13"
 },
 
@@ -28893,7 +28897,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Arresting persons engaged" },
     { id: "D", text: "Both A & C" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CCP 8.04; CCP Section 9.6; Patrol Skills Section 35.29"
 },
 
@@ -28906,7 +28910,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "750" },
     { id: "D", text: "1,000" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Health & Safety Code 365.012(a); TC Section 22.5"
 },
 
@@ -28919,7 +28923,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "17" },
     { id: "D", text: "18" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TC 545.424(a); TC Section 22.15"
 },
 
@@ -28932,7 +28936,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "26" },
     { id: "D", text: "30" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 46.01 #10; PC Section 8.30"
 },
 
@@ -28945,7 +28949,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Enforceable" },
     { id: "D", text: "Applicable" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Force Options Section 28.7"
 },
 
@@ -28958,7 +28962,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Civilly liable for determining whether to provide the assistance" },
     { id: "D", text: "Not civilly liable for the failure to exercise due care in deciding whether to arrest an offender" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CCP Art. 5.045(b)(2); CCP Section 9.4"
 },
 
@@ -28971,7 +28975,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Aggravated Assault" },
     { id: "D", text: "No offense" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 22.011(a)(2)(A), (c)(1); PC Section 8.11"
 },
 
@@ -28984,7 +28988,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Forgery" },
     { id: "D", text: "Fraud" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 32.21(a)(1)(A)(iii), (b); PC Section 8.19"
 },
 
@@ -28997,7 +29001,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "L" },
     { id: "D", text: "A" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Arrest and Control Procedures, Section 31.11"
 },
 
@@ -29010,7 +29014,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Pictorial" },
     { id: "D", text: "Editorial" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Multiculturalism, Section 5.2"
 },
 
@@ -29023,7 +29027,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Frequent paraphrasing" },
     { id: "D", text: "De-escalation planning" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Verbal Communication, Section 25.7"
 },
 
@@ -29036,7 +29040,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Crossing arms, tapping fingers, dropping the head, biting your lips" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Verbal Communication, Section 25.7"
 },
 
@@ -29049,7 +29053,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Addressing a person's needs and desires" },
     { id: "D", text: "Your position as a professional officer" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Force Options, Section 28.13, page 14 of 24"
 },
 
@@ -29062,7 +29066,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Fair and impartial trial" },
     { id: "D", text: "Execution of the sentence of the law when declared" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CCP 1.03; CCP Section 9.1"
 },
 
@@ -29075,7 +29079,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Habitation" },
     { id: "D", text: "Homestead" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 28.01 #1; PC Section 8.15"
 },
 
@@ -29088,7 +29092,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A fine not to exceed $5,000" },
     { id: "D", text: "A fine not to exceed $500" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 12.21(1); PC Section 8.6"
 },
 
@@ -29101,7 +29105,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Make the notification to the child" },
     { id: "D", text: "Call a supervisor" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Victims of Crime, Section 20.6"
 },
 
@@ -29114,7 +29118,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Correctional releases impact police functions if the correctional system fails" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "US & TX Constitution, Section 7.3"
 },
 
@@ -29127,7 +29131,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Self-Command" },
     { id: "D", text: "Calmness" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Force Options, Section 28.5, page 7 of 24"
 },
 
@@ -29140,7 +29144,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Beginning" },
     { id: "D", text: "Busy part" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Radio Communications/Alerts/TCIC-TLETS, Section 36.3"
 },
 
@@ -29153,7 +29157,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "16" },
     { id: "D", text: "17" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "TC 521.201(1); 521.222(a)(1); 521.223(b); TC Section 22.7, page 5"
 },
 
@@ -29166,7 +29170,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Post-arrest" },
     { id: "D", text: "Jail" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CIT Section 29.59, page 48 of 49"
 },
 
@@ -29179,7 +29183,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Criminally Negligent Homicide" },
     { id: "D", text: "Manslaughter" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 19.03(a)(2); PC Section 8.9 (murder committed in the course of robbery/aggravated robbery)"
 },
 
@@ -29192,7 +29196,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "An emotional" },
     { id: "D", text: "A prejudicial" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Force Options, Section 28.5, page 7 of 24"
 },
 
@@ -29205,7 +29209,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Sexual intercourse" },
     { id: "D", text: "Sexual harassment" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 43.01 #10; PC Section 8.28"
 },
 
@@ -29218,7 +29222,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Should be conducted individually and outside the presence of others" },
     { id: "D", text: "In a climate controlled interview room" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Criminal Investigation, Section 32.43"
 },
 
@@ -29231,7 +29235,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Misdemeanor or felony" },
     { id: "D", text: "Federal offense" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP 18.22(a); Arrest, Search, and Seizure Section 10.9"
 },
 
@@ -29244,7 +29248,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Avalon Project" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Consular Notification Section 13.3, page 2 of 5"
 },
 
@@ -29257,7 +29261,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "12 A.M." },
     { id: "D", text: "None of the above are correct" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "ABC 105.01(a)(3); TABC Section 16.5"
 },
 
@@ -29270,7 +29274,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Vitamins" },
     { id: "D", text: "Carbohydrates" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Fitness Section 3.7, page 12 of 49"
 },
 
@@ -29283,7 +29287,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Peace" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP 2.13; CCP Section 9.3"
 },
 
@@ -29296,7 +29300,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "That amount of force likely to cause death or serious bodily injury to another" },
     { id: "D", text: "Justified to prevent the escape of an offender who is charged with misdemeanor theft" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 9.01 #3; Force Options Section 28.1; Arrest and Control Procedures Section 31.8"
 },
 
@@ -29309,7 +29313,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Tail lamps" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TC 547.322, 547.323, & 547.324; TC Section 22.17, page 11"
 },
 
@@ -29322,7 +29326,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The impoundment of vehicle" },
     { id: "D", text: "The suspect's rights" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "SFST Section 23.3"
 },
 
@@ -29335,7 +29339,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "THP-51" },
     { id: "D", text: "DIC-24" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "SFST Section 23.3"
 },
 
@@ -29348,7 +29352,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "To provide a simple judicial process" },
     { id: "D", text: "All the above are purposes of the code" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Family Code 51.01; Family Code and Juvenile Issues, Section 33.1"
 },
 
@@ -29361,7 +29365,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Theft" },
     { id: "D", text: "Robbery" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "PC 30.02(a)(3); PC Section 8.17"
 },
 
@@ -29374,7 +29378,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Forgery" },
     { id: "D", text: "Fraud" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 32.31(b); PC Section 8.19"
 },
 
@@ -29387,7 +29391,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Case number" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Criminal Investigation, Section 32.34"
 },
 
@@ -29400,7 +29404,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Personal Protective Etiquette" },
     { id: "D", text: "Pro-Protection Equipment" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "HazMat Section 42.11"
 },
 
@@ -29413,7 +29417,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Weaponless Strategies" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Force Options, Section 28.8, page 9 of 24"
 },
 
@@ -29426,7 +29430,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Theft of Service" },
     { id: "D", text: "No offense because there was a rental contract" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 31.04(a)(3); PC Section 8.18"
 },
 
@@ -29439,7 +29443,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Domestic Violence" },
     { id: "D", text: "No offense because they are married" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 20.02(a); Family Violence and RAO Section 17.6"
 },
 
@@ -29452,7 +29456,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "May never legally cross the striping designed to mark a no-passing zone." },
     { id: "D", text: "A driver may not legally make a left turn into or out of an alley, private road, or driveway if crossing a no-passing zone." }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "TC 545.055(b); TC Section 22.9, page 7"
 },
 
@@ -29465,7 +29469,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Younger than eighteen years of age unless juvenile court waives jurisdiction" },
     { id: "D", text: "Younger than fifteen years of age unless juvenile court waives jurisdiction" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 8.07(a)(1), (3), (b); PC Section 8.5"
 },
 
@@ -29478,7 +29482,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Neglect, abuse, exploitation" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Criminal Investigation, Section 32.15, page 12 of 52"
 },
 
@@ -29491,7 +29495,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "They are human beings" },
     { id: "D", text: "Wealthy and famous people are to be given preferential treatment" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Multiculturalism, Section 5.3, page 3 of 11"
 },
 
@@ -29504,7 +29508,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Aggravated Robbery" },
     { id: "D", text: "Aggravated Assault" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 29.03(a)(3)(A); PC Section 8.16, page 12 of 32"
 },
 
@@ -29517,7 +29521,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Burglary" },
     { id: "D", text: "Aggravated Robbery" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 30.02(a)(2); PC Section 8.17, page 12 of 32"
 },
 
@@ -29530,7 +29534,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "U.S. v. Mendenhall" },
     { id: "D", text: "Miranda v. Arizona" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Arrest, Search, and Seizure Section 10.7, page 7 of 11"
 },
 
@@ -29543,7 +29547,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Kidnapping" },
     { id: "D", text: "Criminal Attempted Murder" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 20A.03(a); PC Section 8.11, page 5 of 32; Missing and Exploited Children"
 },
 
@@ -29556,7 +29560,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Under the rules of parole" },
     { id: "D", text: "Under the rules of probation" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CCP 15.22; Arrest, Search, and Seizure, Section 10.7, page 6 of 11"
 },
 
@@ -29569,7 +29573,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Exclude the offender from all hope of escaping justice" },
     { id: "D", text: "Ensure a trial with as little delay as possible consistent with justice" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 1.02(6); PC Section 8.1, page 1 of 32"
 },
 
@@ -29582,7 +29586,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Observant" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Criminal Investigation, Section 32.6, page 4 of 52"
 },
 
@@ -29595,7 +29599,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "40" },
     { id: "D", text: "50" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TC 724.042(2)(B); TC Section 22.30"
 },
 
@@ -29608,7 +29612,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Marihuana" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Health and Safety Code - Controlled Substances, Section 15.2, page 1 of 6"
 },
 
@@ -29621,7 +29625,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "40" },
     { id: "D", text: "50" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "TC 545.352(b)(1); TC Section 22.14, page 9"
 },
 
@@ -29634,7 +29638,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Possible Injury" },
 	{ id: "D", text: "None of the above" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "TC Section 22.35 (CR-3 injury classification)"
 },
 
@@ -29647,7 +29651,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A person who is the victim of sexual assault" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CCP 7B.001(a)(1)&(2) / FC 82.002; Family Violence & Related Assaultive Offenses, Section 17.8, page 8 of 14"
 },
 
@@ -29660,7 +29664,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Taste the substance" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Health and Safety Code - Controlled Substance Act, Section 15.14"
 },
 
@@ -29673,7 +29677,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Ambiguous meanings" },
     { id: "D", text: "Double negatives" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Written Communications, Section 24.3, page 3 of 35"
 },
 
@@ -29686,7 +29690,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "May" },
     { id: "D", text: "Can" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CCP 2.132(b); Racial Profiling, Section 6.1, page 3 of 8"
 },
 
@@ -29699,7 +29703,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Fence" },
     { id: "D", text: "Vehicle" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Canine Encounters, Section 39.12, page 23 of 41"
 },
 
@@ -29712,7 +29716,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Seventh" },
     { id: "D", text: "First" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "US & TX Constitution, Section 7.1, page 3 of 8"
 },
 
@@ -29725,7 +29729,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "36" },
     { id: "D", text: "48" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CCP 2.27(a); CCP Section 9.3"
 },
 
@@ -29738,7 +29742,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Observing non-verbal body language" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Verbal Communication, Section 25.2, page 2 of 31"
 },
 
@@ -29751,7 +29755,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Illegal Medication" },
     { id: "D", text: "Dangerous drugs" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CIT Section 29.14, page 11 of 49"
 },
 
@@ -29764,7 +29768,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "3rd" },
     { id: "D", text: "2nd" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "FC 54.01(a); Family Code and Juvenile Issues, Section 33.10, page 2 of 19"
 },
 
@@ -29777,7 +29781,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Peers" },
     { id: "D", text: "Community" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Family Code and Juvenile Issues, Section 33.25, page 6 of 19"
 },
 
@@ -29790,7 +29794,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Trap and roll" },
     { id: "D", text: "All the listed are ground techniques" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Arrest and Control Procedures, Section 31.2, page 2 of 13"
 },
 
@@ -29803,7 +29807,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "20 years" },
     { id: "D", text: "Both A & B" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 12.31(a); PC Section 8.6, page 2 of 32"
 },
 
@@ -29816,7 +29820,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Council meeting" },
     { id: "D", text: "Official proceeding" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 1.07 #33; PC Section 8.2"
 },
 
@@ -29829,7 +29833,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "If the actor exhibits a deadly weapon" },
     { id: "D", text: "All of the listed answers are aggravated sexual assault" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 22.021(2)(A)(i), (2)(A)(iv), (2)(B); PC Section 8.13; Family Violence and RAO Section 17.6"
 },
 
@@ -29857,7 +29861,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Previous violations or hazards found present in the premises" },
     { id: "D", text: "Violations or hazards found in premises owned by the same individual" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP 18.05(c)(2); Arrest, Search, and Seizure, Section 10.9, page 10 of 11"
 },
 
@@ -29870,7 +29874,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Heart disease" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CIT Section 29.11, page 10 of 49"
 },
 
@@ -29883,7 +29887,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Robbery" },
     { id: "D", text: "Felony theft" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 29.02(a)(2); PC Section 8.16, page 12 of 32"
 },
 
@@ -29896,7 +29900,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "9 percent" },
     { id: "D", text: "3 percent" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Force Options, Section 28.11, page 11 of 24"
 },
 
@@ -29909,7 +29913,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "If the actor exhibits a deadly weapon" },
     { id: "D", text: "All of the listed answers are aggravated sexual assault" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 22.021(2)(A)(i), (2)(A)(iv), (2)(B); PC Section 8.13; Family Violence and RAO Section 17.6"
 },
 
@@ -29922,7 +29926,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Aggravated robbery" },
     { id: "D", text: "Theft from person" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 31.03(a)(b)(1); PC Section 8.18, page 13 of 32"
 },
 
@@ -29935,7 +29939,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Previous violations or hazards found present in the premises" },
     { id: "D", text: "Violations or hazards found in premises owned by the same individual" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP 18.05(c)(2); Arrest, Search, and Seizure, Section 10.9, page 10 of 11"
 },
 
@@ -29948,7 +29952,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Heart disease" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CIT Section 29.11, page 10 of 49"
 },
 
@@ -29961,7 +29965,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Robbery" },
     { id: "D", text: "Felony theft" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 29.02(a)(2); PC Section 8.16, page 12 of 32"
 },
 
@@ -29974,7 +29978,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "9 percent" },
     { id: "D", text: "3 percent" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Force Options, Section 28.11, page 11 of 24"
 },
 
@@ -29987,7 +29991,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Primary Safety Answering Point" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Radio Communications/Alerts/TCIC-TLETS, Section 36.1, page 1 of 7"
 },
 
@@ -30000,7 +30004,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "2, 24" },
     { id: "D", text: "4, 12" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TC 547.382(a), (b)(1); TC Section 22.17, page 12"
 },
 
@@ -30025,7 +30029,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
       text: "Punishment ranges from fines and imprisonment up to life imprisonment or death under certain circumstances."
     }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "18 USC 241; Force Options, Section 28.17, page 19 of 24. Choice C describes 18 USC 242, not 241."
 },
 
@@ -30038,7 +30042,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Discretion" },
     { id: "D", text: "Choice" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CCP 8.04; Patrol Skills, Section 35.29, page 24 of 38; CCP Section 9.6, page 3 of 4"
 },
 
@@ -30051,7 +30055,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Reckless decision-making" },
     { id: "D", text: "All of the above are common" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Traumatic Brain Injury, Section 30.16, page 12 of 34"
 },
 
@@ -30064,7 +30068,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A runaway child" },
     { id: "D", text: "A child who commits three Class C misdemeanors" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Family Code 51.03(a)(2); Family Code and Juvenile Issues, Section 33.3, page 1 of 19"
 },
 
@@ -30077,7 +30081,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "67 milliliters of urine" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "SFST Manual"
 },
 
@@ -30090,7 +30094,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Identify options and determine best course of action" },
     { id: "D", text: "Assess situation, threats, and risks" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "De-Escalation Strategies; ICAT Critical Decision-Making Model"
 },
 
@@ -30103,7 +30107,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Main suppliers of trafficking victims" },
     { id: "D", text: "Advocates to stop human trafficking" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Human Trafficking, Section 21.5, page 12"
 },
 
@@ -30116,7 +30120,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Braking, decision, perception" },
     { id: "D", text: "Perception, braking, decision" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Professional Police Driving, Section 34.21, page 8 of 10"
 },
 
@@ -30129,7 +30133,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "One-half hour after sunrise and ending one-half hour after sunset" },
     { id: "D", text: "One-half hour after sunrise and ending one-half hour before sunset" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "TC 541.401(1); TC Section 22.4, page 3"
 },
 
@@ -30142,7 +30146,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "None are correct" },
     { id: "D", text: "Both are correct" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Written Communications, Section 24.3, page 4 of 35"
 },
 
@@ -30155,7 +30159,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The right-of-way is a subset of the roadway" },
     { id: "D", text: "All of the above are true" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "TC 545.051; TC Section 22.9, page 7"
 },
 
@@ -30168,7 +30172,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Area search" },
     { id: "D", text: "Grid search" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Criminal Investigation, Section 32.30, page 22 of 52"
 },
 
@@ -30181,7 +30185,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The appropriate weather conditions in which to initiate a pursuit" },
     { id: "D", text: "The manner in which emergency equipment should be used" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Professional Police Driving, Section 34.5, page 3 of 10"
 },
 
@@ -30194,7 +30198,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Aggravated robbery" },
     { id: "D", text: "Aggravated theft" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 29.02(a)(1) & (2); PC Section 8.16"
 },
 
@@ -30207,7 +30211,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "2 to 10 years in state penitentiary and a $5,000 fine" },
     { id: "D", text: "2 to 20 years in state penitentiary and a $5,000 fine" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 12.34(a), (b); PC Section 8.6, page 2 of 32"
 },
 
@@ -30220,7 +30224,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Issuance of a bad check" },
     { id: "D", text: "Making alcohol available to a minor (Class A Misdemeanor)" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CCP 1.21; Arrest, Search, and Seizure Section 10.4, page 5 of 11"
 },
 
@@ -30233,7 +30237,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A" },
     { id: "D", text: "Exempt from driver's license" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "TC 521.027; TC Section 22.7, page 4"
 },
 
@@ -30246,7 +30250,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Restricted to the narcotic group of drugs" },
     { id: "D", text: "A device or drug bearing the legend warning federal law prohibits dispensing without prescription" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "HSC 481.002(5); HSC Section 15.1, page 1 of 6"
 },
 
@@ -30259,7 +30263,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Movie house" },
     { id: "D", text: "Within 20 feet of public buildings" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 48.01(a-1); PC Section 8.32, page 30 of 32"
 },
 
@@ -30272,7 +30276,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "In a sanitary place" },
     { id: "D", text: "In a correctional facility" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "TC 724.017(a-1); TC Section 22.30, page 20; SFST Section 23.2"
 },
 
@@ -30285,7 +30289,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "48 hours" },
     { id: "D", text: "Depends on the body" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Criminal Investigation, Section 32.21, page 17 of 52"
 },
 
@@ -30298,7 +30302,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Emission and penetration" },
     { id: "D", text: "Force and age of victim" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Criminal Investigation, Section 32.15, page 11 of 52; PC Section 8.13"
 },
 
@@ -30311,7 +30315,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Remove the tourniquet after 10 minutes since the bleeding has stopped" },
     { id: "D", text: "Leave the tourniquet in place" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "EMA Section 40.3, page 1 of 7"
 },
 
@@ -30324,7 +30328,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Stop" },
     { id: "D", text: "Disregard" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CCP 6.06; CCP Section 9.5, page 3 of 4"
 },
 
@@ -30337,7 +30341,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Proper behavior for civilians and peace officers during interactions" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Civilian Interaction, Section 37.2, page 4 of 12"
 },
 
@@ -30350,7 +30354,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Equal Employment Opportunity Commission (EEOC)" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Professionalism & Ethics, Section 1.8, page 18 of 25"
 },
 
@@ -30363,7 +30367,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The actor is a public servant who coerces the other person to submit or participate" },
     { id: "D", text: "Any of the above are without consent" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 22.011(b)(2), (8), (9); PC Section 8.13, page 7 of 32"
 },
 
@@ -30376,7 +30380,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Aggravated Robbery" },
     { id: "D", text: "Theft from Person" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 29.03(a)(1); PC Section 8.16, page 11 of 32"
 },
 
@@ -30389,7 +30393,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "In daytime if equipped with daytime running lamps" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "TC 547.302(a)(1); TC Section 22.17, page 11"
 },
 
@@ -30402,7 +30406,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Walking beats" },
     { id: "D", text: "Mobility" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Professional Policing, Section 2.1, page 1 of 16"
 },
 
@@ -30415,7 +30419,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Investigation" },
     { id: "D", text: "Officer's probable cause" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Arrest, Search, and Seizure, Section 10.5, page 5 of 11"
 },
 
@@ -30428,7 +30432,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Cultural Differences" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Victims of Crime, Section 20.1, page 5 of 13"
 },
 
@@ -30441,7 +30445,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Efficiently notify the public of specific missing person cases" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Radio Communications / Alerts / TCIC-TLETS, Section 36.4, page 4 of 7"
 },
 
@@ -30454,7 +30458,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "First" },
     { id: "D", text: "Eighth" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "US & TX Constitution, Section 7.1, page 2 of 8"
 },
 
@@ -30467,7 +30471,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The side" },
     { id: "D", text: "The sitting position" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Arrest and Control Procedures, Section 31.14, page 10 of 13"
 },
 
@@ -30480,7 +30484,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Illegal entry" },
     { id: "D", text: "Force or threat of force" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "PC 29.02(a)(2); PC Section 8.16, page 12 of 32"
 },
 
@@ -30493,7 +30497,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Variance" },
     { id: "D", text: "Symptom" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Fitness, Section 3.10, page 16 of 49"
 },
 
@@ -30506,7 +30510,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Terroristic threat" },
     { id: "D", text: "Tampering with consumer products" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "PC 22.07(a)(4); Family Violence & Related Assaultive Offenses, Section 17.6; PC Section 8.13"
 },
 
@@ -30520,7 +30524,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Only new drivers taking driver education courses" },
     { id: "E", text: "All drivers should receive instruction on how to safely interact with law enforcement if there is a firearm inside the passenger compartment of their vehicle" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Civilian Interaction, Section 37.1, page 4 of 12"
 },
 
@@ -30533,7 +30537,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Is delivered to the patrol supervisor" },
     { id: "D", text: "Is processed, then the prints and negatives are delivered to the magistrate" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CCP 18.021(d); Arrest, Search, and Seizure, Section 10.9, page 10 of 11"
 },
 
@@ -30546,7 +30550,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Learn new skills to manage conflict" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CIT, Section 29.1, page 4 of 49"
 },
 
@@ -30559,7 +30563,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Bail" },
     { id: "D", text: "Electronic bond" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP 17.01; Arrest, Search, and Seizure, Section 10.12, page 11 of 11"
 },
 
@@ -30572,7 +30576,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Disorderly conduct" },
     { id: "D", text: "Burglary" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "PC 42.03(a)(1) and (2); PC Section 8.27, page 25 of 32"
 },
 
@@ -30585,7 +30589,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "35%" },
     { id: "D", text: "50%" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "TC 547.613(b)(2)(A); TC Section 22.17, page 12"
 },
 {
@@ -30597,7 +30601,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "12 breaths per minute" },
     { id: "D", text: "As many breaths as possible" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Emergency Medical Care / BLS. Adult rescue breathing is provided at approximately 1 breath every 5-6 seconds (10-12 breaths per minute)."
 },
 
@@ -30610,7 +30614,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Ambulance" },
     { id: "D", text: "Trailer" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Transportation Code §541.201. A bus is a motor vehicle designed to transport more than 10 persons, including the driver."
 },
 
@@ -30623,7 +30627,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Supreme Courts of Appeals" },
     { id: "D", text: "Court of Criminal Appeals" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Texas Constitution Art. V. The Court of Criminal Appeals is the highest criminal court in Texas and has direct jurisdiction over death penalty appeals."
 },
 
@@ -30636,7 +30640,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Notarized" },
     { id: "D", text: "Privileged Information" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CCP Art. 1.24. Proceedings and trials in all courts shall be public unless otherwise provided by law."
 },
 
@@ -30649,7 +30653,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A Sheriff or Constable and their deputies" },
     { id: "D", text: "Only a Constable" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Texas Rules of Civil Procedure. Process involving seizure of persons, seizure of property, and evictions must generally be executed by a sheriff, constable, or their deputies."
 },
 
@@ -30662,7 +30666,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Can intervene" },
     { id: "D", text: "Must intervene" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Use of Force / CCP Art. 2.33. A peace officer has a duty to intervene to stop or prevent another officer's excessive force."
 },
 
@@ -30675,7 +30679,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Evading Detention" },
     { id: "D", text: "Unlawful Restraint" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Penal Code §31.03. Theft occurs when a person unlawfully appropriates property with intent to deprive the owner of the property."
 },
 
@@ -30688,7 +30692,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Dispense" },
     { id: "D", text: "Circulate" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Health and Safety Code §481.002. 'Dispense' means to deliver a controlled substance in the course of professional practice to an ultimate user or research subject."
 },
 
@@ -30701,7 +30705,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Kidnapping" },
     { id: "D", text: "Unlawful Detention" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Penal Code §20.03. A person commits kidnapping if the person intentionally or knowingly abducts another person."
 },
 
@@ -30712,7 +30716,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "A", text: "True" },
     { id: "B", text: "False" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Interview Techniques. Officers should avoid an aggressive stance and keep weapons away from direct view to reduce tension and encourage communication."
 },
 
@@ -30725,7 +30729,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Acquisitive Mob" },
     { id: "D", text: "None of These" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Crowd Control. An aggressive mob is characterized by hostility and violence, including race riots, political riots, lynchings, and prison riots."
 },
 
@@ -30738,7 +30742,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Fifth Anniversary" },
     { id: "D", text: "First Anniversary" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Occupations Code §1701.357. A retired officer's firearms proficiency certificate expires on the first anniversary of the date it was issued."
 },
 
@@ -30749,7 +30753,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "A", text: "True" },
     { id: "B", text: "False" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Penal Code §30.02. For burglary offenses, daytime is defined as beginning 30 minutes before sunrise and ending 30 minutes after sunset."
 },
 
@@ -30762,7 +30766,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Coordination" },
     { id: "D", text: "Concise" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Report Writing. A chronological report presents events in the sequence they occurred, from beginning to end."
 },
 
@@ -30775,7 +30779,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Assault" },
     { id: "D", text: "Sexual Assault" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Penal Code §22.011. Sexual assault occurs when a person intentionally or knowingly causes the penetration of another person's sexual organ, anus, or mouth without consent."
 },
 
@@ -30788,7 +30792,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Eyes, Mouth, Ears, and Tail" },
     { id: "D", text: "Mouth Only" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Canine Behavior. Dogs commonly communicate through body language, including their eyes, mouth, ears, tail, posture, and movement."
 },
 
@@ -30801,7 +30805,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Watch the dog using peripheral vision" },
     { id: "D", text: "Run away while yelling and waving arms" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Canine Encounters. Running, yelling, or waving arms may trigger a dog's chase instinct and escalate aggression."
 },
 
@@ -30814,7 +30818,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Holding one's breath or increased breathing rate" },
     { id: "D", text: "All of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Officer Survival / Stress Response. Critical incidents can produce physiological effects including tunnel vision, breathing changes, and significant physical stress."
 },
 
@@ -30827,7 +30831,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Pro Se" },
     { id: "D", text: "Ad Litem" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Legal Terminology. 'Pro Se' refers to a person who appears in court and represents themselves without an attorney."
 },
 
@@ -30840,7 +30844,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Automatic vehicle searches" },
     { id: "D", text: "Reporting only the location of citizen contacts" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CCP Art. 2.132. A racial profiling policy must include public education and information on the agency's complaint process."
 },
 
@@ -30853,7 +30857,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Juvenile court waives jurisdiction" },
     { id: "D", text: "The offense is a felony" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Family Code Chapter 54. Juvenile court must waive jurisdiction and certify the juvenile as an adult before prosecution in criminal court."
 },
 
@@ -30866,7 +30870,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Fifth Amendment" },
     { id: "D", text: "Sixth Amendment" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "U.S. Constitution, Fourth Amendment. Protects individuals against unreasonable searches and seizures by the government."
 },
 
@@ -30879,7 +30883,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Mandatory community service" },
     { id: "D", text: "Victim negotiations" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Criminal Law. Criminal offenses are punishable by sanctions such as fines, confinement, or, in certain cases, death."
 },
 
@@ -30892,7 +30896,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A four-lane road" },
     { id: "D", text: "Other than in a marked crosswalk" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Transportation Code §552.005. A pedestrian crossing a roadway at any point other than a marked or unmarked crosswalk must yield the right-of-way to vehicles."
 },
 
@@ -30905,7 +30909,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Pedal Cycle" },
     { id: "D", text: "Horse and Buggy Cart" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Transportation Code §541.201. A motor vehicle is a self-propelled vehicle or one propelled by electric power from overhead trolley wires."
 },
 
@@ -30918,7 +30922,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Empathize" },
     { id: "D", text: "Emerge" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "LEAPS Communication Model. LEAPS stands for Listen, Empathize, Ask, Paraphrase, and Summarize."
 },
 
@@ -30931,7 +30935,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Not, not be" },
     { id: "D", text: "Not be, not be" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Transportation Code §724.017. Taking a specimen from a resisting subject does not itself constitute negligence and may not be considered evidence of negligence."
 },
 
@@ -30944,7 +30948,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Alcohol Consumption" },
     { id: "D", text: "Polyunsaturated Fats" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Officer Wellness. Lower back injuries are among the most common physical disabilities affecting law enforcement officers."
 },
 
@@ -30957,7 +30961,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Apprehension" },
     { id: "D", text: "Problematic" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Problem area patrols are divided into Preventive Patrol and Apprehension Patrol. Apprehension patrols emphasize covert or low-visibility tactics, including surveillance, to locate and apprehend offenders. Patrol Skills §35.5"
 },
 
@@ -30969,7 +30973,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "B", text: "Moderately" },
     { id: "C", text: "Less" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Emergency Vehicle Operations. Audible warning devices are generally less effective in heavy traffic because surrounding vehicles may not hear or accurately locate the source."
 },
 
@@ -30982,7 +30986,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Court of Criminal Appeals only" },
     { id: "D", text: "All of the Above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Texas Courts. Criminal jurisdiction exists in Justice Courts, Municipal Courts, County Courts, District Courts, Courts of Appeals, and the Court of Criminal Appeals."
 },
 
@@ -30995,7 +30999,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Inchoate Infraction" },
     { id: "D", text: "Immature Acquisition" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Criminal Responsibility. An inchoate offense involves conduct that assists, encourages, or attempts criminal activity before the completed offense occurs."
 },
 
@@ -31008,7 +31012,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "The driver may not enter the intersection" },
     { id: "D", text: "The signal is malfunctioning" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Transportation Code §544.007. A steady yellow signal warns that the related green movement is ending and a red signal will soon be displayed."
 },
 
@@ -31021,7 +31025,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Gesturing" },
     { id: "D", text: "Observing" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Communication Skills. The 80/20 Rule teaches that effective communicators spend about 80% of the interaction listening and 20% talking."
 },
 
@@ -31034,7 +31038,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Performs and" },
     { id: "D", text: "Voluntarily" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Penal Code §6.01. A person commits an offense only if they voluntarily engage in conduct, including an act, omission, or possession."
 },
 
@@ -31047,7 +31051,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Aggravated Kidnapping" },
     { id: "D", text: "Interference With Child Custody" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Penal Code §20.04. Kidnapping becomes aggravated kidnapping when the offender abducts a person and holds them for ransom or reward."
 },
 
@@ -31060,7 +31064,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Up to 90 days first offense and 180 days second offense" },
     { id: "D", text: "Up to 120 days first offense and 180 days second offense" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "TCOLE Rules. Failure to meet legislatively mandated continuing education requirements may result in suspension up to 90 days for a first violation and up to 180 days for subsequent violations."
 },
 
@@ -31073,7 +31077,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Probable cause must exist before consent is requested" },
     { id: "D", text: "Consent cannot be coerced" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Fourth Amendment. A valid consent search requires voluntary consent free from coercion; probable cause is not required when valid consent is given."
 },
 
@@ -31086,7 +31090,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Criminal" },
     { id: "D", text: "Unlawful" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Penal Code §9.01. 'Unlawful' means conduct that is criminal or tortious, including conduct that would be criminal or tortious but for a defense not amounting to justification or privilege."
 },
 
@@ -31099,7 +31103,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "For the lifetime of the parties, a shorter period, or until the second anniversary if no period is stated" },
     { id: "D", text: "Only for a period specifically stated in the order" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP Art. 7B.007. A protective order may remain in effect for the period stated in the order, for the lives of the parties, or until the second anniversary of issuance if no period is specified."
 },
 
@@ -31112,7 +31116,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Battery" },
     { id: "D", text: "Assault" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Penal Code §22.01. Assault includes causing bodily injury, threatening imminent bodily injury, or making offensive or provocative physical contact."
 },
 
@@ -31125,7 +31129,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Balance" },
     { id: "D", text: "Self-Control" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Use of Force Continuum. Professional presence is the officer's initial force option and can often gain compliance without further force."
 },
 
@@ -31138,7 +31142,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Advantage" },
     { id: "D", text: "Strategy" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Officer Safety. Maintaining proper balance gives an officer mobility, strength, and a tactical advantage during contacts and confrontations."
 },
 
@@ -31151,7 +31155,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Highway" },
     { id: "D", text: "Paved Road" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Transportation Code §541.302. 'Roadway' means the portion of a highway improved, designed, or ordinarily used for vehicular travel, excluding the berm or shoulder."
 },
 
@@ -31164,7 +31168,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "J. Edgar Hoover" },
     { id: "D", text: "Jordan Peele" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "History of Policing. August Vollmer is widely known as the 'father of modern American policing' and championed professionalism, education, and police reform."
 },
 
@@ -31177,7 +31181,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Puncture" },
     { id: "D", text: "Oral" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Drug Abuse Recognition. Common methods of drug use include ingestion (oral), inhalation, injection, and absorption. 'Puncture' is not recognized as a method of drug administration."
 },
 
@@ -31190,7 +31194,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Robbery" },
     { id: "D", text: "Disorderly Conduct" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Penal Code §31.04. A person commits Theft of Service if, with intent to avoid payment, the person secures performance of a service and intentionally leaves without paying."
 },
 
@@ -31203,7 +31207,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Goggles" },
     { id: "D", text: "Shoes" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Bloodborne Pathogens. Universal precautions include protective equipment such as gloves, masks, and eye protection. Shoes are not considered a standard universal precaution."
 },
 
@@ -31217,7 +31221,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Two categories lower than the offense attempted" },
     { id: "E", text: "None of the above" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Penal Code §15.01(d). Criminal Attempt is generally punished one category lower than the offense attempted."
 },
 
@@ -31230,7 +31234,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "USCA 1983 Violation of Civil Rights" },
     { id: "D", text: "Both A and B" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "18 U.S.C. §241. Conspiracy Against Rights occurs when two or more persons conspire to interfere with rights secured by the Constitution or federal law."
 },
 
@@ -31243,7 +31247,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "A stressor that is perceived as positive" },
     { id: "D", text: "A stressor that is perceived as negative" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Stress Management. Eustress is positive stress that can motivate individuals and improve performance."
 },
 
@@ -31256,7 +31260,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "1 hour" },
     { id: "D", text: "One-half hour" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Death Investigation. Postmortem lividity (livor mortis) generally becomes visible approximately two hours after death as blood settles in the lowest portions of the body."
 },
 
@@ -31269,7 +31273,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "90 days" },
     { id: "D", text: "180 days" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "TCOLE Rules §217.1. A license holder arrested for an offense above a Class C misdemeanor must report the arrest to TCOLE in writing within 30 days."
 },
 
@@ -31282,7 +31286,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Capias" },
     { id: "D", text: "Arrest Warrant" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP Art. 23.01. A capias is a writ issued by a court directing a peace officer to arrest a person and bring that person before the court."
 },
 
@@ -31295,7 +31299,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Borderline" },
     { id: "D", text: "Paranoia" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Mental Health. Schizophrenia is often characterized by hallucinations, delusions, and impaired or distorted thinking."
 },
 
@@ -31309,7 +31313,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Writing traffic citations as a means of collecting additional funds for the city government." },
     { id: "E", text: "None of the above." }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Patrol Operations. The primary purpose of patrol is protection through crime prevention and service to the community."
 },
 
@@ -31322,7 +31326,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Post Traumatic Stress Disorder" },
     { id: "D", text: "Equilibrium Stage" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Victimology / Crisis Intervention. The normal response to a traumatic event is commonly referred to as a crisis reaction."
 },
 
@@ -31335,7 +31339,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Subpoena" },
     { id: "D", text: "Warrant" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP Art. 24.01. A subpoena is a writ commanding a person to appear and give testimony before a court or other authorized proceeding."
 },
 
@@ -31364,21 +31368,23 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Publication" },
     { id: "E", text: "No method of service is ever allowed on Sunday" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Texas Rules of Civil Procedure. Service by mail is permitted on Sunday even when personal service restrictions may apply."
 },
 
 {
   id: "TCOLE_q2361",
-  prompt: "__________ means the person who, under court order, is the guardian of the child or the public or private agency with whom the child has been placed by a court.",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "According to Texas Family Code §51.02, which of the following may be considered a 'party' in a juvenile proceeding?",
   options: [
-    { id: "A", text: "Party" },
-    { id: "B", text: "Custodian" },
-    { id: "C", text: "Lawyer" },
-    { id: "D", text: "Guardian" }
+    { id: "A", text: "The state" },
+    { id: "B", text: "The child who is the subject of the proceeding" },
+    { id: "C", text: "The child's parent, spouse, guardian, or guardian ad litem" },
+    { id: "D", text: "All of the above" }
   ],
-  answer: ["B"],
-  explain: "Family Code §51.02. 'Custodian' means a person, agency, or institution that has legal custody of a child under a court order."
+  answer: "D",
+  explain: "Texas Family Code §51.02(10) defines 'Party' as the state, a child who is the subject of proceedings under this subtitle, or the child's parent, spouse, guardian, or guardian ad litem."
 },
 
 {
@@ -31404,7 +31410,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "A and C only" },
     { id: "E", text: "All of the above" }
   ],
-  answer: ["E"],
+  answer: "E",
   explain: "Transportation Code §545.256. A driver emerging from an alley, driveway, or building must stop before the sidewalk and yield the right-of-way to pedestrians and approaching vehicles."
 },
 
@@ -31418,7 +31424,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Stalking" },
     { id: "E", text: "None of the above" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Penal Code §25.07. A person commits Violation of Certain Court Orders or Conditions of Bond by knowingly going to or near a location prohibited by a valid protective order."
 },
 
@@ -31431,7 +31437,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Weather conditions" },
     { id: "D", text: "V formation" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Chapter 31.10 (Risk Factors and Appropriate Response): Weather conditions are considered environmental risk factors that can affect officer safety during an arrest."
 },
 
@@ -31444,7 +31450,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Aggravated Robbery" },
     { id: "D", text: "Robbery" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Penal Code §29.02. A person commits Robbery if, during the course of committing theft, the person intentionally or knowingly threatens or places another in fear of imminent bodily injury or death."
 },
 
@@ -31457,7 +31463,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Legal Consent" },
     { id: "D", text: "Verbal Consent" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Penal Code §31.01. Effective consent includes consent by a person legally authorized to act for the owner."
 },
 
@@ -31470,7 +31476,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Counterfeit Substance" },
     { id: "D", text: "Raw Material" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Health and Safety Code §481.002. An immediate precursor is a principal compound commonly used or produced primarily for use in manufacturing a controlled substance."
 },
 
@@ -31483,7 +31489,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Insanity" },
     { id: "D", text: "Delusional" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Mental Health. A delusion is a fixed false belief that is not based on reality or factual information."
 },
 
@@ -31496,7 +31502,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "After they have been committed" },
     { id: "D", text: "When they can get to them" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Professional Policing,§2.5 Traditional Police Service Model - Reactive, police respond to and investigate crimes after they have been committed."
 },
 
@@ -31510,7 +31516,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Roadway" },
     { id: "E", text: "Laned Roadway" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Transportation Code §541.302. A freeway is a divided, controlled-access highway designed for through traffic."
 },
 
@@ -31523,7 +31529,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "An indictment is presented" },
     { id: "D", text: "An arrest warrant for the offense must be executed" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP Art. 12.01. Statutes of limitation refer to the period within which an indictment or information must be presented."
 },
 
@@ -31537,7 +31543,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "De-escalation (1849)" },
     { id: "E", text: "All of the Above" }
   ],
-  answer: ["E"],
+  answer: "E",
   explain: "TCOLE Continuing Education Requirements. Officers without an Intermediate Certificate by the end of the training cycle must complete Cultural Diversity, Crisis Intervention Training (CIT), Special Investigative Topics, and De-escalation training."
 },
 
@@ -31550,7 +31556,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Prejudices" },
     { id: "D", text: "Clothing" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Human Relations. Attitudes and prejudices can create misunderstandings, tension, and conflict between individuals or groups."
 },
 
@@ -31563,7 +31569,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Lawyer" },
     { id: "D", text: "Guardian" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Family Code §51.02. 'Party' means the state, the child who is the subject of proceedings, or the child's parent, spouse, guardian, or guardian ad litem."
 },
 
@@ -31576,7 +31582,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Movement" },
     { id: "D", text: "Bleeding" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Emergency Medical Care. Controlling bleeding is a primary step in treating shock because blood loss can lead to inadequate circulation and tissue perfusion."
 },
 
@@ -31589,7 +31595,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Contact Team" },
     { id: "D", text: "Search Team" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "35.21 Patrol Skills, List the procedures for safe building searches."
 },
 
@@ -31603,7 +31609,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Serious Bodily Injury" },
     { id: "E", text: "None of the Above" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Penal Code §22.01. Assault causing bodily injury is generally a Class A misdemeanor unless enhanced by specific circumstances."
 },
 
@@ -31616,7 +31622,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Manslaughter" },
     { id: "D", text: "Suspicious Deaths" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Death Investigation. Suspicious deaths should be treated as homicides until the investigation determines another manner of death."
 },
 
@@ -31629,7 +31635,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Director of a treatment facility" },
     { id: "D", text: "Magistrate" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "CCP Art. 14.031 gives release authority to both the peace officer and the magistrate. The individual may be released to a responsible adult, treatment program, or sobering facility. The director of the facility receives the person but does not authorize the release."
 },
 
@@ -31642,7 +31648,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "VIN Number" },
     { id: "D", text: "Driver's License Number" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Crime Prevention Programs. Operation ID encourages property owners to mark valuables with their driver's license number to aid identification and recovery."
 },
 
@@ -31655,7 +31661,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Direct, Redirect, Cross, Recross" },
     { id: "D", text: "Cross, Direct, Recross, Redirect" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Explanation: Per 32. Criminal Investigations.md,§32.54 (Methods of Court Procedure), witnesses are questioned in the order of Direct Examination, Cross-Examination, Redirect Examination, and Recross-Examination. Therefore, the correct sequence is Direct, Cross, Redirect, Recross."
 },
 
@@ -31668,7 +31674,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Double Jeopardy, Witness Against Self, Due Process, Self-Incrimination" },
     { id: "D", text: "States' Rights" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "U.S. Constitution, Ninth Amendment. The enumeration of certain rights in the Constitution shall not be construed to deny or disparage other rights retained by the people."
 },
 
@@ -31681,7 +31687,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Vulnerable to Resistance" },
     { id: "D", text: "Cannot See Hands" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Officer Safety Tactics. A rear approach may provide the element of surprise and reduce the subject's opportunity to immediately react."
 },
 
@@ -31694,7 +31700,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Paranoia" },
     { id: "D", text: "Schizophrenia" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Mental Health. Borderline Personality Disorder is commonly associated with unstable relationships, impulsive behavior, and difficulty controlling anger."
 },
 
@@ -31707,7 +31713,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Paranoia" },
     { id: "D", text: "Schizophrenia" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Mental Health / Suicide Prevention. Depression is the most commonly identified risk factor associated with suicide."
 },
 {
@@ -31720,7 +31726,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "All of the above are correct" },
     { id: "E", text: "A and B are correct" }
   ],
-  answer: ["E"],
+  answer: "E",
   explain: "Texas Rules of Civil Procedure Rule 103. Citation may be served by a sheriff, constable, or other authorized person, including a person authorized by law or court order who is at least 18 years old."
 },
 
@@ -31733,7 +31739,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Emotional" },
     { id: "D", text: "Spiritual" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Human Relations. An attitude is a cognitive position formed by a person's knowledge, feelings, and experiences that influences behavior."
 },
 
@@ -31746,7 +31752,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Next to the Heart" },
     { id: "D", text: "Away from the Heart" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Emergency Medical Care. Elevating an injured extremity above the level of the heart may help reduce bleeding when appropriate."
 },
 
@@ -31759,7 +31765,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "Criminal Solicitation" },
     { id: "D", text: "Unlawful Solicitation" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Penal Code §15.03. Criminal Solicitation occurs when a person requests, commands, or attempts to induce another to commit a capital felony or felony of the first degree."
 },
 
@@ -31772,7 +31778,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "C", text: "60%" },
     { id: "D", text: "97%" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Communication Skills. According to the commonly taught 7-38-55 communication model, approximately 7% of a message's impact comes from the actual words used."
 },
 
@@ -32608,7 +32614,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "C", text: "Only with permission of the fire department official in charge" },
     { id: "D", text: "Only with permission of the police officer directing traffic at such a fire emergency" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "22. Traffic Code and Crash Investigations (Transportation Code §545.408, Crossing Fire Hose)."
 },
 
@@ -32621,7 +32627,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "C", text: "Forgery" },
     { id: "D", text: "Fraud" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Under Texas Penal Code Section 32.21, a person commits forgery by altering, making, completing, executing, or authenticating a writing so that it purports to be the act of another or a copy of an original when no original existed."
 },
 
@@ -32634,21 +32640,21 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "C", text: "On the verbal order of a magistrate" },
     { id: "D", text: "On probable cause to believe a violation of a protective order has occurred" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "A warrantless arrest is not authorized merely because a credible citizen reports an offense. Texas law requires specific statutory authority for a warrantless arrest. Recognized exceptions include offenses committed in an officer's presence (CCP Art. 14.01), arrests made on the verbal order of a magistrate (CCP Art. 14.02), and certain protective-order violations supported by probable cause. Therefore, a citizen's report alone does not create an exception to the arrest warrant requirement."
 },
 
 {
   id: "TCOLE_q2449",
-  prompt: "__________ make up the foundation on which the Wellness Pyramid is built. (3)",
+  prompt: "A customer removes the price tag from a $1.50 can of deodorant and places it on an $11.50 can of hair spray before paying only $1.50 for the hair spray. What offense best fits these facts?",
   options: [
-    { id: "A", text: "Self-responsibility and stress management" },
-    { id: "B", text: "Smoking cessation and weight control" },
-    { id: "C", text: "Regular exercise and proper nutrition" },
-    { id: "D", text: "Strength and cardiovascular endurance" }
+    { id: "A", text: "Tampering with Identification Numbers" },
+    { id: "B", text: "Theft" },
+    { id: "C", text: "Fraudulent Destruction, Removal, or Concealment of Writing" },
+    { id: "D", text: "Criminal Mischief" }
   ],
-  answer: ["C"],
-  explain: "3. Fitness, Wellness, and Stress Management. The Wellness Pyramid is founded on regular exercise and proper nutrition. These basic health practices support physical fitness, disease prevention, and overall wellness."
+  answer: "C",
+  explain: "By removing and switching price labels, the suspect altered or removed a writing to facilitate a fraud. PC 32.47 Fraudulent Destruction, Removal, or Concealment of Writing."
 },
 
 {
@@ -32660,7 +32666,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "C", text: "Deadly weapon" },
     { id: "D", text: "Flail" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Matches the exact definition found in Penal Code § 1.07(a)(17)."
 },
 
@@ -32673,7 +32679,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "C", text: "Manslaughter" },
     { id: "D", text: "Criminally negligent homicide" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Under Texas Penal Code §19.03, a person commits capital murder if they intentionally commit murder while committing or attempting to commit certain felonies, including kidnapping. The intentional killing of a child under specified circumstances may also qualify as capital murder."
 },
 
@@ -32686,7 +32692,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "C", text: "Speed" },
     { id: "D", text: "Improper turning movement" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "22. Traffic Code and Crash Investigations (Section 22.33, Factors that May Contribute to a Vehicular Crash) Weather conditions, excessive speed, and improper turning movements are common causes of vehicle accidents. Ample equipment is not generally considered a contributing factor to a vehicular accident."
 },
 
@@ -32699,7 +32705,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "C", text: "Dissuade" },
     { id: "D", text: "Reinforce" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "17. Sexual Assault and Family Violence, Arresting the victim may reinforce the batterer's behavior by validating the abuse and providing an additional method of control within the relationship."
 },
 
@@ -32712,7 +32718,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "C", text: "make a lawful arrest without warrant" },
     { id: "D", text: "take no action" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "10. Arrest Search Seizure discusses probable cause and warrantless arrest authority under CCP Articles 14.01 through 14.05., When probable cause exists and circumstances do not permit obtaining a warrant in time, a peace officer may make a lawful warrantless arrest as authorized by law. poorly worded question"
 },
 
@@ -32725,7 +32731,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "C", text: "continue to knock until you get a response" },
     { id: "D", text: "attempt to enter the house" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "17. Sexual Assault and Family Violence specifically notes that officers may enter without consent when exigent circumstances require immediate action. Entry into a residence is a Fourth Amendment issue."
 },
 
@@ -32738,7 +32744,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "C", text: "Rain" },
     { id: "D", text: "Ice" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Heat and poor ventilation increase the risk of exposure at hazardous materials incidents by promoting the release, concentration, and spread of hazardous substances."
 },
 
@@ -32752,7 +32758,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "D", text: "No offense, the motel will send him a bill by mail" },
     { id: "E", text: "Disorderly Conduct" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "8. Penal Code, Texas Penal Code §31.04 Theft of Service."
 },
 
@@ -32765,7 +32771,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "C", text: "Outlawry and Transportation" },
     { id: "D", text: "Trial by Jury" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "The duty of every magistrate is to preserve the peace within the magistrate's jurisdiction by the use of all lawful means, issue process to prevent and suppress crime, and cause offenders to be arrested and brought to punishment. Source: Texas Code of Criminal Procedure Art. 2.10."
 },
 
@@ -32778,7 +32784,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "C", text: "The person uses or exhibits a deadly weapon in the course of the same criminal episode" },
     { id: "D", text: "All the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "8. Penal Code, Section 22.021 Aggravated Sexual Assault. A sexual assault becomes aggravated when certain aggravating circumstances exist, including when the victim is younger than 14, when the victim is elderly, or when the actor uses or exhibits a deadly weapon during the offense."
 },
 
@@ -32791,7 +32797,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "C", text: "Is capable of being scored" },
     { id: "D", text: "Is obtuse" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Firearms training targets should be capable of being scored so that accuracy and performance can be objectively measured and evaluated."
 },
 
@@ -32805,7 +32811,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "D", text: "Clergy" },
     { id: "E", text: "Each of the above may be a source" }
   ],
-  answer: ["E"],
+  answer: "E",
   explain: "20. Victims of Crime, Section 20.5, Discuss the potential for secondary victimization by the criminal justice system and how to avoid it."
 },
 
@@ -32818,7 +32824,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "C", text: "Murder" },
     { id: "D", text: "Capital felony" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "CCP Art. 1.13: Waiver of Trial by Jury, CCP Art. 1.14: Waiver of Rights, CCP Art. 1.141: Waiver of Indictment for Noncapital FelonyTexas law places special limitations on the waiver of rights in capital felony cases. A defendant may generally waive rights in other criminal cases, but capital felony prosecutions receive additional procedural protections."
 },
 
@@ -32831,7 +32837,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "C", text: "Security freeze" },
     { id: "D", text: "Validation lock" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Chapter 12, Identity Theft Crimes, section 12.11 defines a security freeze as: a notice placed on a consumer file that prohibits a consumer reporting agency from releasing a consumer report relating to the extension of credit involving that consumer file without the express authorization of the consumer."
 },
 
@@ -32844,7 +32850,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "C", text: "500" },
     { id: "D", text: "1500" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "7. US Texas Constitution Rights and CJ System. County courts have original jurisdiction over misdemeanors not exclusively assigned to justice courts and in cases where the authorized fine exceeds $500."
 },
 
@@ -32857,7 +32863,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "C", text: "granting an appeal" },
     { id: "D", text: "no longer issued in Texas" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "CCP Art. 5.04, A commitment is a court order directing that an accused be placed in jail or otherwise held in lawful custody. It provides the legal authority for confinement."
 },
 
@@ -32870,7 +32876,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "C", text: "Automobile patrol" },
     { id: "D", text: "Bicycle patrol" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Fixed-wing aircraft and helicopter patrol units can rapidly cover large areas, provide aerial observation of fleeing persons and vehicles, and enhance apprehension efforts when coordinated with ground units. Source: TCOLE Basic Peace Officer Course Unit 35 - Patrol."
 },
 
@@ -32883,7 +32889,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "C", text: "direct, redirect, cross, recross" },
     { id: "D", text: "cross, direct, recross, redirect" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "The standard sequence of witness testimony is direct examination, cross-examination, redirect examination, and recross-examination."
 },
 
@@ -32896,7 +32902,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "C", text: "Texas Rangers" },
     { id: "D", text: "The watch and ward system" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "2. Professional Policing, Stephen F. Austin organized frontier militia groups to protect settlers from raids. These early ranger companies later developed into the Texas Rangers, a historic Texas law enforcement organization."
 },
 
@@ -32910,7 +32916,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "D", text: "Athletic exercise such as basketball or handball" },
     { id: "E", text: "Warm-up exercise that stretches muscles prior to jogging" }
   ],
-  answer: ["E"],
+  answer: "E",
   explain: "3. Fitness, Wellness, and Stress Management. Warm-up stretching helps prepare muscles and reduce injury risk, but by itself does little to improve cardiovascular conditioning because it does not significantly increase heart and lung workload."
 },
 
@@ -32924,7 +32930,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "D", text: "De-escalation (1849)" },
     { id: "E", text: "All of the above" }
   ],
-  answer: ["E"],
+  answer: "E",
   explain: "Officers who have not obtained Intermediate Certification by the end of the training cycle must complete the TCOLE-mandated continuing education courses required for that cycle. Source: TCOLE Continuing Education Requirements."
 },
 
@@ -32937,7 +32943,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "C", text: "mandatory community service." },
     { id: "D", text: "appropriate negotiations between the district attorney and the defendants." }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "14. Civil Process, 8. Penal Code, 9. Code of Criminal Procedure. Civil law regulates conduct primarily through remedies such as injunctions and monetary damages. Unlike criminal law, its purpose is generally to compensate injured parties or prevent harmful conduct rather than punish offenders."
 },
 
@@ -32950,7 +32956,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "C", text: "giving written notice of a victim's legal rights" },
     { id: "D", text: "giving written notice of an offender's legal rights" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "CCP Art. 5.04(b). requires officers responding to family violence incidents to provide victims with written notice of their legal rights and information about available protections and services."
 },
 
@@ -32963,7 +32969,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "C", text: "Production" },
     { id: "D", text: "Making" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Production is defined by the Texas Controlled Substances Act as the manufacture, planting, cultivation, growing, or harvesting of a controlled substance. See Texas Health & Safety Code § 481.002(38)."
 },
 
@@ -32976,7 +32982,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "C", text: "Fixed wing/Helicopter patrol" },
     { id: "D", text: "Mounted patrol" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Automobile patrol provides speed, mobility, increased visibility, officer protection, and the ability to carry additional equipment. Source: TCOLE Basic Peace Officer Course Unit 35 - Patrol."
 },
 
@@ -32989,7 +32995,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "C", text: "Production" },
     { id: "D", text: "Making" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Possession means actual care, custody, control, or management. Source: Texas Penal Code §1.07(a)(39); Texas Health and Safety Code §481.002."
 },
 
@@ -33002,7 +33008,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "C", text: "Financial rewards" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "One advantage of the professional model of law enforcement is that the public or client is better served through increased accountability, training, professionalism, and quality of service. Source: TCOLE Basic Peace Officer Course Unit 1 - Professionalism and Ethics."
 },
 
@@ -33015,7 +33021,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "C", text: "Not be present" },
     { id: "D", text: "Be present but not look" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "When a licensed or certified emergency medical technician-intermediate or emergency medical technician-paramedic takes a blood specimen at the request or order of a peace officer, the peace officer must observe the taking of the specimen. Source: Texas Transportation Code §724.017(c), Taking of Specimen."
 },
 
@@ -33028,7 +33034,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "C", text: "Any amount" },
     { id: "D", text: "0.00001" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Texas law establishes a zero-tolerance standard for drivers under 21 years of age. Any detectable amount of alcohol may result in driver's license suspension. Source: Texas Alcoholic Beverage Code §106.041."
 },
 
@@ -33041,7 +33047,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "C", text: "Local policy" },
     { id: "D", text: "Federal policy" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Policies regarding authorized back-up (on-duty) weapons are determined by the employing law enforcement agency. Officers must comply with their department's written firearms and weapons policies concerning the carrying, qualification, inspection, and use of back-up weapons. Source: TCOLE Basic Peace Officer Course Unit 41 - Firearms."
 },
 
@@ -33052,7 +33058,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "A", text: "True" },
     { id: "B", text: "False" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Officers can use non-verbal communication, body language, posture, facial expressions, eye contact, and vocal tone to enhance officer safety, establish command presence, influence behavior, and gain a tactical advantage during encounters. Source: TCOLE Basic Peace Officer Course Unit 27 - Communication Strategies."
 },
 
@@ -33065,7 +33071,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "C", text: "National mandate" },
     { id: "D", text: "International mandate" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Emergency Vehicle Operations Course (EVOC) training should be conducted using sedan vehicles with similar type, power, and handling characteristics as those commonly used by the officer's agency. This ensures training closely reflects actual operating conditions and vehicle performance. Source: TCOLE Basic Peace Officer Course Unit 34 - Vehicle Operations and Patrol Vehicle Training."
 },
 
@@ -33078,7 +33084,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "C", text: "Mistake of Fact" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "Mistake of fact is a defense to prosecution if the actor, through a reasonable mistake, formed a belief about a matter of fact that negated the kind of culpability required for commission of the offense. Voluntary intoxication is not a defense to the commission of crime, and mistake of law is generally not a defense. Source: Texas Penal Code §8.02 (Mistake of Fact); §8.04 (Intoxication); §8.03 (Mistake of Law)."
 },
 
@@ -33091,7 +33097,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "C", text: "Meaningless" },
     { id: "D", text: "Harmless" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "In a physical arrest situation, the police role is essentially defensive. An officer's objective is to control the subject, protect themselves and others, and overcome resistance using objectively reasonable force rather than to punish or engage in combat. Source: TCOLE Basic Peace Officer Course Unit 31 - Arrest, Search, and Seizure / Defensive Tactics."
 },
 
@@ -33104,7 +33110,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "C", text: "The Department of Family and Protective Services for the protection of a member of a family or household" },
     { id: "D", text: "All the above may file a protective order" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "The Texas Family Code authorizes an adult member of a family or household, any adult for the protection of a child, and the Department of Family and Protective Services to file an application for a protective order under specified circumstances. Therefore, all of the listed parties may apply for a protective order. Source: Texas Family Code Chapter 82, Application for Protective Order."
 },
 
@@ -33117,7 +33123,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "C", text: "Witness" },
     { id: "D", text: "Culprit" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "A suspect is a person who is believed to be directly or indirectly involved in the commission of a crime, either through overt acts, participation, planning, or direction of the criminal activity. Source: TCOLE Basic Peace Officer Course Unit 32 - Criminal Investigation, Definitions and Roles of Persons Involved in Criminal Activity."
 },
 
@@ -33130,7 +33136,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "C", text: "Type" },
     { id: "D", text: "Treatment" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "FITT is a widely used exercise prescription principle that stands for Frequency, Intensity, Time, and Type. It is used to design and evaluate fitness programs by identifying how often exercise is performed, how hard it is performed, how long it lasts, and what kind of activity is conducted. Source: TCOLE Basic Peace Officer Course Unit 3 - Fitness, Wellness, and Stress Management."
 },
 
@@ -33144,7 +33150,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "D", text: "Criminal conspiracy" },
     { id: "E", text: "None of the above" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "A person commits criminal conspiracy if, with intent that a felony be committed, the person agrees with one or more persons that they or one or more of them engage in conduct constituting the offense and one or more of them performs an overt act in pursuance of the agreement. Source: Texas Penal Code §15.02 (Criminal Conspiracy)."
 },
 
@@ -33157,7 +33163,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "C", text: "Alpha, beta, gamma, neutron" },
     { id: "D", text: "Vesicants, insecticides, botulinum toxin" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Biological pathogens are disease-causing microorganisms or biological agents. Examples include plague (Yersinia pestis), bacteria, and anthrax (Bacillus anthracis). The other choices primarily contain chemical agents or radiological terms rather than biological pathogens. Source: TCOLE Basic Peace Officer Course Unit 42 - Hazardous Materials Awareness and Weapons of Mass Destruction."
 },
 
@@ -33171,7 +33177,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "D", text: "A motor-driven cycle" },
     { id: "E", text: "All of the above fall under the jurisdiction of the Transportation Code" }
   ],
-  answer: ["E"],
+  answer: "E",
   explain: "The Texas Transportation Code applies to operators of motor vehicles, motor-driven cycles, bicycles, and persons riding animals on a roadway unless a specific statute provides otherwise. Therefore, all of the listed persons or vehicles fall under the jurisdiction of the Transportation Code while using a roadway. Source: Texas Transportation Code, Title 7, Subtitle C (Rules of the Road); TCOLE Basic Peace Officer Course Unit 22 - Traffic Law."
 },
 
@@ -33184,7 +33190,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "C", text: "Short term" },
     { id: "D", text: "Legitimate" }
   ],
-  answer: ["C"],
+  answer: "C",
   explain: "A practical appeal relies on convincing a person that compliance is in their immediate best interest. While effective in many situations, it may only provide a short-term solution because it does not necessarily change the person's underlying attitudes, beliefs, or future behavior. Source: TCOLE Basic Peace Officer Course Unit 28 - Crisis Intervention and Communications."
 },
 
@@ -33197,7 +33203,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "C", text: "Engineering, divinity, law" },
     { id: "D", text: "Law, medicine, divinity" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Traditionally, the three learned professions are law, medicine, and divinity (clergy). These occupations historically required extensive formal education, specialized knowledge, ethical standards, and a commitment to public service. Source: TCOLE Basic Peace Officer Course Unit 1 - Professionalism and Ethics."
 },
 
@@ -33208,7 +33214,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "A", text: "True" },
     { id: "B", text: "False" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "The procedural justice perspective holds that public trust and the legitimacy of law enforcement are strongly influenced by whether people perceive police actions, decision-making, and treatment of citizens as fair, neutral, respectful, and trustworthy. Source: TCOLE Basic Peace Officer Course Unit 2 - Police-Community Relations; Procedural Justice and Police Legitimacy."
 },
 
@@ -33221,7 +33227,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "C", text: "Texas game warden" },
     { id: "D", text: "Border Patrol agent" }
   ],
-  answer: ["D"],
+  answer: "D",
   explain: "Article 2.12 of the Texas Code of Criminal Procedure lists persons who are peace officers, including reserve deputies, railroad peace officers, and Texas game wardens. A United States Border Patrol agent is a federal law enforcement officer but is not included among the peace officers enumerated in Article 2.12. Source: Texas Code of Criminal Procedure Art. 2.12 (Who Are Peace Officers)."
 },
 
@@ -33232,7 +33238,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "A", text: "True" },
     { id: "B", text: "False" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "Law enforcement agencies must accept a missing child report immediately and may not require a waiting period before taking the report. Prompt reporting and investigation are critical to the safe recovery of missing children. Source: Texas Code of Criminal Procedure Art. 63.009 (Law Enforcement Policy Regarding Missing Children and Missing Persons); TCOLE Basic Peace Officer Course Unit 18 - Missing and Exploited Children."
 },
 
@@ -33245,7 +33251,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "C", text: "Culprit" },
     { id: "D", text: "Person of interest" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "A witness is a person who observed a crime, part of a crime, or possesses information relevant to the investigation. Witnesses are often a primary source of information for investigators and may provide direct, indirect, or corroborating evidence. Source: TCOLE Basic Peace Officer Course Unit 32 - Criminal Investigation, Witnesses and Sources of Information."
 },
 
@@ -33258,7 +33264,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "C", text: "Hard empty hand control" },
     { id: "D", text: "None of the above" }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "Deadly force means force that is intended or known by the actor to cause, or in the manner of its use or intended use is capable of causing, death or serious bodily injury. Source: Texas Penal Code §9.01(3); TCOLE Basic Peace Officer Course Unit 28 - Use of Force."
 },
 
@@ -33272,7 +33278,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "D", text: "Compelling Prostitution" },
     { id: "E", text: "Disorderly Conduct" }
   ],
-  answer: ["B"],
+  answer: "B",
 	explain: "Receiving money from the proceeds of prostitution constitutes Promotion of Prostitution. Source: Texas Penal Code §43.03."
 },
 
@@ -33285,7 +33291,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "C", text: "Seven days, not counting the day of issuance nor the day of execution." },
     { id: "D", text: "Twenty-four hours." }
   ],
-  answer: ["B"],
+  answer: "B",
   explain: "A search warrant must generally be executed within three whole days, exclusive of the day of issuance and the day of execution. Source: Texas Code of Criminal Procedure Art. 18.07(a)."
 },
 
@@ -33298,7 +33304,7 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
     { id: "C", text: "Negligent homicide" },
     { id: "D", text: "Manslaughter" }
   ],
-  answer: ["A"],
+  answer: "A",
   explain: "A person commits murder if, with intent to cause serious bodily injury, the person commits an act clearly dangerous to human life that causes the death of an individual. Source: Texas Penal Code §19.02(b)(2)."
 },
 
