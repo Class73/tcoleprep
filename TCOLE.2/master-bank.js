@@ -1781,6 +1781,7 @@
   answer: "D",
   explain: "TCOLE First Aid, Scene safety is the first priority when assessing a patient. Ensure the area is safe for both the responder and the patient before providing care."
 },
+
 {
   id: "TCOLE_q126",
   type: "multiple-choice",
@@ -1795,6 +1796,7 @@
   answer: "C",
   explain: "Texas Penal Code §29.03, A person commits Aggravated Robbery when, in the course of committing theft and with intent to obtain or maintain control of the property, the person causes serious bodily injury or uses or exhibits a deadly weapon."
 },
+
 {
   id: "TCOLE_q127",
   type: "multiple-choice",
@@ -1809,6 +1811,7 @@
   answer: "B",
   explain: "TCOLE Health and Wellness, Wellness is the condition of the human organism that reflects health status, disease status, and risk potential."
 },
+
 {
   id: "TCOLE_q128",
   type: "multiple-choice",
@@ -1821,6 +1824,7 @@
   answer: "A",
   explain: "TCOLE Victim Assistance, A crisis reaction may produce both emotional and physical responses, including shock, disorientation, and physiological stress symptoms."
 },
+
 {
   id: "TCOLE_q129",
   type: "multiple-choice",
@@ -4463,15 +4467,15 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 	  id: "TCOLE_q315",
 	  type: "multiple-choice",
 	  points: 1,
-	  prompt: "__________ means the human kidney, liver, heart, lung, pancreas, eye, bone, skin, fetal tissue, or any other human organ or tissue.",
+	  prompt: "__________ means the heart, kidney, or liver or another organ or tissue that requires a patient support system to maintain the viability of the organ or tissue.",
 	  options: [
 		{ id: "A", text: "Human Tissue" },
 		{ id: "B", text: "Human Parts" },
-		{ id: "C", text: "Human Organ" },
+		{ id: "C", text: "Visceral Organ" },
 		{ id: "D", text: "Human Derivatives" }
 	  ],
 	  answer: "C",
-	  explain: "Texas Health and Safety Code §692A.002, 'Human organ' includes a kidney, liver, heart, lung, pancreas, eye, bone, skin, fetal tissue, or other human organ or tissue."
+	  explain: "Texas Health and Safety Code §692A.002 (37), word for word definition."
 	},
 	{
 	  id: "TCOLE_q316",
@@ -6548,15 +6552,15 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q463",
-  prompt: "Fraudulent Use or Possession of Identifying Information (Texas Penal Code 32.51) is a __________ if the number of items obtained, possessed, transferred, or used is less than five.",
+  prompt: "__________ is the measurement of the impact(s) of the responses on the targeted crime/disorder problem using information collected from multiple sources, both before and after the responses have been implemented.",
   options: [
-    { id: "A", text: "Class C misdemeanor" },
-    { id: "B", text: "3rd degree felony" },
-    { id: "C", text: "Class B misdemeanor" },
-    { id: "D", text: "state jail felony" }
+    { id: "A", text: "Scanning" },
+    { id: "B", text: "Analysis" },
+    { id: "C", text: "Response" },
+    { id: "D", text: "Assessment" }
   ],
   answer: "D",
-  explain: "Texas Penal Code § 32.51 c 1 Fraudulent Use or Possession of Identifying Information"
+  explain: "Assessment is the final step of the SARA problem-solving model. During the assessment phase, officers measure the effectiveness of the responses implemented to address the identified crime or disorder problem. This evaluation is conducted using information gathered from multiple sources both before and after the response strategy was put into place to determine whether the problem was reduced, eliminated, or requires additional action."
 },
 
 {
@@ -16759,15 +16763,16 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q1244",
-  prompt: "According to Penal Code 32.51, fraudulent use or possession of identifying information is a:",
+  prompt: "Which of the following is NOT an element of an offense?",
   options: [
-    { id: "A", text: "Felony" },
-    { id: "B", text: "Misdemeanor" },
-    { id: "C", text: "Civil Matter" },
-    { id: "D", text: "Federal offense" }
+    { id: "A", text: "Forbidden conduct" },
+    { id: "B", text: "Required culpability" },
+    { id: "C", text: "Effective consent" },
+    { id: "D", text: "Any required result" },
+    { id: "E", text: "Negation of any exception" }
   ],
-  answer: "A",
-  explain: "Identity Crimes Section 12.9; PC 32.51"
+  answer: "C",
+  explain: "The elements of an offense consist of the forbidden conduct (act or omission), the required culpable mental state, any required result, and the negation of any exception to the offense. Effective consent is not an element of every offense; it may be relevant to specific crimes as a defense or issue of proof, but it is not one of the general elements of an offense under the Texas Penal Code."
 },
 
 {
@@ -33372,52 +33377,53 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
   id: "TCOLE_q2504",
   type: "multiple-choice",
   points: 1,
-  prompt: "In the traditional police service model, most of the workload of patrol officers and detectives consists of handling crimes that have already been committed, disturbances in progress, and traffic violations describes __________. (2)",
+  prompt: "What court case deals with the topic of firing at or from a motor vehicle?",
   options: [
-    { id: "A", text: "Incident driven" },
-    { id: "B", text: "Reactive response" },
-    { id: "C", text: "Citizen and employee expectations" },
-    { id: "D", text: "Use of the criminal justice system" }
+    { id: "A", text: "Hathaway v. Bazany" },
+    { id: "B", text: "Vance v. Shaffer" },
+    { id: "C", text: "Jones v. Wittenberg University" },
+    { id: "D", text: "Frye v. Reynolds" }
   ],
-  answer: "B",
-  explain: "Reactive response is a key characteristic of the traditional police service model. Officers primarily respond to calls for service after crimes have occurred, handle disturbances already in progress, and enforce traffic laws. TCOLE contrasts this reactive approach with proactive and community policing strategies that seek to prevent crime and address underlying community problems before incidents occur."
+  answer: "A",
+  explain: "Hathaway v. Bazany addressed an officer's use of deadly force involving a suspect operating a motor vehicle. The case examined the reasonableness of an officer firing at a vehicle when the officer perceived the vehicle as an immediate threat of serious bodily injury or death."
 },
 
 {
   id: "TCOLE_q2505",
   type: "multiple-choice",
   points: 1,
-  prompt: "A co-worker who is abusing drugs or alcohol can be helped in four ways. These are: Be aware and recognize the problem, encourage the person after they seek help, avoiding the problem will eventually have serious consequences and __________. (3)",
+  prompt: "A person uses spray paint to tag the outside wall of a rival high school's building, causing damage valued at $200. What offense has occurred?",
   options: [
-    { id: "A", text: "Evaluate their problem" },
-    { id: "B", text: "Urge the person to seek help" },
-    { id: "C", text: "Be able to laugh at one's self" },
-    { id: "D", text: "Urge the drinker to check their attitude" }
+    { id: "A", text: "Reckless Damage or Destruction" },
+    { id: "B", text: "Criminal Mischief - Misd B" },
+    { id: "C", text: "Graffiti - Misd B" },
+    { id: "D", text: "Graffiti - Felony" },
+    { id: "E", text: "None of the above" }
   ],
-  answer: "B",
-  explain: "According to TCOLE wellness and stress management training, peers can help a co-worker struggling with alcohol or drug abuse by recognizing the problem, urging the person to seek professional help, encouraging the person after treatment begins, and understanding that ignoring the problem will likely lead to serious consequences. Seeking assistance through employee assistance programs, counseling, or treatment resources is a critical step toward recovery."
+  answer: "C",
+  explain: "Graffiti occurs when a person intentionally makes inscriptions, slogans, drawings, or paintings on the tangible property of another using paint, markers, etching tools, or similar materials. Spray-painting the outside wall of a school building constitutes Graffiti under Texas Penal Code §28.08. Because the pecuniary loss is $200, the offense is a Class B misdemeanor ($100 or more but less than $750). The BPOC Penal Code curriculum specifically uses a scenario involving spray-painting another person's property with symbols as an example of Graffiti rather than Criminal Mischief."
 },
 
 {
   id: "TCOLE_q2506",
   type: "multiple-choice",
   points: 1,
-  prompt: "One of the advantages of the rear approach to suspects is __________. (31)",
+  prompt: "__________ is the forbidden conduct; the required culpability; any required result; and the negation of any exception to the offense.",
   options: [
-    { id: "A", text: "May provoke physical resistance" },
-    { id: "B", text: "Surprise" },
-    { id: "C", text: "Loss of surprise" },
-    { id: "D", text: "Communication" }
+    { id: "A", text: "Reason of arrest" },
+    { id: "B", text: "Element of offense" },
+    { id: "C", text: "Charges" },
+    { id: "D", text: "Offense" }
   ],
   answer: "B",
-  explain: "Surprise is one of the primary advantages of the rear approach to a suspect. TCOLE officer safety training teaches that approaching from the rear can reduce the suspect's awareness of the officer's presence, giving the officer a tactical advantage and more time to assess potential threats. By contrast, loss of surprise is a disadvantage, communication is generally more difficult from the rear, and a rear approach may reduce rather than provoke immediate resistance."
+  explain: "The elements of an offense consist of the forbidden conduct (act or omission), the required culpable mental state, any required result or causation, and the negation of any exception to the offense. BPOC Chapter 8 identifies the components of a Penal Code offense as Act or Omission (PC 6.01), Culpable Mental State (PC 6.02 and 6.03), and Causation or Result (PC 6.04)."
 },
 
 {
   id: "TCOLE_q2507",
   type: "multiple-choice",
   points: 1,
-  prompt: "The IACP Code of Ethics states, \"I will recognize the badge of my office as a symbol of __________.\" (1)",
+  prompt: "The IACP Code of Ethics states, I will recognize the badge of my office as a symbol of __________.",
   options: [
     { id: "A", text: "Authority" },
     { id: "B", text: "Employment" },
