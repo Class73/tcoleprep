@@ -207,20 +207,24 @@
   answer: "D",
   explain: "An anger killing is commonly described as a progression from dispute, to anger, to attack, and ultimately death."
 },
+
 {
   id: "TCOLE_q16",
   type: "multiple-choice",
   points: 1,
-  prompt: "According to TCOLE, an officer's primary responsibility is that of __________ by the technical definition as well as the moral responsibilities of the job.",
+  type: "multiple-choice",
+  points: 1,
+  prompt: 'Under Texas Transportation Code, what is the definition of a "motor vehicle"?',
   options: [
-    { id: "A", text: "crime prevention" },
-    { id: "B", text: "assessing crime" },
-    { id: "C", text: "investigation" },
-    { id: "D", text: "opportunity reduction" }
+    { id: "A", text: "A device on wheels except one powered by human power" },
+    { id: "B", text: "A self-propelled vehicle or one propelled by electric power from overhead trolley wires" },
+    { id: "C", text: "Any passenger vehicle designed for fewer than 15 occupants" },
+    { id: "D", text: "Any motorized vehicle operated on a public highway" }
   ],
-  answer: "A",
-  explain: "TCOLE patrol doctrine identifies crime prevention as the primary responsibility of peace officers, both professionally and morally."
+  answer: "B",
+  explain: "Transportation Code §541.201 defines a motor vehicle as a self-propelled vehicle or one propelled by electric power from overhead trolley wires. This distinction is important because 'vehicle' and 'motor vehicle' are different legal definitions. 【1-d61cf0】【2-250b1e】"
 },
+
 {
   id: "TCOLE_q17",
   type: "multiple-choice",
@@ -235,6 +239,7 @@
   answer: "B",
   explain: "An indictment is a written statement of a grand jury accusing a person of the commission of an offense. It is the formal charging document used in felony prosecutions."
 },
+
 {
   id: "TCOLE_q18",
   type: "multiple-choice",
@@ -546,20 +551,24 @@
   answer: "D",
   explain: "32. Criminal Investigations - Projection, perspective, detailed, and schematic sketches are recognized crime scene sketch formats used to document the location of evidence and scene features."
 },
+
 {
   id: "TCOLE_q39",
   type: "multiple-choice",
   points: 1,
-  prompt: "The nervous system has __________ parts.",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Under Texas Transportation Code §545.401, reckless driving occurs when a person drives with:",
   options: [
-    { id: "A", text: "Two" },
-    { id: "B", text: "Three" },
-    { id: "C", text: "Four" },
-    { id: "D", text: "Five" }
+    { id: "A", text: "An expired driver license" },
+    { id: "B", text: "Willful or wanton disregard for the safety of persons or property" },
+    { id: "C", text: "A suspended registration" },
+    { id: "D", text: "An open container in the vehicle" }
   ],
   answer: "B",
-  explain: "According to the TCOLE Fitness, Wellness, and Stress Management curriculum, the nervous system is taught as having three parts: the Central Nervous System, the Sympathetic Nervous System, and the Parasympathetic Nervous System."
+  explain: "Reckless driving requires proof that the operator drove with willful or wanton disregard for the safety of persons or property. It involves dangerous conduct beyond ordinary traffic violations. 【1-3e4789】"
 },
+
 {
   id: "TCOLE_q40",
   type: "multiple-choice",
@@ -2763,15 +2772,17 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 	id: "TCOLE_q194",
 	type: "multiple-choice",
 	points: 1,
-	prompt: "The normal response to trauma follows a similar pattern called the __________.",
-	options: [
-	{ id: "A", text: "Crisis Reaction" },
-	{ id: "B", text: "Ripple Effect" },
-	{ id: "C", text: "Post Traumatic Stress Disorder" },
-	{ id: "D", text: "Equilibrium Stage" }
-	],
-	answer: "A",
-	explain: "The normal response to trauma is known as a crisis reaction."
+	  type: "multiple-choice",
+	  points: 1,
+	  prompt: "A driver entering a highway from a private road or driveway must yield the right-of-way to:",
+	  options: [
+		{ id: "A", text: "Pedestrians only" },
+		{ id: "B", text: "Vehicles approaching from the left only" },
+		{ id: "C", text: "All vehicles approaching on the highway" },
+		{ id: "D", text: "Commercial vehicles only" }
+	  ],
+	  answer: "C",
+	explain: "Transportation Code §545.155 requires a vehicle entering a highway from a private road or driveway to yield the right-of-way to vehicles approaching on the highway. 【1-3454ad】"
 },
 {
 	id: "TCOLE_q195",
@@ -2868,59 +2879,75 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 	answer: "B",
 	explain: "De-escalation training is not designed to provide less-lethal options for every encounter."
 },
+
 {
 	id: "TCOLE_q202",
 	type: "multiple-choice",
 	points: 1,
-	prompt: "An operator of a vehicle emerging from an alley, driveway, or business shall __________.",
-	options: [
-	{ id: "A", text: "Stop before the sidewalk" },
-	{ id: "B", text: "Yield right of way to pedestrians" },
-	{ id: "C", text: "Yield right of way to approaching vehicles" },
-	{ id: "D", text: "A and C only" },
-	{ id: "E", text: "All of the above" }
-	],
-	answer: "E"
+	  type: "multiple-choice",
+	  points: 1,
+	  prompt: "During traffic control operations, two short blasts of a police whistle generally signal drivers to:",
+	  options: [
+		{ id: "A", text: "Stop immediately" },
+		{ id: "B", text: "Start or proceed" },
+		{ id: "C", text: "Turn around" },
+		{ id: "D", text: "Move to the shoulder" }
+	  ],
+	  answer: "B",
+	  explain: "Traffic direction procedures taught in the Traffic Code and Crash Investigations curriculum state that two short whistle blasts are used to attract drivers' attention and signal traffic to start moving."
 },
+
 {
 	id: "TCOLE_q203",
 	type: "multiple-choice",
 	points: 1,
-	prompt: "A person in the course of committing theft, and with the intent to obtain or maintain control of property, intentionally, knowingly, or recklessly places another in fear of imminent bodily injury or death.",
-	options: [
-	{ id: "A", text: "Theft by Appropriation" },
-	{ id: "B", text: "Theft" },
-	{ id: "C", text: "Aggravated Robbery" },
-	{ id: "D", text: "Robbery" }
-	],
-	answer: "D"
+	type: "multiple-choice",
+	  points: 1,
+	  prompt: "A driver approaching an authorized emergency vehicle using emergency signals shall generally:",
+	  options: [
+		{ id: "A", text: "Continue driving normally" },
+		{ id: "B", text: "Accelerate through the area" },
+		{ id: "C", text: "Yield the right-of-way and comply with Transportation Code requirements" },
+		{ id: "D", text: "Stop in the middle of the roadway regardless of circumstances" }
+	  ],
+	  answer: "C",
+	  explain: "Transportation Code §545.156 addresses a driver's duty when approached by an authorized emergency vehicle. Drivers must yield and follow the statutory requirements to allow safe passage. 【1-3e4789】"
 },
+
 {
 	id: "TCOLE_q204",
 	type: "multiple-choice",
 	points: 1,
-	prompt: "__________ includes consent by a person legally authorized to act for the owner.",
-	options: [
-	{ id: "A", text: "Ineffective Consent" },
-	{ id: "B", text: "Effective Consent" },
-	{ id: "C", text: "Legal Consent" },
-	{ id: "D", text: "Verbal Consent" }
-	],
-	answer: "B"
+	  type: "multiple-choice",
+	  points: 1,
+	  prompt: "A driver approaching an authorized emergency vehicle using emergency signals shall generally:",
+	  options: [
+		{ id: "A", text: "Continue driving normally" },
+		{ id: "B", text: "Accelerate through the area" },
+		{ id: "C", text: "Yield the right-of-way and comply with Transportation Code requirements" },
+		{ id: "D", text: "Stop in the middle of the roadway regardless of circumstances" }
+	  ],
+	  answer: "C",
+	  explain: "Transportation Code §545.156 addresses a driver's duty when approached by an authorized emergency vehicle. Drivers must yield and follow the statutory requirements to allow safe passage. 【1-3e4789】"
 },
+
 {
 	id: "TCOLE_q205",
 	type: "multiple-choice",
 	points: 1,
-	prompt: "According to the Health and Safety Code, __________ means a principal compound commonly used or produced primarily for use in the manufacture of a controlled substance.",
-	options: [
-	{ id: "A", text: "Immediate Precursor" },
-	{ id: "B", text: "Drug Paraphernalia" },
-	{ id: "C", text: "Counterfeit Substance" },
-	{ id: "D", text: "Raw Material" }
-	],
-	answer: "A"
+	  type: "multiple-choice",
+	  points: 1,
+	  prompt: "Under Texas law, a pedestrian crossing a roadway at a point other than a crosswalk must:",
+	  options: [
+		{ id: "A", text: "Yield the right-of-way to vehicles" },
+		{ id: "B", text: "Always have the right-of-way" },
+		{ id: "C", text: "Use hand signals before crossing" },
+		{ id: "D", text: "Cross only during daylight hours" }
+	  ],
+	  answer: "A",
+	  explain: "Transportation Code §552.005 requires pedestrians crossing outside a marked or unmarked crosswalk to yield the right-of-way to vehicles on the roadway. 【1-3e4789】"
 },
+
 {
 	id: "TCOLE_q206",
 	type: "multiple-choice",
@@ -3961,16 +3988,19 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 	  id: "TCOLE_q279",
 	  type: "multiple-choice",
 	  points: 1,
-	  prompt: "According to TCOLE, an officer's primary responsibility is that of __________ by the technical definition as well as the moral responsibilities of the job.",
+	  type: "multiple-choice",
+	  points: 1,
+	  prompt: "A driver may not drive at a speed greater than is ____ and ____ under existing conditions.",
 	  options: [
-		{ id: "A", text: "Crime Prevention" },
-		{ id: "B", text: "Assessing Crime" },
-		{ id: "C", text: "Investigation" },
-		{ id: "D", text: "Opportunity Reduction" }
+		{ id: "A", text: "Posted and reasonable" },
+		{ id: "B", text: "Lawful and prudent" },
+		{ id: "C", text: "Reasonable and prudent" },
+		{ id: "D", text: "Safe and legal" }
 	  ],
-	  answer: "A",
-	  explain: "TCOLE Crime Prevention, An officer's primary responsibility is crime prevention through both professional duties and ethical conduct."
+	  answer: "C",
+	  explain: "Texas Transportation Code §545.351 requires drivers to operate at a speed that is reasonable and prudent under existing circumstances. Even driving below the posted speed limit can be unlawful if conditions make it unsafe."
 	},
+	
 	{
 	  id: "TCOLE_q280",
 	  type: "multiple-choice",
@@ -6656,31 +6686,35 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
   explain: "TCOLE Use of Force Curriculum; Verbal Direction and De-escalation Principles"
 },
 
-{
-  id: "TCOLE_q471",
-  prompt: "An officer's primary responsibility is __________.",
-  options: [
-    { id: "A", text: "arrest all offenders" },
-    { id: "B", text: "crime prevention" },
-    { id: "C", text: "write reports" },
-    { id: "D", text: "service" }
-  ],
-  answer: "B",
-  explain: "TCOLE Patrol Curriculum; Sir Robert Peel's Principles of Law Enforcement"
-},
+	{
+	  id: "TCOLE_q471",
+	  type: "multiple-choice",
+	  points: 1,
+	  prompt: "What is the maximum daytime speed limit on a beach unless otherwise posted?",
+	  options: [
+		{ id: "A", text: "10 mph" },
+		{ id: "B", text: "15 mph" },
+		{ id: "C", text: "20 mph" },
+		{ id: "D", text: "25 mph" }
+	  ],
+	  answer: "B",
+	  explain: "Transportation Code §545.352 establishes a daytime beach speed limit of 15 mph unless a different speed has been legally posted. 【1-d61cf0】【2-250b1e】"
+	},
 
-{
-  id: "TCOLE_q472",
-  prompt: "Common stressors of peace officers are which of the following?",
-  options: [
-    { id: "A", text: "External stress to the agency" },
-    { id: "B", text: "Internal stress to the agency" },
-    { id: "C", text: "Financial problems of parents" },
-    { id: "D", text: "Both A and B" }
-  ],
-  answer: "D",
-  explain: "TCOLE Professional Police Conduct / Stress Management Curriculum"
-},
+	{
+	  id: "TCOLE_q472",
+	  type: "multiple-choice",
+	  points: 1,
+	  prompt: "A pedestrian crossing a roadway outside a marked or unmarked crosswalk must yield the right-of-way to:",
+	  options: [
+		{ id: "A", text: "Emergency vehicles only" },
+		{ id: "B", text: "Vehicles on the roadway" },
+		{ id: "C", text: "Commercial vehicles only" },
+		{ id: "D", text: "School buses only" }
+	  ],
+	  answer: "B",
+	  explain: "Transportation Code §552.005 requires a pedestrian crossing at a point other than a crosswalk to yield the right-of-way to vehicles on the roadway. 【1-d61cf0】【2-250b1e】"
+	},
 
 {
   id: "TCOLE_q473",
@@ -8025,20 +8059,24 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
   answer: "E",
   explain: "TCOLE Family Violence and Victim Services, Crime victim assistance programs, victim service units, family violence shelters, and rape crisis centers are all community resources available to victims."
 },
+
 {
   id: "TCOLE_q573",
   type: "multiple-choice",
   points: 1,
-  prompt: "How should you form your approach when there are only two officers?",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "What is the primary requirement of Texas Transportation Code §545.104 regarding turns?",
   options: [
-    { id: "A", text: "Coming in on either sides of the suspect" },
-    { id: "B", text: "Side by side, direct approach" },
-    { id: "C", text: "A formation" },
-    { id: "D", text: "V formation" }
+    { id: "A", text: "Drivers must sound the horn before turning" },
+    { id: "B", text: "Drivers must signal an intention to turn" },
+    { id: "C", text: "Drivers must stop completely before every turn" },
+    { id: "D", text: "Drivers must use hand signals at all times" }
   ],
-  answer: "D",
-  explain: "TCOLE Patrol Procedures and Officer Safety, When only two officers are present, a V formation provides officer safety, observation capability, and tactical advantage."
+  answer: "B",
+  explain: "Transportation Code §545.104 requires operators to properly signal their intention to turn, change lanes, or otherwise move right or left when required by law. 【1-3454ad】"
 },
+
 {
   id: "TCOLE_q574",
   type: "multiple-choice",
@@ -8068,32 +8106,39 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
   answer: "B",
   explain: "TCOLE Criminal Investigation, Robbers are more likely to use violence or threats against strangers and sacrifice secrecy by directly confronting victims."
 },
+
 {
   id: "TCOLE_q576",
-  type: "true-false",
+  type: "multiple-choice",
   points: 1,
-  prompt: "Unethical conduct on the part of peace officers can result in federal prosecution.",
+  prompt: "Under Texas Transportation Code §545.060, an operator shall drive as nearly as practical:",
   options: [
-    { id: "A", text: "True" },
-    { id: "B", text: "False" }
+    { id: "A", text: "In the center of the roadway" },
+    { id: "B", text: "Within a single lane" },
+    { id: "C", text: "At the same speed as surrounding traffic" },
+    { id: "D", text: "On the improved shoulder" }
   ],
-  answer: "A",
-  explain: "TCOLE Ethics for Law Enforcement, Unethical conduct may violate state or federal law and can result in criminal prosecution, including federal prosecution in appropriate cases."
+  answer: "B",
+  explain: "Transportation Code §545.060 requires a vehicle to be driven as nearly as practical entirely within a single lane and prohibits movement from that lane unless the movement can be made safely. 【1-3454ad】"
 },
+
 {
   id: "TCOLE_q577",
   type: "multiple-choice",
   points: 1,
-  prompt: "Which of the following is a prohibited weapon?",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "According to TCOLE traffic direction training, three short rapid whistle blasts are generally used to:",
   options: [
-    { id: "A", text: "a knife with a 6 inch blade" },
-    { id: "B", text: "a handgun" },
-    { id: "C", text: "a club" },
-    { id: "D", text: "chemical dispensing device" }
+    { id: "A", text: "Start traffic movement" },
+    { id: "B", text: "Signal a lane change" },
+    { id: "C", text: "Warn and attract attention to a hazard or problem" },
+    { id: "D", text: "Signal emergency vehicles only" }
   ],
   answer: "C",
-  explain: "Texas Penal Code §46.01 and §46.05, A club is specifically identified as a prohibited weapon under the Penal Code."
+  explain: "Traffic control instruction states that several short rapid whistle blasts are used as a warning signal to attract immediate attention to a hazardous condition or needed corrective action. 【1-3454ad】"
 },
+
 {
   id: "TCOLE_q578",
   type: "multiple-choice",
@@ -8127,16 +8172,17 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
   id: "TCOLE_q580",
   type: "multiple-choice",
   points: 1,
-  prompt: "In a physical arrest, the police role is essentially __________.",
+  prompt: "Under Transportation Code §545.155, a driver entering a highway from a private road or driveway must:",
   options: [
-    { id: "A", text: "offensive" },
-    { id: "B", text: "defensive" },
-    { id: "C", text: "obvious" },
-    { id: "D", text: "aggressive" }
+    { id: "A", text: "Yield the right-of-way to vehicles approaching on the highway" },
+    { id: "B", text: "Stop only if traffic is visible" },
+    { id: "C", text: "Yield only to vehicles approaching from the left" },
+    { id: "D", text: "Sound the horn before entering" }
   ],
-  answer: "B",
-  explain: "TCOLE Arrest, Search and Seizure, In a physical arrest the officer's role is essentially defensive, using only the force reasonably necessary to control and take the subject into custody."
+  answer: "A",
+  explain: "Transportation Code §545.155 requires an operator entering a highway from a private road or driveway to yield the right-of-way to all vehicles approaching on the highway. 【1-a25dec】"
 },
+
 {
   id: "TCOLE_q581",
   type: "multiple-choice",
@@ -8338,15 +8384,17 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q595",
-  prompt: "_____ occurs when there is severe injury to the central nervous system or when there was great tension at the time of death.",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "A driver approaching an authorized emergency vehicle using emergency signals shall generally:",
   options: [
-    { id: "A", text: "Putrefaction" },
-    { id: "B", text: "Rigor mortis" },
-    { id: "C", text: "Cadaveric spasm" },
-    { id: "D", text: "Post mortem lividity" }
+    { id: "A", text: "Continue driving normally" },
+    { id: "B", text: "Accelerate through the area" },
+    { id: "C", text: "Yield the right-of-way and comply with Transportation Code requirements" },
+    { id: "D", text: "Stop in the middle of the roadway regardless of circumstances" }
   ],
   answer: "C",
-  explain: "Criminal Investigations, Section 32.21"
+  explain: "Transportation Code §545.156 addresses a driver's duty when approached by an authorized emergency vehicle. Drivers must yield and follow the statutory requirements to allow safe passage. 【1-3e4789】"
 },
 
 {
@@ -8919,15 +8967,17 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q640",
-  prompt: "A police officer can make a traffic stop after he or she has:",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Texas Transportation Code §545.104 requires drivers to signal before:",
   options: [
-    { id: "A", text: "Articulated that a traffic violation or criminal act has occurred" },
-    { id: "B", text: "Been instructed by another officer to effect the stop" },
-    { id: "C", text: "Determined the driver's race or ethnicity" },
-    { id: "D", text: "Determined the stop will meet their quota requirements" }
+    { id: "A", text: "Only making left turns" },
+    { id: "B", text: "Stopping on a roadway" },
+    { id: "C", text: "Turning, changing lanes, or moving right or left when required" },
+    { id: "D", text: "Backing a vehicle" }
   ],
-  answer: "A",
-  explain: "Racial Profiling, Section 6.2"
+  answer: "C",
+  explain: "Section 545.104 requires operators to signal an intention to turn, change lanes, or otherwise move right or left when required by law. Proper signaling provides notice to other roadway users and promotes traffic safety."
 },
 
 {
@@ -8957,15 +9007,17 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q643",
-  prompt: "From a tactical standpoint, the majority of stops fall under which general category?",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "A vehicle shall be driven as nearly as practical entirely within:",
   options: [
-    { id: "A", text: "Unknown risk" },
-    { id: "B", text: "Low risk" },
-    { id: "C", text: "High risk" },
-    { id: "D", text: "Mid risk" }
+    { id: "A", text: "The right half of the roadway" },
+    { id: "B", text: "A single lane" },
+    { id: "C", text: "The center lane" },
+    { id: "D", text: "The shoulder when available" }
   ],
-  answer: "A",
-  explain: "Patrol Skills, Section 35.13, page 10 of 38"
+  answer: "B",
+  explain: "Transportation Code §545.060 requires an operator to drive as nearly as practical entirely within a single lane and not move from that lane unless the movement can be made safely. 【1-a25dec】"
 },
 
 {
@@ -9164,15 +9216,17 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q659",
-  prompt: "Key functions of discrimination are described as:",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Under Transportation Code §545.351, a driver may not drive at a speed greater than is:",
   options: [
-    { id: "A", text: "Reinforcing prejudice, limiting others effectiveness, and encouraging economic exploitation" },
-    { id: "B", text: "Reinforcing others self-worth, encouraging economic growth, and providing opportunities for others" },
-    { id: "C", text: "Building character, making individuals self-reliant, and building friendships" },
-    { id: "D", text: "Reinforce appreciation of uniqueness, encouraging respect, and understanding of diversity" }
+    { id: "A", text: "Posted and customary" },
+    { id: "B", text: "Reasonable and prudent under existing conditions" },
+    { id: "C", text: "Safe for the vehicle's capabilities" },
+    { id: "D", text: "Equal to surrounding traffic" }
   ],
-  answer: "A",
-  explain: "Multiculturalism, Section 5.4"
+  answer: "B",
+  explain: "Texas' basic speed law states that drivers may not travel at a speed greater than is reasonable and prudent under existing conditions. The posted speed limit does not automatically guarantee lawful operation if conditions make that speed unsafe."
 },
 
 {
@@ -16464,15 +16518,17 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q1221",
-  prompt: "____________________ means to restrain a person with intent to prevent his liberation by secreting or holding him in a place where he is not likely to be found, or by using or threatening to use deadly force.",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "What does one long blast of a police whistle generally mean during traffic control operations?",
   options: [
-    { id: "A", text: "Coerce" },
-    { id: "B", text: "Abduct" },
-    { id: "C", text: "Restrain" },
-    { id: "D", text: "Compel" }
+    { id: "A", text: "Proceed" },
+    { id: "B", text: "Turn left" },
+    { id: "C", text: "Stop" },
+    { id: "D", text: "Emergency vehicle approaching" }
   ],
-  answer: "B",
-  explain: "PC 20.01 #2; PC Section 8.10"
+  answer: "C",
+  explain: "Traffic control procedures taught in TCOLE indicate that one long whistle blast is used to attract drivers' attention and signal them to stop."
 },
 
 {
@@ -22934,28 +22990,32 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q1717",
-  prompt: "A police officer can make a traffic stop after he or she has:",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "According to TCOLE traffic direction procedures, one long blast of a police whistle generally means:",
   options: [
-    { id: "A", text: "Articulated that a traffic violation or criminal act has occurred" },
-    { id: "B", text: "Been instructed by another officer to effect the stop" },
-    { id: "C", text: "Determined the driver's race or ethnicity" },
-    { id: "D", text: "Determined the stop will meet quota requirements" }
+    { id: "A", text: "Proceed through the intersection" },
+    { id: "B", text: "Move to the shoulder" },
+    { id: "C", text: "Stop" },
+    { id: "D", text: "Emergency vehicle approaching" }
   ],
-  answer: "A",
-  explain: "Racial Profiling, Section 6.2, page 4 of 8"
+  answer: "C",
+  explain: "Traffic direction training teaches that one long whistle blast is used to attract attention and direct traffic to stop. It is commonly paired with the appropriate hand signal for stopping traffic. 【1-a25dec】"
 },
 
 {
   id: "TCOLE_q1718",
-  prompt: "When two officers approach a suspect, the officers should use the spread ____ formation.",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Under Transportation Code §550.021, a driver involved in a crash resulting in injury or death must:",
   options: [
-    { id: "A", text: "V" },
-    { id: "B", text: "J" },
-    { id: "C", text: "I" },
-    { id: "D", text: "A" }
+    { id: "A", text: "Leave and report the crash within 24 hours" },
+    { id: "B", text: "Immediately stop and remain at the scene until statutory requirements are met" },
+    { id: "C", text: "Only stop if another driver requests it" },
+    { id: "D", text: "Move the vehicle home before reporting the collision" }
   ],
-  answer: "A",
-  explain: "Arrest and Control Procedures, Section 31.11, page 7 of 13"
+  answer: "B",
+  explain: "Texas Transportation Code §550.021 requires a driver involved in a collision resulting or reasonably likely to result in injury or death to immediately stop, determine whether aid is needed, and remain at the scene until all statutory duties are completed."
 },
 
 {
@@ -23051,15 +23111,17 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q1726",
-  prompt: "When two officers approach a suspect, the officers should use the spread ____ formation.",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "A peace officer investigating a motor vehicle crash shall complete a CR-3 report when property damage to any one person appears to be at least:",
   options: [
-    { id: "A", text: "V" },
-    { id: "B", text: "J" },
-    { id: "C", text: "I" },
-    { id: "D", text: "A" }
+    { id: "A", text: "$500" },
+    { id: "B", text: "$750" },
+    { id: "C", text: "$1,000" },
+    { id: "D", text: "$2,000" }
   ],
-  answer: "A",
-  explain: "Arrest and Control Procedures, Section 31.11, page 7 of 13"
+  answer: "C",
+  explain: "Transportation Code §550.062 requires a written crash report when a crash results in injury, death, or apparent property damage of $1,000 or more to any one person. 【1-de710c】【2-7c1c1d】"
 },
 
 {
@@ -23298,15 +23360,17 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q1745",
-  prompt: "Which of the following is a known and quantifiable suicide risk factor?",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Under Transportation Code §545.104, a driver is required to signal before:",
   options: [
-    { id: "A", text: "Substance intoxication" },
-    { id: "B", text: "Male, age 15-34" },
-    { id: "C", text: "Lack of support system or connection to loved ones" },
-    { id: "D", text: "All of the above" }
+    { id: "A", text: "Making a turn or lane change when required by law" },
+    { id: "B", text: "Starting a vehicle" },
+    { id: "C", text: "Applying the brakes" },
+    { id: "D", text: "Exiting a parking space only" }
   ],
-  answer: "D",
-  explain: "CIT"
+  answer: "A",
+  explain: "Section 545.104 requires an operator to signal an intention to turn, change lanes, or otherwise move right or left when required. Proper signaling provides advance notice to other roadway users. 【1-de710c】"
 },
 
 {
@@ -23402,15 +23466,17 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q1752",
-  prompt: "If you lose your duty weapon during an altercation:",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Transportation Code §545.156 requires drivers approached by an authorized emergency vehicle using emergency signals to:",
   options: [
-    { id: "A", text: "Run away from the spot as quickly as possible" },
-    { id: "B", text: "Call to a citizen to assist you" },
-    { id: "C", text: "Recover the weapon as quickly as possible if the weapon is on the floor" },
-    { id: "D", text: "Allow the suspect to gain control of the weapon" }
+    { id: "A", text: "Continue at normal speed" },
+    { id: "B", text: "Yield the right-of-way and allow safe passage" },
+    { id: "C", text: "Stop immediately in the lane of travel" },
+    { id: "D", text: "Only yield if directed by another officer" }
   ],
-  answer: "C",
-  explain: "Mechanics of Arrest; officer safety principles"
+  answer: "B",
+  explain: "Drivers must yield the right-of-way to authorized emergency vehicles displaying the required signals and take action necessary to permit safe passage. 【1-de710c】"
 },
 
 {
@@ -23467,15 +23533,17 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q1757",
-  prompt: "People often speak in incomplete sentences. Written communication must state complete thoughts. When someone writes the same way he talks, two serious grammatical errors occur. These errors are best described as:",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "According to TCOLE traffic-direction procedures, short rapid whistle blasts are used to:",
   options: [
-    { id: "A", text: "Sentence verb inconsistencies" },
-    { id: "B", text: "Incomplete vibration" },
-    { id: "C", text: "Library of verbiage" },
-    { id: "D", text: "Sentence fragments and run-on sentences" }
+    { id: "A", text: "Signal traffic to proceed" },
+    { id: "B", text: "Direct a left turn" },
+    { id: "C", text: "Provide a warning and attract immediate attention" },
+    { id: "D", text: "Signal the end of traffic control operations" }
   ],
-  answer: "D",
-  explain: "Written Communications, Section 24.2, page 2 of 35"
+  answer: "C",
+  explain: "Several short rapid whistle blasts are used as a warning signal to attract immediate attention to a hazardous condition, unsafe action, or other traffic-control concern requiring correction. 【1-de710c】"
 },
 
 {
@@ -23623,15 +23691,17 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q1769",
-  prompt: "Which is not a ground fighting technique?",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Under Transportation Code §550.023, an operator involved in a crash must provide reasonable assistance to an injured person, including:",
   options: [
-    { id: "A", text: "Base get up" },
-    { id: "B", text: "Full guard position" },
-    { id: "C", text: "Hand blocks" },
-    { id: "D", text: "Trap and roll" }
+    { id: "A", text: "Providing transportation or arranging transportation for medical treatment when needed" },
+    { id: "B", text: "Completing an insurance claim form" },
+    { id: "C", text: "Contacting a private attorney" },
+    { id: "D", text: "Moving the injured person from the scene regardless of injuries" }
   ],
-  answer: "C",
-  explain: "Arrest and Control Procedures, Section 31.2, page 2 of 13"
+  answer: "A",
+  explain: "Transportation Code §550.023 requires drivers involved in a crash to provide reasonable assistance, including transporting or arranging transport for medical treatment when necessary or requested."
 },
 
 {
@@ -23649,28 +23719,32 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q1771",
-  prompt: "Weaponless strategies include:",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "A driver who strikes and damages an unattended vehicle must:",
   options: [
-    { id: "A", text: "Touching" },
-    { id: "B", text: "Joint-locking" },
-    { id: "C", text: "Pressure points" },
-    { id: "D", text: "All of the above" }
+    { id: "A", text: "Leave immediately if no one witnessed the collision" },
+    { id: "B", text: "Notify law enforcement only" },
+    { id: "C", text: "Locate the owner or leave a written notice with identifying information" },
+    { id: "D", text: "Wait until the following business day to report the damage" }
   ],
-  answer: "D",
-  explain: "Arrest and Control Procedures, Section 31.2, page 2 of 13"
+  answer: "C",
+  explain: "Transportation Code §550.024 requires the operator to locate the owner or leave a written notice in a conspicuous place containing the operator's name, address, and circumstances of the collision."
 },
 
 {
   id: "TCOLE_q1772",
-  prompt: "_____________ control results when the level of force is less than the subject's level of resistance.",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Under Transportation Code §545.060, a vehicle may move from its lane only when:",
   options: [
-    { id: "A", text: "Effective" },
-    { id: "B", text: "Ineffective" },
-    { id: "C", text: "Excessive" },
-    { id: "D", text: "No" }
+    { id: "A", text: "Traffic is light" },
+    { id: "B", text: "The driver activates a turn signal" },
+    { id: "C", text: "The movement can be made safely" },
+    { id: "D", text: "The roadway has two or more lanes" }
   ],
-  answer: "B",
-  explain: "Force Options, Section 28.8, page 9 of 24"
+  answer: "C",
+  explain: "Texas law requires drivers to remain in a single lane as nearly as practical and prohibits lane movement unless it can be made safely. The presence of a turn signal alone does not make the movement lawful."
 },
 
 {
@@ -23740,15 +23814,17 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q1778",
-  prompt: "The different proficiency certificates the Commission (TCOLE) offers for peace officers include which of the following:",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Which Transportation Code section establishes the offense of reckless driving?",
   options: [
-    { id: "A", text: "Master Proficiency Certificate" },
-    { id: "B", text: "Intermediate Proficiency Certificate" },
-    { id: "C", text: "Advanced Proficiency Certificate" },
-    { id: "D", text: "All of the above" }
+    { id: "A", text: "§545.351" },
+    { id: "B", text: "§545.401" },
+    { id: "C", text: "§550.021" },
+    { id: "D", text: "§545.104" }
   ],
-  answer: "D",
-  explain: "TCOLE Rules Overview, Section 4.6; TAC 221.3"
+  answer: "B",
+  explain: "Transportation Code §545.401 defines reckless driving as operating a vehicle with willful or wanton disregard for the safety of persons or property. 【1-ca42cc】"
 },
 
 {
@@ -23779,19 +23855,23 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q1781",
-  prompt: "An item of evidence is blood soaked. What is the proper procedure for collecting and preserving the evidence?",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "According to TCOLE traffic-control procedures, two short whistle blasts are generally used to:",
   options: [
-    { id: "A", text: "Put it in a plastic bag" },
-    { id: "B", text: "Put it in a paper bag" },
-    { id: "C", text: "Allow item to air dry before packaging" },
-    { id: "D", text: "Get the evidence to the lab before it dries" }
+    { id: "A", text: "Stop all traffic immediately" },
+    { id: "B", text: "Warn of a hazard" },
+    { id: "C", text: "Start or proceed traffic movement" },
+    { id: "D", text: "Signal the end of traffic direction duties" }
   ],
   answer: "C",
-  explain: "Criminal Investigation, Section 32.41, page 30 of 52"
+  explain: "Traffic-control training teaches that two short whistle blasts are used to attract the attention of drivers and signal traffic to start or proceed. 【1-ca42cc】"
 },
 
 {
   id: "TCOLE_q1782",
+  type: "multiple-choice",
+  points: 1,
   prompt: "A person commits an offense if the person employs, authorizes, or induces a child to work in a sexually oriented commercial activity; or in any place of business permitting, requesting, or requiring a child to work nude or topless. This offense is:",
   options: [
     { id: "A", text: "Exploitation" },
@@ -23805,6 +23885,8 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q1783",
+  type: "multiple-choice",
+  points: 1,
   prompt: "According to CCP Art. 56A.051, the right to receive from law enforcement agencies adequate protection from harm and threats of harm arising from cooperation with prosecution efforts is afforded under Crime Victims' ____________.",
   options: [
     { id: "A", text: "Rights" },
@@ -23818,6 +23900,8 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q1784",
+  type: "multiple-choice",
+  points: 1,
   prompt: "Hazard lamps shall be visible at a distance of _____ feet in normal light.",
   options: [
     { id: "A", text: "200" },
@@ -23831,6 +23915,8 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q1785",
+  type: "multiple-choice",
+  points: 1,
   prompt: "Under Sec. 71.02 Engaging in Organized Criminal Activity, which does NOT fall under this topic as an offense?",
   options: [
     { id: "A", text: "Murder" },
@@ -23844,6 +23930,8 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q1786",
+  type: "multiple-choice",
+  points: 1,
   prompt: "Which of the following may cause an offense of robbery to be upgraded to aggravated robbery?",
   options: [
     { id: "A", text: "Threatens or places a 45-year-old person in fear of imminent bodily injury or death" },
@@ -23857,6 +23945,8 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q1787",
+  type: "multiple-choice",
+  points: 1,
   prompt: "What system is used for agencies to be able to work together more efficiently during an incident?",
   options: [
     { id: "A", text: "Incident Command System" },
@@ -23870,6 +23960,8 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q1788",
+  type: "multiple-choice",
+  points: 1,
   prompt: "A farm trailer with a registered weight of 30,000 pounds is required to have the following lights during daytime operation:",
   options: [
     { id: "A", text: "Stop lamps" },
@@ -23883,6 +23975,8 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q1789",
+  type: "multiple-choice",
+  points: 1,
   prompt: "A person commits an offense of arson if he or she starts a fire or causes an explosion, intending to destroy or damage any building, habitation, vehicle, vegetation, fence, or structure on open-space land knowing that it is:",
   options: [
     { id: "A", text: "Inside the city limits" },
@@ -23896,6 +23990,8 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q1790",
+  type: "multiple-choice",
+  points: 1,
   prompt: "An _________ is generally a material that burns or decomposes quickly releasing a large amount of heat and gas in a short time resulting in a shock wave.",
   options: [
     { id: "A", text: "Explosive" },
@@ -23909,6 +24005,8 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q1791",
+  type: "multiple-choice",
+  points: 1,
   prompt: "A person finds an open door to a residence. The person goes inside and discovers nobody is home. The person looks for money or jewelry that could be taken but leaves without taking anything. What offense has occurred?",
   options: [
     { id: "A", text: "Attempted Theft" },
@@ -23922,6 +24020,8 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q1792",
+  type: "multiple-choice",
+  points: 1,
   prompt: "Personal identifiers include:",
   options: [
     { id: "A", text: "Name" },
@@ -23935,6 +24035,8 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q1793",
+  type: "multiple-choice",
+  points: 1,
   prompt: "Which of the following vehicles may not be registered for operation on a public highway?",
   options: [
     { id: "A", text: "Motorized mobility devices" },
@@ -23948,6 +24050,8 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q1794",
+  type: "multiple-choice",
+  points: 1,
   prompt: "ASL means:",
   options: [
     { id: "A", text: "American Signal League" },
@@ -31365,16 +31469,17 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q2360",
-  prompt: "The method of service that is always allowed on Sunday is __________.",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Under Texas Transportation Code §545.156, when approached by an authorized emergency vehicle using audible and visual signals, a driver shall:",
   options: [
-    { id: "A", text: "Third person to the defendant" },
-    { id: "B", text: "By mail" },
-    { id: "C", text: "By alternate service" },
-    { id: "D", text: "Publication" },
-    { id: "E", text: "No method of service is ever allowed on Sunday" }
+    { id: "A", text: "Increase speed and clear the intersection" },
+    { id: "B", text: "Yield the right-of-way and take appropriate action to allow passage" },
+    { id: "C", text: "Continue normally unless instructed otherwise" },
+    { id: "D", text: "Immediately stop in the traffic lane" }
   ],
   answer: "B",
-  explain: "Texas Rules of Civil Procedure. Service by mail is permitted on Sunday even when personal service restrictions may apply."
+  explain: "Texas law requires drivers to yield the right-of-way to authorized emergency vehicles using the required signals and to take actions necessary to permit their safe passage."
 },
 
 {
@@ -32048,81 +32153,81 @@ answer: "C",
 explain: "Offering a benefit to influence or alter witness testimony constitutes Tampering with a Witness. Reference: PC §36.05."
 },
 
-{
-id: "TCOLE_q2409",
-type: "multiple-choice",
-points: 1,
-prompt: "An officer's primary responsibility is __________.",
-options: [
-{ id: "A", text: "Arrest all offenders" },
-{ id: "B", text: "Crime prevention" },
-{ id: "C", text: "Write reports" },
-{ id: "D", text: "Service" }
-],
-answer: "B",
-explain: "The primary mission of law enforcement is the prevention of crime. Reference: TCOLE Ch. 35."
-},
+	{
+	id: "TCOLE_q2409",
+	type: "multiple-choice",
+	points: 1,
+	prompt: "An officer's primary responsibility is __________.",
+	options: [
+	{ id: "A", text: "Arrest all offenders" },
+	{ id: "B", text: "Crime prevention" },
+	{ id: "C", text: "Write reports" },
+	{ id: "D", text: "Service" }
+	],
+	answer: "B",
+	explain: "The primary mission of law enforcement is the prevention of crime. Reference: TCOLE Ch. 35."
+	},
 
-{
-id: "TCOLE_q2410",
-type: "multiple-choice",
-points: 1,
-prompt: "A package store may sell liquor on which of the following days?",
-options: [
-{ id: "A", text: "Election Day" },
-{ id: "B", text: "Christmas Day" },
-{ id: "C", text: "Thanksgiving Day" },
-{ id: "D", text: "New Year's Day" }
-],
-answer: "A",
-explain: "Package stores may not sell liquor on New Year's Day, Thanksgiving Day, Christmas Day, or Sunday. Election Day is not a prohibited sales day. Reference: TABC §105.01."
-},
+	{
+	id: "TCOLE_q2410",
+	type: "multiple-choice",
+	points: 1,
+	prompt: "A package store may sell liquor on which of the following days?",
+	options: [
+	{ id: "A", text: "Election Day" },
+	{ id: "B", text: "Christmas Day" },
+	{ id: "C", text: "Thanksgiving Day" },
+	{ id: "D", text: "New Year's Day" }
+	],
+	answer: "A",
+	explain: "Package stores may not sell liquor on New Year's Day, Thanksgiving Day, Christmas Day, or Sunday. Election Day is not a prohibited sales day. Reference: TABC §105.01."
+	},
 
-{
-id: "TCOLE_q2411",
-type: "multiple-choice",
-points: 1,
-prompt: "Both search and arrest warrants must be based on __________.",
-options: [
-{ id: "A", text: "Informant's tips" },
-{ id: "B", text: "The officer's firsthand knowledge" },
-{ id: "C", text: "Reasonable suspicion" },
-{ id: "D", text: "Probable cause" }
-],
-answer: "D",
-explain: "Search and arrest warrants require probable cause before issuance by a magistrate. Reference: CCP Ch. 15, Ch. 18."
-},
+	{
+	id: "TCOLE_q2411",
+	type: "multiple-choice",
+	points: 1,
+	prompt: "Both search and arrest warrants must be based on __________.",
+	options: [
+	{ id: "A", text: "Informant's tips" },
+	{ id: "B", text: "The officer's firsthand knowledge" },
+	{ id: "C", text: "Reasonable suspicion" },
+	{ id: "D", text: "Probable cause" }
+	],
+	answer: "D",
+	explain: "Search and arrest warrants require probable cause before issuance by a magistrate. Reference: CCP Ch. 15, Ch. 18."
+	},
 
-{
-id: "TCOLE_q2412",
-type: "multiple-choice",
-points: 1,
-prompt: "In which of the following circumstances are headlights not required?",
-options: [
-{ id: "A", text: "At twelve noon during a dust storm in which visibility is 500 feet" },
-{ id: "B", text: "Half an hour after sunset in clear weather conditions" },
-{ id: "C", text: "Half an hour after sunrise in clear weather conditions" },
-{ id: "D", text: "One hour before sunrise in clear weather conditions" }
-],
-answer: "C",
-explain: "Headlights are required during limited visibility and nighttime hours, but not 30 minutes after sunrise in clear conditions. Reference: TTC §547.302."
-},
+	{
+	id: "TCOLE_q2412",
+	type: "multiple-choice",
+	points: 1,
+	prompt: "In which of the following circumstances are headlights not required?",
+	options: [
+	{ id: "A", text: "At twelve noon during a dust storm in which visibility is 500 feet" },
+	{ id: "B", text: "Half an hour after sunset in clear weather conditions" },
+	{ id: "C", text: "Half an hour after sunrise in clear weather conditions" },
+	{ id: "D", text: "One hour before sunrise in clear weather conditions" }
+	],
+	answer: "C",
+	explain: "Headlights are required during limited visibility and nighttime hours, but not 30 minutes after sunrise in clear conditions. Reference: TTC §547.302."
+	},
 
-{
-id: "TCOLE_q2413",
-type: "multiple-choice",
-points: 1,
-prompt: "Upon serving a civil citation, the officer shall __________.",
-options: [
-{ id: "A", text: "Sign or endorse the return" },
-{ id: "B", text: "Note how and when the citation was served" },
-{ id: "C", text: "Require certification of service by the defendant" },
-{ id: "D", text: "All of the above are correct" },
-{ id: "E", text: "A and B are correct" }
-],
-answer: "E",
-explain: "The officer must complete and sign the return, stating how and when service was accomplished. Reference: TRCP Rule 107."
-},
+	{
+	id: "TCOLE_q2413",
+	type: "multiple-choice",
+	points: 1,
+	prompt: "Upon serving a civil citation, the officer shall __________.",
+	options: [
+	{ id: "A", text: "Sign or endorse the return" },
+	{ id: "B", text: "Note how and when the citation was served" },
+	{ id: "C", text: "Require certification of service by the defendant" },
+	{ id: "D", text: "All of the above are correct" },
+	{ id: "E", text: "A and B are correct" }
+	],
+	answer: "E",
+	explain: "The officer must complete and sign the return, stating how and when service was accomplished. Reference: TRCP Rule 107."
+	},
 
 {
 id: "TCOLE_q2414",
