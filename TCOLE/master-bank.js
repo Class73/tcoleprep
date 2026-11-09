@@ -33824,8 +33824,191 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
   ],
   answer: "A",
   explain: "TCOLE's Professional Police Contacts training emphasizes that the first courtesy owed to a citizen during a police stop is to greet the individual and identify the law enforcement agency. This helps establish professionalism, legitimacy, and effective communication from the beginning of the encounter. Before requesting identification or discussing the reason for the stop, officers should make a professional introduction to reduce tension and promote positive citizen interactions."
-}
+},
 
+{
+  id: "TCOLE_q2527",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "The county courts shall have original jurisdiction of all misdemeanors of which exclusive original jurisdiction is not given to the justice court, and when the fine to be imposed shall exceed __________. (7)",
+  options: [
+    { id: "A", text: "1000" },
+    { id: "B", text: "5000" },
+    { id: "C", text: "500" },
+    { id: "D", text: "1500" }
+  ],
+  answer: "C",
+  explain: "CCP Art. 4.07 provides that county courts have original jurisdiction of misdemeanors not exclusively assigned to justice courts when the fine to be imposed exceeds $500. Therefore, $500 is the correct answer, not $5,000."
+},
+
+{
+  id: "TCOLE_q2528",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "__________ includes regulation. (8)",
+  options: [
+    { id: "A", text: "Public places" },
+    { id: "B", text: "Statutes" },
+    { id: "C", text: "Law" },
+    { id: "D", text: "Rule" }
+  ],
+  answer: "D",
+  explain: "Texas Penal Code §1.07(a)(44) specifically states that 'Rule' includes a regulation. While statutes are included within the broader definition of 'law,' the defined term that expressly includes regulation is 'Rule'."
+},
+
+{
+  id: "TCOLE_q2529",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "__________ shall have appellate jurisdiction coextensive with the limits of their respective districts in all criminal cases except those in which the death penalty has been assessed. (7)",
+  options: [
+    { id: "A", text: "The Courts of Appeals" },
+    { id: "B", text: "Municipal courts" },
+    { id: "C", text: "The district courts" },
+    { id: "D", text: "The Court of Criminal Appeals" }
+  ],
+  answer: "A",
+  explain: "CCP Art. 4.03 states that the Courts of Appeals have appellate jurisdiction coextensive with the limits of their respective districts in all criminal cases except those in which the death penalty has been assessed. Death penalty cases are appealed directly to the Court of Criminal Appeals under CCP Art. 4.04."
+},
+
+{
+  id: "TCOLE_q2530",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "A warm-up exercise program should last about __________. (3)",
+  options: [
+    { id: "A", text: "5 to 10 minutes" },
+    { id: "B", text: "10 minutes" },
+    { id: "C", text: "15 minutes" },
+    { id: "D", text: "20 minutes" },
+    { id: "E", text: "30 minutes" }
+  ],
+  answer: "A",
+  explain: "The BPOC Fitness, Wellness, and Stress Management curriculum states that the warm-up portion of an exercise program should last 5–10 minutes and include dynamic stretching, joint movements, and light cardiovascular activity to prepare the body for exercise. The workout portion itself is typically 20–30 minutes."
+},
+
+{
+  id: "TCOLE_q2531",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Select all common types of police reports. (24)",
+  options: [
+    { id: "A", text: "Arrest reports" },
+    { id: "B", text: "Incident reports" },
+    { id: "C", text: "Offense reports" },
+    { id: "D", text: "Supplemental reports" }
+  ],
+  answer: ["A", "B", "C", "D"],
+  explain: "Arrest reports, incident reports, offense reports, and supplemental reports are all common types of police reports used in law enforcement documentation. Based on the exam feedback, Incident Reports and Supplemental Reports were confirmed correct, and Arrest Reports and Offense Reports are standard report types commonly included in police reporting curricula. Because the source material does not identify any incorrect option among the four choices, all four should be selected."
+},
+
+{
+  id: "TCOLE_q2532",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "According to the Code of Criminal Procedure, if a __________ from another state comes into or passes through this state under an order directing him to attend and testify in this or another state, he is not subject to arrest or the service of civil or criminal process because of any act committed prior to his arrival in this state under the order. (10)",
+  options: [
+    { id: "A", text: "Defendant" },
+    { id: "B", text: "Legislator" },
+    { id: "C", text: "Witness" },
+    { id: "D", text: "Officer" }
+  ],
+  answer: "C",
+  explain: "The Uniform Act to Secure the Attendance of Witnesses provides protection for a witness who enters or passes through a state under a court order to testify. Such a witness is not subject to arrest or service of civil or criminal process for acts committed before entering the state under that order. Therefore, the correct answer is 'Witness'."
+},
+
+{
+  id: "TCOLE_q2533",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Upon serving a civil citation, the officer shall __________. (14)",
+  options: [
+    { id: "A", text: "Sign or endorse the return" },
+    { id: "B", text: "Note how and when the citation was served" },
+    { id: "C", text: "Require certification of service by the defendant" },
+    { id: "D", text: "All of the above are correct" },
+    { id: "E", text: "A and B are correct" }
+  ],
+  answer: "E",
+  explain: "Texas Rule of Civil Procedure 107 requires the serving officer to complete and sign the return of service and state when and how the citation was served. The defendant is not required to certify service. Therefore, 'All of the above' is incorrect because option C is not a required duty. The correct answer is A and B are correct."
+},
+
+{
+  id: "TCOLE_q2534",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "__________ is an offense so designated by law or punishable by fine, by confinement in jail, or by both fine and confinement in jail. (8)",
+  options: [
+    { id: "A", text: "Misdemeanor" },
+    { id: "B", text: "Felony" },
+    { id: "C", text: "Burglary" },
+    { id: "D", text: "Crime" }
+  ],
+  answer: "A",
+  explain: "Texas Penal Code §1.07 defines a misdemeanor as an offense so designated by law or punishable by fine, confinement in jail, or both fine and confinement in jail. A felony, by contrast, is an offense punishable by death or confinement in a penitentiary."
+},
+
+{
+  id: "TCOLE_q2535",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "The Department of Justice defines __________ as 'the strategic slowing down of an incident in a manner that allows officers more time, distance, space, and tactical flexibility during dynamic situations on the street.' (27)",
+  options: [
+    { id: "A", text: "Crisis intervention" },
+    { id: "B", text: "Tactical Repositioning" },
+    { id: "C", text: "De-escalation" },
+    { id: "D", text: "After-action reviews" }
+  ],
+  answer: "C",
+  explain: "The U.S. Department of Justice defines de-escalation as the strategic slowing down of an incident to provide officers with more time, distance, space, and tactical flexibility during dynamic situations. Tactical repositioning is a separate concept that involves maintaining a position of advantage and a safety zone, while a tactical pause is a specific de-escalation tactic used to slow situations down."
+},
+
+{
+  id: "TCOLE_q2536",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "What is the minimum number of rounds required for shotgun proficiency? (41)",
+  options: [
+    { id: "A", text: "5" },
+    { id: "B", text: "10" },
+    { id: "C", text: "20" },
+    { id: "D", text: "50" }
+  ],
+  answer: "A",
+  explain: "TCOLE firearms proficiency standards require a minimum of five rounds of 00 buckshot or slug ammunition to be fired for shotgun proficiency qualification at a range of at least 15 yards. Handgun and patrol rifle qualifications require significantly more rounds, but the shotgun minimum is five rounds."
+},
+
+{
+  id: "TCOLE_q2537",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "A person reaches through an open car window and takes a music CD worth $15. What offense has occurred? (8)",
+  options: [
+    { id: "A", text: "Theft" },
+    { id: "B", text: "Theft from Vehicle" },
+    { id: "C", text: "Criminal Trespass - Vehicle" },
+    { id: "D", text: "Burglary - Motor Vehicle" },
+    { id: "E", text: "None of the above" }
+  ],
+  answer: "D",
+  explain: "Texas Penal Code §30.04 (Burglary of Vehicles) provides that a person commits an offense if, without the owner's effective consent, they break into or enter a vehicle with intent to commit theft or a felony. 'Enter' includes intruding any part of the body into the vehicle. Reaching a hand through an open window to take a CD constitutes an entry, making this Burglary of a Motor Vehicle rather than simple theft."
+},
+
+{
+  id: "TCOLE_q2538",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Which of the following tactical concepts is beneficial in releasing control of a situation to another individual and provides officers with time and distance? (27)",
+  options: [
+    { id: "A", text: "Distance + Cover" },
+    { id: "B", text: "Time" },
+    { id: "C", text: "Tactical Repositioning" },
+    { id: "D", text: "Tactical Pause" },
+    { id: "E", text: "Tactical Disengagement" }
+  ],
+  answer: "E",
+  explain: "Tactical disengagement is the decision to leave, delay contact, delay custody, or transfer responsibility for handling a situation under more favorable circumstances. It provides officers with additional time, distance, and tactical flexibility while reducing the likelihood of unnecessary escalation. Tactical repositioning means maintaining a position of advantage and a safety zone, while a tactical pause is the act of slowing a situation down. Therefore, the best answer is Tactical Disengagement."
+}
 
 ];
 
