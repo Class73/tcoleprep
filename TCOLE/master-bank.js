@@ -2552,6 +2552,7 @@
   answer: "B",
   explain: "TCOLE Crisis Intervention Training, Depression is the single most common factor associated with suicidal behavior and death by suicide."
 },
+
 {
   id: "TCOLE_q179",
   type: "multiple-choice",
@@ -2566,6 +2567,7 @@
   answer: "40",
   explain: "37 Texas Administrative Code §218.3, The legislatively required continuing education program for peace officers consists of 40 hours of training during the training cycle."
 },
+
 {
   id: "TCOLE_q180",
   type: "multiple-choice",
@@ -2578,6 +2580,7 @@
   answer: "A",
   explain: "Texas Family Code Chapter 264 and CSCAL Procedures, Officers who encounter a child or guardian listed on the Child Safety Check Alert List must promptly contact the Department of Family and Protective Services through the designated law-enforcement reporting process."
 },
+
 {
   id: "TCOLE_q181",
   type: "multiple-choice",
@@ -2593,6 +2596,7 @@
   answer: "B",
   explain: "Texas Transportation Code §547.322, Tail lamps on a motor vehicle must emit red light plainly visible from a distance of 1,000 feet to the rear."
 },
+
 {
   id: "TCOLE_q182",
   type: "multiple-choice",
@@ -2623,6 +2627,7 @@
   answer: "B",
   explain: "Texas Penal Code §22.01(b)(1), An assault causing bodily injury becomes Assault on a Public Servant when committed against a peace officer lawfully discharging an official duty."
 },
+
 {
   id: "TCOLE_q184",
   type: "multiple-choice",
@@ -2637,6 +2642,7 @@
   answer: "C",
   explain: "Texas Transportation Code §541.302, A residence district is territory adjacent to a highway where at least 300 feet of frontage is primarily improved with residences or a combination of residences and businesses."
 },
+
 {
   id: "TCOLE_q185",
   type: "checkbox",
@@ -2652,6 +2658,7 @@
   exactMatch: true,
   explain: "TCOLE Baton Training, Approved baton target areas include the center mass of the arms, outer mass of the arms, and center mass of the legs. The abdomen is generally not an approved primary target area."
 },
+
 {
   id: "TCOLE_q186",
   type: "multiple-choice",
@@ -2667,6 +2674,7 @@
   answer: "B",
   explain: "U.S. Constitution Sixth Amendment, The Sixth Amendment guarantees criminal defendants the right to assistance of counsel for their defense."
 },
+
 {
   id: "TCOLE_q187",
   type: "multiple-choice",
@@ -2682,6 +2690,7 @@
   answer: "D",
   explain: "Texas Penal Code §19.02(d), Sudden Passion arising from an Adequate Cause is a punishment-stage issue that applies to the offense of Murder."
 },
+
 {
 id: "TCOLE_q188",
 type: "multiple-choice",
@@ -2711,6 +2720,7 @@ options: [
 answer: "B",
 explain: "Post mortem lividity generally becomes observable approximately two hours after death."
 },
+
 {
 	id: "TCOLE_q190",
 	type: "multiple-choice",
@@ -2725,6 +2735,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 	answer: "A",
 	explain: "The arrest must be reported to TCOLE within 30 days."
 },
+
 {
 	id: "TCOLE_q191",
 	type: "multiple-choice",
@@ -2739,6 +2750,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 	answer: "C",
 	explain: "A capias commands an officer to arrest a person and bring them before the court."
 },
+
 {
 	id: "TCOLE_q192",
 	type: "multiple-choice",
@@ -2753,6 +2765,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 	answer: "B",
 	explain: "Schizophrenia often involves hallucinations and impaired thought processes."
 },
+
 {
 	id: "TCOLE_q193",
 	type: "multiple-choice",
@@ -2768,6 +2781,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 	answer: "B",
 	explain: "Patrol's primary purpose is protection through crime prevention and service."
 },
+
 {
 	id: "TCOLE_q194",
 	type: "multiple-choice",
@@ -2784,6 +2798,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 	  answer: "C",
 	explain: "Transportation Code §545.155 requires a vehicle entering a highway from a private road or driveway to yield the right-of-way to vehicles approaching on the highway. 【1-3454ad】"
 },
+
 {
 	id: "TCOLE_q195",
 	type: "multiple-choice",
@@ -2798,6 +2813,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 	answer: "C",
 	explain: "A subpoena commands a person to appear and testify."
 },
+
 {
 	id: "TCOLE_q196",
 	type: "true-false",
@@ -2810,6 +2826,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 	answer: "A",
 	explain: "This is one authorized use of the baton in crowd-control situations."
 },
+
 {
 	id: "TCOLE_q197",
   "type": "multiple-choice",
@@ -34008,6 +34025,188 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
   ],
   answer: "E",
   explain: "Tactical disengagement is the decision to leave, delay contact, delay custody, or transfer responsibility for handling a situation under more favorable circumstances. It provides officers with additional time, distance, and tactical flexibility while reducing the likelihood of unnecessary escalation. Tactical repositioning means maintaining a position of advantage and a safety zone, while a tactical pause is the act of slowing a situation down. Therefore, the best answer is Tactical Disengagement."
+},
+
+{
+  id: "TCOLE_q2539",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Which of the following is considered cover? (35)",
+  options: [
+    { id: "A", text: "Dirt embankment" },
+    { id: "B", text: "Large bush" },
+    { id: "C", text: "Door" },
+    { id: "D", text: "Brick wall" },
+    { id: "E", text: "All of the above" }
+  ],
+  answer: "D",
+  explain: "Patrol Skills training defines cover as material that can reasonably be expected to stop or significantly impede rounds from small arms fire. Concealment only hides a person from view and does not provide ballistic protection. A large bush and most doors are concealment, not cover. Among the listed choices, a brick wall is the best example of cover and is therefore the most likely intended answer."
+},
+
+{
+  id: "TCOLE_q2540",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Air-purifying respirator, chemical resistant clothing, double-layered gloves, etc, are precautions to be worn at what level of personal protection? (42)",
+  options: [
+    { id: "A", text: "Level A" },
+    { id: "B", text: "Level B" },
+    { id: "C", text: "Level C" },
+    { id: "D", text: "Level D" }
+  ],
+  answer: "C",
+  explain: "Level C personal protective equipment includes an air-purifying respirator, chemical-resistant clothing, and double-layered gloves. Level B protection includes a self-contained breathing apparatus (SCBA) along with chemical-resistant clothing, providing a higher level of respiratory protection. Therefore, the correct answer is Level C."
+},
+
+{
+  id: "TCOLE_q2541",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Warrants of arrest extend to every part of the State, except for those warrants issued by __________. (9)",
+  options: [
+    { id: "A", text: "Justices of a Justice Court" },
+    { id: "B", text: "Judges of a Municipal Court" },
+    { id: "C", text: "Judges of a Municipal Court of Record" },
+    { id: "D", text: "Mayors of an incorporated city or town" }
+  ],
+  answer: "D",
+  explain: "CCP Art. 15.06 provides that warrants of arrest issued by a magistrate extend to every part of Texas, except warrants issued by mayors of an incorporated city or town. CCP Art. 15.07 further limits the execution of mayor-issued warrants outside their jurisdiction. Therefore, the correct answer is 'Mayors of an incorporated city or town.'"
+},
+
+{
+  id: "TCOLE_q2542",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "If a person dies while in the custody of a peace officer, a written report of the cause of death must be filed with __________. (9)",
+  options: [
+    { id: "A", text: "The medical examiner's office" },
+    { id: "B", text: "The justice of the peace in that precinct" },
+    { id: "C", text: "The district attorney's office" },
+    { id: "D", text: "The attorney general's office" }
+  ],
+  answer: "D",
+  explain: "CCP Art. 49.18(b) requires that when a person dies while in the custody of a peace officer, or as a result of an officer's use of force, the law enforcement agency shall investigate the death and file a written report of the cause of death with the Attorney General not later than the 30th day after the death. While a medical examiner or justice of the peace may conduct the inquest, the required written report is filed with the Attorney General."
+},
+
+{
+  id: "TCOLE_q2543",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "How many breaths per minute do you give someone when doing rescue breathing? (40)",
+  options: [
+    { id: "A", text: "As many as possible" },
+    { id: "B", text: "15" },
+    { id: "C", text: "12" },
+    { id: "D", text: "5" }
+  ],
+  answer: "C",
+  explain: "Adult rescue breathing is generally performed at a rate of 1 breath every 5–6 seconds for a person who has a pulse but is not breathing normally. This equals approximately 10–12 breaths per minute. Of the available choices, 12 breaths per minute is the best answer. Fifteen breaths per minute is too fast and may lead to excessive ventilation."
+},
+
+{
+  id: "TCOLE_q2544",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "__________ is a means a vehicle with or without motive power, other than a pole trailer designed to be drawn by a motor vehicle and to transport persons or property; and constructed so that part of the vehicle's weight and load rests on or is carried by another vehicle. (22)",
+  options: [
+    { id: "A", text: "Semitrailer" },
+    { id: "B", text: "Truck tractor" },
+    { id: "C", text: "Caravan trailer" },
+    { id: "D", text: "Container trailer" }
+  ],
+  answer: "A",
+  explain: "Transportation Code §541.201(17) defines a semitrailer as a vehicle with or without motive power, other than a pole trailer, designed to be drawn by a motor vehicle and constructed so that part of the vehicle's weight and load rests on or is carried by another vehicle. A truck tractor is the motor vehicle that pulls the semitrailer, not the semitrailer itself."
+},
+
+{
+  id: "TCOLE_q2545",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Article 2 of the Constitution __________. (7)",
+  options: [
+    { id: "A", text: "Establishment of the U.S. Supreme Court" },
+    { id: "B", text: "Establishes and sets jurisdiction of the President and Vice President" },
+    { id: "C", text: "Establishes legislative powers to Congress" },
+    { id: "D", text: "Establishes all Circuit Courts" }
+  ],
+  answer: "B",
+  explain: "Article II of the U.S. Constitution establishes the Executive Branch and defines the powers, duties, qualifications, and authority of the President and Vice President. Article I establishes Congress (the Legislative Branch), and Article III establishes the federal judiciary, including the Supreme Court. Therefore, the correct answer is that Article II establishes and sets the jurisdiction of the President and Vice President."
+},
+
+{
+  id: "TCOLE_q2546",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "__________ refers to the alignment of organizational management, structure, personnel, and information systems to support community partnerships and proactive problem solving. (1)",
+  options: [
+    { id: "A", text: "Administration" },
+    { id: "B", text: "Supervision" },
+    { id: "C", text: "Organizational Transformation" },
+    { id: "D", text: "Community Policing" }
+  ],
+  answer: "C",
+  explain: "Organizational Transformation is defined as the alignment of organizational management, structure, personnel, and information systems to support community partnerships and proactive problem solving. Community Policing is the broader philosophy, while Organizational Transformation is one of its key components that focuses on changing the organization itself to support those goals."
+},
+
+{
+  id: "TCOLE_q2547",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Which governmental entity has overhauled the process for helping victims of identity theft by providing a website for victims to report identity theft and get a recovery plan? (12)",
+  options: [
+    { id: "A", text: "U.S. Postal Service" },
+    { id: "B", text: "Federal Trade Commission" },
+    { id: "C", text: "Texas Department of Public Safety" },
+    { id: "D", text: "Federal Bureau of Investigation" }
+  ],
+  answer: "B",
+  explain: "Chapter 12 specifically states that the Federal Trade Commission (FTC) has overhauled the process for helping identity theft victims. Victims can use IdentityTheft.gov to report identity theft and receive a personalized recovery plan, including forms, affidavits, and guidance for repairing the damage caused by identity theft. The Texas Department of Public Safety handles driver's licenses and ID cards, but it is not the agency responsible for the federal identity theft recovery process."
+},
+
+{
+  id: "TCOLE_q2548",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Which of the following would be easy for a criminal to find online or in a store? (12)",
+  options: [
+    { id: "A", text: "A list of the codes used in private medical records" },
+    { id: "B", text: "Samples of the paper used to print currency" },
+    { id: "C", text: "A book explaining how to falsify documents" },
+    { id: "D", text: "Software for forging signatures" }
+  ],
+  answer: "C",
+  explain: "Chapter 12 explains that a wide variety of sources, including bookstores and internet retailers, provide publications that give criminals step-by-step instructions for producing false documents. Therefore, a book explaining how to falsify documents is the item specifically identified as being easy for criminals to obtain."
+},
+
+{
+  id: "TCOLE_q2549",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "__________ means a substance that has an addiction-forming or addiction-sustaining liability similar to morphine or is capable of conversion into a drug having addiction-forming or addiction-sustaining liability. (15)",
+  options: [
+    { id: "A", text: "Opiate" },
+    { id: "B", text: "Narcotic Drugs" },
+    { id: "C", text: "Psychosomatic Drugs" },
+    { id: "D", text: "Weed" }
+  ],
+  answer: "A",
+  explain: "Health and Safety Code §481.002(30) defines an 'Opiate' as a substance that has an addiction-forming or addiction-sustaining liability similar to morphine or is capable of conversion into a drug having addiction-forming or addiction-sustaining liability. 'Narcotic drug' is a broader category that includes opiates but is not the term defined by this specific language."
+},
+
+{
+  id: "TCOLE_q2550",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Which of the following is a component of the Wellness Pyramid? (3)",
+  options: [
+    { id: "A", text: "Strength" },
+    { id: "B", text: "Dynamic Strength" },
+    { id: "C", text: "Tobacco cessation" },
+    { id: "D", text: "Flexibility" },
+    { id: "E", text: "All of the above" }
+  ],
+  answer: "C",
+  explain: "The Wellness Pyramid focuses on health and wellness behaviors that support overall well-being and disease prevention. Tobacco cessation is a wellness behavior, while strength, dynamic strength (muscular endurance), and flexibility are fitness components. Since 'All of the above' was marked incorrect, the most likely intended Wellness Pyramid component is Tobacco cessation."
 }
 
 ];
