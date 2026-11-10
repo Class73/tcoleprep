@@ -34207,7 +34207,601 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
   ],
   answer: "C",
   explain: "The Wellness Pyramid focuses on health and wellness behaviors that support overall well-being and disease prevention. Tobacco cessation is a wellness behavior, while strength, dynamic strength (muscular endurance), and flexibility are fitness components. Since 'All of the above' was marked incorrect, the most likely intended Wellness Pyramid component is Tobacco cessation."
-}
+},
+
+
+  {
+  id: "TCOLE_q2551",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "A judge of this court must be an attorney. (7)",
+  options: [
+    { id: "A", text: "Municipal" },
+    { id: "B", text: "Constitutional County Court" },
+    { id: "C", text: "Statutory County Court at Law" },
+    { id: "D", text: "All judges must be attorneys" }
+  ],
+  answer: "C",
+  explain: "County Court at Law judges are required to be licensed attorneys and are the court type commonly referenced in TCOLE/BPOC training when discussing courts whose judges must be attorneys. Municipal judges and Constitutional County Court judges are not universally required to be attorneys statewide, making County Court at Law the best answer."
+  },
+  
+  {
+  id: "TCOLE_q2552",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "__________ is the conduct, other than a traffic offense, that violates a penal law of this state or of the United States punishable by imprisonment or by confinement in jail. (33)",
+  options: [
+    { id: "A", text: "Delinquent conduct" },
+    { id: "B", text: "Child in need of supervision" },
+    { id: "C", text: "Violation of probation" },
+    { id: "D", text: "Status offense" }
+  ],
+  answer: "A",
+  explain: "Texas Family Code §51.03(a)(1) defines 'delinquent conduct' as conduct, other than a traffic offense, that violates a penal law of Texas or the United States and is punishable by imprisonment or confinement in jail. A status offense or conduct indicating a need for supervision involves conduct that is unlawful only because of the age of the child, such as truancy or running away from home. Therefore, delinquent conduct is the term that exactly matches the definition given in the question."
+  },
+  
+  {
+  id: "TCOLE_q2553",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "One of the effects that a hazardous material event has on the environment is __________. (42)",
+  options: [
+    { id: "A", text: "Expense to governmental entities" },
+    { id: "B", text: "Panic of the public" },
+    { id: "C", text: "Exposure to carcinogens" },
+    { id: "D", text: "Temporary damage to the water system" }
+  ],
+  answer: "D",
+  explain: "Hazardous materials incidents can have significant environmental impacts, including contamination or damage to potable water sources. Exposure to carcinogens is considered a health effect on individuals, while panic of the public and governmental expenses are social or economic impacts rather than environmental effects. Therefore, temporary damage to the water system is the best answer."
+  },
+  
+  {
+  id: "TCOLE_q2554",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "A juvenile can be finger printed regardless of age if arrested for a Class B misdemeanor offense or above for the purpose of __________. (33)",
+  options: [
+    { id: "A", text: "Immediate comparison with latent fingerprints" },
+    { id: "B", text: "Providing a complete report to the juvenile court" },
+    { id: "C", text: "Keeping up with juvenile offenders on a local basis" },
+    { id: "D", text: "Locating missing children" }
+  ],
+  answer: "A",
+  explain: "Texas juvenile procedures allow a child arrested for a Class B misdemeanor or higher offense to be fingerprinted regardless of age when the fingerprints are needed for immediate comparison with latent fingerprints found during a criminal investigation. Fingerprinting to locate missing children is a separate provision and is not the purpose associated with a Class B-or-higher arrest."
+  },
+  
+  {
+  id: "TCOLE_q2555",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "In a civil action the process begins with __________. (14)",
+  options: [
+    { id: "A", text: "The filing of papers with the court" },
+    { id: "B", text: "The arrest of the defendant" },
+    { id: "C", text: "Defendant's act which precipitated legal action" },
+    { id: "D", text: "The service of citation" },
+    { id: "E", text: "The motion of plaintiff" }
+  ],
+  answer: "A",
+  explain: "A civil action is initiated when an aggrieved party files a petition with the court clerk. The petition describes the alleged legal harm and requested remedy. Although the specific document is called a petition, the answer choice that best matches the legal process is 'the filing of papers with the court.' Service of citation occurs after the lawsuit has already been filed."
+  },
+  
+  {
+  id: "TCOLE_q2556",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "__________ is the state or quality of mind or spirit that enables one to face danger with self-possession, confidence, and resolution, bravery and valor. (1)",
+  options: [
+    { id: "A", text: "Courage" },
+    { id: "B", text: "Respect" },
+    { id: "C", text: "Moral Courage" },
+    { id: "D", text: "Physical Courage" }
+  ],
+  answer: "A",
+  explain: "Professionalism & Ethics, Standard 1.5. 'Courage' is defined as the state or quality of mind or spirit that enables one to face danger with self-possession, confidence, and resolution; bravery; valor. 'Moral Courage' is separately defined as taking action for moral reasons despite adverse consequences."
+  },
+  
+  {
+  id: "TCOLE_q2557",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Older adults are __________ to develop symptoms than are younger ones in regards to PTSD. (20)",
+  options: [
+    { id: "A", text: "More likely" },
+    { id: "B", text: "Less likely" },
+    { id: "C", text: "Equally as likely" },
+    { id: "D", text: "Not likely" }
+  ],
+  answer: "B",
+  explain: "Victims of Crime 20.1(P)(i)(3): 'Older adults are less likely to develop symptoms than are younger ones.' PTSD section."
+  },
+  
+  {
+  id: "TCOLE_q2558",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "When doing a physical search _____________. (31)",
+  options: [
+    { id: "A", text: "Scan the suspect to search for weapons" },
+    { id: "B", text: "Pay attention to every detail" },
+    { id: "C", text: "Let your hands do the searching" },
+    { id: "D", text: "None of these" }
+  ],
+  answer: "C",
+  explain: "Arrest & Control 31.14(E). 'Let an officer's hands do the searching. Officers' eyes should be on the subject to observe movement.'"
+  },
+
+  {
+  id: "TCOLE_q2559",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "An affidavit that alleges the commission of an offense is called a __________. (10)",
+  options: [
+    { id: "A", text: "Summons" },
+    { id: "B", text: "Complaint" },
+    { id: "C", text: "Capias" },
+    { id: "D", text: "Warrant" }
+  ],
+  answer: "B",
+  explain: "CCP Art. 15.04. 'The affidavit made before the magistrate or district or county attorney is called a complaint if it charges the commission of an offense.'"
+  },
+  
+  {
+  id: "TCOLE_q2560",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "A device or a drug that is unsafe for self-medication and that is not included in Schedules I through V or Penalty Groups 1 through 4 of Chapter 481 Health and Safety Code defines __________. (15)",
+  options: [
+    { id: "A", text: "Narcotic" },
+    { id: "B", text: "Dangerous Drug" },
+    { id: "C", text: "Controlled Substance" },
+    { id: "D", text: "Drug Paraphernalia" },
+    { id: "E", text: "Contraband" }
+  ],
+  answer: "B",
+  explain: "Health & Safety Code §483.001(2). 'Dangerous Drug' = a device or drug unsafe for self-medication and not included in Schedules I-V or Penalty Groups 1-4 of HSC Chapter 481."
+  },
+  
+  {
+  id: "TCOLE_q2561",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "The juvenile witness may write a statement if he/she __________ to do so. (33)",
+  options: [
+    { id: "A", text: "Volunteers" },
+    { id: "B", text: "Is instructed to" },
+    { id: "C", text: "Is warned by the chief" },
+    { id: "D", text: "Has his parent notified and receives consent from the parent" }
+  ],
+  answer: "A",
+  explain: "Standard 33 Juvenile Offenders. Juvenile witness statements are based on voluntariness. Family Code §52.02 parent-notification requirements apply when a child is taken into custody. Family Code §51.095 applies to statements of children in custody. A juvenile witness may provide a written statement if he or she volunteers to do so."
+  },
+  
+  {
+  id: "TCOLE_q2562",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "When approaching a dog, what is the minimal reactionary gap in a public space? (39)",
+  options: [
+    { id: "A", text: "2 feet" },
+    { id: "B", text: "100 feet" },
+    { id: "C", text: "12 feet" },
+    { id: "D", text: "20 feet" }
+  ],
+  answer: "C",
+  explain: "Canine Encounters 39.11. Public Space = greater than 12 feet from the animal. The curriculum further states: 'For a dog, interview distance is around 12 feet.' Social Space is 4-12 feet, and Personal Space is 0-4 feet. Therefore, the minimum reactionary gap in a public-space encounter is 12 feet."
+  },
+  
+  {
+  id: "TCOLE_q2563",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "From which lane must a vehicle traveling upon a three lane roadway turn left when at an intersection? (22)",
+  options: [
+    { id: "A", text: "Left lane" },
+    { id: "B", text: "Right lane" },
+    { id: "C", text: "Center lane" },
+    { id: "D", text: "Any open lane" },
+    { id: "E", text: "Lane of the driver's choice" }
+  ],
+  answer: "A",
+  explain: "TC §545.101(b)(1). To make a left turn at an intersection, an operator shall approach the intersection in the extreme left-hand lane lawfully available to a vehicle moving in that direction."
+  },
+  
+  {
+  id: "TCOLE_q2565",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "A defendant may waive any rights in any case except __________. (7)",
+  options: [
+    { id: "A", text: "Class A Misdemeanor" },
+    { id: "B", text: "State jail felony" },
+    { id: "C", text: "Murder" },
+    { id: "D", text: "Capital felony" }
+  ],
+  answer: "D",
+  explain: "CCP Art. 1.13(a). A defendant may waive the right of trial by jury except in a capital felony case in which the State seeks the death penalty."
+  },
+  
+  {
+  id: "TCOLE_q2566",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Joe caused the death of Louis due to criminal negligence. Joe could be charged with which of the following? (8)",
+  options: [
+    { id: "A", text: "Manslaughter" },
+    { id: "B", text: "Murder 1st Degree" },
+    { id: "C", text: "Murder 2nd Degree" },
+    { id: "D", text: "Capital Murder" },
+    { id: "E", text: "None of the above" }
+  ],
+  answer: "E",
+  explain: "PC §19.05 Criminally Negligent Homicide. Criminal negligence causing the death of an individual is Criminally Negligent Homicide, a State Jail Felony. Since that offense is not listed, the correct answer is 'None of the above.' Manslaughter (PC §19.04) requires recklessness, not criminal negligence."
+  },
+  
+  {
+  id: "TCOLE_q2567",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "__________ is any current commission developed course that is required before an individual may be licensed by the commission. (4)",
+  options: [
+    { id: "A", text: "Basic Certificate Course" },
+    { id: "B", text: "Basic Licensing Course" },
+    { id: "C", text: "Online Certificate Course" },
+    { id: "D", text: "Online Licensing Course" }
+  ],
+  answer: "B",
+  explain: "TCOLE Rule §217.1. Basic Licensing Course (BLC) = any current commission-developed course required before an individual may be licensed by the commission."
+  },
+  
+  {
+  id: "TCOLE_q2568",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "A vehicle may be considered abandoned if it has been left unattended on a right of way of a designated county, state, or federal highway for more than __________ hours. (22)",
+  options: [
+    { id: "A", text: "12" },
+    { id: "B", text: "24" },
+    { id: "C", text: "36" },
+    { id: "D", text: "48" }
+  ],
+  answer: "D",
+  explain: "TC §683.002(a)(4). A motor vehicle is abandoned if left unattended on the right-of-way of a designated county, state, or federal highway for more than 48 hours."
+  },
+
+  {
+  id: "TCOLE_q2569",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Physical fitness can be divided into two categories __________. (3)",
+  options: [
+    { id: "A", text: "Health related; Wellness related" },
+    { id: "B", text: "Health related; Motor related" },
+    { id: "C", text: "Motor related; Physical related" },
+    { id: "D", text: "Motor related; Skill related" }
+  ],
+  answer: "B",
+  explain: "BPOC 3.1. Components of fitness can be divided into two categories: Functional and Health-Related Fitness, and Motor Fitness."
+  },
+  
+  {
+  id: "TCOLE_q2570",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Article 1 of the Constitution __________. (7)",
+  options: [
+    { id: "A", text: "Establishment of the U.S. Supreme Court" },
+    { id: "B", text: "Establishes and sets jurisdiction of the president and vice president" },
+    { id: "C", text: "Establishes legislative powers to Congress" },
+    { id: "D", text: "Establishes all Circuit Courts" }
+  ],
+  answer: "C",
+  explain: "U.S. Constitution, Article I. Vests all legislative powers in Congress and establishes the Legislative Branch."
+  },
+  
+  {
+  id: "TCOLE_q2571",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "A __________ is a person considered to be directly or indirectly connected with a crime, either by overt act or by planning and/or directing it. (32)",
+  options: [
+    { id: "A", text: "Person of interest" },
+    { id: "B", text: "Suspect" },
+    { id: "C", text: "Witness" },
+    { id: "D", text: "Culprit" }
+  ],
+  answer: "B",
+  explain: "Criminal Investigations 32.1(xix). Suspect = 'A person considered to be directly or indirectly connected with a crime, either by overt act or by planning and/or directing it.'"
+  },
+  
+  {
+  id: "TCOLE_q2572",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Which of the tactical concepts often means 'buying time,' and is often used as a means to increase available options? (27)",
+  options: [
+    { id: "A", text: "Distance + Cover = Time" },
+    { id: "B", text: "Tactical Repositioning" },
+    { id: "C", text: "Tactical Pause" },
+    { id: "D", text: "Tactical Disengagement" }
+  ],
+  answer: "A",
+  explain: "De-Escalation 27.17. 'Distance + cover = time: When officers are in close quarters with a potential threat and they feel pressed for time, options quickly dwindle. But when officers have distance, cover, and time, their options multiply.'"
+  },
+  
+  {
+  id: "TCOLE_q2573",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "You can frisk if there is __________ that the suspect may be in possession of a weapon. (10)",
+  options: [
+    { id: "A", text: "Reasonable fear" },
+    { id: "B", text: "Mere justification" },
+    { id: "C", text: "Reasonable evidence" },
+    { id: "D", text: "Mere suspicion" }
+  ],
+  answer: "A",
+  explain: "Arrest, Search & Seizure 10.2. Terry v. Ohio, 392 U.S. 1 (1968). An officer may conduct a protective frisk when specific articulable facts create a reasonable belief/suspicion that the person is armed and dangerous. Mere suspicion alone is insufficient. Among the available choices, 'reasonable fear' is the best answer."
+  },
+  
+  {
+  id: "TCOLE_q2574",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "In a work zone, __________ provides protection for victims and responders. (22)",
+  options: [
+    { id: "A", text: "Activity area" },
+    { id: "B", text: "Buffer space" },
+    { id: "C", text: "Work area" },
+    { id: "D", text: "Transition area" }
+  ],
+  answer: "B",
+  explain: "Traffic Code & Crash Investigations 22.38. Five areas of a work zone: Advanced Warning Area, Transition Area, Buffer Area, Work Area, and Termination Area. The Buffer Area (Buffer Space) provides protection for victims and responders."
+  },
+  
+  {
+  id: "TCOLE_q2575",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "The person(s) who has/have the authority to appoint Adjunct Police Officers is/are the __________. (9)",
+  options: [
+    { id: "A", text: "Sheriff or chief of police" },
+    { id: "B", text: "Director of the Department of Public Safety" },
+    { id: "C", text: "Executive Director of TCOLE" },
+    { id: "D", text: "President of the institution of higher education" }
+  ],
+  answer: "A",
+  explain: "CCP Art. 2A.007(a). Adjunct police officers may be appointed by the chief of police of the municipality having jurisdiction over the institution, or by the county sheriff if the institution is outside municipal limits. The institution's governing board consents, but does not make the appointment."
+  },
+  
+  {
+  id: "TCOLE_q2576",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "__________ means the adult with whom the child resides. (33)",
+  options: [
+    { id: "A", text: "Guardian" },
+    { id: "B", text: "Party" },
+    { id: "C", text: "Custodian" },
+    { id: "D", text: "Lawyer" }
+  ],
+  answer: "C",
+  explain: "Family Code §51.02(4). Custodian = 'the adult with whom the child resides.'"
+  },
+  
+  {
+  id: "TCOLE_q2577",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "High density urban/business structures cause siren sound __________. (34)",
+  options: [
+    { id: "A", text: "Amplification" },
+    { id: "B", text: "Deflection" },
+    { id: "C", text: "Refraction" },
+    { id: "D", text: "Reverberation" }
+  ],
+  answer: "D",
+  explain: "Emergency Response Driving 34. Siren sound waves reflect off multiple buildings and structures causing reverberation (echoing), which can make it difficult for motorists and pedestrians to determine the direction of the emergency vehicle."
+  },
+  
+  {
+  id: "TCOLE_q2578",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "A person may not be prosecuted for or convicted of any offense that he committed when younger than _______ years of age except perjury, aggravated perjury, etc. (8)",
+  options: [
+    { id: "A", text: "15" },
+    { id: "B", text: "14" },
+    { id: "C", text: "13" },
+    { id: "D", text: "16" },
+    { id: "E", text: "17" }
+  ],
+  answer: "A",
+  explain: "PC §8.07(a). A person may not be prosecuted for or convicted of an offense committed when younger than 15 years of age, except offenses specifically listed in the statute, including perjury and aggravated perjury."
+  },
+  
+  {
+  id: "TCOLE_q2579",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Which of the following is not an element of the offense of Burglary? (8)",
+  options: [
+    { id: "A", text: "Enter or remains concealed" },
+    { id: "B", text: "Without effective consent" },
+    { id: "C", text: "Intended to commit a felony or theft" },
+    { id: "D", text: "Breaking and Entering" },
+    { id: "E", text: "A & C above" }
+  ],
+  answer: "D",
+  explain: "PC §30.02 Burglary. Elements include entry or remaining concealed without the effective consent of the owner and intent to commit a felony, theft, or assault. Texas burglary does not require 'breaking and entering.'"
+  },
+  
+  {
+  id: "TCOLE_q2580",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Evidence seized under the invalid search warrant but seized in good faith can __________. (10)",
+  options: [
+    { id: "A", text: "Not be used in court" },
+    { id: "B", text: "Be used in court only in the sentencing phase" },
+    { id: "C", text: "Still be used in court" },
+    { id: "D", text: "Be returned to the defendant" }
+  ],
+  answer: "C",
+  explain: "CCP Art. 38.23(b). Evidence obtained by a law enforcement officer acting in objective good-faith reliance upon a warrant issued by a neutral magistrate based on probable cause is admissible despite a later determination that the warrant was invalid."
+  },
+  
+  {
+  id: "TCOLE_q2581",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Which of the following is not an objective listed in Article 1.03 of the Code of Criminal Procedure? (9)",
+  options: [
+    { id: "A", text: "Adopt measures for preventing the commission of crime" },
+    { id: "B", text: "Exclude the offender from all hope of escape" },
+    { id: "C", text: "Insure a fair and impartial trial" },
+    { id: "D", text: "Arrest violators without warrant" }
+  ],
+  answer: "D",
+  explain: "CCP Art. 1.03. Objects of the Code include: (1) adopt measures for preventing crime, (2) exclude the offender from all hope of escape, (3) insure a trial with as little delay as is consistent with the ends of justice, (4) bring forward all evidence tending to produce conviction or acquittal, (5) insure a fair and impartial trial, and (6) ensure execution of the sentence. 'Arrest violators without warrant' is not listed as an objective."
+  },
+  
+  {
+  id: "TCOLE_q2582",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Which of the following is a traffic condition that affects safe vehicle operation? (34)",
+  options: [
+    { id: "A", text: "Driver" },
+    { id: "B", text: "Pedestrians" },
+    { id: "C", text: "Road" },
+    { id: "D", text: "Weather" }
+  ],
+  answer: "B",
+  explain: "Professional Police Driving 34.17. Traffic conditions affecting safe vehicle operation include traffic density, speed of vehicles, type of vehicles, pedestrians, and animals."
+  },
+  
+  {
+  id: "TCOLE_q2583",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "In the traditional police service model, most of the workload of patrol officers and detectives consists of handling crimes that have already been committed, disturbances in progress, and traffic violations describes __________. (2)",
+  options: [
+    { id: "A", text: "Incident driven" },
+    { id: "B", text: "Reactive response" },
+    { id: "C", text: "Citizen and employee expectations" },
+    { id: "D", text: "Use of the criminal justice system" }
+  ],
+  answer: "B",
+  explain: "Professional Policing 2.5(A). Reactive Response: 'Most of the workload of patrol officers and detectives consists of handling crimes that have already been committed, disturbances in progress, traffic violations, and such.' Incident-driven is a separate characteristic of the traditional model."
+  },
+  
+  {
+  id: "TCOLE_q2584",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "A person has committed the offense of __________, if he intentionally prevents or obstructs a person he knows is a peace officer from effecting an arrest or search, by using force against the peace officer. (8)",
+  options: [
+    { id: "A", text: "Aggravated Assault on a Police Officer" },
+    { id: "B", text: "Hindering Apprehension" },
+    { id: "C", text: "Resisting Arrest" },
+    { id: "D", text: "Escape" },
+    { id: "E", text: "Obstructing Justice" }
+  ],
+  answer: "C",
+  explain: "PC §38.03 Resisting Arrest, Search, or Transportation. A person commits an offense if he intentionally prevents or obstructs a person he knows is a peace officer from effecting an arrest, search, or transportation by using force against the peace officer or another."
+  },
+  
+  {
+  id: "TCOLE_q2585",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "A police supervisor has a/an __________ duty to intervene to stop officers who are engaging in excessive force in their presence. (28)",
+  options: [
+    { id: "A", text: "Affirmative" },
+    { id: "B", text: "Required" },
+    { id: "C", text: "Mandatory" },
+    { id: "D", text: "Necessary" }
+  ],
+  answer: "A",
+  explain: "CCP Art. 2A.051. A peace officer supervisor has an affirmative duty to intervene and stop officers engaging in excessive force in their presence."
+  },
+  
+  {
+  id: "TCOLE_q2586",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "__________ means to restrain a person with intent to prevent his liberation by: secreting or holding him in a place where he is not likely to be found; or using or threatening to use deadly force. (8)",
+  options: [
+    { id: "A", text: "Restrain" },
+    { id: "B", text: "Abduct" },
+    { id: "C", text: "Kidnap" },
+    { id: "D", text: "Apprehend" }
+  ],
+  answer: "B",
+  explain: "PC §20.01(2). 'Abduct' means to restrain a person with intent to prevent liberation by (A) secreting or holding the person in a place where they are not likely to be found, or (B) using or threatening to use deadly force."
+  },
+  
+  {
+  id: "TCOLE_q2587",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "A person is observed in a crowded parking lot masturbating. What offense has occurred? (8)",
+  options: [
+    { id: "A", text: "Homosexual Conduct" },
+    { id: "B", text: "Disorderly Conduct - Exposure" },
+    { id: "C", text: "Public Lewdness" },
+    { id: "D", text: "Indecent Exposure" },
+    { id: "E", text: "None of the above" }
+  ],
+  answer: "D",
+  explain: "PC §21.08 Indecent Exposure. A person commits an offense if they expose their anus or any part of their genitals with intent to arouse or gratify the sexual desire of any person and are reckless about whether another is present who will be offended or alarmed."
+  },
+  
+  {
+  id: "TCOLE_q2588",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "If a person fails to request a hearing under Section 724.041 __________. (23)",
+  options: [
+    { id: "A", text: "The hearing will be held without them" },
+    { id: "B", text: "They waive their right to a hearing" },
+    { id: "C", text: "They automatically receive a rescheduled court date for a date no longer than 21 days after the original date" },
+    { id: "D", text: "They are automatically considered guilty and will be issued a warrant for arrest" }
+  ],
+  answer: "B",
+  explain: "TC §724.041(a),(c). A driver must request an ALR hearing within the statutory period. Failure to timely request a hearing waives the right to a hearing and the suspension is not stayed."
+  },
+  
+  {
+  id: "TCOLE_q2589",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "A/an __________ has profit still as an underlying motive, but this type may be more interested in getting money for drugs. (32)",
+  options: [
+    { id: "A", text: "Professional Thief" },
+    { id: "B", text: "Robber" },
+    { id: "C", text: "Unskilled Thief" },
+    { id: "D", text: "Burglar" }
+  ],
+  answer: "C",
+  explain: "Criminal Investigations 32.7(C). Semi-professional (unskilled) thief: 'Profit still underlying motive, but this type may be more interested in getting money for drugs.'"
+  },
+  
+  {
+  id: "TCOLE_q2590",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Every vehicle upon a highway within this State at any time from a half hour after sunset to a half hour before sunrise and at any other time when, due to insufficient light or unfavorable atmospheric conditions, persons and vehicles on the highway are not clearly discernible at a distance of __________ feet ahead shall display lighted lamps and illuminating devices as required. (22)",
+  options: [
+    { id: "A", text: "1,000" },
+    { id: "B", text: "500" },
+    { id: "C", text: "750" },
+    { id: "D", text: "200" }
+  ],
+  answer: "A",
+  explain: "TC §547.302(a)(2). Required vehicle lighting must be displayed when persons or vehicles on the highway are not clearly discernible at a distance of 1,000 feet ahead."
+ }
 
 ];
 
