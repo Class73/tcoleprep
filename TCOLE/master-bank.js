@@ -34801,8 +34801,492 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
   ],
   answer: "A",
   explain: "TC §547.302(a)(2). Required vehicle lighting must be displayed when persons or vehicles on the highway are not clearly discernible at a distance of 1,000 feet ahead."
- }
+ },
+ 
+ {
+  id: "TCOLE_q2591",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "__________ is on-the-scene identification of a suspect by the victim of or witness to a crime, conducted within minutes of the commission of a crime. (32)",
+  options: [
+    { id: "A", text: "Immediate ID" },
+    { id: "B", text: "Field Identification" },
+    { id: "C", text: "Field Search" },
+    { id: "D", text: "Googling their name" }
+  ],
+  answer: "B",
+  explain: "Criminal Investigations 32.1(x). Field Identification = 'On-the-scene identification of a suspect by the victim of or witness to a crime, conducted within minutes of the commission of a crime.'"
+ },
 
+  {
+  id: "TCOLE_q2592",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "That portion of a highway improved, designed or ordinarily used for vehicular travel, exclusive of the berm or shoulder is the __________. (22)",
+  options: [
+    { id: "A", text: "Street" },
+    { id: "B", text: "Highway" },
+    { id: "C", text: "Roadway" },
+    { id: "D", text: "Berm-shoulder" },
+    { id: "E", text: "Middle of the pathway" }
+  ],
+  answer: "C",
+  explain: "TC §541.302(11). Roadway = the portion of a highway, other than the berm or shoulder, improved, designed, or ordinarily used for vehicular travel."
+  },
+  
+  {
+  id: "TCOLE_q2593",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "__________ is a municipal or county jail; or a confinement facility operated by or under a contract with any division of the Texas Department of Criminal Justice. (8)",
+  options: [
+    { id: "A", text: "Secure correctional facility" },
+    { id: "B", text: "Prison" },
+    { id: "C", text: "Jail" },
+    { id: "D", text: "Penitentiary" }
+  ],
+  answer: "A",
+  explain: "PC §1.07(a)(45). Secure Correctional Facility = a municipal or county jail, or a confinement facility operated by or under contract with any division of TDCJ."
+  },
+
+  {
+  id: "TCOLE_q2594",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "__________ is needed when conditions or circumstances warrant a high level of awareness, departments should gather information and provide advanced warning for civil unrest. (35)",
+  options: [
+    { id: "A", text: "Crowd assessment" },
+    { id: "B", text: "Crowd dispersal" },
+    { id: "C", text: "Crowd management" },
+    { id: "D", text: "Crowd diffusion" }
+  ],
+  answer: "C",
+  explain: "Patrol Skills 35.23. Crowd Management = techniques used to manage lawful public assemblies. Departments should be aware of warning signs leading to civil unrest and gather intelligence to provide advance warning and preparation."
+  },
+  
+  {
+  id: "TCOLE_q2595",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "__________ means the delivery of a controlled substance in the course of professional practice or research, by a practitioner or person acting under the lawful order of a practitioner, to an ultimate user or research subject. (15)",
+  options: [
+    { id: "A", text: "Dispense" },
+    { id: "B", text: "Distribute" },
+    { id: "C", text: "Delivery" },
+    { id: "D", text: "Circulate" }
+  ],
+  answer: "A",
+  explain: "HSC §481.002(12). Dispense = the delivery of a controlled substance in the course of professional practice or research, by a practitioner or person acting under the lawful order of a practitioner, to an ultimate user or research subject."
+  },
+  
+  {
+  id: "TCOLE_q2596",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "From what distance must tail lights on a vehicle be visible? (22)",
+  options: [
+    { id: "A", text: "500 ft" },
+    { id: "B", text: "1000 ft" },
+    { id: "C", text: "1500 ft" },
+    { id: "D", text: "2000 ft" }
+  ],
+  answer: "B",
+  explain: "TC §547.322(d). A taillamp shall emit a red light plainly visible from a distance of 1,000 feet from the rear of the vehicle."
+  },
+
+  {
+  id: "TCOLE_q2597",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "__________ is/are the collaboration between law enforcement agencies and the individuals and organizations they serve to develop solutions to problems and increase trust. (2)",
+  options: [
+    { id: "A", text: "Partnerships" },
+    { id: "B", text: "Problem Solving" },
+    { id: "C", text: "Organizational Transformation" },
+    { id: "D", text: "Community Involvement" }
+  ],
+  answer: "A",
+  explain: "Professional Policing / Community Policing. Partnerships = collaboration between law enforcement agencies and the individuals and organizations they serve to develop solutions to problems and increase trust."
+  },
+
+  {
+  id: "TCOLE_q2598",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "__________ is an injury to any part of the human body and that requires treatment. (22)",
+  options: [
+    { id: "A", text: "Personal injury" },
+    { id: "B", text: "Bodily harm" },
+    { id: "C", text: "Medical emergency" },
+    { id: "D", text: "Wounding injury" }
+  ],
+  answer: "A",
+  explain: "TC §541.401(7). Personal Injury = an injury to any part of the human body and that requires treatment."
+  },
+
+  {
+  id: "TCOLE_q2599",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "There are ________ Pillars of Character. (1)",
+  options: [
+    { id: "A", text: "8" },
+    { id: "B", text: "4" },
+    { id: "C", text: "3" },
+    { id: "D", text: "6" }
+  ],
+  answer: "D",
+  explain: "Professionalism & Ethics 1.4. The Six Pillars of Character are Trustworthiness, Respect, Responsibility, Fairness, Caring, and Citizenship."
+  },
+
+  {
+  id: "TCOLE_q2600",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Which of the following crimes justifies the use of deadly force to prevent the 'imminent commission' of the offense? (28)",
+  options: [
+    { id: "A", text: "Theft during the nighttime" },
+    { id: "B", text: "Criminal mischief during the nighttime" },
+    { id: "C", text: "Robbery" },
+    { id: "D", text: "Burglary" },
+    { id: "E", text: "Deadly force is justified in all of the above" }
+  ],
+  answer: "E",
+  explain: "PC §9.42(2)(A). Deadly force to protect property may be justified to prevent the imminent commission of arson, burglary, robbery, aggravated robbery, theft during the nighttime, or criminal mischief during the nighttime. Every offense listed in choices A-D appears in the statute."
+  },
+  
+  {
+  id: "TCOLE_q2601",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Compensating behavior may take one of the following forms: hesitation, verbal abuse, __________, and/or unnecessary force. (28)",
+  options: [
+    { id: "A", text: "Joking" },
+    { id: "B", text: "Bluff" },
+    { id: "C", text: "Mocking" },
+    { id: "D", text: "Pleading" }
+  ],
+  answer: "B",
+  explain: "Use of Force Theory 28.C.iii. Compensating behavior may take the form of hesitation, verbal abuse, bluff, and unnecessary force."
+  },
+  
+  {
+  id: "TCOLE_q2602",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "But that if the person submits to the taking of the specimen and an analysis of the specimen shows that the person had an alcohol concentration less than the level specified by Chapter 49, Penal Code, the person may be subject to criminal penalties __________ severe than those provided under that chapter. (23)",
+  options: [
+    { id: "A", text: "Less" },
+    { id: "B", text: "More" },
+    { id: "C", text: "Equally" },
+    { id: "D", text: "None of these" }
+  ],
+  answer: "A",
+  explain: "TC §724.015(a)(5). If a person under 21 submits a specimen and the analysis shows an alcohol concentration below the level specified by Penal Code Chapter 49, the person may be subject to criminal penalties less severe than those provided under that chapter."
+  },
+  
+  {
+  id: "TCOLE_q2603",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "The following statement is taken from CCP 11.21: 'The words confined, imprisoned, in custody, confinement, imprisonment, refer not only to the actual, corporeal, and forcible detention of a person, but likewise to any coercive measure by threats, menaces or the fear of injury, whereby one person exercises a control over the person of another, and detains him within certain limits.' This statement best defines which of the following? (10)",
+  options: [
+    { id: "A", text: "Arrest" },
+    { id: "B", text: "Restraint" },
+    { id: "C", text: "Constructive Custody" },
+    { id: "D", text: "Temporary" },
+    { id: "E", text: "Effective Control" }
+  ],
+  answer: "C",
+  explain: "CCP Art. 11.21. Constructive Custody = custody accomplished through coercive measures, threats, menaces, or fear of injury, not merely actual physical detention."
+  },
+  
+  {
+  id: "TCOLE_q2604",
+  type: "true-false",
+  points: 1,
+  prompt: "Nighttime means the period beginning one half hour before sunset and ending one half hour after sunrise. (22)",
+  options: [
+    { id: "T", text: "True" },
+    { id: "F", text: "False" }
+  ],
+  answer: "F",
+  explain: "TC §541.401(5). Nighttime = the period beginning one-half hour after sunset and ending one-half hour before sunrise."
+  },
+  
+  {
+  id: "TCOLE_q2605",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Who signs an indictment accusing a person of a crime? (10)",
+  options: [
+    { id: "A", text: "The district attorney" },
+    { id: "B", text: "The foreman of a grand jury" },
+    { id: "C", text: "The foreman of the petit jury" },
+    { id: "D", text: "The county attorney" },
+    { id: "E", text: "The magistrate of the court supervising the grand jury" }
+  ],
+  answer: "B",
+  explain: "CCP Art. 21.02(9). An indictment must be signed officially by the foreman of the grand jury."
+  },
+  
+  {
+  id: "TCOLE_q2606",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "When measuring a crime scene, who should be in charge of (control of) all measurements? (32)",
+  options: [
+    { id: "A", text: "The first officer" },
+    { id: "B", text: "The detective" },
+    { id: "C", text: "The sketcher" },
+    { id: "D", text: "The supervisor" }
+  ],
+  answer: "C",
+  explain: "Criminal Investigations 32.37. 'The sketcher should always have control of taking and observing measurements.'"
+  },
+
+  {
+  id: "TCOLE_q2607",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "_____________ describes a characteristic of a criminal investigator (32): Takes nothing for granted. Investigators may find that victims and witnesses, as well as suspects, may be motivated by various physiological, psychological, and sociological needs that may 'color' the information they give. Gathers information, but verifies its credibility.",
+  options: [
+    { id: "A", text: "Observant" },
+    { id: "B", text: "Suspicious" },
+    { id: "C", text: "Curious" },
+    { id: "D", text: "Cautious" }
+  ],
+  answer: "B",
+  explain: "Criminal Investigations 32.6(C)(i). Suspicious = 'takes nothing for granted. Investigators may find that victims and witnesses, as well as suspects, may be motivated by various physiological, psychological, and sociological needs that may color the information they give. Gathers information but verifies its credibility.'"
+  },
+  
+  {
+  id: "TCOLE_q2608",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "In __________, the Court held that as long as officers have a reasonable cause to believe that a traffic violation occurred, they may stop any vehicle. (6)",
+  options: [
+    { id: "A", text: "Whren v. United States" },
+    { id: "B", text: "Carroll v. United States" },
+    { id: "C", text: "Arizona v. Gant" },
+    { id: "D", text: "Terry v. Ohio" }
+  ],
+  answer: "A",
+  explain: "Racial Profiling 6.3. Whren v. United States, 517 U.S. 806 (1996). A traffic stop is reasonable when an officer has probable cause to believe a traffic violation has occurred, regardless of the officer's subjective motivation."
+  },
+  
+  {
+  id: "TCOLE_q2609",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Policing philosophy that promotes and supports organizational strategies to address the causes and reduce the fear of crime and social disorder through problem-solving tactics and community-police partnerships. (2)",
+  options: [
+    { id: "A", text: "\"Closed door\" Policing" },
+    { id: "B", text: "\"Open door\" Policing" },
+    { id: "C", text: "Open Forum Policing" },
+    { id: "D", text: "Community Policing" }
+  ],
+  answer: "D",
+  explain: "Professional Policing 2.6. Community Policing = a philosophy and organizational strategy that promotes community partnerships and problem-solving to address the causes of crime, fear of crime, social disorder, and neighborhood decay."
+  },
+  
+  {
+  id: "TCOLE_q2610",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "The portion of the law which has the purpose of preventing harm to society best defines __________. (7)",
+  options: [
+    { id: "A", text: "Civil Law" },
+    { id: "B", text: "Tort" },
+    { id: "C", text: "Criminal Law" },
+    { id: "D", text: "Correctional System" },
+    { id: "E", text: "Court" }
+  ],
+  answer: "C",
+  explain: "US/Texas Constitution & Criminal Justice System 7.4. Criminal Law: 'law which for the purpose of preventing harm to society, declares what conduct is criminal and prescribes the punishment to be imposed for such conduct.'"
+  },
+  
+  {
+  id: "TCOLE_q2611",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "A common reason for deviating from a drug schedule is __________. (29)",
+  options: [
+    { id: "A", text: "Exterior factors (such as family and friends) telling them not to take them" },
+    { id: "B", text: "Nasty side effects" },
+    { id: "C", text: "Preferred themselves off the drugs" },
+    { id: "D", text: "Perceived ineffectiveness" }
+  ],
+  answer: "D",
+  explain: "Crisis Intervention Training 29.14-29.15. Common reasons for medication non-compliance include perceived ineffectiveness, unpleasant side effects, cost, and believing medication is no longer needed. Of the choices provided, perceived ineffectiveness is the curriculum-supported answer."
+  },
+  
+  {
+  id: "TCOLE_q2612",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "There are ______ Principles of Procedural Justice. (1)",
+  options: [
+    { id: "A", text: "2" },
+    { id: "B", text: "6" },
+    { id: "C", text: "4" },
+    { id: "D", text: "8" }
+  ],
+  answer: "C",
+  explain: "Professionalism & Ethics. The four principles (pillars) of Procedural Justice are Fairness and Consistency, Voice, Transparency, and Impartiality."
+  },
+
+  {
+  id: "TCOLE_q2613",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "The county courts shall have ________ in criminal cases of which justice courts and other inferior courts have original jurisdiction. (14)",
+  options: [
+    { id: "A", text: "Exclusive original jurisdiction" },
+    { id: "B", text: "Appellate Jurisdiction" },
+    { id: "C", text: "Criminal jurisdiction" },
+    { id: "D", text: "Review jurisdiction" }
+  ],
+  answer: "B",
+  explain: "CCP Art. 4.08. County courts have appellate jurisdiction in criminal cases of which justice courts and other inferior courts have original jurisdiction."
+  },
+
+  {
+  id: "TCOLE_q2614",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "A person removes a $450 price tag from a retail item, replaces it with a $200 price tag and pays the lower price. According to the Penal Code, the person has committed the offense of __________. (8)",
+  options: [
+    { id: "A", text: "Fraudulent destruction, removal, or concealment of writing" },
+    { id: "B", text: "Misapplication of fiduciary property" },
+    { id: "C", text: "False statement to obtain property or credit" },
+    { id: "D", text: "Securing execution of document by deception" }
+  ],
+  answer: "A",
+  explain: "PC §32.47. Fraudulent Destruction, Removal, or Concealment of Writing. A price tag is a writing, and altering or substituting it with intent to defraud is the classic example of this offense."
+  },
+  
+  {
+  id: "TCOLE_q2615",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Which of the following best fits the definition? ___________ is a hearing status of such severity that an individual must depend on visual methods to communicate. (38)",
+  options: [
+    { id: "A", text: "Hard of hearing" },
+    { id: "B", text: "Deaf" },
+    { id: "C", text: "Hearing impaired" },
+    { id: "D", text: "All of the above" }
+  ],
+  answer: "B",
+  explain: "Texas Human Resources Code §81.001. Deaf = a hearing status of such severity that an individual must depend on visual methods to communicate."
+  },
+  
+  {
+  id: "TCOLE_q2616",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "When an officer makes an arrest, he may make a __________ of a person for __________. (10)",
+  options: [
+    { id: "A", text: "Weapons search / safety" },
+    { id: "B", text: "Full search / anything" },
+    { id: "C", text: "Inventory survey / evidence" },
+    { id: "D", text: "Pat down / elements of an offense" }
+  ],
+  answer: "B",
+  explain: "Search Incident to Arrest. Upon a lawful custodial arrest, an officer may conduct a full search of the arrestee's person and the area within the arrestee's immediate control for weapons, evidence, and contraband. CCP Chapter 14; Chimel v. California; United States v. Robinson."
+  },
+  
+  {
+  id: "TCOLE_q2617",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "An accomplished thief not only completes the crime but successfully disposes of the property. The weakness of property crime is __________. (32)",
+  options: [
+    { id: "A", text: "Disposal of the stolen property" },
+    { id: "B", text: "Fencing in the stolen property" },
+    { id: "C", text: "Security around the object" },
+    { id: "D", text: "Destruction of the stolen property" }
+  ],
+  answer: "A",
+  explain: "Criminal Investigations 32.7(F). 'An accomplished thief not only completes the crime but successfully disposes of the property. The Achilles' Heel (weakness) of property crime is the disposal of the stolen property.'"
+  },
+  
+  {
+  id: "TCOLE_q2618",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "A vehicle passing another vehicle to the left shall return to an authorized lane before coming within __________ feet of approaching vehicles. (22)",
+  options: [
+    { id: "A", text: "50" },
+    { id: "B", text: "100" },
+    { id: "C", text: "150" },
+    { id: "D", text: "200" },
+    { id: "E", text: "250" }
+  ],
+  answer: "D",
+  explain: "TC §545.054(b)(1). An operator passing to the left shall return to an authorized lane before coming within 200 feet of an approaching vehicle when a lane for opposing traffic is used in passing."
+  },
+  
+  {
+  id: "TCOLE_q2618",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "A vehicle passing another vehicle to the left shall return to an authorized lane before coming within __________ feet of approaching vehicles. (22)",
+  options: [
+    { id: "A", text: "50" },
+    { id: "B", text: "100" },
+    { id: "C", text: "150" },
+    { id: "D", text: "200" },
+    { id: "E", text: "250" }
+  ],
+  answer: "D",
+  explain: "TC §545.054(b)(1). An operator passing to the left shall return to an authorized lane before coming within 200 feet of an approaching vehicle when a lane for opposing traffic is used in passing."
+  },
+  
+  {
+  id: "TCOLE_q2619",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "According to Sec. 218.3 Legislatively Required Continuing Education for Licensees, the legislatively required continuing education program for individuals licensed as peace officers shall consist of __________ hours of training. (4)",
+  options: [
+    { id: "A", text: "20" },
+    { id: "B", text: "40" },
+    { id: "C", text: "60" },
+    { id: "D", text: "80" }
+  ],
+  answer: "B",
+  explain: "TCOLE Rule §218.3. Legislatively Required Continuing Education. The instructor note identifies the 40-hour requirement for each 24-month training unit."
+  },
+  
+  {
+  id: "TCOLE_q2620",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "The method of service that is always allowed on Sunday is __________. (14)",
+  options: [
+    { id: "A", text: "Third person to the defendant" },
+    { id: "B", text: "By mail" },
+    { id: "C", text: "By alternate service" },
+    { id: "D", text: "Publication" },
+    { id: "E", text: "No method of service is ever allowed on Sunday" }
+  ],
+  answer: "D",
+  explain: "TRCP Rule 6. Service of citation by publication is valid on Sunday. Personal service is generally restricted on Sunday except for specific statutory exceptions."
+  },
+  
+  {
+  id: "TCOLE_q2621",
+  type: "true-false",
+  points: 1,
+  prompt: "The acronym 'CYMBAL' is not used for describing cars in detail. (36)",
+  options: [
+    { id: "T", text: "True" },
+    { id: "F", text: "False" }
+  ],
+  answer: "F",
+  explain: "Radio Communications 36.3. CYMBALS is used for vehicle descriptions: Color, Year, Make/Model, Body Style, Additional Information, License Plate, and State."
+  }
+ 
 ];
 
 
