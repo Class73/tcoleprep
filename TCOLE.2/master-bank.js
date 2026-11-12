@@ -2747,8 +2747,8 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 	{ id: "C", text: "Capias" },
 	{ id: "D", text: "Arrest Warrant" }
 	],
-	answer: "C",
-	explain: "A capias commands an officer to arrest a person and bring them before the court."
+	answer: "D",
+	explain: "CCP 15.01 - Arrest Warrant = Start the case. Capias = Come back to court. Attachment is a Civil process. Commitment is Order committing a person to jail or custody"
 },
 
 {
@@ -18673,7 +18673,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q1385",
-  prompt: "An order from the court directing the person responsible for holding an individual in jail or prison to bring that person before the court and show why he or she is being held in custody is called a:",
+  prompt: "According to CCP Art. 11.01 and Article 1, Section 12 of the Texas Constitution, what writ orders the person holding an individual in custody to bring that person before a court and justify the legal reason for the detention?",
   options: [
     { id: "A", text: "Writ of attainder" },
     { id: "B", text: "Writ of commitment" },
@@ -23037,14 +23037,14 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q1719",
-  prompt: "A peace officer may arrest, without warrant, persons found in ________________ and under circumstances which reasonably show that such persons have been guilty of some felony, breach of the peace, or certain offenses, or threaten or are about to commit an offense.",
+  prompt: "Under CCP Art. 14.03(a)(1), what term describes a location where a peace officer may make a warrantless arrest when circumstances reasonably indicate a person has committed, is committing, or is about to commit a felony, breach of the peace, or certain offenses?",
   options: [
     { id: "A", text: "The daylight" },
-    { id: "B", text: "Suspicious places" },
+    { id: "B", text: "Homeless shelters" },
     { id: "C", text: "Abandoned buildings" },
-    { id: "D", text: "Homeless shelters" }
+    { id: "D", text: "Suspicious places" }
   ],
-  answer: "B",
+  answer: "D",
   explain: "CCP 14.03(a)(1); Arrest, Search, and Seizure Section 10.4, page 4 of 11"
 },
 
@@ -23143,7 +23143,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q1727",
-  prompt: "A peace officer may arrest, without warrant, persons found in ________________ and under circumstances which reasonably show that such persons have been guilty of some felony, breach of the peace, or certain offenses, or threaten or are about to commit an offense.",
+  prompt: "Under CCP Art. 14.03(a)(1), a peace officer may arrest a person without a warrant if the person is found in what type of location and under circumstances that reasonably show the person has committed, is committing, or is about to commit certain offenses?",
   options: [
     { id: "A", text: "The daylight" },
     { id: "B", text: "Suspicious places" },
@@ -25484,7 +25484,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { "id": "C", "text": "Theft of Service" },
     { "id": "D", "text": "Criminal Mischief" }
   ],
-  "answer": ["A"],
+  "answer": "A",
   "explain": "The offense is Theft because the suspect unlawfully appropriated property without the owner's effective consent. Robbery requires bodily injury or threats of imminent bodily injury or death."
 },
 
@@ -31405,7 +31405,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
 
 {
   id: "TCOLE_q2354",
-  prompt: "According to the Code of Criminal Procedure, what is a writ issued by a court directing any peace officer in the state to arrest a person accused of an offense and bring him before that court immediately called?",
+  prompt: "According to CCP Art. 23.01, what writ is issued by a court or clerk and directed to a peace officer, commanding the officer to arrest a person accused of an offense and bring that person before the court immediately?",
   options: [
     { id: "A", text: "Attachment" },
     { id: "B", text: "Commitment" },
@@ -31413,7 +31413,7 @@ explain: "Post mortem lividity generally becomes observable approximately two ho
     { id: "D", text: "Arrest Warrant" }
   ],
   answer: "C",
-  explain: "CCP Art. 23.01. A capias is a writ issued by a court directing a peace officer to arrest a person and bring that person before the court."
+  explain: "A capias is a court order directing a peace officer to arrest a person accused of an offense and bring them before the court immediately. Court says go get them and bring them back."
 },
 
 {
@@ -35285,8 +35285,519 @@ explain: "Officers are encouraged to maintain a broad support network rather tha
   ],
   answer: "F",
   explain: "Radio Communications 36.3. CYMBALS is used for vehicle descriptions: Color, Year, Make/Model, Body Style, Additional Information, License Plate, and State."
+  },
+  
+  {
+  id: "TCOLE_q2622",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "According to the Code of Criminal Procedure, a written statement filed and presented on behalf of the State of Texas by a district or county attorney charging a person with an offense is called a/an __________. (10)",
+  options: [
+    { id: "A", text: "Indictment" },
+    { id: "B", text: "Information" },
+    { id: "C", text: "Complaint" },
+    { id: "D", text: "Attachment" }
+  ],
+  answer: "B",
+  explain: "CCP Art. 21.20 defines an Information as a written statement filed and presented on behalf of the State by the district or county attorney charging the defendant with an offense. An indictment is issued by a grand jury under CCP Art. 21.01."
+  },
+
+  {
+  id: "TCOLE_q2623",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "What is the purpose of a Writ of Habeas Corpus? (7)",
+  options: [
+    { id: "A", text: "To find out what a person who has been arrested is being charged with" },
+    { id: "B", text: "To gain the release of a person who has been arrested" },
+    { id: "C", text: "To set bail on a person who has been arrested" },
+    { id: "D", text: "To determine what evidence will be used against a defendant at trial" },
+    { id: "E", text: "To test the legality of the detention of a person who has been arrested" }
+  ],
+  answer: "E",
+  explain: "CCP Art. 11.01 states that the writ of habeas corpus is the remedy used when a person is restrained in their liberty. Its purpose is to challenge and test the legality of a person's detention or restraint, not to determine charges, set bail, or review evidence."
+  },
+
+  {
+  id: "TCOLE_q2624",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "What is the purpose of a Writ of Habeas Corpus? (7)",
+  options: [
+    { id: "A", text: "To find out what a person who has been arrested is being charged with" },
+    { id: "B", text: "To gain the release of a person who has been arrested" },
+    { id: "C", text: "To set bail on a person who has been arrested" },
+    { id: "D", text: "To determine what evidence will be used against a defendant at trial" },
+    { id: "E", text: "To test the legality of the detention of a person who has been arrested" }
+  ],
+  answer: "E",
+  explain: "A writ of habeas corpus is the legal remedy used when a person is restrained of their liberty. Its purpose is to challenge or test the legality of a person's detention or confinement. It is not used to learn the charge, set bail, or determine trial evidence."
+  },
+  
+  {
+  id: "TCOLE_q2625",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Peter has been terminated from the Post Office. In anger, he calls and states that there is a letter bomb in the mail. This causes evacuation of the Post Office and the alert of the fire department and bomb squad. What offense has been committed? (8)",
+  options: [
+    { id: "A", text: "Terroristic Threat" },
+    { id: "B", text: "False Alarm or Report" },
+    { id: "C", text: "Disorderly Conduct" },
+    { id: "D", text: "Interference with Duties of Public Servants" },
+    { id: "E", text: "Retaliation" }
+  ],
+  answer: "B",
+  explain: "Texas Penal Code §42.06 (False Alarm or Report) applies when a person knowingly communicates a false report of a present, past, or future bombing that would ordinarily cause action by emergency organizations such as police, fire departments, or bomb squads. The false bomb report caused an evacuation and emergency response, making False Alarm or Report the best answer rather than Terroristic Threat."
+  },
+
+  {
+  id: "TCOLE_q2626",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "What is one of the objectives in conducting a crime scene search? (32)",
+  options: [
+    { id: "A", text: "Determine what crime was committed" },
+    { id: "B", text: "Consider size and type of crime scene" },
+    { id: "C", text: "Evaluate hazards of area" },
+    { id: "D", text: "Evaluate physical characteristics" }
+  ],
+  answer: "A",
+  explain: "A crime scene search is conducted to locate physical evidence or witnesses and help establish that a crime has been committed. TCOLE Chapter 32.28 lists objectives such as establishing a crime occurred, placing a suspect at the scene, eliminating persons through evidence, supporting witness testimony, and determining how, where, when, and why the crime occurred. Evaluating physical characteristics and hazards are listed under potential problems in conducting a search, not objectives."
+  },
+
+  {
+  id: "TCOLE_q2627",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Requesting backup and specialized help, not rushing the situation, and watching body language are all common tips and techniques for __________. (27)",
+  options: [
+    { id: "A", text: "Slowing down the situation" },
+    { id: "B", text: "De-escalating the situation" },
+    { id: "C", text: "Responding to behavioral crisis" },
+    { id: "D", text: "Making a connection with a person in behavioral crisis" }
+  ],
+  answer: "D",
+  explain: "TCOLE Chapter 27.7 specifically states that requesting backup and specialized help, not rushing the situation, communicating effectively, active listening, and watching body language are common tips and techniques for engaging and making a connection with a person in behavioral crisis. These techniques are intended to build rapport and improve communication during a crisis."
+  },
+  
+  {
+  id: "TCOLE_q2628",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Child Safety Check Alert List remains in the TCIC system for __________ months. (19)",
+  options: [
+    { id: "A", text: "6" },
+    { id: "B", text: "12" },
+    { id: "C", text: "24" },
+    { id: "D", text: "48" }
+  ],
+  answer: "B",
+  explain: "The Child Safety Check Alert List remains in the Texas Crime Information Center (TCIC) system for twelve (12) months. This alert is designed to assist law enforcement in locating and verifying the safety and welfare of a child. The 12-month retention period is specifically stated in the TCOLE Missing and Exploited Persons material."
+  },
+  
+  {
+  id: "TCOLE_q2629",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "What are the three strike areas of batons? Select all that apply. (31)",
+  options: [
+    { id: "A", text: "Center mass of arms" },
+    { id: "B", text: "Outer mass of arms" },
+    { id: "C", text: "Center mass of legs" },
+    { id: "D", text: "Abdomen" }
+  ],
+  answer: ["A", "C", "D"],
+  explain: "The three recognized baton strike areas are the center mass of the arms, center mass of the legs, and the abdomen. The outer mass of the arms is not considered a designated strike area. This was a multi-select question, and selecting only A and C while omitting D would result in partial credit."
+  },
+  
+  {
+  id: "TCOLE_q2630",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "A complaint is not required to __________. (10)",
+  options: [
+    { id: "A", text: "Be signed by a magistrate" },
+    { id: "B", text: "Be signed by the affiant" },
+    { id: "C", text: "Allege an offense" },
+    { id: "D", text: "Name the accused" }
+  ],
+  answer: "A",
+  explain: "Under CCP Art. 15.05, a complaint must be made under oath and signed by the affiant, must allege that an offense has been committed, and must state the name of the accused if known (or provide a reasonably definite description if unknown). A magistrate's signature is not one of the required elements of a complaint. Therefore, 'be signed by a magistrate' is the correct answer."
+  },
+  
+  {
+  id: "TCOLE_q2631",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "A person hits a man in the head with his fist, knocking him unconscious, and steals $150 cash from the man. What offense has occurred? (8)",
+  options: [
+    { id: "A", text: "Theft" },
+    { id: "B", text: "Theft from Person" },
+    { id: "C", text: "Robbery" },
+    { id: "D", text: "Aggravated Robbery" },
+    { id: "E", text: "None of the above" }
+  ],
+  answer: "C",
+  explain: "Robbery occurs when, in the course of committing theft, a person intentionally, knowingly, or recklessly causes bodily injury to another person or threatens or places another in fear of imminent bodily injury or death. In this scenario, the suspect used force and caused bodily injury by striking the victim and then took the victim's money. Aggravated robbery generally requires serious bodily injury, use or exhibition of a deadly weapon, or certain protected victims. Unconsciousness alone does not automatically establish serious bodily injury for this offense, making Robbery the best answer."
+  },
+
+  {
+  id:"TCOLE_q2632",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Besides preventive patrol, what is the other type of patrol focused on problem areas? (35)",
+  options: [
+    { id: "A", text: "Problematic Patrol" },
+    { id: "B", text: "Apprehension Patrol" },
+    { id: "C", text: "Responsive Patrol" },
+    { id: "D", text: "Retroactive Patrol" }
+  ],
+  answer: "B",
+  explain: "TCOLE Patrol Skills identifies two types of problem area patrols: Preventive Patrol and Apprehension Patrol. Apprehension Patrol utilizes covert or low-visibility tactics and surveillance techniques to identify and apprehend offenders in problem areas. Responsive and Retroactive Patrol are not recognized TCOLE problem-area patrol types."
+  },
+  
+  {
+  id: "TCOLE_q2633",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Under the Penal Code, what mental state applies when a person's conscious objective or desire is to engage in the conduct or cause the result? (8)",
+  options: [
+    { id: "A", text: "Knowingly" },
+    { id: "B", text: "Intentionally" },
+    { id: "C", text: "With criminal negligence" },
+    { id: "D", text: "Recklessly" }
+  ],
+  answer: "B",
+  explain: "Texas Penal Code §6.03(a) defines 'intentionally' as acting with the conscious objective or desire to engage in the conduct or cause the result. 'Knowingly' requires awareness that conduct is reasonably certain to cause the result, while 'recklessly' and 'criminal negligence' involve lower culpable mental states."
+  },
+  
+  {
+  id: "TCOLE_q2634",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Which present-day identity-crime trend is especially difficult for consumers and law enforcement to keep up with as it continues to evolve? (12)",
+  options: [
+    { id: "A", text: "Altered credit cards" },
+    { id: "B", text: "Elderly victims" },
+    { id: "C", text: "Medical and insurance records" },
+    { id: "D", text: "Technological devices and advances" }
+  ],
+  answer: "D",
+  explain: "TCOLE Chapter 12.5 states that current identity-crime trends involve the use of current technologies. These technological advances create unique challenges for both consumers and law enforcement because criminals continually adapt new methods involving computers, online accounts, email scams, cellular technologies, and other digital resources."
+  },
+  
+  {
+  id: "TCOLE_q2637",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "What offense is committed when a person intentionally or knowingly solicits, requests, commands, or attempts to induce another person to engage in conduct that would constitute a capital felony or a first-degree felony? (8)",
+  options: [
+    { id: "A", text: "Criminal Attempt" },
+    { id: "B", text: "Criminal Conspiracy" },
+    { id: "C", text: "Criminal Solicitation" },
+    { id: "D", text: "Unlawful Solicitation" }
+  ],
+  answer: "C",
+  explain: "Criminal Solicitation occurs when a person, with the intent that a capital felony or first-degree felony be committed, requests, commands, or attempts to induce another person to commit the offense. Criminal Conspiracy requires an agreement between two or more persons, which is not required for Criminal Solicitation."
+  },
+
+  {
+  id: "TCOLE_q2638",
+  type: "true-false",
+  points: 1,
+  prompt: "The ADA requires law enforcement agencies to provide communication aids and services needed for effective communication with people who are deaf or hard of hearing regardless of the burden placed on the agency. (38)",
+  options: [
+    { id: "T", text: "True" },
+    { id: "F", text: "False" }
+  ],
+  answer: "F",
+  explain: "The ADA generally requires law enforcement agencies to provide appropriate communication aids and services for effective communication. However, an exception exists when providing a particular aid or service would create an undue burden or fundamentally alter the nature of the service being provided. Therefore, the statement is false."
+  },
+  
+  {
+  id: "TCOLE_q2639",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "What level of charge applies to a person found possessing 2 grams of crack cocaine? (15)",
+  options: [
+    { id: "A", text: "State Jail Felony" },
+    { id: "B", text: "3rd Degree Felony" },
+    { id: "C", text: "2nd Degree Felony" },
+    { id: "D", text: "Class A Misdemeanor" },
+    { id: "E", text: "1st Degree Felony" }
+  ],
+  answer: "B",
+  explain: "Crack cocaine is a Penalty Group 1 controlled substance. Under Health & Safety Code §481.115(c), possession of 1 gram or more but less than 4 grams of a Penalty Group 1 substance is a Third Degree Felony. Because 2 grams falls within that range, the correct charge is a 3rd Degree Felony."
+  },
+
+  {
+  id: "TCOLE_q2640",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Which offense is associated with the concepts of 'sudden passion' and 'adequate cause'? (8)",
+  options: [
+    { id: "A", text: "Manslaughter" },
+    { id: "B", text: "Capital Murder" },
+    { id: "C", text: "Criminally Negligent Homicide" },
+    { id: "D", text: "Murder" },
+    { id: "E", text: "Criminally Negligent Homicide" }
+  ],
+  answer: "D",
+  explain: "Under Texas Penal Code §19.02(d), sudden passion arising from an adequate cause is a punishment issue that applies to Murder cases. If the defendant proves by a preponderance of the evidence that the death was caused under the immediate influence of sudden passion arising from an adequate cause, the offense remains Murder, but the punishment is reduced from a first-degree felony to a second-degree felony. Sudden passion is not an element of Manslaughter, which is defined by recklessly causing the death of another person."
+  },
+  
+  {
+  id: "TCOLE_q2641",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "How long may a search warrant be executed, excluding the day of issuance and the day of execution, for warrants other than DNA warrants and warrants under CCP Art. 18B.354? (10)",
+  options: [
+    { id: "A", text: "3 whole days" },
+    { id: "B", text: "5 days" },
+    { id: "C", text: "15 whole days" },
+    { id: "D", text: "10 whole days" }
+  ],
+  answer: "A",
+  explain: "CCP Art. 18.06(a) provides that a search warrant must be executed within three whole days, exclusive of the day of issuance and the day of execution, unless a statute authorizes a longer period for a specific type of warrant. Therefore, the standard execution period is three days."
+  },
+  
+  {
+  id: "TCOLE_q2642",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "A man is told he is under arrest on an outstanding traffic warrant. As the officer attempts to handcuff him, he runs away stating that he is not going to jail. What offense has occurred? (8)",
+  options: [
+    { id: "A", text: "Retaliation" },
+    { id: "B", text: "Obstruction" },
+    { id: "C", text: "Resisting Arrest, Search, or Transport" },
+    { id: "D", text: "Evading Arrest or Detention" },
+    { id: "E", text: "None of the Above" }
+  ],
+  answer: "D",
+  explain: "Evading Arrest or Detention occurs when a person intentionally flees from a person they know is a peace officer lawfully attempting to arrest or detain them. Simply running away constitutes evading. Resisting Arrest, Search, or Transport requires the use of force against the officer to prevent or obstruct the arrest, search, or transportation. Since the suspect fled rather than using force, the correct offense is Evading Arrest or Detention."
+  },
+  
+  {
+  id: "TCOLE_q2643",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "What is the term for a manual, electric, or mechanical device that alternately directs traffic to stop and to proceed? (22)",
+  options: [
+    { id: "A", text: "Official Traffic-Control Device" },
+    { id: "B", text: "Railroad Sign-Control Device" },
+    { id: "C", text: "Traffic Sign-Control Signal" },
+    { id: "D", text: "Traffic-Control Signal" }
+  ],
+  answer: "D",
+  explain: "Transportation Code §541.304(3) defines a Traffic-Control Signal as a manual, electrical, or mechanical device by which traffic is alternately directed to stop and proceed. An Official Traffic-Control Device is a broader category that includes signs, signals, markings, and devices placed by authority to regulate, warn, or guide traffic."
+  },
+  
+  {
+  id: "TCOLE_q2644",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "What is the essential difference between traditional suspect-encounter training and how officers should approach a person with mental illness? (29)",
+  options: [
+    { id: "A", text: "Use a non-confrontational approach" },
+    { id: "B", text: "Use a highly confrontational approach" },
+    { id: "C", text: "Use an aggressive approach" },
+    { id: "D", text: "There are no differences between approaching a typical person and a mentally ill person" }
+  ],
+  answer: "A",
+  explain: "When encountering a person experiencing mental illness or behavioral crisis, officers should slow the situation down, use patience, communicate effectively, and rely on verbal de-escalation techniques rather than immediately attempting control through confrontation. The goal is to stabilize the situation and achieve voluntary compliance whenever possible. A non-confrontational approach increases safety for everyone involved."
+  },
+  
+  {
+  id: "TCOLE_q2645",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "An arrested person states that they are a citizen of Japan. Which statement on the Consular Notification card should be read to them? (13)",
+  options: [
+    { id: "A", text: "Statement #1" },
+    { id: "B", text: "Statement #2" }
+  ],
+  answer: "A",
+  explain: "TCOLE Chapter 13 uses the example of a Japanese citizen (John Sato) and directs officers to read Statement #1 from the Consular Notification and Access pocket card. This exact scenario appears in the BPOC material. Therefore, Statement #1 is the correct answer." 
+  },
+  
+  {
+  id: "TCOLE_q2646",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "At what age must agencies report missing children to the National Crime Information Center (NCIC)? (18)",
+  options: [
+    { id: "A", text: "14" },
+    { id: "B", text: "18" },
+    { id: "C", text: "21" },
+    { id: "D", text: "25" }
+  ],
+  answer: "C",
+  explain: "Current federal law and NCIC Missing Person File requirements mandate entry of missing persons under the age of 21 into NCIC. This requirement was expanded by Suzanne's Law, which increased the age threshold from under 18 to under 21. Although some older training materials reference age 18, the current NCIC standard is under 21 years of age."
+  },
+  
+  {
+  id: "TCOLE_q2647",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "What should an officer do when making a vehicle stop and in doubt about the situation? (35)",
+  options: [
+    { id: "A", text: "Get out of their patrol vehicle" },
+    { id: "B", text: "Run to the nearest cover" },
+    { id: "C", text: "Get out their weapon" },
+    { id: "D", text: "Ask the dispatch center if the situation is safe" }
+  ],
+  answer: "A",
+  explain: "The best answer is to get out of the patrol vehicle. Patrol Skills emphasizes officer safety, maintaining tactical advantage, using cover, and avoiding complacency. Remaining seated in the patrol vehicle can leave an officer vulnerable and limit tactical options. Drawing a weapon without a specific threat unnecessarily escalates the encounter, running to cover is a response to an identified threat rather than uncertainty alone, and dispatch cannot determine whether a scene is tactically safe. Among the options provided, exiting the patrol vehicle is the most tactically sound choice."
+  },
+  
+  {
+  id: "TCOLE_q2648",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "What is the primary goal of Crisis Intervention Training (CIT)? (29)",
+  options: [
+    { id: "A", text: "De-escalation" },
+    { id: "B", text: "Temporary detainment" },
+    { id: "C", text: "A physical arrest" },
+    { id: "D", text: "None of the above" }
+  ],
+  answer: "D",
+  explain: "The primary goal of Crisis Intervention Training is to calm persons experiencing mental illness or crisis situations and connect them with appropriate mental health services rather than unnecessarily incarcerating them. While de-escalation is a critical tool used by officers, it is not the ultimate goal itself. Temporary detention and physical arrest are not CIT objectives. Therefore, 'None of the above' is the best answer because none of the listed options accurately state the primary goal of CIT."
+  },
+  
+  {
+  id: "TCOLE_q2649",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "How long does a marriage license remain valid after it is issued? (Family Code)",
+  options: [
+    { id: "A", text: "30 days" },
+    { id: "B", text: "7 days" },
+    { id: "C", text: "60 days" },
+    { id: "D", text: "90 days" }
+  ],
+  answer: "D",
+  explain: "Under Texas Family Code §2.201, a marriage license expires if the marriage ceremony has not been conducted before the 90th day after the date the license is issued. A common point of confusion is the separate 72-hour waiting period under Family Code §2.204, which governs when a ceremony may occur after issuance, not how long the license remains valid."
+  },
+  
+  {
+  id: "TCOLE_q2650",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "What offense class applies when a person uses public funds or other government property for personal benefit? (8)",
+  options: [
+    { id: "A", text: "A Misdemeanor" },
+    { id: "B", text: "A Third Degree Felony" },
+    { id: "C", text: "A Class B Misdemeanor" },
+    { id: "D", text: "A State Jail Felony" }
+  ],
+  answer: "A",
+  explain: "The conduct described is Abuse of Official Capacity under Texas Penal Code §39.02, which involves the misuse of government property, services, personnel, or other things of value. However, the punishment for Abuse of Official Capacity depends on the value of the property or benefit misused. Because no dollar amount is provided, a specific felony classification cannot be determined. Among the available answer choices, 'A Misdemeanor' is the best-supported answer because lower-value violations are punished at the misdemeanor level, while felony punishment requires specified value thresholds."
+  },
+  
+  {
+  id: "TCOLE_q2651",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Which proceeding is a justice of the peace NOT permitted to conduct? (7)",
+  options: [
+    { id: "A", text: "A jury trial" },
+    { id: "B", text: "A small claims court trial" },
+    { id: "C", text: "A city ordinance trial" },
+    { id: "D", text: "A criminal trial" },
+    { id: "E", text: "A parole revocation hearing" }
+  ],
+  answer: "C",
+  explain: "Justice courts have jurisdiction over Class C misdemeanor criminal cases and civil matters such as small claims cases. Justices of the peace may conduct jury trials and criminal trials within their jurisdiction. Municipal courts have exclusive original jurisdiction over most city ordinance violations, so a city ordinance trial is not a proceeding normally conducted by a justice of the peace. This is the classic jurisdiction question tested in TCOLE materials."
+  },
+  
+  {
+  id: "TCOLE_q2652",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Leaving a child younger than 15 years of age alone for five hours with no supervision, when no emergency exists, constitutes what offense? (8)",
+  options: [
+    { id: "A", text: "Injury to a Child" },
+    { id: "B", text: "Child Endangerment" },
+    { id: "C", text: "Family Violence" },
+    { id: "D", text: "Abandoning a Child" }
+  ],
+  answer: "D",
+  explain: "Texas Penal Code §22.041 (Abandoning or Endangering a Child) applies when a person having custody, care, or control of a child younger than 15 intentionally abandons the child under circumstances that expose the child to an unreasonable risk of harm. TCOLE Chapter 8 Scenario #6 specifically addresses leaving a young child alone at home and discusses the offense under §22.041. Injury to a Child requires actual injury, while Child Endangerment requires facts showing imminent danger of death, bodily injury, or impairment."
+  },
+  
+  {
+  id: "TCOLE_q2653",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "What is the correct method for placing warning devices when a vehicle carrying explosives is disabled on the highway? (22)",
+  options: [
+    {
+      id: "A",
+      text: "During daytime in clear weather, one red flag placed 100 feet to the rear and one red flag placed 100 feet in advance of the vehicle"
+    },
+    {
+      id: "B",
+      text: "A lighted flare placed approximately 100 feet from the disabled vehicle in the center of the lane occupied by the vehicle and toward approaching traffic"
+    },
+    {
+      id: "C",
+      text: "A portable emergency reflector placed 100 feet in the opposite direction from the disabled vehicle"
+    },
+    {
+      id: "D",
+      text: "A red reflector placed on the traffic side of the disabled vehicle not less than 10 feet to the rear and in the direction of approaching traffic"
+    }
+  ],
+  answer: "D",
+  explain: "Transportation Code §547.504 requires a disabled vehicle transporting explosives to immediately place a lighted red electric lantern or portable red emergency reflector on the traffic side of the vehicle in the direction of approaching traffic. Additional warning devices are later placed approximately 100 feet in each direction. A lighted flare is specifically prohibited because of the explosive cargo. Therefore, the best answer is the red reflector placed on the traffic side of the disabled vehicle."
+  },
+  
+  {
+  id: "TCOLE_q2654",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "What is the deadline for a peace officer to place seized property under seal, remove it to a location ordered by the court, or place it in the custody of a law enforcement agency after seizure? (11)",
+  options: [
+    { id: "A", text: "72 hours" },
+    { id: "B", text: "24 hours" },
+    { id: "C", text: "36 hours" },
+    { id: "D", text: "48 hours" }
+  ],
+  answer: "A",
+  explain: "Asset forfeiture procedures require that no later than 72 hours after seizure, the property must be placed under seal, removed to a place ordered by the court, or placed in the custody of a law enforcement agency for safekeeping. The commonly tested TCOLE time requirement is 72 hours. Although the question references CCP Art. 18.16, the 72-hour deadline comes from post-seizure forfeiture procedures covered in the Asset Forfeiture unit."
+  },
+  
+  {
+  id: "TCOLE_q2655",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "Which item is NOT considered a piece of required vehicle safety equipment? (22)",
+  options: [
+    { id: "A", text: "Tinting" },
+    { id: "B", text: "A seat belt" },
+    { id: "C", text: "A windshield" },
+    { id: "D", text: "A windshield wiper" }
+  ],
+  answer: "C",
+  explain: "Transportation Code Chapter 547 specifically requires safety equipment such as safety belts and windshield wipers. Texas law also regulates window tinting through sun-screening device provisions. However, a windshield itself is not universally required equipment on every vehicle. For example, some vehicles may legally operate without a windshield if they otherwise comply with applicable equipment requirements. Therefore, the best answer is a windshield."
+  },
+  
+  {
+  id: "TCOLE_q2656",
+  type: "multiple-choice",
+  points: 1,
+  prompt: "What court document contains a victim's impact statement? (20)",
+  options: [
+    { id: "A", text: "Reader" },
+    { id: "B", text: "Report" },
+    { id: "C", text: "Victim Impact Statement" },
+    { id: "D", text: "Braille" }
+  ],
+  answer: "B",
+  explain: "A victim's impact statement is typically included within a Presentence Investigation Report (PSI Report) prepared for the court. The question asks what document contains the victim's impact statement, not what the statement itself is called. Therefore, 'Report' is the best answer. 'Victim Impact Statement' is the content contained within the report, not the court document that contains it."
   }
- 
+
 ];
 
 
