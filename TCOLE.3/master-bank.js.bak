@@ -1,0 +1,1384 @@
+window.masterBank = [
+
+	// === TCOLE Crisis Intervention & Tactical De-escalation Question Bank ===
+	{
+		id: "TCOLE_deesc_q1",
+		subject: "Definitions & CIT / De-escalation",
+		type: "multiple-choice",
+		points: 1,
+		prompt: "When evaluating officer response options under Department of Justice guidelines, how is the technique of **strategically slowing down** or choosing to **slow the situation down** correctly defined?",
+		options: [
+		  { id: "A", text: "As the primary enforcement goal designed to achieve immediate compliance" },
+		  { id: "B", text: "As an absolute legal alternative to using physical force in any active resistance scenario" },
+		  { id: "C", text: "As a technique and approach involving the strategic slowing down of an incident to provide more time, distance, space, and tactical flexibility" },
+		  { id: "D", text: "As a mandatory tactical protocol used exclusively during high-risk warrant service" }
+		],
+		answer: "C",
+		explain: "De-escalation is defined by the DOJ as 'strategically slowing down' an incident. It is a technique and approach, not a goal in itself."
+	},
+
+	{
+		id: "TCOLE_deesc_q2",
+		subject: "Definitions & CIT / De-escalation",
+		type: "multiple-choice",
+		points: 1,
+		prompt: "Per IRG Chapter 27, §27.16, when officers encounter a scenario with **no immediate threat** and decide to **slow down** in order to **use time to advantage**, what specific tactic are they employing?",
+		options: [
+		  { id: "A", text: "Dynamic entry" },
+		  { id: "B", text: "Perimeter lockdown" },
+		  { id: "C", text: "Tactical disengagement" },
+		  { id: "D", text: "Tactical pause" }
+		],
+		answer: "D",
+		explain: "According to IRG Ch. 27, §27.16, a tactical pause is utilized when there is 'no immediate threat, to use time to tactical advantage.'"
+	},
+
+	{
+		id: "TCOLE_deesc_q3",
+		subject: "Definitions & CIT / De-escalation",
+		type: "multiple-choice",
+		points: 1,
+		prompt: "According to the verbatim operational formula outlined in IRG Chapter 27, §27.16 (**Distance + Cover = ___**), what happens to an officer's choices when establishing distance and cover for **buying time**?",
+		options: [
+		  { id: "A", text: "Options multiply" },
+		  { id: "B", text: "Options quickly dwindle due to restricted movement" },
+		  { id: "C", text: "Options remain completely static and unchanged" },
+		  { id: "D", text: "Options shift solely to lethal force alternatives" }
+		],
+		answer: "A",
+		explain: "Per IRG Ch. 27, §27.16 verbatim: 'When officers are in close quarters with a potential threat and they feel pressed for time, options quickly dwindle. But when officers have distance, cover, and time, their options multiply.'"
+	},
+
+	{
+		id: "TCOLE_deesc_q4",
+		subject: "Definitions & CIT / De-escalation",
+		type: "multiple-choice",
+		points: 1,
+		prompt: "Under IRG Chapter 27, §27.16 guidelines, what action is an officer taking when they **maintain position** to preserve a **position of advantage** and a **safety zone**?",
+		options: [
+		  { id: "A", text: "Strategic withdrawal" },
+		  { id: "B", text: "Tactical repositioning" },
+		  { id: "C", text: "Tactical pause" },
+		  { id: "D", text: "Tactical disengagement" }
+		],
+		answer: "B",
+		explain: "Per IRG Ch. 27, §27.16, tactical repositioning involves maintaining a 'position of advantage and a safety zone' (such as the 6.5-foot reactionary gap) to gain cover and improve sight lines."
+	},
+
+	{
+		id: "TCOLE_deesc_q5",
+		subject: "Definitions & CIT / De-escalation",
+		type: "multiple-choice",
+		points: 1,
+		prompt: "When an officer makes the tactical choice to **leave**, **delay contact / custody**, **come back later**, or **release control** of the immediate situation, what procedure is being executed?",
+		options: [
+		  { id: "A", text: "Exigent entry" },
+		  { id: "B", text: "Tactical repositioning" },
+		  { id: "C", text: "Tactical disengagement" },
+		  { id: "D", text: "Tactical pause" }
+		],
+		answer: "C",
+		explain: "Tactical disengagement involves the tactical decision to leave, delay contact, delay custody, or plan to make contact at a different time—releasing control of the immediate situation (derived from general TCOLE / ICAT teaching)."
+	},
+
+	{
+		id: "TCOLE_deesc_q6",
+		subject: "Definitions & CIT / De-escalation",
+		type: "multiple-choice",
+		points: 1,
+		prompt: "According to IRG Chapter 29, §29.3, what is the core **goal of crisis intervention / CIT** (keeping in mind that if **de-escalation** is an option, it represents the technique rather than this ultimate objective)?",
+		options: [
+		  { id: "A", text: "Calming persons with mental illness who are in crisis and referring them to mental health care services, rather than incarcerating them" },
+		  { id: "B", text: "Providing an exclusive tactical framework for active shooter mitigation" },
+		  { id: "C", text: "Maximizing custodial arrests for individuals experiencing emotional distress" },
+		  { id: "D", text: "Enforcing mandatory minimum detention periods for psychiatric calls" }
+		],
+		answer: "A",
+		explain: "Per IRG Ch. 29, §29.3, the primary goal of CIT involves calming persons with mental illness who are in crisis and referring them to mental health care services, rather than incarcerating them (alongside lessening injuries, decriminalization, and reducing stigma)."
+	},
+
+	{
+		id: "TCOLE_deesc_q7",
+		subject: "Definitions & CIT / De-escalation",
+		type: "multiple-choice",
+		points: 1,
+		prompt: "When an instructor asks about the DOJ definition of a technique—not a final goal—focused on **strategically slowing down** or choosing to **slow the situation down**, which concept is being referenced?",
+		options: [
+		  { id: "A", text: "Tactical pause" },
+		  { id: "B", text: "Dynamic containment" },
+		  { id: "C", text: "Tactical disengagement" },
+		  { id: "D", text: "De-escalation" }
+		],
+		answer: "D",
+		explain: "De-escalation is defined by the DOJ as the strategic slowing down of an incident to provide officers with more time, distance, space, and tactical flexibility. It is an approach and technique, not a final goal."
+	},
+
+	{
+		id: "TCOLE_deesc_q8",
+		subject: "Definitions & CIT / De-escalation",
+		type: "multiple-choice",
+		points: 1,
+		prompt: "According to IRG Chapter 27, §27.16, what specific measure should an officer take when there is **no immediate threat** in order to **use time to advantage** and **slow down** the encounter?",
+		options: [
+		  { id: "A", text: "Perform a high-risk dynamic entry" },
+		  { id: "B", text: "Execute a tactical pause" },
+		  { id: "C", text: "Establish an immediate felony traffic stop" },
+		  { id: "D", text: "Initiate tactical disengagement" }
+		],
+		answer: "B",
+		explain: "Per IRG Ch. 27, §27.16, a tactical pause involves slowing the situation down when there is no immediate threat, allowing officers to use time to their tactical advantage."
+	},
+
+	{
+		id: "TCOLE_deesc_q9",
+		subject: "Definitions & CIT / De-escalation",
+		type: "multiple-choice",
+		points: 1,
+		prompt: "Referring to the exact formula in IRG Chapter 27, §27.16 (**Distance + Cover = ___**), what happens to officer choices when they successfully utilize these elements for **buying time** instead of dealing with close-quarters constraints?",
+		options: [
+		  { id: "A", text: "Their options quickly dwindle" },
+		  { id: "B", text: "Their operational choices are entirely eliminated" },
+		  { id: "C", text: "Their options multiply" },
+		  { id: "D", text: "Their tactical choices remain static" }
+		],
+		answer: "C",
+		explain: "Per IRG Ch. 27, §27.16 verbatim: 'When officers are in close quarters with a potential threat and they feel pressed for time, options quickly dwindle. But when officers have distance, cover, and time, their options multiply.'"
+	},
+
+	{
+		id: "TCOLE_deesc_q10",
+		subject: "Definitions & CIT / De-escalation",
+		type: "multiple-choice",
+		points: 1,
+		prompt: "Under IRG Chapter 27, §27.16, what is an officer doing when they **maintain position** to preserve a **position of advantage** and a **safety zone** while improving sight lines on scene?",
+		options: [
+		  { id: "A", text: "Tactical repositioning" },
+		  { id: "B", text: "Strategic withdrawal" },
+		  { id: "C", text: "Tactical pause" },
+		  { id: "D", text: "Tactical disengagement" }
+		],
+		answer: "A",
+		explain: "Per IRG Ch. 27, §27.16, tactical repositioning involves maintaining a position of advantage and a safety zone (such as the reactionary gap) to gain cover and improve sight lines without leaving the scene."
+	},
+    
+	{
+		id: "TCOLE_deesc_q11",
+		subject: "Definitions & CIT / De-escalation",
+		type: "multiple-choice",
+		points: 1,
+		prompt: "When an incident calls for an officer to **leave**, **delay contact / custody**, **come back later**, or **release control** of the immediate scene, which tactic is being applied?",
+		options: [
+		  { id: "A", text: "Exigent entry" },
+		  { id: "B", text: "Tactical pause" },
+		  { id: "C", text: "Tactical repositioning" },
+		  { id: "D", text: "Tactical disengagement" }
+		],
+		answer: "D",
+		explain: "Tactical disengagement involves the tactical decision to leave, delay contact, delay custody, or plan to make contact at a different time and under different circumstances, releasing control of the immediate situation."
+	},
+
+	{
+		id: "TCOLE_deesc_q12",
+		subject: "Definitions & CIT / De-escalation",
+		type: "multiple-choice",
+		points: 1,
+		prompt: "According to IRG Chapter 29, §29.3, what defines the core **goal of crisis intervention / CIT**, distinguishing it from techniques like **de-escalation**?",
+		options: [
+		  { id: "A", text: "Establishing a perimeter framework for barricaded gunman scenarios" },
+		  { id: "B", text: "Enforcing mandatory minimum holds on all non-compliant suspects" },
+		  { id: "C", text: "Calming persons with mental illness who are in crisis and referring them to mental health care services, rather than incarcerating them" },
+		  { id: "D", text: "Expediting custodial arrests for individuals showing psychiatric symptoms" }
+		],
+		answer: "C",
+		explain: "Per IRG Ch. 29, §29.3, the primary goal of CIT involves calming persons with mental illness who are in crisis and referring them to mental health care services, rather than incarcerating them (alongside lessening injuries, decriminalization, and reducing stigma)."
+	},
+	// === TCOLE Case Law from the BPOC Question Bank ===
+	{
+		id: "TCOLE_case_q13",
+		subject: "Case Law",
+		type: "multiple-choice",
+		points: 1,
+		prompt: "According to Terry v. Ohio (1968), an officer may conduct a temporary investigative detention and frisk based on what legal standard?",
+		options: [
+		  { id: "A", text: "Absolute certainty" },
+		  { id: "B", text: "Reasonable suspicion" },
+		  { id: "C", text: "Probable cause" },
+		  { id: "D", text: "Mere hunch" }
+		],
+		answer: "B",
+		explain: "Under Terry v. Ohio, an officer is permitted to stop and frisk a subject based on reasonable suspicion supported by specific, articulable facts. [Category: CCP / Case Law]"
+	},
+
+	{
+		id: "TCOLE_case_q15",
+		subject: "Case Law",
+		type: "multiple-choice",
+		points: 1,
+		prompt: "What constitutional requirement is established by Payton v. New York (1980) regarding entering a suspect's home?",
+		options: [
+		  { id: "A", text: "Police can enter any residence without a warrant if they suspect a misdemeanor occurred" },
+		  { id: "B", text: "Police require a search warrant specifically owned by a third party" },
+		  { id: "C", text: "Police must secure written permission from a neighbor before entering" },
+		  { id: "D", text: "Police need an arrest warrant to enter a home to execute a routine felony arrest, absent exigent circumstances" }
+		],
+		answer: "D",
+		explain: "Payton v. New York established that the Fourth Amendment prohibits police from making a warrantless and nonconsensual entry into a suspect's home to make a routine felony arrest. [Category: CCP / Case Law]"
+	},
+
+	{
+		id: "TCOLE_case_q16",
+		subject: "Case Law",
+		type: "multiple-choice",
+		points: 1,
+		prompt: "How does Tennessee v. Garner (1985) restrict an officer's application of deadly force under Texas Penal Code Chapter 9?",
+		options: [
+		  { id: "A", text: "Deadly force is strictly limited to property protection crimes" },
+		  { id: "B", text: "Deadly force requires prior supervisor authorization over the radio" },
+		  { id: "C", text: "Deadly force may not be used on a fleeing felon unless they pose an immediate threat of death or serious bodily injury" },
+		  { id: "D", text: "Deadly force can be used on any fleeing suspect regardless of threat level" }
+		],
+		answer: "C",
+		explain: "Tennessee v. Garner ruled that deadly force cannot be used to prevent the escape of a fleeing felon unless the officer has probable cause to believe the suspect poses a significant threat of death or serious physical injury. [Category: PC Ch. 9 / Case Law]"
+	},
+
+	{
+		id: "TCOLE_case_q17",
+		subject: "Case Law",
+		type: "multiple-choice",
+		points: 1,
+		prompt: "Which case established that a city can be held liable under §1983 for a 'failure to train' its officers when that lack of training reflects deliberate indifference to constitutional rights?",
+		options: [
+		  { id: "A", text: "City of Canton v. Harris" },
+		  { id: "B", text: "Steagald v. United States" },
+		  { id: "C", text: "Harlow v. Fitzgerald" },
+		  { id: "D", text: "Graham v. Connor" }
+		],
+		answer: "A",
+		explain: "City of Canton v. Harris established municipal liability under federal law when a municipality's failure to train amounts to deliberate indifference to the rights of persons with whom police come into contact. [Category: Federal Civil / Case Law]"
+	},
+
+	{
+		id: "TCOLE_case_q18",
+		subject: "Case Law",
+		type: "multiple-choice",
+		points: 1,
+		prompt: "What does the exclusionary rule doctrine of 'Fruit of the Poisonous Tree' dictate regarding evidence gathered after an initial constitutional violation?",
+		options: [
+		  { id: "A", text: "It becomes public record after 30 days" },
+		  { id: "B", text: "It is tainted and generally inadmissible in court unless an exception applies" },
+		  { id: "C", text: "It is automatically admissible if found by a different officer" },
+		  { id: "D", text: "It can be used exclusively in civil court proceedings" }
+		],
+		answer: "B",
+		explain: "The Fruit of the Poisonous Tree doctrine extends the exclusionary rule, making secondary evidence derived from an initial illegal search or seizure inadmissible at trial. [Category: CCP Ch. 38 / Case Law]"
+	},
+
+	{
+		id: "TCOLE_case_q20",
+		subject: "Case Law",
+		type: "multiple-choice",
+		points: 1,
+		prompt: "Under Illinois v. Gates (1983), how must courts and officers evaluate the existence of probable cause?",
+		options: [
+		  { id: "A", text: "Based on the totality of the circumstances rather than a rigid formula" },
+		  { id: "B", text: "Strictly through direct eyewitness testimony from a sworn officer" },
+		  { id: "C", text: "Exclusively by verifying the physical address of the suspect" },
+		  { id: "D", text: "Using a rigid, two-part Aguilar-Spinelli test based strictly on informant reliability" }
+		],
+		answer: "A",
+		explain: "Illinois v. Gates replaced rigid multi-part tests with the 'totality of the circumstances' approach for determining probable cause based on all combined facts and inferences. [Category: CCP / Case Law]"
+	},
+
+	{
+		id: "TCOLE_case_q21",
+		subject: "Case Law",
+		type: "multiple-choice",
+		points: 1,
+		prompt: "What does Steagald v. United States (1981) require officers to possess before entering a third person's home to arrest a suspect?",
+		options: [
+		  { id: "A", text: "Only an outstanding arrest warrant for the suspect" },
+		  { id: "B", text: "Oral consent from any neighbor on the same street" },
+		  { id: "C", text: "A search warrant, in addition to the arrest warrant" },
+		  { id: "D", text: "A supervisor's verbal approval over the radio" }
+		],
+		answer: "C",
+		explain: "Steagald v. United States ruled that while an arrest warrant is enough to enter the suspect's own home, entering a third party's home to find them requires a search warrant to protect the homeowner's Fourth Amendment rights. [Category: CCP / Case Law]"
+	},
+
+	{
+		id: "TCOLE_case_q22",
+		subject: "Case Law",
+		type: "multiple-choice",
+		points: 1,
+		prompt: "Under Graham v. Connor (1989), how must an officer's use of non-deadly force be judged under the Fourth Amendment?",
+		options: [
+		  { id: "A", text: "Using objective reasonableness from the perspective of a reasonable officer on the scene at the moment" },
+		  { id: "B", text: "Based entirely on the subjective emotional intent of the officer" },
+		  { id: "C", text: "Strictly by whether the suspect sustained permanent medical injuries" },
+		  { id: "D", text: "From the 20/20 perspective of hindsight with full knowledge of the outcome" }
+		],
+		answer: "A",
+		explain: "Graham v. Connor established that use of force must be judged by objective reasonableness under the totality of circumstances, evaluated from the viewpoint of a reasonable officer on the scene without the benefit of hindsight. [Category: PC Ch. 9 / Case Law]"
+	},
+
+	{
+		id: "TCOLE_case_q23",
+		subject: "Case Law",
+		type: "multiple-choice",
+		points: 1,
+		prompt: "What did the Supreme Court establish in Miranda v. Arizona (1966) regarding custodial interrogation?",
+		options: [
+		  { id: "A", text: "Counsel must be present during a standard traffic citation stop" },
+		  { id: "B", text: "Confessions are automatically admissible regardless of whether warnings were given" },
+		  { id: "C", text: "Suspects lose all constitutional rights once they are placed inside a patrol vehicle" },
+		  { id: "D", text: "Officers must provide procedural warnings of rights whenever custody and interrogation coincide" }
+		],
+		answer: "D",
+		explain: "Miranda v. Arizona established that law enforcement must advise suspects of their constitutional rights (silence, counsel) prior to conducting a custodial interrogation. [Category: CCP Ch. 38 / Case Law]"
+	},
+
+	{
+		id: "TCOLE_case_q24",
+		subject: "Case Law",
+		type: "multiple-choice",
+		points: 1,
+		prompt: "Under the two-step qualified immunity test established in Saucier v. Katz (2001) (and refined in later cases), what must a court determine regarding an official's conduct?",
+		options: [
+		  { id: "A", text: "Whether the city provided proper insurance coverage prior to the incident" },
+		  { id: "B", text: "Whether a constitutional right was violated and whether that right was clearly established" },
+		  { id: "C", text: "Whether the suspect was convicted of a felony in criminal court" },
+		  { id: "D", text: "Whether the officer acted with malicious intent and violated agency budget rules" }
+		],
+		answer: "B",
+		explain: "Saucier v. Katz established the framework for qualified immunity: courts must evaluate whether the facts show the officer's conduct violated a constitutional right, and whether that right was clearly established at the time. [Category: Federal Civil / Case Law]"
+	},
+
+	{
+		id: "TCOLE_case_q26",
+	  subject: "Case Law",	
+	  type: "multiple-choice",
+	  points: 1,
+		prompt: "Under Illinois v. Gates (1983), how must courts and officers evaluate the existence of probable cause?",
+		options: [
+		  { id: "A", text: "Based on the totality of the circumstances rather than a rigid formula" },
+		  { id: "B", text: "Strictly through direct eyewitness testimony from a sworn officer" },
+		  { id: "C", text: "Exclusively by verifying the physical address of the suspect" },
+		  { id: "D", text: "Using a rigid, two-part Aguilar-Spinelli test based strictly on informant reliability" }
+		],
+		answer: "A",
+		explain: "Illinois v. Gates replaced rigid multi-part tests with the 'totality of the circumstances' approach for determining probable cause based on all combined facts and inferences. [Category: Constitutional Law]"
+	},
+
+	{
+		id: "TCOLE_case_q27",
+		subject: "Case Law",
+		type: "multiple-choice",
+		points: 1,
+		prompt: "What does Steagald v. United States (1981) require officers to possess before entering a third person's home to arrest a suspect?",
+		options: [
+		  { id: "A", text: "Oral consent from any neighbor on the same street" },
+		  { id: "B", text: "Only an outstanding arrest warrant for the suspect" },
+		  { id: "C", text: "A supervisor's verbal approval over the radio" },
+		  { id: "D", text: "A search warrant, in addition to the arrest warrant" }
+		],
+		answer: "D",
+		explain: "Steagald v. United States ruled that while an arrest warrant is enough to enter the suspect's own home, entering a third party's home to find them requires a search warrant to protect the homeowner's Fourth Amendment rights. [Category: Constitutional Law]"
+	},
+
+	{
+		id: "TCOLE_case_q28",
+		subject: "Case Law",
+		type: "multiple-choice",
+		points: 1,
+		prompt: "Under Graham v. Connor (1989), how must an officer's use of non-deadly force be judged under the Fourth Amendment?",
+		options: [
+		  { id: "A", text: "Strictly by whether the suspect sustained permanent medical injuries" },
+		  { id: "B", text: "Using objective reasonableness from the perspective of a reasonable officer on the scene at the moment" },
+		  { id: "C", text: "Based entirely on the subjective emotional intent of the officer" },
+		  { id: "D", text: "From the 20/20 perspective of hindsight with full knowledge of the outcome" }
+		],
+		answer: "B",
+		explain: "Graham v. Connor established that use of force must be judged by objective reasonableness under the totality of circumstances, evaluated from the viewpoint of a reasonable officer on the scene without the benefit of hindsight. [Category: Constitutional Law]"
+	},
+
+	{
+		id: "TCOLE_case_q29",
+		subject: "Case Law",
+		type: "multiple-choice",
+		points: 1,
+		prompt: "What did the Supreme Court establish in Miranda v. Arizona (1966) regarding custodial interrogation?",
+		options: [
+		  { id: "A", text: "Suspects lose all constitutional rights once they are placed inside a patrol vehicle" },
+		  { id: "B", text: "Counsel must be present during a standard traffic citation stop" },
+		  { id: "C", text: "Officers must provide procedural warnings of rights whenever custody and interrogation coincide" },
+		  { id: "D", text: "Confessions are automatically admissible regardless of whether warnings were given" }
+		],
+		answer: "C",
+		explain: "Miranda v. Arizona established that law enforcement must advise suspects of their constitutional rights (silence, counsel) prior to conducting a custodial interrogation. [Category: Constitutional Law]"
+	},
+
+	{
+		id: "TCOLE_case_q30",
+		subject: "Case Law",
+		type: "multiple-choice",
+		points: 1,
+		prompt: "Under the two-step qualified immunity test established in Saucier v. Katz (2001) (and refined in later cases), what must a court determine regarding an official's conduct?",
+		options: [
+		  { id: "A", text: "Whether a constitutional right was violated and whether that right was clearly established" },
+		  { id: "B", text: "Whether the city provided proper insurance coverage prior to the incident" },
+		  { id: "C", text: "Whether the suspect was convicted of a felony in criminal court" },
+		  { id: "D", text: "Whether the officer acted with malicious intent and violated agency budget rules" }
+		],
+		answer: "A",
+		explain: "Saucier v. Katz established the framework for qualified immunity: courts must evaluate whether the facts show the officer's conduct violated a constitutional right, and whether that right was clearly established at the time. [Category: Constitutional Law]"
+	},
+
+	{
+		id: "TCOLE_star_q31",
+		subject: "Case Law",
+		type: "multiple-choice",
+		points: 1,
+		prompt: "Under Pennsylvania v. Mimms (1977), what authority does a law enforcement officer have regarding the driver of a lawfully stopped vehicle?",
+		options: [
+		  { id: "A", text: "The officer can only order the driver out if a felony warrant is active" },
+		  { id: "B", text: "The officer is prohibited from asking the driver to exit during a routine traffic stop" },
+		  { id: "C", text: "The officer must obtain written consent before asking the driver to step outside" },
+		  { id: "D", text: "The officer may order the driver out of the vehicle without needing independent reasonable suspicion" }
+		],
+		answer: "D",
+		explain: "Pennsylvania v. Mimms established that officers may order drivers out of lawfully stopped vehicles as an inherent safety precaution, requiring no additional justification. [Category: Case Law]"
+	},
+
+	{
+		id: "TCOLE_star_q32",
+		subject: "Case Law",
+		type: "multiple-choice",
+		points: 1,
+		prompt: "How did Maryland v. Wilson (1997) extend the rule established in Pennsylvania v. Mimms regarding traffic stops?",
+		options: [
+		  { id: "A", text: "It restricted vehicle searches strictly to the glove box" },
+		  { id: "B", text: "It allowed officers to order passengers out of a lawfully stopped vehicle for officer safety" },
+		  { id: "C", text: "It mandated that passengers must show photo identification upon initial contact" },
+		  { id: "D", text: "It prohibited officers from questioning passengers without Miranda warnings" }
+		],
+		answer: "B",
+		explain: "Maryland v. Wilson extended Mimms, ruling that officers may also order passengers out of a vehicle during a traffic stop pending safety considerations. [Category: Case Law]"
+	},
+
+	{
+		id: "TCOLE_star_q33",
+		subject: "Case Law",
+		type: "multiple-choice",
+		points: 1,
+		prompt: "Under Arizona v. Johnson (2009), when is an officer legally permitted to frisk a passenger during a traffic stop?",
+		options: [
+		  { id: "A", text: "Only if there is reasonable suspicion that the passenger is armed and dangerous" },
+		  { id: "B", text: "Never, unless a formal search warrant has been signed" },
+		  { id: "C", text: "Only if the driver has already been placed under custodial arrest" },
+		  { id: "D", text: "During every traffic stop regardless of the circumstances" }
+		],
+		answer: "A",
+		explain: "Arizona v. Johnson held that officers may frisk a passenger during a traffic stop if they have reasonable suspicion that the individual is armed and dangerous. [Category: Case Law]"
+	},
+
+	{
+		id: "TCOLE_star_q34",
+		subject: "Case Law",
+		type: "multiple-choice",
+		points: 1,
+		prompt: "What did Brendlin v. California (2007) establish regarding vehicle passengers during a traffic stop?",
+		options: [
+		  { id: "A", text: "Passengers are completely free to leave the scene immediately when the vehicle pulls over" },
+		  { id: "B", text: "Passengers must drive the vehicle if the driver is arrested" },
+		  { id: "C", text: "Passengers are considered 'seized' during a traffic stop along with the driver, giving them standing to challenge the stop's legality" },
+		  { id: "D", text: "Passengers have automatic immunity from any contraband found in the vehicle" }
+		],
+		answer: "C",
+		explain: "Brendlin v. California established that a passenger is seized during a traffic stop and therefore has the Fourth Amendment right to challenge the legality of that stop. [Category: Case Law]"
+	},
+
+	{
+		id: "TCOLE_star_q35",
+		subject: "Case Law",
+		type: "multiple-choice",
+		points: 1,
+		prompt: "Under Whren v. United States (1996), how do the Fourth Amendment courts evaluate the subjective motivation of an officer conducting a traffic stop?",
+		options: [
+		  { id: "A", text: "The officer must state their true motive on the video recording" },
+		  { id: "B", text: "Pretextual stops violate due process under all circumstances" },
+		  { id: "C", text: "The stop is invalid if the officer had an underlying pretextual motive" },
+		  { id: "D", text: "The stop is valid as long as there is objective legal justification, regardless of the officer's underlying subjective intent" }
+		],
+		answer: "D",
+		explain: "Whren v. United States established that a traffic stop is objectively reasonable if police have probable cause to believe a traffic violation occurred, regardless of the officer's underlying subjective motivation. [Category: Case Law]"
+	},
+
+	{
+		id: "TCOLE_star_q36",
+		subject: "Case Law",
+		type: "multiple-choice",
+		points: 1,
+		prompt: "What does Scott v. Harris (2007) establish regarding an officer's use of force to terminate a high-speed vehicular pursuit?",
+		options: [
+		  { id: "A", text: "Pursuits must be terminated immediately if traffic exceeds 60 mph" },
+		  { id: "B", text: "A police officer's attempt to terminate a dangerous high-speed car chase by ramming the suspect's vehicle can be objectively reasonable" },
+		  { id: "C", text: "Officers are strictly forbidden from making contact with moving vehicles during pursuits" },
+		  { id: "D", text: "Ramming a fleeing vehicle to end a dangerous chase is automatically classified as deadly force" }
+		],
+		answer: "B",
+		explain: "Scott v. Harris ruled that ramming a fleeing vehicle to end a severe public safety threat during a high-speed chase does not violate the Fourth Amendment if it is objectively reasonable. [Category: Case Law]"
+	},
+
+	{
+		id: "TCOLE_star_q37",
+		subject: "Case Law",
+		type: "multiple-choice",
+		points: 1,
+		prompt: "Under County of Sacramento v. Lewis (1998), what standard must be met to establish a due process violation in a high-speed police pursuit case resulting in an accident?",
+		options: [
+		  { id: "A", text: "Conduct that shocks the conscience" },
+		  { id: "B", text: "A failure to follow department radio protocols" },
+		  { id: "C", text: "Ordinary negligence by the officer" },
+		  { id: "D", text: "Reckless disregard for safety" }
+		],
+		answer: "A",
+		explain: "County of Sacramento v. Lewis established that in high-speed pursuit cases, a substantive due process violation requires proof that the officer's conduct 'shocks the conscience.' [Category: Case Law]"
+	},
+
+	{
+		id: "TCOLE_star_q38",
+		subject: "Case Law",
+		type: "multiple-choice",
+		points: 1,
+		prompt: "What did the Supreme Court establish in Harlow v. Fitzgerald (1982) regarding government officials and qualified immunity?",
+		options: [
+		  { id: "A", text: "Officials can never claim immunity if a crime was committed" },
+		  { id: "B", text: "Qualified immunity requires proving the officer acted with malicious intent" },
+		  { id: "C", text: "Officials are shielded from liability unless their conduct violates clearly established statutory or constitutional rights" },
+		  { id: "D", text: "Officials have absolute immunity from all civil suits regardless of their actions" }
+		],
+		answer: "C",
+		explain: "Harlow v. Fitzgerald established that government officials performing discretionary functions are shielded from liability unless their conduct violates clearly established constitutional rights that a reasonable person would have known. [Category: Case Law]"
+	},
+
+	{
+		id: "TCOLE_star_q39",
+		subject: "Case Law",
+		type: "multiple-choice",
+		points: 1,
+		prompt: "What protection does Garrity v. New Jersey (1967) provide to law enforcement officers during internal administrative investigations?",
+		options: [
+		  { id: "A", text: "It grants officers automatic immunity from civil lawsuits filed by citizens" },
+		  { id: "B", text: "It requires a union representative to be present before any questions can be asked" },
+		  { id: "C", text: "It allows officers to refuse all internal orders without facing termination" },
+		  { id: "D", text: "It prevents compelled statements given under threat of job loss from being used against the officer in subsequent criminal proceedings" }
+		],
+		answer: "D",
+		explain: "Garrity v. New Jersey ruled that statements coerced from public employees under threat of termination cannot be used against them in criminal prosecutions. [Category: Case Law]"
+	},
+	
+	{
+	  id: "TCOLE_star_q42",
+	  subject: "Case Law",	
+	  type: "multiple-choice",
+	  points: 1, 
+	  prompt: "Which case law declared that any traffic offense committed by a driver was a legitimate legal basis for a stop?",
+	  options: [
+		{ id: "A", text: "Terry v. Ohio" },
+		{ id: "B", text: "Whren v. United States" },
+		{ id: "C", text: "Pryor v. State" },
+		{ id: "D", text: "New York v. Belton" }
+	  ],
+	  answer: "B",
+	  explain: "Verbal Communication, Section 25.18, page 27 of 31 [Category: Case Law]"
+	},
+	
+	  {
+	  id: "TCOLE_star_q43",
+	  subject: "Case Law",	 
+	  type: "multiple-choice",
+	  points: 1,
+	  prompt: "In __________, the Court held that as long as officers have a reasonable cause to believe that a traffic violation occurred, they may stop any vehicle.",
+	  options: [
+		{ id: "A", text: "Whren v. United States" },
+		{ id: "B", text: "Carroll v. United States" },
+		{ id: "C", text: "Pennsylvania v. Mimms" },
+		{ id: "D", text: "Terry v. Ohio" }
+	  ],
+	  answer: "A",
+	  explain: "Racial Profiling 6.3. Whren v. United States, 517 U.S. 806 (1996). A traffic stop is reasonable when an officer has probable cause to believe a traffic violation has occurred, regardless of the officer's subjective motivation. [Category: Case Law]"
+	  },
+	  
+	  {
+	  id: "TCOLE_q44",
+	  subject: "Case Law",	
+	  type: "multiple-choice",
+	  points: 1,	 
+	  prompt: "Which case law allows officers to order the driver out of a vehicle during a traffic stop?",
+	  options: [
+		{ id: "A", text: "Pennsylvania v. Mimms" },
+		{ id: "B", text: "Terry v. Ohio" },
+		{ id: "C", text: "Tennessee v. Garner" },
+		{ id: "D", text: "Canton v. Harris" }
+	  ],
+	  answer: "A",
+	  explain: "Patrol Skills Section 35.18 [Category: Case Law]"
+	},
+	
+	{
+	  id: "TCOLE_q45",
+	  subject: "Case Law",	
+	  type: "multiple-choice",
+	  points: 1,
+	  prompt: "The case of Graham v. Connor references which amendment?",
+	  options: [
+		{ id: "A", text: "8th" },
+		{ id: "B", text: "6th" },
+		{ id: "C", text: "4th" },
+		{ id: "D", text: "7th" }
+	  ],
+	  answer: "C",
+	  explain: "Force Options, Section 28.2 [Category: Case Law]"
+	},
+	
+	{
+	  id: "TCOLE_q46",
+	  subject: "Case Law",	
+	  type: "multiple-choice",
+	  points: 1,	
+	  prompt: "The case of Graham v. Connor references which amendment?",
+	  options: [
+		{ id: "A", text: "8th" },
+		{ id: "B", text: "6th" },
+		{ id: "C", text: "4th" },
+		{ id: "D", text: "7th" }
+	  ],
+	  answer: "C",
+	  explain: "Force Options Section 28.2 [Category: Case Law]"
+	},
+
+	{
+	  id: "TCOLE_q47",
+	  subject: "Case Law",	
+	  type: "multiple-choice",
+	  points: 1,
+	  prompt: "What Amendment gives rise to the reasonableness factor in determining the legality of a use of force?",
+	  options: [
+		{ id: "A", text: "1st" },
+		{ id: "B", text: "4th" },
+		{ id: "C", text: "5th" },
+		{ id: "D", text: "6th" },
+		{ id: "E", text: "8th" }
+	  ],
+	  answer: "B",
+	  explain: "Graham v. Connor established that use-of-force cases involving seizures are analyzed under the Fourth Amendment's objective reasonableness standard. [Category: Case Law]"
+	},
+
+	{
+	  id: "TCOLE_q48",
+	  subject: "Case Law",	
+	  type: "multiple-choice",
+	  points: 1,
+	  prompt: "Miranda v. Arizona applies to which amendment?",
+	  options: [
+		{ id: "A", text: "Fourth Amendment" },
+		{ id: "B", text: "Second Amendment" },
+		{ id: "C", text: "First Amendment" },
+		{ id: "D", text: "Fifth Amendment" }
+	  ],
+	  answer: "D",
+	  explain: "Miranda v. Arizona, 384 U.S. 436 (1966), Miranda warnings protect a person's Fifth Amendment right against compelled self-incrimination during custodial interrogation. [Category: Case Law]"
+	},
+
+	{
+	  id: "TCOLE_q49",
+	  subject: "Case Law",	
+	  points: 1,  	  
+	  prompt: "During an administrative investigation regarding use of force, officers may be compelled to answer questions, participate in a line-up, or take a polygraph examination. Information obtained under threat of dismissal is not admissible in a criminal trial under which court case?",
+	  options: [
+		{ id: "A", text: "Anderson v. Creighton" },
+		{ id: "B", text: "Harlow v. Fitzgerald" },
+		{ id: "C", text: "Osabutey v. Welch" },
+		{ id: "D", text: "Garrity v. New Jersey" }
+	  ],
+	  answer: "D",
+	  explain: "Force Options, Section 28.16 [Category: Case Law]"
+	},
+	
+	{
+	  id: "TCOLE_q50",
+	  subject: "Case Law",
+	  points: 1,  
+	  prompt: "Which case law allows an officer to stop and frisk a person without probable cause to arrest when the officer has reasonable suspicion that the person has committed, is committing, or is about to commit a crime?",
+	  options: [
+		{ id: "A", text: "Graham v. State" },
+		{ id: "B", text: "Maryland v. Wilson" },
+		{ id: "C", text: "Terry v. Ohio" },
+		{ id: "D", text: "Ferris v. State" }
+	  ],
+	  answer: "C",
+	  explain: "Patrol Skills, Section 35.18; Racial Profiling, Section 6.2; Arrest, Search, and Seizure Section 10.2 [Category: Case Law]"
+	},
+
+	{
+	  id: "TCOLE_q51",
+	  subject: "Case Law",
+	  type: "multiple-choice",
+	  points: 1,
+	  prompt: "Although the __________ are the ultimate arbiters of what constitutes probable cause, the U.S. Supreme Court in the Gates opinion also said: Perhaps the central teaching of our past decisions bearing on the probable cause standard is that it is a practical, non-technical conception.",
+	  options: [
+		{ id: "A", text: "City" },
+		{ id: "B", text: "County" },
+		{ id: "C", text: "Courts" },
+		{ id: "D", text: "Government" }
+	  ],
+	  answer: "C",
+	  explain: "Illinois v. Gates, 462 U.S. 213 (1983), Courts are the ultimate arbiters of probable cause, which is determined using a practical totality-of-the-circumstances approach. [Category: Case Law]"
+	},
+	
+	{
+	  id: "TCOLE_q52",
+	  subject: "Case Law",
+	  points: 1,
+	  prompt: "An area of increasing interest in recent history is under what circumstances police are allowed to use deadly force in order to arrest a fleeing felon. In the U.S. Supreme Court case _____.",
+	  options: [
+		{ id: "A", text: "Scott v. Harris" },
+		{ id: "B", text: "County of Sacramento v. Lewis" },
+		{ id: "C", text: "Tennessee v. Garner" },
+		{ id: "D", text: "Graham v. Connor" }
+	  ],
+	  answer: "C",
+	  explain: "Patrol Skills, Section 35.18; Force Options, Section 28.3 [Category: Case Law]"
+	},
+	
+	{
+	  id: "TCOLE_case_q53",
+	  subject: "Case Law",
+	  points: 1,
+	  prompt: "According to Beck v. Ohio (1964), as cited in the IRG, how is probable cause judged?",
+	  options: [
+		{ id: "A", text: "By the officer's subjective good faith alone" },
+		{ id: "B", text: "By whether a reasonable person would believe a suspect has committed, is committing, or is about to commit a crime" },
+		{ id: "C", text: "By the officer's training and experience alone" },
+		{ id: "D", text: "By a preponderance of the evidence" }
+	  ],
+	  answer: "B",
+	  explain: "Beck v. Ohio holds that probable cause is an objective standard: whether the facts would warrant a reasonable person to believe a suspect has committed, is committing, or is about to commit a crime. Subjective good faith alone is not the test. IRG Ch. 10, §10.1. [Category: Case Law]"
+	},
+	{
+	  id: "TCOLE_case_q54",
+	  subject: "Case Law",
+	  points: 1,
+	  prompt: "In Brower v. Inyo County (1989), the 'dead man's roadblock' case, when does a seizure occur under the Fourth Amendment?",
+	  options: [
+		{ id: "A", text: "Only when the suspect is physically handcuffed by an officer" },
+		{ id: "B", text: "When police intentionally use a roadblock to stop a suspect" },
+		{ id: "C", text: "Only when the roadblock is set up on a public highway" },
+		{ id: "D", text: "A roadblock is never a seizure under the Fourth Amendment" }
+	  ],
+	  answer: "B",
+	  explain: "Brower v. Inyo County held that a seizure occurs under the Fourth Amendment when police intentionally use a roadblock to stop a suspect. IRG Ch. 34, §34.4; Federal Cases list. [Category: Case Law]"
+	},
+	{
+	  id: "TCOLE_case_q56",
+	  subject: "Case Law",
+	  points: 1,
+	  prompt: "An officer approaches a traveler in an airport terminal, identifies himself, and asks the traveler questions about his travel. Under Florida v. Royer (1983), what may the traveler do?",
+	  options: [
+		{ id: "A", text: "Refuse to identify himself, refuse to cooperate, refuse to answer questions, and simply walk away" },
+		{ id: "B", text: "He must answer the officer's questions until the officer releases him" },
+		{ id: "C", text: "His refusal to answer, by itself, gives the officer probable cause to arrest him" },
+		{ id: "D", text: "He must consent to a search of his luggage before he is allowed to leave" }
+	  ],
+	  answer: "A",
+	  explain: "Florida v. Royer stands for the principle that a person approached by officers in a public place may refuse to identify himself, refuse to cooperate, refuse to answer questions, and simply walk away. IRG Ch. 10, §10.2. [Category: Case Law]"
+	},
+	{
+	  id: "TCOLE_case_q57",
+	  subject: "Case Law",
+	  points: 1,
+	  prompt: "According to Kentucky v. King (2011), officers knock on an apartment door, announce themselves, and then hear noises suggesting evidence is being destroyed. What does the case hold about how the exigency arose?",
+	  options: [
+		{ id: "A", text: "The knock itself created the exigency, making the warrantless entry unlawful" },
+		{ id: "B", text: "Officers may create an exigency whenever they have probable cause" },
+		{ id: "C", text: "The officers did not create the exigency; the occupants' reaction did, and officers may not create an exigency by engaging in or threatening conduct that violates the Fourth Amendment" },
+		{ id: "D", text: "Any noise inside a home automatically creates exigent circumstances" }
+	  ],
+	  answer: "C",
+	  explain: "Kentucky v. King holds that peace officers cannot create the exigency by engaging or threatening to engage in conduct that violates the Fourth Amendment. In this case the officers did not create the circumstances; the reaction of the occupants did. IRG Ch. 10, §10.8. [Category: Case Law]"
+	},
+	{
+	  id: "TCOLE_case_q58",
+	  subject: "Case Law",
+	  points: 1,
+	  prompt: "According to Maryland v. Shatzer (2010), after a person in custody requests an attorney and interrogation must cease, when may officers resume questioning without an attorney present?",
+	  options: [
+		{ id: "A", text: "After 24 hours have passed" },
+		{ id: "B", text: "After at least a fourteen-day break in Miranda custody" },
+		{ id: "C", text: "Immediately, if a different officer asks the questions" },
+		{ id: "D", text: "As soon as the person is released on bond" }
+	  ],
+	  answer: "B",
+	  explain: "Maryland v. Shatzer holds that once a person in custody requests an attorney, interrogations must cease until an attorney is present or, alternatively, until there is at least a fourteen-day break in Miranda custody. IRG Ch. 10, §10.6. [Category: Case Law]"
+	},
+	{
+	  id: "TCOLE_case_q60",
+	  subject: "Case Law",
+	  points: 1,
+	  prompt: "According to the IRG instructor note on Missouri v. McNeely (2013), when may an officer use Transportation Code §724.012(b) to secure a mandatory blood specimen from a DWI suspect?",
+	  options: [
+		{ id: "A", text: "Whenever the driver refuses a breath test" },
+		{ id: "B", text: "In every DWI arrest involving a crash" },
+		{ id: "C", text: "Only in exigent circumstances; otherwise a blood search warrant should be used to secure a non-voluntary specimen" },
+		{ id: "D", text: "Whenever the driver has a prior DWI conviction" }
+	  ],
+	  answer: "C",
+	  explain: "Per the IRG instructor note on Missouri v. McNeely, Transportation Code §724.012(b) should not be used to secure a mandatory specimen except in exigent circumstances. A blood search warrant should be used to secure a non-voluntary specimen. IRG Ch. 22, §22.29. [Category: Case Law]"
+	},
+	{
+	  id: "TCOLE_case_q61",
+	  subject: "Case Law",
+	  points: 1,
+	  prompt: "Under Code of Criminal Procedure Art. 14.051 and United States v. Santana (1976), a peace officer from another state who is in fresh pursuit of a person reasonably suspected of a felony may do what?",
+	  options: [
+		{ id: "A", text: "Continue the pursuit into Texas and arrest the person" },
+		{ id: "B", text: "Enter Texas only to observe, and must wait for a Texas officer to make the arrest" },
+		{ id: "C", text: "Continue the pursuit into Texas only for misdemeanor offenses" },
+		{ id: "D", text: "Arrest the person only after first obtaining a Texas warrant" }
+	  ],
+	  answer: "A",
+	  explain: "Under CCP Art. 14.051, fresh pursuit means a pursuit without unreasonable delay of a person an officer reasonably suspects has committed a felony, and an out-of-state officer in fresh pursuit may continue the pursuit into Texas and arrest the person. United States v. Santana is the court case cited for this rule. IRG Ch. 10, §10.8. [Category: Case Law]"
+	},
+	{
+	  id: "TCOLE_case_q62",
+	  subject: "Case Law",
+	  points: 1,
+	  prompt: "According to United States v. Sokolow (1989), reasonable suspicion is based on what standard?",
+	  options: [
+		{ id: "A", text: "A single suspicious act, standing alone" },
+		{ id: "B", text: "The officer's subjective good faith" },
+		{ id: "C", text: "The totality of the circumstances, and it is a lesser burden than probable cause" },
+		{ id: "D", text: "A preponderance of the evidence" }
+	  ],
+	  answer: "C",
+	  explain: "United States v. Sokolow holds that reasonable suspicion is based upon the totality of the circumstances and is a lesser burden than probable cause. IRG Ch. 10, §10.1. [Category: Case Law]"
+	},
+	{
+	  id: "TCOLE_case_q63",
+	  subject: "Case Law",
+	  points: 1,
+	  prompt: "According to the case cited in the IRG as Brigham City, Utah v. Smart (2006), what permits a warrantless entry into a dwelling?",
+	  options: [
+		{ id: "A", text: "Exigent circumstances such as breaking up a violent fight" },
+		{ id: "B", text: "An officer's desire to ask the occupants questions" },
+		{ id: "C", text: "A report of loud music coming from the residence" },
+		{ id: "D", text: "The officer's belief that evidence might be inside" }
+	  ],
+	  answer: "A",
+	  explain: "The IRG cites Brigham City, Utah v. Smart (2006) for the rule that exigent circumstances such as breaking up a violent fight permit warrantless entry into a dwelling without a warrant. IRG Ch. 10, §10.8. [Category: Case Law]"
+	},
+	{
+	  id: "TCOLE_case_q64",
+	  subject: "Case Law",
+	  points: 1,
+	  prompt: "Under the standard established in United States v. Kozminski, what did a victim have to prove to show a severe form of trafficking in persons?",
+	  options: [
+		{ id: "A", text: "Psychological coercion alone" },
+		{ id: "B", text: "Legal or physical coercion" },
+		{ id: "C", text: "That the trafficker profited financially from the victim's labor" },
+		{ id: "D", text: "That the victim was transported across state lines" }
+	  ],
+	  answer: "B",
+	  explain: "Under the standard established in United States v. Kozminski, victims had to prove legal or physical coercion. Under the Trafficking Victims Protection Act, victims may now also prove psychological coercion. IRG Ch. 21, §21.18. [Category: Case Law]"
+	},
+	{
+	  id: "TCOLE_case_q67",
+	  subject: "Case Law",
+	  points: 1,
+	  prompt: "In Curtis v. State, what did the Texas Court of Criminal Appeals hold about a traffic stop based on a vehicle weaving?",
+	  options: [
+		{ id: "A", text: "Weaving alone can never support reasonable suspicion for a stop" },
+		{ id: "B", text: "The stop for failure to maintain a single marked lane was reasonable, and the officer's training and experience, most specifically in DWI enforcement, was taken into account" },
+		{ id: "C", text: "Only a marked-lane violation observed by two officers can support a stop" },
+		{ id: "D", text: "The stop was unreasonable because weaving is not a traffic offense" }
+	  ],
+	  answer: "B",
+	  explain: "Curtis v. State held that reasonable suspicion supported the stop based on a vehicle weaving. The training and experience of the officer, most specifically as it applies to DWI enforcement, was taken into account, and the stop for failure to maintain a single marked lane was reasonable. IRG Ch. 23, §23.3. [Category: Case Law]"
+	},
+	{
+	  id: "TCOLE_case_q68",
+	  subject: "Case Law",
+	  points: 1,
+	  prompt: "According to Dyar v. State (2003), what must a peace officer be able to do to justify a warrantless arrest involving suspicious places and circumstances under Code of Criminal Procedure Art. 14.03?",
+	  options: [
+		{ id: "A", text: "Rely on the officer's general experience alone" },
+		{ id: "B", text: "Obtain a magistrate's approval before making the arrest" },
+		{ id: "C", text: "Articulate specific facts and circumstances to justify the arrest" },
+		{ id: "D", text: "Show that the suspect has a prior criminal record" }
+	  ],
+	  answer: "C",
+	  explain: "Dyar v. State provides the detailed explanation of CCP Art. 14.03: peace officers must be able to articulate specific facts and circumstances to justify an arrest regarding suspicious places and circumstances. IRG Ch. 10, §10.5. [Category: Case Law]"
+	},
+	{
+	  id: "TCOLE_case_q72",
+	  subject: "Case Law",
+	  points: 1,
+	  prompt: "During an arrest, an officer handcuffs a suspect too tightly and does not double-lock the handcuffs. The suspect complains repeatedly and tells the officer the cuffs are aggravating a medical condition. According to IRG Ch. 31, what may result?",
+	  options: [
+		{ id: "A", text: "No liability, because handcuffing is a discretionary act" },
+		{ id: "B", text: "An excessive force claim, because the officers were placed on notice of the suspect's complaints" },
+		{ id: "C", text: "A Miranda violation, because the suspect was not warned before being handcuffed" },
+		{ id: "D", text: "A false arrest claim, because the handcuffs were applied before the arrest was complete" }
+	  ],
+	  answer: "B",
+	  explain: "Per IRG Ch. 31, §31.12, Baskin v. Smith, 50 Fed Appx. 731 (2002): handcuffing too tightly and failing to double-lock the handcuffs may lead to an excessive force claim when the officers have been placed on notice of a suspect's complaints, especially if the suspect expresses a medical condition aggravated by the handcuffs. [Category: Case Law]"
+	},
+	{
+	  id: "TCOLE_case_q73",
+	  subject: "Case Law",
+	  points: 1,
+	  prompt: "In IRG §28.3, Brother v. Klevenhagen is listed among the cases relevant to Texas on which general topic?",
+	  options: [
+		{ id: "A", text: "Use of force" },
+		{ id: "B", text: "Taser use" },
+		{ id: "C", text: "Shooting at a moving car" },
+		{ id: "D", text: "Pepper spray" }
+	  ],
+	  answer: "A",
+	  explain: "IRG Ch. 28, §28.3 A.i lists Brother v. Klevenhagen, 28 F.3d 452 (1994), among the cases relevant to Texas on the use of force. [Category: Case Law]"
+	},
+	{
+	  id: "TCOLE_case_q74",
+	  subject: "Case Law",
+	  points: 1,
+	  prompt: "Bublitz v. Cottey involved injuries to innocent third parties during a police pursuit. According to IRG Ch. 34, under which amendment was the liability examined?",
+	  options: [
+		{ id: "A", text: "Second Amendment" },
+		{ id: "B", text: "Fourth Amendment" },
+		{ id: "C", text: "Fourteenth Amendment" },
+		{ id: "D", text: "Eighth Amendment" }
+	  ],
+	  answer: "C",
+	  explain: "IRG Ch. 34, Federal Cases: Bublitz v. Cottey, 327 F.3d 485 (7th Cir. 2003), involved injuries to innocent third parties during a police pursuit and examined Fourteenth Amendment liability and due process claims. [Category: Case Law]"
+	},
+	{
+	  id: "TCOLE_case_q75",
+	  subject: "Case Law",
+	  points: 1,
+	  prompt: "According to IRG Ch. 34, City of Lancaster v. Chambers is the significant Texas case on what issue?",
+	  options: [
+		{ id: "A", text: "Official immunity for officers involved in emergency driving and pursuits" },
+		{ id: "B", text: "The factors officers should consider before engaging in a pursuit" },
+		{ id: "C", text: "Whether a roadblock is a seizure under the Fourth Amendment" },
+		{ id: "D", text: "Governmental immunity for emergency response operations" }
+	  ],
+	  answer: "A",
+	  explain: "IRG Ch. 34, Texas Cases: City of Lancaster v. Chambers, 883 S.W.2d 650 (Tex. 1994) — official immunity for officers involved in emergency driving and pursuits; a significant Texas case regarding governmental liability and discretionary actions. [Category: Case Law]"
+	},
+	{
+	  id: "TCOLE_case_q76",
+	  subject: "Case Law",
+	  points: 1,
+	  prompt: "According to IRG Ch. 34, City of San Antonio v. Trevino addressed which issue?",
+	  options: [
+		{ id: "A", text: "Governmental immunity and emergency response operations" },
+		{ id: "B", text: "The factors officers should consider before engaging in a pursuit" },
+		{ id: "C", text: "Official immunity for officers in emergency driving" },
+		{ id: "D", text: "Whether a roadblock may be a reasonable seizure" }
+	  ],
+	  answer: "A",
+	  explain: "IRG Ch. 34, Texas Cases: City of San Antonio v. Trevino, 936 S.W.2d 134 (Tex. App. 1996) — addressed governmental immunity and emergency response operations. [Category: Case Law]"
+	},
+	{
+	  id: "TCOLE_case_q77",
+	  subject: "Case Law",
+	  points: 1,
+	  prompt: "In IRG §28.15, City of Seagoville v. Lytle is listed as an applicable case for which procedures?",
+	  options: [
+		{ id: "A", text: "Procedures following an officer-involved shooting" },
+		{ id: "B", text: "Procedures for a high-risk traffic stop" },
+		{ id: "C", text: "Procedures for serving a search warrant" },
+		{ id: "D", text: "Procedures for a custodial interrogation" }
+	  ],
+	  answer: "A",
+	  explain: "IRG Ch. 28, §28.15 A lists City of Seagoville v. Lytle, 227 S.W.3d 401 (Tex. App.—Dallas 2007), among the applicable cases and codes for procedures following an officer-involved shooting. [Category: Case Law]"
+	},
+	{
+	  id: "TCOLE_case_q78",
+	  subject: "Case Law",
+	  points: 1,
+	  prompt: "City of Waco v. Montgomery is listed in IRG §34.4 alongside Wadewitz v. Montgomery as a 1997 Texas case that has impacted which area of police work?",
+	  options: [
+		{ id: "A", text: "Police pursuits" },
+		{ id: "B", text: "Use of a police canine as force" },
+		{ id: "C", text: "Handcuffing as excessive force" },
+		{ id: "D", text: "Custodial interrogation" }
+	  ],
+	  answer: "A",
+	  explain: "IRG Ch. 34, §34.4 lists Wadewitz and City of Waco v. Montgomery (TX 1997) among the cases that have impacted police pursuits; the IRG's Texas Cases entry for Wadewitz v. Montgomery, 951 S.W.2d 464 (Tex. 1997), covers the factors officers should consider when deciding whether to engage in a pursuit and 'good faith' and official immunity. [Category: Case Law]"
+	},
+	{
+	  id: "TCOLE_case_q79",
+	  subject: "Case Law",
+	  points: 1,
+	  prompt: "In IRG §28.3, City of Waco v. Williams is listed as a case relevant to Texas on the use of which force option?",
+	  options: [
+		{ id: "A", text: "Taser" },
+		{ id: "B", text: "Pepper spray" },
+		{ id: "C", text: "Police canine" },
+		{ id: "D", text: "Hog-tie restraint" }
+	  ],
+	  answer: "A",
+	  explain: "IRG Ch. 28, §28.3 A.ii lists City of Waco v. Williams, 209 S.W.3d 216 (2006), among the cases relevant to Texas on Taser use. [Category: Case Law]"
+	},
+	{
+	  id: "TCOLE_case_q80",
+	  subject: "Case Law",
+	  points: 1,
+	  prompt: "In IRG §28.3, Cruz v. Laramie is listed as the case on which use-of-force practice?",
+	  options: [
+		{ id: "A", text: "Hog-tie / hobble tie" },
+		{ id: "B", text: "Seizure at gunpoint" },
+		{ id: "C", text: "Use of a police canine as force" },
+		{ id: "D", text: "Pepper spray" }
+	  ],
+	  answer: "A",
+	  explain: "IRG Ch. 28, §28.3 B.v lists Cruz v. Laramie, 239 F.3d 1183 (2001), as the case on hog-tie / hobble tie. [Category: Case Law]"
+	},
+	{
+	  id: "TCOLE_case_q81",
+	  subject: "Case Law",
+	  points: 1,
+	  prompt: "In IRG §28.14, Davis v. Rennie is listed as an applicable case for an officer's liability in what situation?",
+	  options: [
+		{ id: "A", text: "Failing to stop another officer from using excessive force in the officer's presence" },
+		{ id: "B", text: "Using a Taser on a fleeing suspect" },
+		{ id: "C", text: "Failing to double-lock a suspect's handcuffs" },
+		{ id: "D", text: "Entering a home without a warrant to make an arrest" }
+	  ],
+	  answer: "A",
+	  explain: "IRG Ch. 28, §28.14 J lists Davis v. Rennie, 264 F.3d 86 (1st Cir. 2001), as an applicable case in the section on an officer's liability, including possible personal liability for failure to stop other officers from using excessive force in the officer's presence (CCP Art. 2A.051 duty to intervene). [Category: Case Law]"
+	},
+	{
+	  id: "TCOLE_case_q82",
+	  subject: "Case Law",
+	  points: 1,
+	  prompt: "In IRG §28.3, Fraire v. City of Arlington is listed among the cases relevant to Texas on which general topic?",
+	  options: [
+		{ id: "A", text: "Use of force" },
+		{ id: "B", text: "Taser use" },
+		{ id: "C", text: "Pepper spray" },
+		{ id: "D", text: "Shooting at a moving car" }
+	  ],
+	  answer: "A",
+	  explain: "IRG Ch. 28, §28.3 A.i lists Fraire v. City of Arlington, 957 F.2d 1268 (1992), among the cases relevant to Texas on the use of force. [Category: Case Law]"
+	},
+	{
+	  id: "TCOLE_case_q83",
+	  subject: "Case Law",
+	  points: 1,
+	  prompt: "In Gousse v. City of Los Angeles, a surgeon was initially awarded $33 million in damages for permanent nerve damage to his hand, leaving him unable to perform surgery unassisted. According to IRG Ch. 31, what caused the injury?",
+	  options: [
+		{ id: "A", text: "Handcuffs applied too tightly after officers mistakenly believed his rental car was stolen" },
+		{ id: "B", text: "A Taser deployment during a traffic stop" },
+		{ id: "C", text: "A police canine bite during a building search" },
+		{ id: "D", text: "Pepper spray used during a cell extraction" }
+	  ],
+	  answer: "A",
+	  explain: "IRG Ch. 31, §31.12: in Gousse v. City of Los Angeles, a surgeon was initially awarded $33 million in damages for permanent nerve damage to his hand, resulting in inability to perform surgery unassisted, following tight handcuffing when he was detained by Los Angeles police officers who mistakenly believed the rental car he was driving was stolen. [Category: Case Law]"
+	},
+	{
+	  id: "TCOLE_case_q84",
+	  subject: "Case Law",
+	  points: 1,
+	  prompt: "In IRG §28.15, Guthery v. Taylor is listed as an applicable case for which procedures?",
+	  options: [
+		{ id: "A", text: "Procedures following an officer-involved shooting" },
+		{ id: "B", text: "Procedures for conducting a vehicle pursuit" },
+		{ id: "C", text: "Procedures for a strip search" },
+		{ id: "D", text: "Procedures for a custodial interrogation" }
+	  ],
+	  answer: "A",
+	  explain: "IRG Ch. 28, §28.15 A lists Guthery v. Taylor, 112 S.W.3d 715 (2003), among the applicable cases and codes for procedures following an officer-involved shooting. [Category: Case Law]"
+	},
+	{
+	  id: "TCOLE_case_q85",
+	  subject: "Case Law",
+	  points: 1,
+	  prompt: "In IRG §28.3, Hathaway v. Bazany is listed as a case on which use-of-force topic?",
+	  options: [
+		{ id: "A", text: "Shooting at a moving car" },
+		{ id: "B", text: "Taser use" },
+		{ id: "C", text: "Pepper spray" },
+		{ id: "D", text: "Use of a police canine as force" }
+	  ],
+	  answer: "A",
+	  explain: "IRG Ch. 28, §28.3 A.iii lists Hathaway v. Bazany, 2007 WL 3200413 (2007), as the case on shooting at a moving car. [Category: Case Law]"
+	},
+	{
+	  id: "TCOLE_case_q86",
+	  subject: "Case Law",
+	  points: 1,
+	  prompt: "In IRG §28.3, Jackson v. City of Schertz is listed as a case relevant to Texas on the use of which force option?",
+	  options: [
+		{ id: "A", text: "Taser" },
+		{ id: "B", text: "Pepper spray" },
+		{ id: "C", text: "Hog-tie restraint" },
+		{ id: "D", text: "Police canine" }
+	  ],
+	  answer: "A",
+	  explain: "IRG Ch. 28, §28.3 A.ii lists Jackson v. City of Schertz, Texas, 2007 WL 4205709 (2007), among the cases relevant to Texas on Taser use. [Category: Case Law]"
+	},
+	{
+	  id: "TCOLE_case_q87",
+	  subject: "Case Law",
+	  points: 1,
+	  prompt: "In IRG §28.3, Jennings v. Jones is listed as a case on which use-of-force topic?",
+	  options: [
+		{ id: "A", text: "Pepper spray" },
+		{ id: "B", text: "Taser use" },
+		{ id: "C", text: "Seizure at gunpoint" },
+		{ id: "D", text: "Handcuffing" }
+	  ],
+	  answer: "A",
+	  explain: "IRG Ch. 28, §28.3 B.ii lists Jennings v. Jones, 2007 WL 2339195 (1st Cir. 2007), as a case on pepper spray. [Category: Case Law]"
+	},
+	{
+	  id: "TCOLE_case_q88",
+	  subject: "Case Law",
+	  points: 1,
+	  prompt: "In IRG §28.3, Kuha v. City of Minnetonka is listed as a case on which use-of-force topic?",
+	  options: [
+		{ id: "A", text: "Use of a canine as force" },
+		{ id: "B", text: "Pepper spray" },
+		{ id: "C", text: "Hog-tie / hobble tie" },
+		{ id: "D", text: "Shooting at a moving car" }
+	  ],
+	  answer: "A",
+	  explain: "IRG Ch. 28, §28.3 B.iv lists Kuha v. City of Minnetonka, 328 F.3d 427 (2003), as a case on the use of a canine as force. [Category: Case Law]"
+	},
+	{
+	  id: "TCOLE_case_q89",
+	  subject: "Case Law",
+	  points: 1,
+	  prompt: "In IRG §28.3, Martinez v. New Mexico Department of Public Safety is listed as a case on which use-of-force topic?",
+	  options: [
+		{ id: "A", text: "Pepper spray" },
+		{ id: "B", text: "Taser use" },
+		{ id: "C", text: "Use of a canine as force" },
+		{ id: "D", text: "Handcuffing" }
+	  ],
+	  answer: "A",
+	  explain: "IRG Ch. 28, §28.3 B.ii lists Martinez v. New Mexico Dept. of Public Safety, 47 Fed. Appx. 513 (2002), as a case on pepper spray. [Category: Case Law]"
+	},
+	{
+	  id: "TCOLE_case_q92",
+	  subject: "Case Law",
+	  points: 1,
+	  prompt: "In IRG §28.3, Robinette v. Barnes is listed as a case on which use-of-force topic?",
+	  options: [
+		{ id: "A", text: "Use of a canine as force" },
+		{ id: "B", text: "Seizure at gunpoint" },
+		{ id: "C", text: "Pepper spray" },
+		{ id: "D", text: "Handcuffing" }
+	  ],
+	  answer: "A",
+	  explain: "IRG Ch. 28, §28.3 B.iv lists Robinette v. Barnes, 854 F.2d 909 (1988), as a case on the use of a canine as force. [Category: Case Law]"
+	},
+	{
+	  id: "TCOLE_case_q93",
+	  subject: "Case Law",
+	  points: 1,
+	  prompt: "In IRG §28.3, Robinson v. Solano County is listed as the case on which use-of-force topic?",
+	  options: [
+		{ id: "A", text: "Seizure at gunpoint" },
+		{ id: "B", text: "Hog-tie / hobble tie" },
+		{ id: "C", text: "Pepper spray" },
+		{ id: "D", text: "Taser use" }
+	  ],
+	  answer: "A",
+	  explain: "IRG Ch. 28, §28.3 B.iii lists Robinson v. Solano County, 278 F.3d 1007 (2002), as the case on seizure at gunpoint. [Category: Case Law]"
+	},
+	{
+	  id: "TCOLE_case_q94",
+	  subject: "Case Law",
+	  points: 1,
+	  prompt: "According to IRG Ch. 34, Seekamp v. Michaud held that a police roadblock may be a seizure but can be reasonable under which amendment?",
+	  options: [
+		{ id: "A", text: "Fourth Amendment" },
+		{ id: "B", text: "Fourteenth Amendment" },
+		{ id: "C", text: "Fifth Amendment" },
+		{ id: "D", text: "Eighth Amendment" }
+	  ],
+	  answer: "A",
+	  explain: "IRG Ch. 34, Federal Cases: Seekamp v. Michaud, 109 F.3d 802 (1st Cir. 1997) — addressed the constitutionality of police roadblocks; held that a roadblock may be a seizure but can be reasonable under the Fourth Amendment. [Category: Case Law]"
+	},
+	{
+	  id: "TCOLE_case_q95",
+	  subject: "Case Law",
+	  points: 1,
+	  prompt: "In IRG §28.14, Shaw v. Stroud is listed as an applicable case for an officer's liability in what situation?",
+	  options: [
+		{ id: "A", text: "Failing to stop another officer from using excessive force in the officer's presence" },
+		{ id: "B", text: "Failing to double-lock a suspect's handcuffs" },
+		{ id: "C", text: "Using a Taser on a handcuffed suspect" },
+		{ id: "D", text: "Entering a home without a warrant to make an arrest" }
+	  ],
+	  answer: "A",
+	  explain: "IRG Ch. 28, §28.14 J lists Shaw v. Stroud, 13 F.3d 791 (4th Cir. 1994), as an applicable case in the section on an officer's liability, including possible personal liability for failure to stop other officers from using excessive force in the officer's presence (CCP Art. 2A.051 duty to intervene). [Category: Case Law]"
+	},
+	{
+	  id: "TCOLE_case_q96",
+	  subject: "Case Law",
+	  points: 1,
+	  prompt: "According to IRG Ch. 34, Travis v. City of Mesquite discussed which issue?",
+	  options: [
+		{ id: "A", text: "Governmental liability and emergency vehicle operations" },
+		{ id: "B", text: "The factors officers should consider before engaging in a pursuit" },
+		{ id: "C", text: "Whether a roadblock may be a reasonable seizure" },
+		{ id: "D", text: "Official immunity for officers using a Taser" }
+	  ],
+	  answer: "A",
+	  explain: "IRG Ch. 34, Texas Cases: Travis v. City of Mesquite, 830 S.W.2d 94 (Tex. 1992) — discussed governmental liability and emergency vehicle operations. [Category: Case Law]"
+	},
+	{
+	  id: "TCOLE_case_q97",
+	  subject: "Case Law",
+	  points: 1,
+	  prompt: "According to IRG Ch. 34, University of Houston v. Clark addressed which issue?",
+	  options: [
+		{ id: "A", text: "Official immunity and governmental liability involving emergency vehicle operation" },
+		{ id: "B", text: "The factors officers should consider before engaging in a pursuit" },
+		{ id: "C", text: "Injuries to innocent third parties during a pursuit" },
+		{ id: "D", text: "Whether a roadblock is a seizure under the Fourth Amendment" }
+	  ],
+	  answer: "A",
+	  explain: "IRG Ch. 34, Texas Cases: University of Houston v. Clark, 38 S.W.3d 578 (Tex. 2000) — official immunity and governmental liability involving emergency vehicle operation. [Category: Case Law]"
+	},
+	{
+	  id: "TCOLE_case_q98",
+	  subject: "Case Law",
+	  points: 1,
+	  prompt: "In Vondrak v. City of Las Cruces, officers were found not entitled to qualified immunity on claims that they used excessive force in what way?",
+	  options: [
+		{ id: "A", text: "Unduly tightening an arrestee's handcuffs" },
+		{ id: "B", text: "Using a Taser on a fleeing suspect" },
+		{ id: "C", text: "Deploying a police canine on a barricaded suspect" },
+		{ id: "D", text: "Using pepper spray on a handcuffed suspect" }
+	  ],
+	  answer: "A",
+	  explain: "IRG Ch. 31, §31.12: Vondrak v. City of Las Cruces, 535 F.3d 1198 (10th Cir. 2008), finding that officers were not entitled to qualified immunity on claims that they used excessive force in unduly tightening an arrestee's handcuffs. [Category: Case Law]"
+	},
+	{
+	  id: "TCOLE_case_q99",
+	  subject: "Case Law",
+	  points: 1,
+	  prompt: "According to IRG Ch. 34, Wadewitz v. Montgomery is the key Texas case on what?",
+	  options: [
+		{ id: "A", text: "The factors officers should consider when deciding whether to engage in a pursuit, and 'good faith' and official immunity" },
+		{ id: "B", text: "Whether a roadblock may be a reasonable seizure" },
+		{ id: "C", text: "Official immunity for officers involved in emergency driving generally" },
+		{ id: "D", text: "Governmental immunity for emergency response operations" }
+	  ],
+	  answer: "A",
+	  explain: "IRG Ch. 34, Texas Cases: Wadewitz v. Montgomery, 951 S.W.2d 464 (Tex. 1997) — defined the factors officers should consider when deciding whether to engage in a pursuit; key case concerning 'good faith' and official immunity. [Category: Case Law]"
+	},
+	{
+	  id: "TCOLE_case_q100",
+	  subject: "Case Law",
+	  points: 1,
+	  prompt: "A suspect sees officers approaching and runs. As he flees, he tosses a bag of drugs to the ground. Officers tackle him and recover the drugs. Under California v. Hodari D. (1991), was the suspect seized before he dropped the drugs?",
+	  options: [
+		{ id: "A", text: "Yes, he was seized the moment officers began pursuing him" },
+		{ id: "B", text: "No, a seizure requires physical force or submission to authority, and he had not submitted" },
+		{ id: "C", text: "Yes, because the officers' show of authority alone is a seizure" },
+		{ id: "D", text: "No, because a seizure requires a warrant" }
+	  ],
+	  answer: "B",
+	  explain: "California v. Hodari D. holds that a seizure requires either physical force or submission to authority. A suspect who flees has not submitted, so he was not seized before dropping the drugs, and the abandoned drugs are not the fruit of a seizure. Listed in IRG Ch. 35, §35.8 (pedestrian stops) with Terry v. Ohio; holding is from the case itself, as the IRG states no holding. [Category: Case Law]"
+	},
+	{
+	  id: "TCOLE_case_q101",
+	  subject: "Case Law",
+	  points: 1,
+	  prompt: "Officers in a patrol car drive alongside a man walking down the street, watching him. The man keeps walking and does not stop. Under Michigan v. Chesternut (1988), has a seizure occurred?",
+	  options: [
+		{ id: "A", text: "Yes, any time officers follow a person it is a seizure" },
+		{ id: "B", text: "No, police following a person is not a seizure if a reasonable person would feel free to leave or terminate the encounter" },
+		{ id: "C", text: "Yes, because the patrol car is a show of authority" },
+		{ id: "D", text: "No, because officers may never seize a pedestrian without a warrant" }
+	  ],
+	  answer: "B",
+	  explain: "Michigan v. Chesternut holds that police conduct such as driving alongside a pedestrian is not a seizure unless it is so intimidating that a reasonable person would not feel free to leave or terminate the encounter. Listed in IRG Ch. 35, §35.8 (pedestrian stops) with Terry v. Ohio; holding is from the case itself, as the IRG states no holding. [Category: Case Law]"
+	},
+	{
+	  id: "TCOLE_case_q102",
+	  subject: "Case Law",
+	  points: 1,
+	  prompt: "A Virginia officer arrests a driver for driving on a suspended license, a misdemeanor, even though Virginia law says the officer should issue a summons instead. Under Virginia v. Moore (2008), is the arrest lawful under the Fourth Amendment?",
+	  options: [
+		{ id: "A", text: "No, because the officer violated state law, the arrest violates the Fourth Amendment" },
+		{ id: "B", text: "Yes, the arrest does not violate the Fourth Amendment, and a search incident to the arrest is lawful" },
+		{ id: "C", text: "No, because a warrantless arrest is never allowed for a misdemeanor" },
+		{ id: "D", text: "Yes, but only if the officer first obtains a warrant" }
+	  ],
+	  answer: "B",
+	  explain: "Virginia v. Moore holds that a warrantless arrest for a minor offense does not violate the Fourth Amendment even when state law directs the officer to issue a summons instead, and a search incident to that arrest is lawful. Listed in IRG Ch. 6 (Racial Profiling) among the traffic-stop cases; holding is from the case itself, as the IRG states no holding. [Category: Case Law]"
+	},
+	{
+	  id: "TCOLE_case_q103",
+	  subject: "Case Law",
+	  points: 1,
+	  prompt: "Before taking a written statement, an officer warns a suspect that his statement may be used \"for or against him\" in court. Under Creager v. State (1997) and Code of Criminal Procedure Art. 38.22, §2(a)(1), what is the result?",
+	  options: [
+		{ id: "A", text: "The statement is admissible, because the warning covers both possibilities" },
+		{ id: "B", text: "The statement is inadmissible per se, because the warning must say the statement may be used against him, not for or against him" },
+		{ id: "C", text: "The statement is admissible if the suspect signed a waiver anyway" },
+		{ id: "D", text: "The statement is admissible, because only Miranda warnings matter, not Art. 38.22" }
+	  ],
+	  answer: "B",
+	  explain: "Creager v. State holds that warning a suspect his statement may be used \"for or against him\" misstates the Art. 38.22, §2(a)(1) warning, which must say the statement may be used against him in court; a statement taken after that misstatement is inadmissible per se. (Improper remarks made during interrogation after proper warnings are only a factor in voluntariness, not per se inadmissible.) Cited in IRG Ch. 10, §10.6 under CCP Art. 38.22; holding is from the case itself, as the IRG states no holding. [Category: Case Law]"
+	},
+	{
+	  id: "TCOLE_case_q104",
+	  subject: "Case Law",
+	  points: 1,
+	  prompt: "A sixteen-year-old is brought before a magistrate, who gives the required warnings and asks officers to return the juvenile and the recording of his statement afterward so the magistrate can decide whether the statement was voluntary, under Family Code §51.095(f). Officers never bring him back, and the magistrate makes no voluntariness determination. Under State v. Torres (2023), are the juvenile's statements admissible?",
+	  options: [
+		{ id: "A", text: "Yes, because the magistrate never completed the procedure" },
+		{ id: "B", text: "No, because the magistrate used the §51.095(f) procedure and no voluntariness determination was made, the statements are inadmissible" },
+		{ id: "C", text: "Yes, because the juvenile was sixteen and old enough to waive his rights alone" },
+		{ id: "D", text: "No, but only if the juvenile asked for an attorney" }
+	  ],
+	  answer: "B",
+	  explain: "State v. Torres holds that when a magistrate invokes the Family Code §51.095(f) procedure by asking officers to return the juvenile and the recording for a voluntariness determination, and officers fail to do so, the magistrate still \"used\" the procedure and the statements are inadmissible because no voluntariness determination was made. IRG Ch. 33 (Juvenile Offenders) includes the case caption and the Court of Criminal Appeals affirmance; holding is from the case itself. [Category: Case Law]"
+	},
+	{
+	  id: "TCOLE_case_q105",
+	  subject: "Case Law",
+	  points: 1,
+	  prompt: "Three men agree to commit a single robbery together and are caught after that one crime. Under Nguyen v. State (1999), does that agreement alone prove a \"combination\" for engaging in organized criminal activity under Penal Code §71.02?",
+	  options: [
+		{ id: "A", text: "Yes, any agreement among three or more people to commit a crime is a combination" },
+		{ id: "B", text: "No, the State must prove more than an agreement to commit a single crime; it must show intent to participate in a group carrying on a continuing course of criminal activities" },
+		{ id: "C", text: "Yes, but only if the crime is a felony" },
+		{ id: "D", text: "No, because a combination requires at least five people" }
+	  ],
+	  answer: "B",
+	  explain: "Nguyen v. State holds that \"collaborate in carrying on criminal activities\" (Penal Code §71.01(a)) cannot mean merely an agreement to jointly commit a single crime; the State must prove the members intended to work together in a continuing course of criminal activities. Cited in IRG Ch. 8, §8.35 (organized crime); holding is from the case itself, as the IRG states no holding. [Category: Case Law]"
+	},
+	{
+	  id: "TCOLE_case_q106",
+	  subject: "Case Law",
+	  points: 1,
+	  prompt: "A deputy sheriff is charged with a civil rights violation causing a prisoner's death, but the jury convicts him only of a lesser assault and acquits him of causing the death. As a condition of probation, the judge orders him to pay the prisoner's funeral expenses. Under Gordon v. State (1986), is that restitution order lawful?",
+	  options: [
+		{ id: "A", text: "Yes, restitution may cover any loss caused by the defendant's conduct" },
+		{ id: "B", text: "No, restitution may only cover losses from an offense the defendant was found criminally responsible for, and he was acquitted of causing the death" },
+		{ id: "C", text: "Yes, because funeral expenses are always recoverable" },
+		{ id: "D", text: "No, because restitution is never allowed as a condition of probation" }
+	  ],
+	  answer: "B",
+	  explain: "Gordon v. State holds that a court may not order restitution for losses arising from an offense the defendant was not found criminally responsible for; because the jury acquitted Gordon of causing the prisoner's death, ordering funeral expenses as restitution was a denial of due process. Listed in IRG Ch. 28 (Use of Force) with Garner and Graham; holding is from the case itself, as the IRG states no holding. [Category: Case Law]"
+	}
+  ];
