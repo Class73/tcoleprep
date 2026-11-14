@@ -265,7 +265,13 @@ const SUBJECT_RULES = {
 	"Child Age Thresholds": [
 	"Child Age"
 	
-	]
+	],
+	
+	"Definitions": [
+	"Definitions"
+	
+	]	
+	
 };
 
 /* -----------------------------------------

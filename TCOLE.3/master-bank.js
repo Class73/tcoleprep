@@ -745,8 +745,429 @@ window.masterBank = [
 	  ],
 	  answer: "B",
 	  explain: "Upon notification by law enforcement of a missing child younger than 11 years of age, the school shall maintain the child's records and notify law enforcement if the records are requested by anyone. A child younger than 11 enrolling in school for the first time must also provide a certified copy of the child's birth certificate. IRG Ch. 33, Juvenile Offenders. [Category: Child Age Thresholds]"
-	}
+	},
 
+	/* DEFINITIONS */
 	
+		{
+	  id: "TCOLE_def_q1",
+	  subject: "Definitions",
+	  points: 1,
+	  prompt: "Under Texas Penal Code Sec. 1.07(a)(8), \"bodily injury\" means:",
+	  options: [
+		{ id: "A", text: "Bodily injury that causes protracted loss of a bodily member or organ" },
+		{ id: "B", text: "Bodily injury that causes serious permanent disfigurement" },
+		{ id: "C", text: "Bodily injury that creates a substantial risk of death" },
+		{ id: "D", text: "Physical pain, illness, or any impairment of physical condition" }
+	  ],
+	  answer: "D",
+	  explain: "Penal Code Sec. 1.07(a)(8): \"bodily injury\" means physical pain, illness, or any impairment of physical condition. Options B, C, and D describe serious bodily injury, not bodily injury. IRG Ch. 8, Penal Code, Sec. 1.07. [Category: Definitions]"
+	},
+	{
+	  id: "TCOLE_def_q2",
+	  subject: "Definitions",
+	  points: 1,
+	  prompt: "Under Texas Penal Code Sec. 1.07(a)(46), \"serious bodily injury\" means bodily injury that:",
+	  options: [
+		{ id: "A", text: "Creates a substantial risk of death or causes death, serious permanent disfigurement, or protracted loss or impairment of the function of any bodily member or organ" },
+		{ id: "B", text: "Is inflicted with a deadly weapon" },
+		{ id: "C", text: "Causes any impairment of physical condition" },
+		{ id: "D", text: "Causes physical pain only" }
+	  ],
+	  answer: "A",
+	  explain: "Penal Code Sec. 1.07(a)(46): \"serious bodily injury\" means bodily injury that creates a substantial risk of death or that causes death, serious permanent disfigurement, or protracted loss or impairment of the function of any bodily member or organ. IRG Ch. 8, Penal Code, Sec. 1.07. [Category: Definitions]"
+	},
+	{
+	  id: "TCOLE_def_q3",
+	  subject: "Definitions",
+	  points: 1,
+	  prompt: "A suspect punches a victim in the face, causing a black eye and pain but no broken bones, no disfigurement, and no lasting impairment. Under Texas Penal Code Sec. 1.07, this is:",
+	  options: [
+		{ id: "A", text: "Bodily injury, because it is physical pain and impairment of physical condition" },
+		{ id: "B", text: "Neither, because a black eye is not an injury under the Penal Code" },
+		{ id: "C", text: "Deadly conduct, because a fist is a deadly weapon" },
+		{ id: "D", text: "Serious bodily injury, because any injury to the face is serious" }
+	  ],
+	  answer: "A",
+	  explain: "Penal Code Sec. 1.07(a)(8): bodily injury is physical pain, illness, or any impairment of physical condition. A black eye with pain is bodily injury. It is not serious bodily injury under Sec. 1.07(a)(46) because there is no substantial risk of death, death, serious permanent disfigurement, or protracted loss or impairment. IRG Ch. 8, Penal Code, Sec. 1.07. [Category: Definitions]"
+	},
+	{
+	  id: "TCOLE_def_q4",
+	  subject: "Definitions",
+	  points: 1,
+	  prompt: "Under Texas Penal Code Sec. 1.07(a)(17), a \"deadly weapon\" means:",
+	  options: [
+		{ id: "A", text: "Any object used in the commission of a felony" },
+		{ id: "B", text: "Any object that actually causes serious bodily injury, regardless of how it was used" },
+		{ id: "C", text: "A firearm or anything manifestly designed, made, or adapted for the purpose of inflicting death or serious bodily injury, or anything that in the manner of its use or intended use is capable of causing death or serious bodily injury" },
+		{ id: "D", text: "Only a firearm" }
+	  ],
+	  answer: "C",
+	  explain: "Penal Code Sec. 1.07(a)(17): \"deadly weapon\" means (A) a firearm or anything manifestly designed, made, or adapted for the purpose of inflicting death or serious bodily injury; or (B) anything that in the manner of its use or intended use is capable of causing death or serious bodily injury. A baseball bat swung at a head qualifies under (B) even though it is not designed as a weapon. IRG Ch. 8, Penal Code, Sec. 1.07. [Category: Definitions]"
+	},
+	{
+	  id: "TCOLE_def_q5",
+	  subject: "Definitions",
+	  points: 1,
+	  prompt: "Under Texas Penal Code Sec. 1.07(a)(10), \"conduct\" means:",
+	  options: [
+		{ id: "A", text: "An act only, not an omission" },
+		{ id: "B", text: "A bodily movement, whether voluntary or involuntary" },
+		{ id: "C", text: "The forbidden conduct and the required result only" },
+		{ id: "D", text: "An act or omission and its accompanying mental state" }
+	  ],
+	  answer: "D",
+	  explain: "Penal Code Sec. 1.07(a)(10): \"conduct\" means an act or omission and its accompanying mental state. Option D is the definition of \"act.\" IRG Ch. 8, Penal Code, Sec. 1.07. [Category: Definitions]"
+	},
+	{
+	  id: "TCOLE_def_q6",
+	  subject: "Definitions",
+	  points: 1,
+	  prompt: "Under Texas Penal Code Sec. 1.07(a)(22), an \"element of offense\" means all of the following EXCEPT:",
+	  options: [
+		{ id: "A", text: "The forbidden conduct" },
+		{ id: "B", text: "The punishment range for the offense" },
+		{ id: "C", text: "Any required result" },
+		{ id: "D", text: "The required culpability" }
+	  ],
+	  answer: "B",
+	  explain: "Penal Code Sec. 1.07(a)(22): \"element of offense\" means (A) the forbidden conduct; (B) the required culpability; (C) any required result; and (D) the negation of any exception to the offense. The punishment range is not an element. IRG Ch. 8, Penal Code, Sec. 1.07. [Category: Definitions]"
+	},
+	{
+	  id: "TCOLE_def_q7",
+	  subject: "Definitions",
+	  points: 1,
+	  prompt: "Under Texas Penal Code Sec. 1.07(a)(40), a \"public place\" means:",
+	  options: [
+		{ id: "A", text: "Any place open to the public during business hours only" },
+		{ id: "B", text: "Only property owned by the government" },
+		{ id: "C", text: "Only streets and highways" },
+		{ id: "D", text: "Any place to which the public or a substantial group of the public has access, including streets, highways, and the common areas of schools, hospitals, apartment houses, office buildings, transport facilities, and shops" }
+	  ],
+	  answer: "D",
+	  explain: "Penal Code Sec. 1.07(a)(40): \"public place\" means any place to which the public or a substantial group of the public has access and includes, but is not limited to, streets, highways, and the common areas of schools, hospitals, apartment houses, office buildings, transport facilities, and shops. A private apartment is not a public place, but the common hallway of an apartment house is. IRG Ch. 8, Penal Code, Sec. 1.07. [Category: Definitions]"
+	},
+	{
+	  id: "TCOLE_def_q8",
+	  subject: "Definitions",
+	  points: 1,
+	  prompt: "Under Texas Penal Code Sec. 1.07(a)(41), a \"public servant\" is a person elected, selected, appointed, employed, or otherwise designated as an officer, employee, or agent of government, a juror or grand juror, or an arbitrator or referee, even if the person has:",
+	  options: [
+		{ id: "A", text: "Not yet qualified for office or assumed the duties of the office" },
+		{ id: "B", text: "Been removed from office" },
+		{ id: "C", text: "Never taken an oath" },
+		{ id: "D", text: "Served more than one term" }
+	  ],
+	  answer: "A",
+	  explain: "Penal Code Sec. 1.07(a)(41): \"public servant\" means a person elected, selected, appointed, employed, or otherwise designated as one of the listed positions, even if the person has not yet qualified for office or assumed the duties of the office. IRG Ch. 8, Penal Code, Sec. 1.07. [Category: Definitions]"
+	},
+	{
+	  id: "TCOLE_def_q9",
+	  subject: "Definitions",
+	  points: 1,
+	  prompt: "Under Texas Penal Code Sec. 1.07(a)(42), \"reasonable belief\" means:",
+	  options: [
+		{ id: "A", text: "A belief supported by probable cause" },
+		{ id: "B", text: "A belief that is proven correct after the fact" },
+		{ id: "C", text: "A belief that would be held by an ordinary and prudent man in the same circumstances as the actor" },
+		{ id: "D", text: "A belief held in subjective good faith by the actor" }
+	  ],
+	  answer: "C",
+	  explain: "Penal Code Sec. 1.07(a)(42): \"reasonable belief\" means a belief that would be held by an ordinary and prudent man in the same circumstances as the actor. It is an objective standard, not the actor's subjective good faith. IRG Ch. 8, Penal Code, Sec. 1.07. [Category: Definitions]"
+	},
+	{
+	  id: "TCOLE_def_q10",
+	  subject: "Definitions",
+	  points: 1,
+	  prompt: "Under Texas Penal Code Sec. 1.07, an \"owner\" is a person who has:",
+	  options: [
+		{ id: "A", text: "Title to the property, possession of the property, whether lawful or not, or a greater right to possession of the property than the actor" },
+		{ id: "B", text: "Title to the property only" },
+		{ id: "C", text: "A deed or bill of sale for the property" },
+		{ id: "D", text: "Lawful possession of the property only" }
+	  ],
+	  answer: "A",
+	  explain: "Penal Code Sec. 1.07(a)(35): \"owner\" means a person who has title to the property, possession of the property, whether lawful or not, or a greater right to possession of the property than the actor. A person in unlawful possession can still be an \"owner\" for theft purposes. IRG Ch. 8, Penal Code, Sec. 1.07. [Category: Definitions]"
+	},
+	{
+	  id: "TCOLE_def_q11",
+	  subject: "Definitions",
+	  points: 1,
+	  prompt: "Under Texas Penal Code Sec. 1.07, \"property\" means:",
+	  options: [
+		{ id: "A", text: "Tangible or intangible personal property, including anything severed from land, or a document, including money, that represents or embodies anything of value" },
+		{ id: "B", text: "Tangible personal property only" },
+		{ id: "C", text: "Real estate only" },
+		{ id: "D", text: "Anything with a value of $100 or more" }
+	  ],
+	  answer: "A",
+	  explain: "Penal Code Sec. 1.07(a)(28): \"property\" means tangible or intangible personal property including anything severed from land; or a document, including money, that represents or embodies anything of value. Electricity, gas, and water are also property under the Penal Code. IRG Ch. 8, Penal Code, Sec. 1.07. [Category: Definitions]"
+	},
+	{
+	  id: "TCOLE_def_q12",
+	  subject: "Definitions",
+	  points: 1,
+	  prompt: "Under Texas Penal Code Sec. 1.07, \"consent\" means:",
+	  options: [
+		{ id: "A", text: "Permission given by a person 18 years of age or older" },
+		{ id: "B", text: "A signed waiver" },
+		{ id: "C", text: "Written permission only" },
+		{ id: "D", text: "Assent in fact, whether express or apparent" }
+	  ],
+	  answer: "D",
+	  explain: "Penal Code Sec. 1.07(a)(11): \"consent\" means assent in fact, whether express or apparent. Consent can be express (stated) or apparent (reasonably understood from conduct or circumstances). IRG Ch. 8, Penal Code, Sec. 1.07. [Category: Definitions]"
+	},
+	{
+	  id: "TCOLE_def_q13",
+	  subject: "Definitions",
+	  points: 1,
+	  prompt: "Under Texas Penal Code Sec. 1.07, a \"peace officer\" is a person elected, employed, or appointed as a peace officer under:",
+	  options: [
+		{ id: "A", text: "The Texas Constitution only" },
+		{ id: "B", text: "A city charter only" },
+		{ id: "C", text: "Article 2.12, Code of Criminal Procedure, Section 51.212 or 51.214, Education Code, or other law" },
+		{ id: "D", text: "Federal law only" }
+	  ],
+	  answer: "C",
+	  explain: "Penal Code Sec. 1.07(a)(36): \"peace officer\" means a person elected, employed, or appointed as a peace officer under Article 2.12, Code of Criminal Procedure, Section 51.212 or 51.214, Education Code, or other law. IRG Ch. 8, Penal Code, Sec. 1.07. [Category: Definitions]"
+	},
+	{
+	  id: "TCOLE_def_q14",
+	  subject: "Definitions",
+	  points: 1,
+	  prompt: "Under Texas Penal Code Sec. 1.07, an \"act\" is:",
+	  options: [
+		{ id: "A", text: "An act or omission and its accompanying mental state" },
+		{ id: "B", text: "A bodily movement, whether voluntary or involuntary" },
+		{ id: "C", text: "A voluntary bodily movement only" },
+		{ id: "D", text: "A failure to act" }
+	  ],
+	  answer: "B",
+	  explain: "Penal Code Sec. 1.07(a)(1): \"act\" means a bodily movement, whether voluntary or involuntary. Option C is the definition of \"conduct,\" and option D is the definition of \"omission.\" IRG Ch. 8, Penal Code, Sec. 1.07. [Category: Definitions]"
+	},
+	{
+	  id: "TCOLE_def_q15",
+	  subject: "Definitions",
+	  points: 1,
+	  prompt: "Under Texas Penal Code Sec. 1.07, an \"omission\" is:",
+	  options: [
+		{ id: "A", text: "Failure to act" },
+		{ id: "B", text: "A person whose criminal responsibility is in issue" },
+		{ id: "C", text: "An act or omission and its accompanying mental state" },
+		{ id: "D", text: "A bodily movement, whether voluntary or involuntary" }
+	  ],
+	  answer: "A",
+	  explain: "Penal Code Sec. 1.07(a)(34): \"omission\" means failure to act. Option D is the definition of \"actor.\" A person can be criminally liable for an omission only when the person has a legal duty to act. IRG Ch. 8, Penal Code, Sec. 1.07. [Category: Definitions]"
+	},
+	{
+	  id: "TCOLE_def_q16",
+	  subject: "Definitions",
+	  points: 1,
+	  prompt: "Probable cause to arrest exists where the facts and circumstances within the officer's knowledge, and of which the officer has reasonably trustworthy information, are sufficient to warrant a belief by a person of reasonable caution that:",
+	  options: [
+		{ id: "A", text: "A crime may occur in the future" },
+		{ id: "B", text: "A crime is being committed" },
+		{ id: "C", text: "The suspect is probably lying" },
+		{ id: "D", text: "Seizable property would be found in a particular place" }
+	  ],
+	  answer: "B",
+	  explain: "Probable cause to arrest (Brinegar v. United States, 338 U.S. 160): the facts and circumstances within the officer's knowledge, and of which the officer has reasonably trustworthy information, are sufficient in themselves to warrant a belief by a man of reasonable caution that a crime is being committed. Option A is probable cause to search. IRG Ch. 10, Sec. 10.1. [Category: Definitions]"
+	},
+	{
+	  id: "TCOLE_def_q17",
+	  subject: "Definitions",
+	  points: 1,
+	  prompt: "Probable cause to search exists when the facts and circumstances within the officers' knowledge and of which they had reasonably trustworthy information are sufficient to warrant a person of reasonable caution in the belief that:",
+	  options: [
+		{ id: "A", text: "Seizable property would be found in a particular place or on a particular person" },
+		{ id: "B", text: "A crime is being committed" },
+		{ id: "C", text: "A crime is about to be committed" },
+		{ id: "D", text: "The suspect has a criminal history" }
+	  ],
+	  answer: "A",
+	  explain: "Probable cause to search (Carroll v. United States, 267 U.S. 132): the facts and circumstances within the officers' knowledge and of which they had reasonably trustworthy information are sufficient in themselves to warrant a man of reasonable caution in the belief that seizable property would be found in a particular place or on a particular person. Option A is probable cause to arrest. IRG Ch. 10, Sec. 10.1. [Category: Definitions]"
+	},
+	{
+	  id: "TCOLE_def_q18",
+	  subject: "Definitions",
+	  points: 1,
+	  prompt: "What is the key difference between probable cause to arrest and probable cause to search?",
+	  options: [
+		{ id: "A", text: "Probable cause to arrest is a lower standard than probable cause to search" },
+		{ id: "B", text: "Probable cause to search requires a warrant; probable cause to arrest does not" },
+		{ id: "C", text: "There is no difference; they are the same standard" },
+		{ id: "D", text: "Probable cause to arrest requires belief that a crime is being committed; probable cause to search requires belief that seizable property would be found in a particular place or on a particular person" }
+	  ],
+	  answer: "D",
+	  explain: "The IRG states there are two separate definitions of probable cause because different types of information are required: arrest requires belief a crime is being committed (Brinegar); search requires belief seizable property would be found in a particular place or on a particular person (Carroll). IRG Ch. 10, Sec. 10.1. [Category: Definitions]"
+	},
+	{
+	  id: "TCOLE_def_q19",
+	  subject: "Definitions",
+	  points: 1,
+	  prompt: "Reasonable suspicion is best defined as:",
+	  options: [
+		{ id: "A", text: "A hunch or feeling of intuition" },
+		{ id: "B", text: "Articulable facts that lead a reasonable person to believe a crime is occurring, just occurred, or is about to occur, based on the totality of the circumstances" },
+		{ id: "C", text: "The same standard as probable cause" },
+		{ id: "D", text: "Proof beyond a reasonable doubt" }
+	  ],
+	  answer: "B",
+	  explain: "Reasonable suspicion (United States v. Sokolow, 490 U.S. 1): based upon the totality of the circumstances, it is less than probable cause. The IRG defines it as articulable facts that lead a reasonable person to believe that a crime is occurring, just occurred, or is about to occur. Option A is mere suspicion, which is insufficient. IRG Ch. 10, Sec. 10.1. [Category: Definitions]"
+	},
+	{
+	  id: "TCOLE_def_q20",
+	  subject: "Definitions",
+	  points: 1,
+	  prompt: "Mere suspicion is:",
+	  options: [
+		{ id: "A", text: "The same as reasonable suspicion" },
+		{ id: "B", text: "Enough to justify an investigative detention" },
+		{ id: "C", text: "Enough to justify a frisk under Terry v. Ohio" },
+		{ id: "D", text: "A hunch or feeling of intuition, which is insufficient proof of any fact in a court of law" }
+	  ],
+	  answer: "D",
+	  explain: "Mere suspicion is a hunch or the feeling of intuition. Although intuitively knowing something is a skill that serves law enforcement well, mere suspicion is insufficient proof of any fact in a court of law. It does not justify a detention or a frisk. IRG Ch. 10, Sec. 10.1. [Category: Definitions]"
+	},
+	{
+	  id: "TCOLE_def_q21",
+	  subject: "Definitions",
+	  points: 1,
+	  prompt: "Under Texas Code of Criminal Procedure Art. 17.01, a \"bail bond\" is:",
+	  options: [
+		{ id: "A", text: "A court order releasing the defendant without conditions" },
+		{ id: "B", text: "A written undertaking entered into by the defendant and the defendant's sureties for the appearance of the defendant before a court or magistrate to answer a criminal accusation" },
+		{ id: "C", text: "A fine paid by the defendant to the court" },
+		{ id: "D", text: "A warrant for the defendant's arrest" }
+	  ],
+	  answer: "B",
+	  explain: "Code of Criminal Procedure Art. 17.01: a \"bail bond\" is a written undertaking entered into by the defendant and the defendant's sureties for the appearance of the defendant before a court or magistrate to answer a criminal accusation. IRG Ch. 10, Sec. 10.2 (Art. 17.01). [Category: Definitions]"
+	},
+	{
+	  id: "TCOLE_def_q22",
+	  subject: "Definitions",
+	  points: 1,
+	  prompt: "Under Texas Code of Criminal Procedure Art. 2B.0051, \"racial profiling\" means:",
+	  options: [
+		{ id: "A", text: "A law enforcement-initiated action based on an individual's race, ethnicity, or national origin rather than on the individual's behavior or on information identifying the individual as having engaged in criminal activity" },
+		{ id: "B", text: "Any traffic stop of a person of a different race than the officer" },
+		{ id: "C", text: "A stop made in a predominantly minority neighborhood" },
+		{ id: "D", text: "Collecting racial data on every person an officer contacts" }
+	  ],
+	  answer: "A",
+	  explain: "Code of Criminal Procedure Art. 2B.0051: \"racial profiling\" means a law enforcement-initiated action based on an individual's race, ethnicity, or national origin rather than on the individual's behavior or on information identifying the individual as having engaged in criminal activity. The action must be based on race, ethnicity, or national origin rather than behavior. IRG Ch. 6, Racial Profiling, Sec. 2B.0051. [Category: Definitions]"
+	},
+	{
+	  id: "TCOLE_def_q23",
+	  subject: "Definitions",
+	  points: 1,
+	  prompt: "Community policing is best defined as:",
+	  options: [
+		{ id: "A", text: "Assigning one officer to each neighborhood beat" },
+		{ id: "B", text: "A philosophy that promotes organizational strategies supporting the systematic use of partnerships and problem-solving techniques to proactively address the conditions that give rise to public safety issues such as crime, social disorder, and fear of crime" },
+		{ id: "C", text: "Responding to calls for service as quickly as possible" },
+		{ id: "D", text: "Patrolling only in high-crime neighborhoods" }
+	  ],
+	  answer: "B",
+	  explain: "Community policing (IRG Sec. 2.6) is a philosophy that promotes organizational strategies that support the systematic use of partnerships and problem-solving techniques to proactively address the immediate conditions that give rise to public safety issues such as crime, social disorder, and fear of crime. It is a service model, not a patrol tactic. IRG Ch. 2, Sec. 2.6. [Category: Definitions]"
+	},
+	{
+	  id: "TCOLE_def_q24",
+	  subject: "Definitions",
+	  points: 1,
+	  prompt: "How many Principles of Procedural Justice are there?",
+	  options: [
+		{ id: "A", text: "5" },
+		{ id: "B", text: "3" },
+		{ id: "C", text: "4" },
+		{ id: "D", text: "6" }
+	  ],
+	  answer: "C",
+	  explain: "There are four Principles of Procedural Justice: voice, neutrality, respect, and trustworthiness. Do not confuse this with the Pillars of Character, of which there are six. IRG Ch. 2, Sec. 2.6. [Category: Definitions]"
+	},
+	{
+	  id: "TCOLE_def_q25",
+	  subject: "Definitions",
+	  points: 1,
+	  prompt: "Police legitimacy, as it pertains to law enforcement, means:",
+	  options: [
+		{ id: "A", text: "Compliance with department policy" },
+		{ id: "B", text: "The public's belief that the police have the right to exercise authority, and that the public should obey and cooperate with them" },
+		{ id: "C", text: "The number of arrests an officer makes" },
+		{ id: "D", text: "The legal authority granted by a city charter" }
+	  ],
+	  answer: "B",
+	  explain: "Legitimacy is the public's belief that law enforcement has the right to exercise authority. When the public views the police as legitimate, people are more likely to obey the law and cooperate with officers. Procedural justice builds legitimacy. IRG Ch. 2, Sec. 2.6. [Category: Definitions]"
+	},
+	{
+	  id: "TCOLE_def_q26",
+	  subject: "Definitions",
+	  points: 1,
+	  prompt: "\"Family violence\" under Texas Code of Criminal Procedure Art. 5.02 and Family Code Sec. 71.004 means an act by a member of a family or household against another member of the family or household that is:",
+	  options: [
+		{ id: "A", text: "An act that causes serious bodily injury only" },
+		{ id: "B", text: "Any act committed inside the family home" },
+		{ id: "C", text: "Intended to result in physical harm, bodily injury, assault, or sexual assault, or a threat that reasonably places the member in fear of imminent physical harm, bodily injury, assault, or sexual assault" },
+		{ id: "D", text: "Any argument between family members" }
+	  ],
+	  answer: "C",
+	  explain: "Family Code Sec. 71.004 and CCP Art. 5.02: \"family violence\" means an act by a member of a family or household against another member of the family or household that is intended to result in physical harm, bodily injury, assault, or sexual assault or that is a threat that reasonably places the member in fear of imminent physical harm, bodily injury, assault, or sexual assault. IRG Ch. 9, CCP Art. 5.02; IRG Ch. 17, Sexual Assault and Family Violence. [Category: Definitions]"
+	},
+	{
+	  id: "TCOLE_def_q27",
+	  subject: "Definitions",
+	  points: 1,
+	  prompt: "\"Dating violence\" under Texas Family Code Sec. 71.0021 means an act by an individual against another individual with whom that person has or has had a dating relationship, that is intended to result in physical harm, bodily injury, assault, or sexual assault, or a threat that reasonably places the individual in fear of imminent physical harm, bodily injury, assault, or sexual assault. What makes it dating violence rather than family violence?",
+	  options: [
+		{ id: "A", text: "The victim is under 17" },
+		{ id: "B", text: "The parties have or have had a dating relationship, rather than being members of the same family or household" },
+		{ id: "C", text: "The act is a felony" },
+		{ id: "D", text: "The act occurs in a public place" }
+	  ],
+	  answer: "B",
+	  explain: "Family Code Sec. 71.0021: \"dating violence\" is the same conduct as family violence, but the relationship is a dating relationship rather than family or household membership. The conduct is the same; the relationship is what changes the label. IRG Ch. 17, Sexual Assault and Family Violence, Sec. 71.0021. [Category: Definitions]"
+	},
+	{
+	  id: "TCOLE_def_q28",
+	  subject: "Definitions",
+	  points: 1,
+	  prompt: "How many Pillars of Character are there?",
+	  options: [
+		{ id: "A", text: "4" },
+		{ id: "B", text: "7" },
+		{ id: "C", text: "6" },
+		{ id: "D", text: "5" }
+	  ],
+	  answer: "C",
+	  explain: "There are six Pillars of Character: trustworthiness, respect, responsibility, fairness, caring, and citizenship. Do not confuse this with the Principles of Procedural Justice, of which there are four. IRG Ch. 1, Professionalism and Ethics. [Category: Definitions]"
+	},
+	{
+	  id: "TCOLE_def_q29",
+	  subject: "Definitions",
+	  points: 1,
+	  prompt: "In the IRG, wellness is defined as:",
+	  options: [
+		{ id: "A", text: "The absence of disease" },
+		{ id: "B", text: "The ability to pass the physical readiness test" },
+		{ id: "C", text: "Physical fitness only" },
+		{ id: "D", text: "A person's health and disease status and risk potential" }
+	  ],
+	  answer: "D",
+	  explain: "Definition of Wellness (IRG Ch. 3): wellness consists of a person's health and disease status and risk potential. Physical fitness is the condition of the body that enables an individual to use the body effectively. IRG Ch. 3, Fitness, Wellness, and Stress Management. [Category: Definitions]"
+	},
+	{
+	  id: "TCOLE_def_q30",
+	  subject: "Definitions",
+	  points: 1,
+	  prompt: "What is the difference between prejudice and discrimination?",
+	  options: [
+		{ id: "A", text: "There is no difference; the terms mean the same thing" },
+		{ id: "B", text: "Prejudice applies to race only; discrimination applies to all groups" },
+		{ id: "C", text: "Prejudice is an attitude or belief (a prejudgment about a person or group); discrimination is the action or behavior based on that prejudice" },
+		{ id: "D", text: "Prejudice is an action; discrimination is an attitude" }
+	  ],
+	  answer: "C",
+	  explain: "Prejudice is an attitude or belief, a prejudgment about a person or group. Discrimination is the action or behavior that flows from prejudice. An officer can hold a prejudiced belief without acting on it, but acting on it is discrimination. IRG Ch. 5, Multiculturalism and Human Relations, Sec. 5.1 and 5.4. [Category: Definitions]"
+	}
 	
 ];
