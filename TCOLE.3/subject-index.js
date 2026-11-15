@@ -270,7 +270,7 @@ const SUBJECT_RULES = {
 	"Definitions": [
 	"Definitions"
 	
-	]	
+	]
 	
 };
 
