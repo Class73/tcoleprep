@@ -402,7 +402,7 @@ window.masterBank = [
 	  points: 1,
 	  prompt: "Under Texas Penal Code Sec. 22.04, Injury to a Child, Elderly Individual, or Disabled Individual, a \"child\" is a person how old?",
 	  options: [
-		{ id: "A", text: "14 years of age or younger" },
+		{ id: "A", text: "Younger than 14 years of age" },
 		{ id: "B", text: "Younger than 15 years of age" },
 		{ id: "C", text: "Younger than 17 years of age" },
 		{ id: "D", text: "Younger than 18 years of age" }
