@@ -2909,8 +2909,8 @@ window.masterBank = [
         "text": "48 months"
       }
     ],
-    "answer": "D",
-    "explain": "37 Texas Administrative Code \u00a7218.3, Peace officers must complete the legislatively required continuing education program during each 48-month training cycle.",
+    "answer": "B",
+    "explain": "Occupations Code §1701.351(a), verbatim: "Each peace officer shall complete at least 40 hours of continuing education programs once every 24 months." And 37 TAC §218.3(b) puts those 40 hours in each 2-year training unit.",
     "grounding": "TEEX",
     "grounding_evidence": "A21 Q38 \u2014 Under Sec. 218.3, how many hours of legislatively required continuing education for licensed peace officers? [phrase match]"
   },
